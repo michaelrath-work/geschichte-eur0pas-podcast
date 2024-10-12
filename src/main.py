@@ -1,5 +1,6 @@
 import dataclasses
 import datetime
+import functools
 import typing
 import pathlib
 import pprint
@@ -7,16 +8,68 @@ import xml.etree.ElementTree as ET
 
 NAMESPACES = {'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'}
 
-UNKNOWN_CATEGORY_TAG = '??? UNKOWN_CATEGORY ???'
+UNKNOWN_CATEGORY_TAG = '??? UNKNOWN_CATEGORY ???'
+
+@dataclasses.dataclass
+class Category:
+    organic: str
+    adjusted: str
+
+    @staticmethod
+    def adjust_category(organic: str) -> "Category":
+        A = 'A: Epochenübergreifende Themen'
+        N = 'N: Absolutismus und Aufklärung'
+        O = 'O: Zeitalter der Revolutionen'
+        T = 'T: Kalter Krieg und europäische Einigung'
+        X = 'X: Geschichtswissenschaft und Erinnerungskultur'
+        Y = 'Y: Quellen'
+        MAPPING = {
+            'A - Epochen': A,
+            'A; Epochen': A,
+            'A: Epochen': A,
+
+            'N: Absolutimus und Aufklärung': N,
+
+            'O: Das Zeitalter der Revolutionen': O,
+
+            'T: Kalter': T,
+
+            'W: Geschichtswissenschaft und Erinnerungskultur': X,
+            'X: Geschichtswissenschaft und': X,
+
+            'Y: Quelle': Y,
+            'Y - Quellen': Y,
+            'Y; Quellen': Y,
+        }
+
+        for k, v in MAPPING.items():
+            if organic.startswith(k):
+                return Category(organic, v)
+
+        return Category(organic, organic)
+
+    @staticmethod
+    def to_markdown_link(s: str) -> str:
+        s.replace(' ', '-')
+        #TODO(micha): return modified string
+        # return s
+
 
 @dataclasses.dataclass
 class Episode:
-    category: str
+    organic_category: str
+    adjusted_category: str
     title: str
     number: int
     link: str
     publication_date: datetime.datetime
     keywords: list[str] = dataclasses.field(default_factory=list)
+
+    @staticmethod
+    def adjust_category(e: "Episode") -> "Episode":
+        e.adjusted_category = Category.adjust_category(e.organic_category).adjusted
+        return e
+
 
 
 @dataclasses.dataclass
@@ -49,7 +102,6 @@ def convert_str_to_date(a: any, default: datetime.date = datetime.date(2000, 1,1
         r = datetime.datetime.strptime(a, '%a, %d %b %Y %H:%M:%S %z')
         return r
     except ValueError:
-        print('boing')
         return default
     return default
 
@@ -85,7 +137,8 @@ def analyse_channel_data(channel: ET.Element) -> AnalysisResult:
 
         episodes.append(
             Episode(
-                category=category,
+                organic_category=category,
+                adjusted_category=category,
                 title=title.text or '???',
                 number=episode_number,
                 publication_date=publication_date,
@@ -97,26 +150,12 @@ def analyse_channel_data(channel: ET.Element) -> AnalysisResult:
 
         categories.add(category)
 
-
     return AnalysisResult(
         episodes=episodes,
         categories=categories
     )
 
-def format_episode(e: Episode) -> typing.List[str]:
-    return [
-        f'### {e.title}\n'
-        '| Key | Value | \n'
-        '|:----|:------|\n'
-        f'|Title | {e.title}|\n',
-        f'|Category | {e.category}|\n',
-        f'|Puplication date| {e.publication_date:%Y-%m-%d}|\n'
-        f'|Episode number|{e.number}|\n'
-        f'|Link|{e.link}|\n'
-        '\n'
-    ]
-
-def format_markdown(p: pathlib.Path, d: AnalysisResult):
+def format_markdown(p: pathlib.Path, c: typing.List[Category], e: typing.List[Episode]):
     lines = []
 
     lines.extend([
@@ -126,22 +165,38 @@ def format_markdown(p: pathlib.Path, d: AnalysisResult):
         '\n\n'
     ])
 
-
-    categories_sorted = sorted(list(d.categories))
     lines.extend(
         ['## Categories\n\n',
-         '| #  | title | \n',
-         '|---:|:----- | \n']
+         '| #  | title (organic)| title (re-categorized by MR)|\n',
+         '|---:|:---------------|:-------------| \n']
         )
-    for i, c in enumerate(categories_sorted):
-        lines.append(f'|{i:03d} |{c}|\n')
+    categories_sorted = sorted(c, key= lambda x: x.organic)
+
+    for i, cat in enumerate(categories_sorted):
+        category_link = f'[{cat.adjusted}](#{Category.to_markdown_link(cat.adjusted)})'
+        lines.append(f'|{i:03d} |{cat.organic}| {category_link} |\n')
 
     lines.extend([
         '\n\n',
-        '## Episode list (chronologicaly)\n\n',
+        '## Episode list (chronologically)\n\n',
     ])
-    for e in sorted(d.episodes, key=lambda x: x.title):
-        lines.extend(format_episode(e))
+
+    unique_categories = set([x.adjusted for x in c])
+
+    for adjusted_category in sorted(unique_categories):
+        lines.extend([
+            f'<a id="{Category.to_markdown_link(adjusted_category)}"></a>\n'
+            f'### {adjusted_category}\n\n'
+            f'|category (organic)| title |episode | publication date| link |\n',
+            '|---|---|---|---|---|\n',
+        ])
+        selected_episodes = sorted([x for x in e if x.adjusted_category == adjusted_category], key=lambda x: x.title)
+        for ep in selected_episodes:
+            lines.append(
+                f'|{ep.organic_category}|{ep.title}|{ep.number:03d}|{ep.publication_date:%Y-%m-%d}|{ep.link}|\n'
+            )
+
+        lines.append('\n\n')
 
     with open(p, mode='w') as f:
         f.writelines(lines)
@@ -151,8 +206,10 @@ def main():
     input_p = pathlib.Path('/home/micha') / 'git_root' / 'geschichte-eur0pas-podcast' / 'data' / 'data.xml'
     channel = read_feed(input_p.resolve())
     r = analyse_channel_data(channel)
+    mapped_categories = list(map(Category.adjust_category, r.categories))
     output_p = pathlib.Path('/home/micha') / 'git_root' / 'geschichte-eur0pas-podcast' / 'output' / 'episodes.md'
-    format_markdown(output_p, r)
+    episodes = list(map(Episode.adjust_category, r.episodes))
+    format_markdown(output_p, mapped_categories, episodes)
 
 
 
