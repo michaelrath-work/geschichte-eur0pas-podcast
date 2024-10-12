@@ -9,7 +9,7 @@ Translation (generated)
 > "The episodes are numbered thematically and not by release date. For a chronological passage to European history, the episodes should be sorted by name."
 
 This work in project (WIP) 'project' takes the published RSS feed [2] and provides the necessary ordering.
-Example is shown here output/episodes.md
+Example is shown here [Episodes](output/episodes.md)
 
 
 [1] https://geschichteeuropas.podigee.io/395-395
