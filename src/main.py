@@ -104,15 +104,6 @@ def analyse_channel_data(channel: ET.Element) -> AnalysisResult:
     )
 
 def format_episode(e: Episode) -> typing.List[str]:
-    # return [
-    #     f'### {e.title}\n'
-    #     f'* Category: |{e.category}|\n',
-    #     f'* Puplication date {e.publication_date:%Y-%m-%d}\n'
-    #     f'* Episode number {e.number}\n'
-    #     f'* Link {e.link}\n'
-    #     '\n'
-    # ]
-
     return [
         f'### {e.title}\n'
         '| Key | Value | \n'
@@ -137,9 +128,13 @@ def format_markdown(p: pathlib.Path, d: AnalysisResult):
 
 
     categories_sorted = sorted(list(d.categories))
-    lines.append('## Categories\n\n')
+    lines.extend(
+        ['## Categories\n\n',
+         '| #  | title | \n',
+         '|---:|:----- | \n']
+        )
     for i, c in enumerate(categories_sorted):
-        lines.append(f'* {i:03d} |{c}|\n')
+        lines.append(f'|{i:03d} |{c}|\n')
 
     lines.extend([
         '\n\n',

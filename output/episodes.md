@@ -4,39 +4,41 @@ Source https://geschichteeuropas.podigee.io/rssfeed
 
 ## Categories
 
-* 000 |A - Epochenübergreifende Themen|
-* 001 |A: Epochenübergreifende Themen|
-* 002 |A: Epochenübergreifende Überblicke|
-* 003 |A; Epochenübergreifende Themen|
-* 004 |B: Geologische Geschichte|
-* 005 |C: Vorgeschichte und Altsteinzeit|
-* 006 |D: Mittel- und Jungsteinzeit|
-* 007 |G: Römische Antike|
-* 008 |I: Das Hochmittelalter|
-* 009 |J: Das Spätmittelalter|
-* 010 |Kalter Krieg und Europäische Einigung|
-* 011 |M: Reformation und Glaubenskriege|
-* 012 |N: Absolutimus und Aufklärung|
-* 013 |N: Absolutismus und Aufklärung|
-* 014 |O: Das Zeitalter der Revolutionen|
-* 015 |O: Zeitalter der Revolutionen|
-* 016 |P: Nationalismus und Imperialismus|
-* 017 |Q: Erster Weltkrieg|
-* 018 |R: Zwischenkriegszeit|
-* 019 |S: Zweiter Weltkrieg|
-* 020 |T: Kalter Krieg und Europäische Einigung|
-* 021 |T: Kalter Krieg und europäische Einigung|
-* 022 |U: Nach dem Kalten Krieg|
-* 023 |V: Europa aktuell|
-* 024 |W: Epochenübergreifende Biographien|
-* 025 |W: Geschichtswissenschaft und Erinnerungskultur|
-* 026 |X: Geschichtswissenschaft und Erinnerungkultur|
-* 027 |X: Geschichtswissenschaft und Erinnerungskultur|
-* 028 |Y - Quellen|
-* 029 |Y: Quelle|
-* 030 |Y: Quellen|
-* 031 |Y; Quellen|
-* 032 |Z: Meta/ Podcast|
+| #  | title | 
+|---:|:----- | 
+|000 |A - Epochenübergreifende Themen|
+|001 |A: Epochenübergreifende Themen|
+|002 |A: Epochenübergreifende Überblicke|
+|003 |A; Epochenübergreifende Themen|
+|004 |B: Geologische Geschichte|
+|005 |C: Vorgeschichte und Altsteinzeit|
+|006 |D: Mittel- und Jungsteinzeit|
+|007 |G: Römische Antike|
+|008 |I: Das Hochmittelalter|
+|009 |J: Das Spätmittelalter|
+|010 |Kalter Krieg und Europäische Einigung|
+|011 |M: Reformation und Glaubenskriege|
+|012 |N: Absolutimus und Aufklärung|
+|013 |N: Absolutismus und Aufklärung|
+|014 |O: Das Zeitalter der Revolutionen|
+|015 |O: Zeitalter der Revolutionen|
+|016 |P: Nationalismus und Imperialismus|
+|017 |Q: Erster Weltkrieg|
+|018 |R: Zwischenkriegszeit|
+|019 |S: Zweiter Weltkrieg|
+|020 |T: Kalter Krieg und Europäische Einigung|
+|021 |T: Kalter Krieg und europäische Einigung|
+|022 |U: Nach dem Kalten Krieg|
+|023 |V: Europa aktuell|
+|024 |W: Epochenübergreifende Biographien|
+|025 |W: Geschichtswissenschaft und Erinnerungskultur|
+|026 |X: Geschichtswissenschaft und Erinnerungkultur|
+|027 |X: Geschichtswissenschaft und Erinnerungskultur|
+|028 |Y - Quellen|
+|029 |Y: Quelle|
+|030 |Y: Quellen|
+|031 |Y; Quellen|
+|032 |Z: Meta/ Podcast|
 
 
 ## Episode list (chronologicaly)
