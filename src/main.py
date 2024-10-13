@@ -32,7 +32,8 @@ class Category:
 
             'O: Das Zeitalter der Revolutionen': O,
 
-            'T: Kalter': T,
+            'T: Kalter Krieg': T,
+            'Kalter Krieg': T,
 
             'W: Geschichtswissenschaft und Erinnerungskultur': X,
             'X: Geschichtswissenschaft und': X,
@@ -53,6 +54,12 @@ class Category:
         s.replace(' ', '-')
         #TODO(micha): return modified string
         # return s
+
+    def identifier(s: str) -> str:
+        g = s.split(':')
+        if len(g) > 1:
+            return g[0].strip()
+        return '?'
 
 
 @dataclasses.dataclass
@@ -155,7 +162,7 @@ def analyse_channel_data(channel: ET.Element) -> AnalysisResult:
         categories=categories
     )
 
-def format_markdown(p: pathlib.Path, c: typing.List[Category], e: typing.List[Episode]):
+def format_markdown(p: pathlib.Path, categories: typing.List[Category], episodes: typing.List[Episode]):
     lines = []
 
     lines.extend([
@@ -167,33 +174,49 @@ def format_markdown(p: pathlib.Path, c: typing.List[Category], e: typing.List[Ep
 
     lines.extend(
         ['## Categories\n\n',
-         '| #  | title (organic)| title (re-categorized by MR)|\n',
-         '|---:|:---------------|:-------------| \n']
+         '| #  | marker |title (organic)| title (re-categorized by MR)|\n',
+         '|---:|:---:|:---------------|:-------------| \n']
         )
-    categories_sorted = sorted(c, key= lambda x: x.organic)
+    categories_sorted = sorted(categories, key= lambda x: x.organic)
 
     for i, cat in enumerate(categories_sorted):
         category_link = f'[{cat.adjusted}](#{Category.to_markdown_link(cat.adjusted)})'
-        lines.append(f'|{i:03d} |{cat.organic}| {category_link} |\n')
+        category_id = Category.identifier(cat.adjusted)
+        lines.append(f'|{i:03d} | {category_id} | {cat.organic}| {category_link} |\n')
 
     lines.extend([
         '\n\n',
         '## Episode list (chronologically)\n\n',
     ])
 
-    unique_categories = set([x.adjusted for x in c])
+    unique_categories = set([x.adjusted for x in categories])
 
     for adjusted_category in sorted(unique_categories):
         lines.extend([
             f'<a id="{Category.to_markdown_link(adjusted_category)}"></a>\n'
             f'### {adjusted_category}\n\n'
-            f'|category (organic)| title |episode | publication date| link |\n',
-            '|---|---|---|---|---|\n',
         ])
-        selected_episodes = sorted([x for x in e if x.adjusted_category == adjusted_category], key=lambda x: x.title)
+
+        selected_episodes: typing.List[Episode] = sorted(
+            filter(lambda x: x.adjusted_category == adjusted_category, episodes),
+        key=lambda x: x.title)
+        organic_categories = sorted(set([x.organic_category for x in selected_episodes]))
+
+        lines.append(f'Organic categories\n')
+        for c in organic_categories:
+            lines.append(f'1. *{c}*\n')
+        lines.append('\n')
+
+
+        lines.extend([
+            f'|title |episode | publication date| keywords |\n',
+            '|---|---|---|---|\n',
+        ])
+
         for ep in selected_episodes:
+            keywords = ', '.join(sorted(ep.keywords))
             lines.append(
-                f'|{ep.organic_category}|{ep.title}|{ep.number:03d}|{ep.publication_date:%Y-%m-%d}|{ep.link}|\n'
+                f'|[{ep.title}]({ep.link})|{ep.number:03d}|{ep.publication_date:%Y-%m-%d}|{keywords}|\n'
             )
 
         lines.append('\n\n')
