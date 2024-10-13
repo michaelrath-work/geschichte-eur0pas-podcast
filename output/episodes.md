@@ -1,50 +1,53 @@
 # Geschichte Eur0pas
 
-Source https://geschichteeuropas.podigee.io/rssfeed
+Source https://geschichteeuropas.podigee.io/feed/mp3
 
+<a id="categories"></a>
 ## Categories
 
 | #  | marker |title (organic)| title (re-categorized by MR)|
 |---:|:---:|:---------------|:-------------| 
-|000 | A | A - Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#None) |
-|001 | A | A: Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#None) |
-|002 | A | A: Epochenübergreifende Überblicke| [A: Epochenübergreifende Themen](#None) |
-|003 | A | A; Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#None) |
-|004 | B | B: Geologische Geschichte| [B: Geologische Geschichte](#None) |
-|005 | C | C: Vorgeschichte und Altsteinzeit| [C: Vorgeschichte und Altsteinzeit](#None) |
-|006 | D | D: Mittel- und Jungsteinzeit| [D: Mittel- und Jungsteinzeit](#None) |
-|007 | G | G: Römische Antike| [G: Römische Antike](#None) |
-|008 | I | I: Das Hochmittelalter| [I: Das Hochmittelalter](#None) |
-|009 | J | J: Das Spätmittelalter| [J: Das Spätmittelalter](#None) |
-|010 | T | Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#None) |
-|011 | M | M: Reformation und Glaubenskriege| [M: Reformation und Glaubenskriege](#None) |
-|012 | N | N: Absolutimus und Aufklärung| [N: Absolutismus und Aufklärung](#None) |
-|013 | N | N: Absolutismus und Aufklärung| [N: Absolutismus und Aufklärung](#None) |
-|014 | O | O: Das Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#None) |
-|015 | O | O: Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#None) |
-|016 | P | P: Nationalismus und Imperialismus| [P: Nationalismus und Imperialismus](#None) |
-|017 | Q | Q: Erster Weltkrieg| [Q: Erster Weltkrieg](#None) |
-|018 | R | R: Zwischenkriegszeit| [R: Zwischenkriegszeit](#None) |
-|019 | S | S: Zweiter Weltkrieg| [S: Zweiter Weltkrieg](#None) |
-|020 | T | T: Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#None) |
-|021 | T | T: Kalter Krieg und europäische Einigung| [T: Kalter Krieg und europäische Einigung](#None) |
-|022 | U | U: Nach dem Kalten Krieg| [U: Nach dem Kalten Krieg](#None) |
-|023 | V | V: Europa aktuell| [V: Europa aktuell](#None) |
-|024 | W | W: Epochenübergreifende Biographien| [W: Epochenübergreifende Biographien](#None) |
-|025 | X | W: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#None) |
-|026 | X | X: Geschichtswissenschaft und Erinnerungkultur| [X: Geschichtswissenschaft und Erinnerungskultur](#None) |
-|027 | X | X: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#None) |
-|028 | Y | Y - Quellen| [Y: Quellen](#None) |
-|029 | Y | Y: Quelle| [Y: Quellen](#None) |
-|030 | Y | Y: Quellen| [Y: Quellen](#None) |
-|031 | Y | Y; Quellen| [Y: Quellen](#None) |
-|032 | Z | Z: Meta/ Podcast| [Z: Meta/ Podcast](#None) |
+|000 | A | A - Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) |
+|001 | A | A: Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) |
+|002 | A | A: Epochenübergreifende Überblicke| [A: Epochenübergreifende Themen](#category-A) |
+|003 | A | A; Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) |
+|004 | B | B: Geologische Geschichte| [B: Geologische Geschichte](#category-B) |
+|005 | C | C: Vorgeschichte und Altsteinzeit| [C: Vorgeschichte und Altsteinzeit](#category-C) |
+|006 | D | D: Mittel- und Jungsteinzeit| [D: Mittel- und Jungsteinzeit](#category-D) |
+|007 | G | G: Römische Antike| [G: Römische Antike](#category-G) |
+|008 | I | I: Das Hochmittelalter| [I: Das Hochmittelalter](#category-I) |
+|009 | J | J: Das Spätmittelalter| [J: Das Spätmittelalter](#category-J) |
+|010 | T | Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) |
+|011 | M | M: Reformation und Glaubenskriege| [M: Reformation und Glaubenskriege](#category-M) |
+|012 | N | N: Absolutimus und Aufklärung| [N: Absolutismus und Aufklärung](#category-N) |
+|013 | N | N: Absolutismus und Aufklärung| [N: Absolutismus und Aufklärung](#category-N) |
+|014 | O | O: Das Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#category-O) |
+|015 | O | O: Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#category-O) |
+|016 | P | P: Nationalismus und Imperialismus| [P: Nationalismus und Imperialismus](#category-P) |
+|017 | Q | Q: Erster Weltkrieg| [Q: Erster Weltkrieg](#category-Q) |
+|018 | R | R: Zwischenkriegszeit| [R: Zwischenkriegszeit](#category-R) |
+|019 | S | S: Zweiter Weltkrieg| [S: Zweiter Weltkrieg](#category-S) |
+|020 | T | T: Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) |
+|021 | T | T: Kalter Krieg und europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) |
+|022 | U | U: Nach dem Kalten Krieg| [U: Nach dem Kalten Krieg](#category-U) |
+|023 | V | V: Europa aktuell| [V: Europa aktuell](#category-V) |
+|024 | W | W: Epochenübergreifende Biographien| [W: Epochenübergreifende Biographien](#category-W) |
+|025 | X | W: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) |
+|026 | X | X: Geschichtswissenschaft und Erinnerungkultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) |
+|027 | X | X: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) |
+|028 | Y | Y - Quellen| [Y: Quellen](#category-Y) |
+|029 | Y | Y: Quelle| [Y: Quellen](#category-Y) |
+|030 | Y | Y: Quellen| [Y: Quellen](#category-Y) |
+|031 | Y | Y; Quellen| [Y: Quellen](#category-Y) |
+|032 | Z | Z: Meta/ Podcast| [Z: Meta/ Podcast](#category-Z) |
 
 
 ## Episode list (chronologically)
 
-<a id="None"></a>
+<a id="category-A"></a>
 ### A: Epochenübergreifende Themen
+
+[Top](#categories)
 
 Organic categories
 1. *A - Epochenübergreifende Themen*
@@ -95,8 +98,10 @@ Organic categories
 |[A-039: Transformation der Industriekultur im Rheinischen Revier, mit Dr. W. Hauser & Dr. A. Kierdorf [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/393-393)|393|2024-10-10|Deutschland, Erinnerungskultur, Industriekultur, Public History, Rheinisches Revier, Transformation, Zeitgeschichte|
 
 
-<a id="None"></a>
+<a id="category-B"></a>
 ### B: Geologische Geschichte
+
+[Top](#categories)
 
 Organic categories
 1. *B: Geologische Geschichte*
@@ -106,8 +111,10 @@ Organic categories
 |[B-001: Die geologische Geschichte Europas, mit Kira Raith](https://geschichteeuropas.podigee.io/58-58)|058|2021-12-13|Europa, Geologie, Vorgeschichte|
 
 
-<a id="None"></a>
+<a id="category-C"></a>
 ### C: Vorgeschichte und Altsteinzeit
+
+[Top](#categories)
 
 Organic categories
 1. *C: Vorgeschichte und Altsteinzeit*
@@ -118,8 +125,10 @@ Organic categories
 |[C-002: Die Neandertaler, mit Dr. Elham Ghasidian](https://geschichteeuropas.podigee.io/11-11)|011|2020-11-01|Altsteinzeit, Europa, Frühgeschichte, Neandertaler|
 
 
-<a id="None"></a>
+<a id="category-D"></a>
 ### D: Mittel- und Jungsteinzeit
+
+[Top](#categories)
 
 Organic categories
 1. *D: Mittel- und Jungsteinzeit*
@@ -130,8 +139,10 @@ Organic categories
 |[D-002: Stonehenge (in Herne), mit Dr. Kerstin Schierhold](https://geschichteeuropas.podigee.io/48-48)|048|2021-10-04|Bronzezeit, England, Frühgeschichte, Steinzeit, Stonehenge, Westeuropa|
 
 
-<a id="None"></a>
+<a id="category-G"></a>
 ### G: Römische Antike
+
+[Top](#categories)
 
 Organic categories
 1. *G: Römische Antike*
@@ -151,8 +162,10 @@ Organic categories
 |[G-011: Asketische Praktiken in der Spätantike, mit Dr. Eike Faber [Univ. Potsdam]](https://geschichteeuropas.podigee.io/328-328)|328|2024-06-08|Antike, Askese, Christentum, Kleinasien, Levante, Nordafrika, Spätantike, Südosteuropa|
 
 
-<a id="None"></a>
+<a id="category-I"></a>
 ### I: Das Hochmittelalter
+
+[Top](#categories)
 
 Organic categories
 1. *I: Das Hochmittelalter*
@@ -172,8 +185,10 @@ Organic categories
 |[I-011: Der Kreuzzug Friedrich II. (1227-1229), mit Dr. Alexander Berner](https://geschichteeuropas.podigee.io/111-111)|111|2022-09-08|13. Jahrhundert, Jerusalem, Kaiser Friedrich II., Kreuzzüge, Mittelalter, Naher und mittlerer Osten|
 
 
-<a id="None"></a>
+<a id="category-J"></a>
 ### J: Das Spätmittelalter
+
+[Top](#categories)
 
 Organic categories
 1. *J: Das Spätmittelalter*
@@ -183,8 +198,10 @@ Organic categories
 |[J-001: Armut in spätmittelalterlichen deutschen Städten, mit Prof. Dr. Jörg Rogge [Univ. Potsdam]](https://geschichteeuropas.podigee.io/344-344)|344|2024-07-06|Armut, Deutschland, Gesellschaftsordnung, Mittelalter, Spätmittelalter, Stadt, Zünfte|
 
 
-<a id="None"></a>
+<a id="category-M"></a>
 ### M: Reformation und Glaubenskriege
+
+[Top](#categories)
 
 Organic categories
 1. *M: Reformation und Glaubenskriege*
@@ -195,8 +212,10 @@ Organic categories
 |[M-002: Herrschaftskritik an Elizabeth I. von England (r. 1558-1603), mit Dr. Lena Oetzel](https://geschichteeuropas.podigee.io/69-69)|069|2022-02-14|16. Jahrhundert, Elizabeth I. von England, England, Frühe Neuzeit, Herrschaftskritik, Westeuropa|
 
 
-<a id="None"></a>
+<a id="category-N"></a>
 ### N: Absolutismus und Aufklärung
+
+[Top](#categories)
 
 Organic categories
 1. *N: Absolutimus und Aufklärung*
@@ -219,8 +238,10 @@ Organic categories
 |[N-013: Schatzsucherei und Archäologie im Habsburgerreich, mit Dr. Daniela Haarmann](https://geschichteeuropas.podigee.io/36-36)|036|2021-07-12|18. Jahrhundert, 19. Jahrhundert, Archäologie, Europa, Frühe Neuzeit, Habsburgerreich, Österreich-Ungarn|
 
 
-<a id="None"></a>
+<a id="category-O"></a>
 ### O: Zeitalter der Revolutionen
+
+[Top](#categories)
 
 Organic categories
 1. *O: Das Zeitalter der Revolutionen*
@@ -238,8 +259,10 @@ Organic categories
 |[O-008: Die Geschlechtergeschichte der Revolution v. 1848/49, mit Dr. Kerstin Wolff [Tagung "Die Modernität von 1848/49"]](https://geschichteeuropas.podigee.io/194-194)|194|2023-05-13|19. Jahrhundert, Barrikadenkämpfe, Deutschland, Frankfurt am Main, Geschlechterbilder, Geschlechtergeschichte, Geschlechterrollen, Neuere und neueste Geschichte, Paulskirchenparlament, Revolution von 1848/49|
 
 
-<a id="None"></a>
+<a id="category-P"></a>
 ### P: Nationalismus und Imperialismus
+
+[Top](#categories)
 
 Organic categories
 1. *P: Nationalismus und Imperialismus*
@@ -257,8 +280,10 @@ Organic categories
 |[P-009: Die Balkankriege (1912/1913), mit Dr. Franziska Zaugg](https://geschichteeuropas.podigee.io/202-202)|202|2023-05-29|20. Jahrhundert, Balkan, Balkankriege 1912/13, Bulgarien, Griechenland, Neuere und neueste Geschichte, Osmanisches Reich, Quelle, Serbien, Südeuropa|
 
 
-<a id="None"></a>
+<a id="category-Q"></a>
 ### Q: Erster Weltkrieg
+
+[Top](#categories)
 
 Organic categories
 1. *Q: Erster Weltkrieg*
@@ -269,8 +294,10 @@ Organic categories
 |[Q-002: Die Februarrevolution in Russland (1917), mit Prof. Dr. Jörn Happel](https://geschichteeuropas.podigee.io/366-366)|366|2024-08-26|20. Jahrhundert, Erster Weltkrieg, Lenin, Neuere und neueste Geschichte, Revolution, Russland, St. Petersburg, Zar Nikolaus II.|
 
 
-<a id="None"></a>
+<a id="category-R"></a>
 ### R: Zwischenkriegszeit
+
+[Top](#categories)
 
 Organic categories
 1. *R: Zwischenkriegszeit*
@@ -293,8 +320,10 @@ Organic categories
 |[R-014: Der Hitler-Stalin-Pakt (1939), mit Prof. Dr. Claudia Weber](https://geschichteeuropas.podigee.io/96-96)|096|2022-07-28|2. Weltkrieg, 20. Jahrhundert, Adolf Hitler, Hitler-Stalin-Pakt, Josef Stalin, NS-Deutschland, Neuere und neueste Geschichte, Osteuropa, Polen, Sowjetunion|
 
 
-<a id="None"></a>
+<a id="category-S"></a>
 ### S: Zweiter Weltkrieg
+
+[Top](#categories)
 
 Organic categories
 1. *S: Zweiter Weltkrieg*
@@ -322,8 +351,10 @@ Organic categories
 |[S-018: Wehrmachtsdeserteure, mit Robert Parzer](https://geschichteeuropas.podigee.io/65-65)|065|2022-01-17|2. Weltkrieg, 20. Jahrhundert, Desertion, Deutschland, Neuere und neueste Geschichte, Wehrmacht|
 
 
-<a id="None"></a>
+<a id="category-T"></a>
 ### T: Kalter Krieg und europäische Einigung
+
+[Top](#categories)
 
 Organic categories
 1. *Kalter Krieg und Europäische Einigung*
@@ -356,8 +387,10 @@ Organic categories
 |[T-022: Die Auflösung der Sowjetunion (1991), mit Prof. Dr. Susanne Schattenberg](https://geschichteeuropas.podigee.io/60-60)|060|2021-12-27|20. Jahrhundert, Europa, Kalter Krieg, Michail Gorbatschow, Osteuropa, Quelle, Russland, Sowjetunion, Zeitgeschichte|
 
 
-<a id="None"></a>
+<a id="category-U"></a>
 ### U: Nach dem Kalten Krieg
+
+[Top](#categories)
 
 Organic categories
 1. *U: Nach dem Kalten Krieg*
@@ -369,8 +402,10 @@ Organic categories
 |[U-003: Der Krieg gegen die Ukraine (ab 2022), mit Prof. Dr. Gwendolyn Sasse [C.H. Beck]](https://geschichteeuropas.podigee.io/126-126)|126|2022-10-13|21. Jahrhundert, Euromaidan, Krim, Krim-Annexion, Orangene Revolution, Osteuropa, Russland, Ukraine, Ukraine-Krieg, Zeitgeschichte|
 
 
-<a id="None"></a>
+<a id="category-V"></a>
 ### V: Europa aktuell
+
+[Top](#categories)
 
 Organic categories
 1. *V: Europa aktuell*
@@ -380,8 +415,10 @@ Organic categories
 |[V-001: Die Geschichte der Ukraine vom 19. Jhd. bis heute, mit Dr. Franziska Davies](https://geschichteeuropas.podigee.io/73-73)|073|2022-03-01|21. Jahrhundert, Krieg, Neuere und Neueste Geschichte, Osteuropa, Russland, Ukraine, Zeitgeschichte|
 
 
-<a id="None"></a>
+<a id="category-W"></a>
 ### W: Epochenübergreifende Biographien
+
+[Top](#categories)
 
 Organic categories
 1. *W: Epochenübergreifende Biographien*
@@ -404,8 +441,10 @@ Organic categories
 |[W-013: Willy Brandts NS-Widerstand und Exil (1933-1945), mit Frauke Kleine Wächter und Dr. Kristina Meyer [BWBS]](https://geschichteeuropas.podigee.io/220-220)|220|2023-08-07|20. Jahrhundert, Deutschland, Exil, NS-Widerstand, Nationalsozialismus, Neuere und neueste Geschichte, Nordeuropa, Norwegen, Schweden, Willy Brandt|
 
 
-<a id="None"></a>
+<a id="category-X"></a>
 ### X: Geschichtswissenschaft und Erinnerungskultur
+
+[Top](#categories)
 
 Organic categories
 1. *W: Geschichtswissenschaft und Erinnerungskultur*
@@ -449,8 +488,10 @@ Organic categories
 |[X-033: Stadt beziehungsweise Land, mit Prof. Dr. Susanne Rau [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/387-387)|387|2024-09-28|Deutschland, Frühe Neuzeit, Land, Neuere und Neueste Geschichte, Stadt, Zeitgeschichte|
 
 
-<a id="None"></a>
+<a id="category-Y"></a>
 ### Y: Quellen
+
+[Top](#categories)
 
 Organic categories
 1. *Y - Quellen*
@@ -529,6 +570,7 @@ Organic categories
 |[Y-067: Weltkriegspropaganda auf einer Postkarte der Druckerei Schaar & Dathe (1914)](https://geschichteeuropas.podigee.io/t283-283)|283|2024-01-17|1. Weltkrieg, Deutschland, Frankreich, Neuere und neueste Geschichte, Postkarte, Propaganda, Quelle|
 |[Y-068: Abbé Augustin Aubry, Beschreibung der Kriegsgefangenschaft in Celle (1916)](https://geschichteeuropas.podigee.io/t119-119)|119|2022-09-26|1. Weltkrieg, 20. Jahrhundert, Celle, Celler Schloss, Deutschland, Kriegsgefangenschaft, Neuere und neueste Geschichte, Quelle|
 |[Y-069: Auszüge aus dem Vertrag von Rapallo (1922)](https://geschichteeuropas.podigee.io/t78-78)|078|2022-04-04|20. Jahrhundert, Deutschland, Diplomatie, Neuere und neueste Geschichte, Osteuropa, Quelle, Rapallo, Russland, Vertrag, Westeuropa|
+|[Y-069: Marie Juchacz, Beginn ihrer ersten Rede in der Nationalversammlung (1919)](https://geschichteeuropas.podigee.io/t396-396)|396|2024-10-13|Deutschland, Frauenrechte, Marie Juchacz, Nationalversammlung, Neuere und neueste Geschichte, Quelle|
 |[Y-070: Berliner Börsen-Courier, "Die Rutenbündler" (1922), feat. Auf den Tag genau](https://geschichteeuropas.podigee.io/t130-130)|130|2022-10-27|20. Jahrhundert, Benito Mussolini, Faschismus, Italien, Marsch auf Rom (1922), Neuere und neueste Geschichte, Quelle, Südeuropa|
 |[Y-071: Auszüge aus Howard Carters Grabungstagebuch (1922)](https://geschichteeuropas.podigee.io/t138-138)|138|2022-11-14|20. Jahrhundert, Archäologie, Entdeckung, Howard Carter, Neuere und neueste Geschichte, Nordafrika, Quelle, Tutenchamun, Ägypten, Ägyptologie|
 |[Y-072: Berliner Tageblatt, "Der Bruch" (1923), feat. Auf den Tag genau](https://geschichteeuropas.podigee.io/t153-153)|153|2023-01-02|1. Weltkrieg, 20. Jahrhundert, Belgien, Deutschland, Frankreich, Neuere und neueste Geschichte, Quelle, Reparationen, Ruhrbesetzung, Ruhrgebiet|
@@ -618,8 +660,10 @@ Organic categories
 |[Y-156: Erinnerungen der Bevölkerung des Rheinischen Reviers (2023)](https://geschichteeuropas.podigee.io/t260-260)|260|2023-11-19|Braunkohleabbau, Deutschland, Lützerath, Quellen, Rheinisches Revier, Umsiedlung, Zeitgeschichte|
 
 
-<a id="None"></a>
+<a id="category-Z"></a>
 ### Z: Meta/ Podcast
+
+[Top](#categories)
 
 Organic categories
 1. *Z: Meta/ Podcast*

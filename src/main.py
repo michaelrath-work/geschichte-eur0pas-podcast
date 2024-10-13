@@ -50,10 +50,8 @@ class Category:
         return Category(organic, organic)
 
     @staticmethod
-    def to_markdown_link(s: str) -> str:
-        s.replace(' ', '-')
-        #TODO(micha): return modified string
-        # return s
+    def markdown_category_link(s: str) -> str:
+        return f'category-{s}'
 
     def identifier(s: str) -> str:
         g = s.split(':')
@@ -168,19 +166,21 @@ def format_markdown(p: pathlib.Path, categories: typing.List[Category], episodes
     lines.extend([
         '# Geschichte Eur0pas',
         '\n\n'
-        'Source https://geschichteeuropas.podigee.io/rssfeed'
+        'Source https://geschichteeuropas.podigee.io/feed/mp3'
         '\n\n'
     ])
 
     lines.extend(
-        ['## Categories\n\n',
-         '| #  | marker |title (organic)| title (re-categorized by MR)|\n',
-         '|---:|:---:|:---------------|:-------------| \n']
+        [
+            f'<a id="categories"></a>\n'
+            '## Categories\n\n',
+            '| #  | marker |title (organic)| title (re-categorized by MR)|\n',
+            '|---:|:---:|:---------------|:-------------| \n']
         )
     categories_sorted = sorted(categories, key= lambda x: x.organic)
 
     for i, cat in enumerate(categories_sorted):
-        category_link = f'[{cat.adjusted}](#{Category.to_markdown_link(cat.adjusted)})'
+        category_link = f'[{cat.adjusted}](#{Category.markdown_category_link(Category.identifier(cat.adjusted))})'
         category_id = Category.identifier(cat.adjusted)
         lines.append(f'|{i:03d} | {category_id} | {cat.organic}| {category_link} |\n')
 
@@ -193,7 +193,7 @@ def format_markdown(p: pathlib.Path, categories: typing.List[Category], episodes
 
     for adjusted_category in sorted(unique_categories):
         lines.extend([
-            f'<a id="{Category.to_markdown_link(adjusted_category)}"></a>\n'
+            f'<a id="{Category.markdown_category_link(Category.identifier(adjusted_category))}"></a>\n'
             f'### {adjusted_category}\n\n'
         ])
 
@@ -201,6 +201,8 @@ def format_markdown(p: pathlib.Path, categories: typing.List[Category], episodes
             filter(lambda x: x.adjusted_category == adjusted_category, episodes),
         key=lambda x: x.title)
         organic_categories = sorted(set([x.organic_category for x in selected_episodes]))
+
+        lines.append(f'[Top](#categories)\n\n')
 
         lines.append(f'Organic categories\n')
         for c in organic_categories:
