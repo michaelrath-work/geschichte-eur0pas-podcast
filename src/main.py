@@ -204,10 +204,14 @@ def format_markdown(p: pathlib.Path, categories: typing.List[Category], episodes
 
         lines.append(f'[Top](#categories)\n\n')
 
-        lines.append(f'Organic categories\n')
-        for c in organic_categories:
-            lines.append(f'1. *{c}*\n')
-        lines.append('\n')
+        if (len(organic_categories) > 1) or (adjusted_category not in organic_categories):
+            def italic(s: str) -> str:
+                return f'*{s}*'
+
+            lines.append(f'Organic categories\n')
+            for idx, c in enumerate(organic_categories):
+                lines.append(f'{idx+1}. {italic(c)}\n')
+            lines.append('\n')
 
 
         lines.extend([

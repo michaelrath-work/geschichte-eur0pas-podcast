@@ -14,6 +14,6 @@ Example is shown here [Episodes](output/episodes.md)
 
 [1] https://geschichteeuropas.podigee.io/395-395
 
-[2] https://geschichteeuropas.podigee.io/rssfeed
+[2] https://geschichteeuropas.podigee.io/#subscribe
 
 

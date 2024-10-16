@@ -51,9 +51,9 @@ Source https://geschichteeuropas.podigee.io/feed/mp3
 
 Organic categories
 1. *A - Epochenübergreifende Themen*
-1. *A: Epochenübergreifende Themen*
-1. *A: Epochenübergreifende Überblicke*
-1. *A; Epochenübergreifende Themen*
+2. *A: Epochenübergreifende Themen*
+3. *A: Epochenübergreifende Überblicke*
+4. *A; Epochenübergreifende Themen*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -103,9 +103,6 @@ Organic categories
 
 [Top](#categories)
 
-Organic categories
-1. *B: Geologische Geschichte*
-
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[B-001: Die geologische Geschichte Europas, mit Kira Raith](https://geschichteeuropas.podigee.io/58-58)|058|2021-12-13|Europa, Geologie, Vorgeschichte|
@@ -115,9 +112,6 @@ Organic categories
 ### C: Vorgeschichte und Altsteinzeit
 
 [Top](#categories)
-
-Organic categories
-1. *C: Vorgeschichte und Altsteinzeit*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -130,9 +124,6 @@ Organic categories
 
 [Top](#categories)
 
-Organic categories
-1. *D: Mittel- und Jungsteinzeit*
-
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[D-001: Die Jungsteinzeit im Rheinischen Revier, mit Dr. Erich Claßen und Dr. Kerstin Schierhold [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/176-176)|176|2023-03-26|Deutschland, Frühgeschichte, Jungsteinzeit, Rheinisches Revier|
@@ -143,9 +134,6 @@ Organic categories
 ### G: Römische Antike
 
 [Top](#categories)
-
-Organic categories
-1. *G: Römische Antike*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -167,9 +155,6 @@ Organic categories
 
 [Top](#categories)
 
-Organic categories
-1. *I: Das Hochmittelalter*
-
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[I-001: Der hochmittelalterliche Siedlungsbau im Rheinischen Revier, mit Dr. Torsten Rünger [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/208-208)|208|2023-06-25|11. Jahrhundert, 12. Jahrhundert, 13. Jahrhundert, 14. Jahrhundert, Deutschland, Landerschließung, Landwirtschaft, Mittelalter, Rheinisches Revier, Siedlungsausbau|
@@ -190,9 +175,6 @@ Organic categories
 
 [Top](#categories)
 
-Organic categories
-1. *J: Das Spätmittelalter*
-
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[J-001: Armut in spätmittelalterlichen deutschen Städten, mit Prof. Dr. Jörg Rogge [Univ. Potsdam]](https://geschichteeuropas.podigee.io/344-344)|344|2024-07-06|Armut, Deutschland, Gesellschaftsordnung, Mittelalter, Spätmittelalter, Stadt, Zünfte|
@@ -202,9 +184,6 @@ Organic categories
 ### M: Reformation und Glaubenskriege
 
 [Top](#categories)
-
-Organic categories
-1. *M: Reformation und Glaubenskriege*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -219,7 +198,7 @@ Organic categories
 
 Organic categories
 1. *N: Absolutimus und Aufklärung*
-1. *N: Absolutismus und Aufklärung*
+2. *N: Absolutismus und Aufklärung*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -245,7 +224,7 @@ Organic categories
 
 Organic categories
 1. *O: Das Zeitalter der Revolutionen*
-1. *O: Zeitalter der Revolutionen*
+2. *O: Zeitalter der Revolutionen*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -263,9 +242,6 @@ Organic categories
 ### P: Nationalismus und Imperialismus
 
 [Top](#categories)
-
-Organic categories
-1. *P: Nationalismus und Imperialismus*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -285,9 +261,6 @@ Organic categories
 
 [Top](#categories)
 
-Organic categories
-1. *Q: Erster Weltkrieg*
-
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[Q-001: Kriegsgefangene höherer Lebensstellung im Celler Schloss (1914-1918), mit Hilke Langhammer](https://geschichteeuropas.podigee.io/120-120)|120|2022-09-29|1. Weltkrieg, 20. Jahrhundert, Celle, Celler Schloss, Deutschland, Duncan Heaton-Armstrong, Kriegsgefangenschaft, Neuere und neueste Geschichte|
@@ -298,9 +271,6 @@ Organic categories
 ### R: Zwischenkriegszeit
 
 [Top](#categories)
-
-Organic categories
-1. *R: Zwischenkriegszeit*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -324,9 +294,6 @@ Organic categories
 ### S: Zweiter Weltkrieg
 
 [Top](#categories)
-
-Organic categories
-1. *S: Zweiter Weltkrieg*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -358,8 +325,8 @@ Organic categories
 
 Organic categories
 1. *Kalter Krieg und Europäische Einigung*
-1. *T: Kalter Krieg und Europäische Einigung*
-1. *T: Kalter Krieg und europäische Einigung*
+2. *T: Kalter Krieg und Europäische Einigung*
+3. *T: Kalter Krieg und europäische Einigung*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -392,9 +359,6 @@ Organic categories
 
 [Top](#categories)
 
-Organic categories
-1. *U: Nach dem Kalten Krieg*
-
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[U-001: Russland in den 1990er Jahren, mit Dr. Tobias Rupprecht](https://geschichteeuropas.podigee.io/376-376)|376|2024-09-09|Boris Jelzin, Russland, Wladimir Putin, Zeitgeschichte|
@@ -407,9 +371,6 @@ Organic categories
 
 [Top](#categories)
 
-Organic categories
-1. *V: Europa aktuell*
-
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[V-001: Die Geschichte der Ukraine vom 19. Jhd. bis heute, mit Dr. Franziska Davies](https://geschichteeuropas.podigee.io/73-73)|073|2022-03-01|21. Jahrhundert, Krieg, Neuere und Neueste Geschichte, Osteuropa, Russland, Ukraine, Zeitgeschichte|
@@ -419,9 +380,6 @@ Organic categories
 ### W: Epochenübergreifende Biographien
 
 [Top](#categories)
-
-Organic categories
-1. *W: Epochenübergreifende Biographien*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -448,8 +406,8 @@ Organic categories
 
 Organic categories
 1. *W: Geschichtswissenschaft und Erinnerungskultur*
-1. *X: Geschichtswissenschaft und Erinnerungkultur*
-1. *X: Geschichtswissenschaft und Erinnerungskultur*
+2. *X: Geschichtswissenschaft und Erinnerungkultur*
+3. *X: Geschichtswissenschaft und Erinnerungskultur*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -495,9 +453,9 @@ Organic categories
 
 Organic categories
 1. *Y - Quellen*
-1. *Y: Quelle*
-1. *Y: Quellen*
-1. *Y; Quellen*
+2. *Y: Quelle*
+3. *Y: Quellen*
+4. *Y; Quellen*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -664,9 +622,6 @@ Organic categories
 ### Z: Meta/ Podcast
 
 [Top](#categories)
-
-Organic categories
-1. *Z: Meta/ Podcast*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
