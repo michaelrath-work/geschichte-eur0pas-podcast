@@ -1,6 +1,14 @@
+<a id="top"></a>
 # Geschichte Eur0pas
 
 Source https://geschichteeuropas.podigee.io/feed/mp3
+
+## Meta
+|key |value|
+|:---|:----|
+|podcast first published|2020-07-28|
+|podcast last build|2024-10-15|
+|genaration date of this list|2024-10-16|
 
 <a id="categories"></a>
 ## Categories
@@ -47,7 +55,7 @@ Source https://geschichteeuropas.podigee.io/feed/mp3
 <a id="category-A"></a>
 ### A: Epochenübergreifende Themen
 
-[Top](#categories)
+[Top](#top)
 
 Organic categories
 1. *A - Epochenübergreifende Themen*
@@ -101,7 +109,7 @@ Organic categories
 <a id="category-B"></a>
 ### B: Geologische Geschichte
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -111,7 +119,7 @@ Organic categories
 <a id="category-C"></a>
 ### C: Vorgeschichte und Altsteinzeit
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -122,7 +130,7 @@ Organic categories
 <a id="category-D"></a>
 ### D: Mittel- und Jungsteinzeit
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -133,7 +141,7 @@ Organic categories
 <a id="category-G"></a>
 ### G: Römische Antike
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -153,7 +161,7 @@ Organic categories
 <a id="category-I"></a>
 ### I: Das Hochmittelalter
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -173,7 +181,7 @@ Organic categories
 <a id="category-J"></a>
 ### J: Das Spätmittelalter
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -183,7 +191,7 @@ Organic categories
 <a id="category-M"></a>
 ### M: Reformation und Glaubenskriege
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -194,7 +202,7 @@ Organic categories
 <a id="category-N"></a>
 ### N: Absolutismus und Aufklärung
 
-[Top](#categories)
+[Top](#top)
 
 Organic categories
 1. *N: Absolutimus und Aufklärung*
@@ -220,7 +228,7 @@ Organic categories
 <a id="category-O"></a>
 ### O: Zeitalter der Revolutionen
 
-[Top](#categories)
+[Top](#top)
 
 Organic categories
 1. *O: Das Zeitalter der Revolutionen*
@@ -241,7 +249,7 @@ Organic categories
 <a id="category-P"></a>
 ### P: Nationalismus und Imperialismus
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -259,7 +267,7 @@ Organic categories
 <a id="category-Q"></a>
 ### Q: Erster Weltkrieg
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -270,7 +278,7 @@ Organic categories
 <a id="category-R"></a>
 ### R: Zwischenkriegszeit
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -293,7 +301,7 @@ Organic categories
 <a id="category-S"></a>
 ### S: Zweiter Weltkrieg
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -321,7 +329,7 @@ Organic categories
 <a id="category-T"></a>
 ### T: Kalter Krieg und europäische Einigung
 
-[Top](#categories)
+[Top](#top)
 
 Organic categories
 1. *Kalter Krieg und Europäische Einigung*
@@ -357,7 +365,7 @@ Organic categories
 <a id="category-U"></a>
 ### U: Nach dem Kalten Krieg
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -369,7 +377,7 @@ Organic categories
 <a id="category-V"></a>
 ### V: Europa aktuell
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -379,7 +387,7 @@ Organic categories
 <a id="category-W"></a>
 ### W: Epochenübergreifende Biographien
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -391,6 +399,7 @@ Organic categories
 |[W-005: Lenins Leben bis zur Februarrevolution (1870-1917), mit Prof. Dr. Jörn Happel und Prof. Dr. Susanne Schattenberg](https://geschichteeuropas.podigee.io/296-296)|296|2024-02-26|19. Jahrhundert, 20. Jahrhundert, Bolschewismus, Kommunismus, Marxismus, Neuere und neueste Geschichte, Russisches Zarenreich, Russland, Wladimir Iljitsch Lenin|
 |[W-006: Der Trierer Denkmalpfleger Friedrich Kutzbach (1873-1942), mit Bettina Leuchtenberg [Stadtmuseum Trier]](https://geschichteeuropas.podigee.io/207-207)|207|2023-06-19|20. Jahrhundert, Denkmalpflege, Deutschland, Friedrich Kutzbach, Neuere und neueste Geschichte, Restauration, Simeonstift (Trier), St. Maximin (Trier), Trier|
 |[W-007: Der Gestalter und Lebensreformer Hans Proppe (1875-1951), mit Bettina Leuchtenberg [Stadtmuseum Trier]](https://geschichteeuropas.podigee.io/156-156)|156|2023-01-15|19. Jahrhundert, 20. Jahrhundert, Architektur, Deutschland, Hans Proppe, Lebensreformbewegung, Neuere und neueste Geschichte, Trier, Zeitgeschichte, Ästhetik|
+|[W-008: Die AWO-Gründerin und Reichstagsabgeordnete Marie Juchacz (1879-1956), mit Laura Baumgarten (Frau Abgeordnete)](https://geschichteeuropas.podigee.io/397-397)|397|2024-10-14|Deutsches Kaiserreich, Deutschland, Gleichberechtigung, Nationalversammlung, Neuere und neueste Geschichte, Sozialdemokratie, Sozialsystem, Weimarer Republik|
 |[W-008: Simon Rosenberger - der vergessene Fußballpionier (1885-1931), mit Petra Tabarelli (FRÜF)](https://geschichteeuropas.podigee.io/179-179)|179|2023-04-10|20. Jahrhundert, Carl Koppehel, DFB, Deutschland, Fußball, München, Neuere und neueste Geschichte, Schiedsrichter, Simon Rosenberger, kicker|
 |[W-009: Rudolf Hess - der "Stellvertreter" Hitlers (1894-1987), mit Prof. Dr. Manfred Görtemaker [C.H. Beck]](https://geschichteeuropas.podigee.io/236-236)|236|2023-09-21|19. Jahrhundert, 20. Jahrhundert, Adolf Hitler, Deutschland, NSDAP, Nationalsozialismus, Neuere und neueste Geschichte, Nürnberger Hauptkriegsverbrecherprozess, Rudolf Hess, Zeitgeschichte|
 |[W-010: Der NS-Widerstandskämpfer Theo Hespers (1903-1943), mit Nora Hespers (Die Anarchronistin)](https://geschichteeuropas.podigee.io/86-86)|086|2022-05-30|Deutschland, NS-Widerstand, Neuere und neueste Geschichte, Theo Hespers, Westeuropa|
@@ -402,7 +411,7 @@ Organic categories
 <a id="category-X"></a>
 ### X: Geschichtswissenschaft und Erinnerungskultur
 
-[Top](#categories)
+[Top](#top)
 
 Organic categories
 1. *W: Geschichtswissenschaft und Erinnerungskultur*
@@ -449,7 +458,7 @@ Organic categories
 <a id="category-Y"></a>
 ### Y: Quellen
 
-[Top](#categories)
+[Top](#top)
 
 Organic categories
 1. *Y - Quellen*
@@ -621,7 +630,7 @@ Organic categories
 <a id="category-Z"></a>
 ### Z: Meta/ Podcast
 
-[Top](#categories)
+[Top](#top)
 
 |title |episode | publication date| keywords |
 |---|---|---|---|

@@ -75,10 +75,14 @@ class Episode:
         e.adjusted_category = Category.adjust_category(e.organic_category).adjusted
         return e
 
-
+@dataclasses.dataclass
+class Channel:
+    publication_date: datetime.datetime
+    last_build_date: datetime.datetime
 
 @dataclasses.dataclass
 class AnalysisResult:
+    channel: Channel
     episodes: typing.List[Episode] = dataclasses.field(default_factory=list)
     categories: typing.Set[str] = dataclasses.field(default_factory=set)
 
@@ -101,7 +105,7 @@ def convert_str_to_integer(a: any, default: int = -1) -> int:
         return default
     return default
 
-def convert_str_to_date(a: any, default: datetime.date = datetime.date(2000, 1,1)) -> int:
+def convert_str_to_date(a: any, default: datetime.date = datetime.date(2000, 1,1)) -> datetime.datetime:
     try:
         # e.g. Sat, 12 Oct 2024 02:00:00 +0000
         r = datetime.datetime.strptime(a, '%a, %d %b %Y %H:%M:%S %z')
@@ -112,10 +116,18 @@ def convert_str_to_date(a: any, default: datetime.date = datetime.date(2000, 1,1
 
 
 
-def analyse_channel_data(channel: ET.Element) -> AnalysisResult:
+def analyse_channel_data(xml_channel: ET.Element) -> AnalysisResult:
     categories = set()
+
+    channel = Channel(
+        convert_str_to_date(
+            xml_channel.find('pubDate').text),
+        convert_str_to_date(
+            xml_channel.find('lastBuildDate').text)
+    )
+
     episodes : typing.List[Episode] = []
-    for item in channel.findall('item'):
+    for item in xml_channel.findall('item'):
         title = item.find('itunes:title', NAMESPACES)
         category = get_xml_node_text_or_default(
             item.find('itunes:subtitle', NAMESPACES),
@@ -156,19 +168,32 @@ def analyse_channel_data(channel: ET.Element) -> AnalysisResult:
         categories.add(category)
 
     return AnalysisResult(
+        channel=channel,
         episodes=episodes,
         categories=categories
     )
 
-def format_markdown(p: pathlib.Path, categories: typing.List[Category], episodes: typing.List[Episode]):
+def format_markdown(p: pathlib.Path,
+                    analysis_result: AnalysisResult,
+                    categories: typing.List[Category], episodes: typing.List[Episode]):
     lines = []
-
     lines.extend([
+        f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
         '\n\n'
         'Source https://geschichteeuropas.podigee.io/feed/mp3'
         '\n\n'
     ])
+
+    now = datetime.datetime.now()
+    format_date_to_ymd = lambda x: f'{x:%Y-%m-%d}'
+    lines.extend('## Meta\n')
+    lines.extend('|key |value|\n')
+    lines.extend('|:---|:----|\n')
+    lines.extend(f'|podcast first published|{format_date_to_ymd(analysis_result.channel.publication_date)}|\n')
+    lines.extend(f'|podcast last build|{format_date_to_ymd(analysis_result.channel.last_build_date)}|\n')
+    lines.extend(f'|genaration date of this list|{format_date_to_ymd(now)}|\n')
+    lines.extend('\n')
 
     lines.extend(
         [
@@ -202,7 +227,7 @@ def format_markdown(p: pathlib.Path, categories: typing.List[Category], episodes
         key=lambda x: x.title)
         organic_categories = sorted(set([x.organic_category for x in selected_episodes]))
 
-        lines.append(f'[Top](#categories)\n\n')
+        lines.append(f'[Top](#top)\n\n')
 
         if (len(organic_categories) > 1) or (adjusted_category not in organic_categories):
             def italic(s: str) -> str:
@@ -238,7 +263,10 @@ def main():
     mapped_categories = list(map(Category.adjust_category, r.categories))
     output_p = pathlib.Path('/home/micha') / 'git_root' / 'geschichte-eur0pas-podcast' / 'output' / 'episodes.md'
     episodes = list(map(Episode.adjust_category, r.episodes))
-    format_markdown(output_p, mapped_categories, episodes)
+
+    format_markdown(output_p,
+                    r,
+                    mapped_categories, episodes)
 
 
 
