@@ -192,7 +192,7 @@ def format_markdown(p: pathlib.Path,
     lines.extend('|:---|:----|\n')
     lines.extend(f'|podcast first published|{format_date_to_ymd(analysis_result.channel.publication_date)}|\n')
     lines.extend(f'|podcast last build|{format_date_to_ymd(analysis_result.channel.last_build_date)}|\n')
-    lines.extend(f'|genaration date of this list|{format_date_to_ymd(now)}|\n')
+    lines.extend(f'|date of generation of this list|{format_date_to_ymd(now)}|\n')
     lines.extend('\n')
 
     lines.extend(

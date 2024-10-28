@@ -7,8 +7,8 @@ Source https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-10-15|
-|genaration date of this list|2024-10-16|
+|podcast last build|2024-10-28|
+|date of generation of this list|2024-10-28|
 
 <a id="categories"></a>
 ## Categories
@@ -96,6 +96,7 @@ Organic categories
 |[A-029: Das KZ Dachau (1933-1945), mit Dr. Gabriele Hammermann, Albert Knoll und Dr. Christoph Thonfeld](https://geschichteeuropas.podigee.io/231-231)|231|2023-09-11|20. Jahrhundert, Deutschland, Konzentrationslager, München, Nationalsozialismus, Neuere und neueste Geschichte|
 |[A-030: Das Konzentrationslager Buchenwald (1937-1945), mit Dr. Michael Löffelsender](https://geschichteeuropas.podigee.io/304-304)|304|2024-04-01|Buchenwald, Deutschland, Konzentrationslager, Neuere und neueste Geschichte, Thüringen, Verbrechen, Weimar|
 |[A-031: Neuengamme - KZ und Gedenkstätte, mit Ulrike Jensen](https://geschichteeuropas.podigee.io/103-103)|103|2022-08-22|2. Weltkrieg, 20. Jahrhundert, Deutschland, Erinnerungskultur, Hamburg, Konzentrationslager, Neuengamme, Neuere und neueste Geschichte, Zeitgeschichte|
+|[A-032: Das Konzentrationslager Flossenbürg (1938-1945), mit Lisa Herbst und Tilo Saalmann](https://geschichteeuropas.podigee.io/407-407)|407|2024-10-28|Deutschland, Dietrich Bonhoeffer, Flossenbürg, KZ Flossenbürg, Konzentraionslager, Neuere und Neueste Geschichte|
 |[A-032: Trümmerfrauen (?) in Kassel, 1943-1955, mit Helke Dreier und Dr. Kerstin Wolff [Archiv der dt. Frauenbewegung]](https://geschichteeuropas.podigee.io/342-342)|342|2024-07-02|20. Jahrhundert, Deutschland, Enttrümmerung, Geschichtsmythos, Kassel, Luftkrieg, Neuere und neueste Geschichte, Trümmerfrauen, Zeitgeschichte|
 |[A-033: Deals mit Diktaturen - eine andere Geschichte der Bundesrepublik, mit Prof. Dr. Frank Bösch [C. H. Beck]](https://geschichteeuropas.podigee.io/292-292)|292|2024-02-15|20. Jahrhundert, Bundesrepublik Deutschland, Deutschland, Estado Novo, Franco-Spanien, Griechenland, Iran, Portugal, Spanien, Zeitgeschichte|
 |[A-034: Das industrialisierte Rheinische Revier, mit Dr. Walter Hauser [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/250-250)|250|2023-10-29|20. Jahrhundert, 21. Jahrhundert, Braunkohle, Deindustrialisierung, Deutschland, Energiewende, Klimakrise, Nordrhein-Westfalen, Rheinisches Revier, Zeitgeschichte|
@@ -104,6 +105,8 @@ Organic categories
 |[A-037: Strukturwandel und Naturschutz im Rheinischen Revier, mit Linus Platzer [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/361-361)|361|2024-08-15|Biodiversität, Braunkohletagebau, Deutschland, Naturschutz, Rheinisches Revier, Strukturwandel, Zeitgeschichte|
 |[A-038: Rekultivierung im Rheinischen Revier, mit Dr. Michael Farrenkopf [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/379-379)|379|2024-09-12|Braunkohletagebau, Deutschland, Naturschutz, Rekultivierung, Rheinisches Revier, Zeitgeschichte|
 |[A-039: Transformation der Industriekultur im Rheinischen Revier, mit Dr. W. Hauser & Dr. A. Kierdorf [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/393-393)|393|2024-10-10|Deutschland, Erinnerungskultur, Industriekultur, Public History, Rheinisches Revier, Transformation, Zeitgeschichte|
+|[A-040: Neuland?! Vom Land zur Stadt zurück zum Land, mit Prof. Dr. Gerd Zimmermann [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/399-399)|399|2024-10-19|Deutschland, Digitalisierung, Landflucht, Stadtflucht, Zeitgeschichte|
+|[A-042: Das Hessische Braunkohlen-Revier, mit Ingo Sielaff [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/405-405)|405|2024-10-24|Borken, Braunkohle, Braunkohlenbergbau, Deutschland, Elektrizität, Grubenunglück, Hessen|
 
 
 <a id="category-B"></a>
@@ -174,6 +177,7 @@ Organic categories
 |[I-007: Der dritte Kreuzzug (1189-1192), mit Dr. Alexander Berner](https://geschichteeuropas.podigee.io/55-55)|055|2021-11-22|12. Jahrhundert, Kreuzzüge, Mittelalter, Naher und mittlerer Osten, Richard Löwenherz, Saladin, Südeuropa, Westeuropa|
 |[I-008: Der vierte Kreuzzug (1202-1204), mit Dr. Alexander Berner und Günter L. Fuchs (Anno Mundi)](https://geschichteeuropas.podigee.io/77-77)|077|2022-03-28|13. Jahrhundert, Byzantinisches Reich, Konstantinopel, Kreuzzüge, Mittelalter, Naher und mittlerer Osten, Republik Venedig, Südeuropa|
 |[I-009: Der Albigenserkreuzzug (1209-1229), mit Dr. Alexander Berner](https://geschichteeuropas.podigee.io/299-299)|299|2024-03-11|13. Jahrhundert, Albigenser, Frankreich, Hochmittelalter, Kartharer, Kreuzzug, Languedoc, Mittelalter, Westeuropa|
+|[I-010: Der Kinderkreuzzug (1212), mit Dr. Tim Weitzel](https://geschichteeuropas.podigee.io/401-401)|401|2024-10-21|Deutschland, Frankreich, Hochmittelalter, Kinderkreuzzug, Kreuzzug, Mittelalter, Westeuropa|
 |[I-010: Der Kreuzzug nach Damiette (1217-1221), mit Dr. Alexander Berner](https://geschichteeuropas.podigee.io/91-91)|091|2022-07-04|13. Jahrhundert, Belagerung, Damiette, Kreuzzüge, Mittelalter, Naher und mittlerer Osten, Ägypten|
 |[I-011: Der Kreuzzug Friedrich II. (1227-1229), mit Dr. Alexander Berner](https://geschichteeuropas.podigee.io/111-111)|111|2022-09-08|13. Jahrhundert, Jerusalem, Kaiser Friedrich II., Kreuzzüge, Mittelalter, Naher und mittlerer Osten|
 
@@ -382,6 +386,7 @@ Organic categories
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[V-001: Die Geschichte der Ukraine vom 19. Jhd. bis heute, mit Dr. Franziska Davies](https://geschichteeuropas.podigee.io/73-73)|073|2022-03-01|21. Jahrhundert, Krieg, Neuere und Neueste Geschichte, Osteuropa, Russland, Ukraine, Zeitgeschichte|
+|[V-002: Die Konstituierende Sitzung des Thüringer Landtags 2024, mit Prof. Dr. Philipp Austermann](https://geschichteeuropas.podigee.io/403-403)|403|2024-10-22|Alternative für Deutschland (AfD), Deutschland, Landtag, Thüringen, Zeitgeschichte|
 
 
 <a id="category-W"></a>
@@ -479,11 +484,13 @@ Organic categories
 |[Y-009: Historia Augusta über die Tetrarchen (ca. 400?)](https://geschichteeuropas.podigee.io/t100-100)|100|2022-08-11|4. Jahrhundert, 5. Jahrhundert, Antike, Diokletian, Europa, Quelle, Römisches Kaiserreich, Spätantike, Tetrarchie|
 |[Y-010: Michael Attaleiates, Die Geschichte (1079)](https://geschichteeuropas.podigee.io/t21-21)|021|2021-04-05|11. Jahrhundert, Alp Arslan, Byzantinisches Reich, Manzikert, Mittelalter, Naher und mittlerer Osten, Quelle, Romanos IV., Seldschuken, Südeuropa|
 |[Y-011: Helmold von Bosau, Slawenchronik (c. 1167)](https://geschichteeuropas.podigee.io/t171-171)|171|2023-03-06|12. Jahrhundert, Deutschland, Hamburg, Helmond von Bosau, Mittelalter, Neue Burg, Quelle, Slawen|
+|[Y-012: Abschnitt der Gesta Treverorum (12.-14. Jhd) zum Kinderkreuzzug](https://geschichteeuropas.podigee.io/t400-400)|400|2024-10-20|Deutschland, Frankreich, Gesta Treverorum, Kinderkreuzzug, Mittelalter, Quelle, Trier|
 |[Y-012: Das Testament des Franz von Assisi (1226)](https://geschichteeuropas.podigee.io/t332-332)|332|2024-06-15|Armut, Europa, Franz von Assisi, Mittelalter, Quelle|
 |[Y-013: Die Tagesordnung des Hansetags von 1518](https://geschichteeuropas.podigee.io/t115-115)|115|2022-09-16|16. Jahrhundert, Deutschland, Frühe Neuzeit, Hanse, Hansetag, Lübeck, Mittelalter, Niederdeutsch, Nordeuropa, Quelle|
 |[Y-014: Erhard Schön, Des Teufels Sackpfeife (1530-1535)](https://geschichteeuropas.podigee.io/t146-146)|146|2022-12-12|16. Jahrhundert, Deutschland, Erhard Schön, Frühe Neuzeit, Holzschnitt, Martin Luther, Quelle, Reformation|
 |[Y-015: Jos Murer, Schrifttafeln auf der Karte des Herrschaftsgebiets der Stadt Zürich (1568)](https://geschichteeuropas.podigee.io/t386-386)|386|2024-09-27|16. Jahrhundert, Frühe Neuzeit, Karte, Quelle, Schweiz, Zürich|
 |[Y-016: Elizabeth I., Rede an die Truppen in Tilbury (1588)](https://geschichteeuropas.podigee.io/t68-68)|068|2022-02-07|16. Jahrhundert, Elizabeth I. von England, England, Frühe Neuzeit, Quelle, Spanische Armada, Tilbury, Westeuropa|
+|[Y-016: Urkunde über die Erlaubnis zum Kohlenbergbau in Gensungen (1554)](https://geschichteeuropas.podigee.io/t404-404)|404|2024-10-23|Braunkohlebergbau, Deutschland, Frühe Neuzeit, Hessen, Quelle|
 |[Y-017: Johann Amos Comenius, Orbis sensualium pictus (1658)](https://geschichteeuropas.podigee.io/t116-116)|116|2022-09-19|17. Jahrhundert, Europa, Frühe Neuzeit, Johann Amos Comenius, Quelle|
 |[Y-018: Gerichtsakte zum Nachweis einer vorausgegangen Freilassung einer ungarischen Sklavin (1663/64)](https://geschichteeuropas.podigee.io/t268-268)|268|2023-12-07|17. Jahrhundert, Freilassung, Gerichtsakte, Istanbul, Osmanisches Reich, Quelle, Sklaverei, Südeuropa|
 |[Y-019: Der Reichsstadt Lübeck Christliche Anordnung (1681)](https://geschichteeuropas.podigee.io/t23-23)|023|2021-04-19|Astronomie, Europa, Frühe Neuzeit, Kometen, Quelle|
@@ -546,6 +553,7 @@ Organic categories
 |[Y-075: Heinrich Eduard Jacob: Italien, Hakenkreuz, Tirol (1924)](https://geschichteeuropas.podigee.io/t228-228)|228|2023-09-04|20. Jahrhundert, Adolf Hitler, Deutschland, Hitlerputsch, Italien, Mussolini, Neuere und neueste Geschichte, Quelle|
 |[Y-076: Alfred Wegener, Die Enstehung der Kontinente und Ozeane (1929)](https://geschichteeuropas.podigee.io/t57-57)|057|2021-12-06|20. Jahrhundert, Alfred Wegener, Europa, Geologie, Neuere und neueste Geschichte, Quelle|
 |[Y-077: Carl von Ossietzky, Zur Reichsgründungsfeier (1931)](https://geschichteeuropas.podigee.io/t337-337)|337|2024-06-24|20. Jahrhundert, Carl von Ossietzky, Neuere und neueste Geschichte, Quelle, Reichsgründung, Weimarer Republik|
+|[Y-077: Joachim Ringelnatz, Gedicht "Landflucht" (1928)](https://geschichteeuropas.podigee.io/t398-398)|398|2024-10-18|Deutschland, Land, Neuere und neueste Geschichte, Quelle, Stadt|
 |[Y-078: Verordnung [zur] Wiederherstellung der öffentl. Sicherheit und Ordnung [in] Preußen ("Preußenschlag") (1932)](https://geschichteeuropas.podigee.io/t254-254)|254|2023-11-06|20. Jahrhundert, Deutschland, Neuere und neueste Geschichte, Preußen, Quelle, Weimarer Republik|
 |[Y-079: Auszug aus den Notizen über die Empfänge des Reichskanzler von Schleicher (1933)](https://geschichteeuropas.podigee.io/t158-158)|158|2023-01-23|20. Jahrhundert, Adolf Hitler, Berlin, Deutschland, Kurt von Schleicher, Machtübernahme, Nationalsozialismus, Neuere und neueste Geschichte, Paul von Hindenburg, Quelle|
 |[Y-080: Die "Reichstagsbrandverordnung" (1933)](https://geschichteeuropas.podigee.io/t221-221)|221|2023-08-14|20. Jahrhundert, Adolf Hitler, Berlin, Deutschland, Neuere und neueste Geschichte, Quelle, Reichstag, Reichstagsbrand, Reichstagsbrandverordnung|
@@ -562,6 +570,7 @@ Organic categories
 |[Y-091: Szlama Ber Winer, Beschreibung einer Mordtechnik im Holocaust (1942)](https://geschichteeuropas.podigee.io/t63-63)|063|2022-01-03|20. Jahrhundert, Chelmno, Europa, Holocaust, Neuere und neueste Geschichte, Quelle, Szlama Ber Winer|
 |[Y-092: Der Generalplan Ost (1942)](https://geschichteeuropas.podigee.io/t89-89)|089|2022-06-20|2. Weltkrieg, 20. Jahrhundert, Deutsch-sowjetischer Krieg, Deutschland, Nationalsozialismus, Neuere und neueste Geschichte, Osteuropa, Quelle|
 |[Y-093: Theo Hespers, Brief an die Familie (1942)](https://geschichteeuropas.podigee.io/t85-85)|085|2022-05-23|Deutschland, NS-Widerstand, Neuere und neueste Geschichte, Quelle, Theo Hespers, Westeuropa|
+|[Y-094: Regeln für die Post der Häftlinge im KZ Flossenbürg (1940)](https://geschichteeuropas.podigee.io/t406-406)|406|2024-10-27|Deutschland, Flossenbürg, KZ Flossenbürg, Neuere und Neueste Geschichte, Quelle|
 |[Y-094: Verordnung über die Stiftung des Krimschilds (1942)](https://geschichteeuropas.podigee.io/t242-242)|242|2023-10-09|2. Weltkrieg, Auszeichnung, Deutschland, Fall Blau, Krim, Neuere und neueste Geschichte, Osteuropa, Quelle, Ukraine|
 |[Y-095: Auszug aus der Weihnachtsansprache Papst Pius XII. (1942)](https://geschichteeuropas.podigee.io/t271-271)|271|2023-12-18|20. Jahrhundert, Holocaust, Neuere und neueste Geschichte, Papst, Pius XII., Quelle, Südeuropa, Vatikan|
 |[Y-096: Auszug aus Goebbels' Sportpalastrede (1943)](https://geschichteeuropas.podigee.io/t160-160)|160|2023-02-06|20. Jahrhundert, Berlin, Deutschland, Joseph Goebbels, Neuere und neueste Geschichte, Propaganda, Quelle, Sportpalastrede, Totaler Krieg|
@@ -666,5 +675,6 @@ Organic categories
 |[Z-030: Tag der Archäologie an der LVR-Außenstelle Titz am 08.06.2024](https://geschichteeuropas.podigee.io/b324-324)|324|2024-05-31|Archäologie, Public History, Rheinisches Revier|
 |[Z-031: Der 4. Podcast-Geburtstag - mit neuem Veröffentlichungsrhythmus!](https://geschichteeuropas.podigee.io/b353-353)|353|2024-07-27|Podcast, Veröffentlichungsrhythmus|
 |[Z-032: Spenden-Dank!](https://geschichteeuropas.podigee.io/b377-377)|377|2024-09-10|Danke, Meta|
+|[Z-033: Sonderserie "Rechtsextremismus in Deutschland nach 1945"](https://geschichteeuropas.podigee.io/b402-402)|402|2024-10-22|Ankündigung, Deutschland, Rechtsextremismus, Sonderserie, Zeitgeschichte|
 
 
