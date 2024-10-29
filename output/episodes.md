@@ -8,7 +8,7 @@ Source https://geschichteeuropas.podigee.io/feed/mp3
 |:---|:----|
 |podcast first published|2020-07-28|
 |podcast last build|2024-10-28|
-|date of generation of this list|2024-10-28|
+|date of generation of this list|2024-10-29|
 
 <a id="categories"></a>
 ## Categories

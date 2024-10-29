@@ -1,10 +1,15 @@
 import dataclasses
 import datetime
 import functools
-import typing
 import pathlib
 import pprint
+import typing
+import requests
 import xml.etree.ElementTree as ET
+
+MP3_FEED_URL = 'https://geschichteeuropas.podigee.io/feed/mp3'
+
+THIS_FILE_FOLDER = pathlib.Path(__file__).parent.resolve()
 
 NAMESPACES = {'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'}
 
@@ -68,7 +73,7 @@ class Episode:
     number: int
     link: str
     publication_date: datetime.datetime
-    keywords: list[str] = dataclasses.field(default_factory=list)
+    keywords: typing.List[str] = dataclasses.field(default_factory=list)
 
     @staticmethod
     def adjust_category(e: "Episode") -> "Episode":
@@ -181,7 +186,7 @@ def format_markdown(p: pathlib.Path,
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
         '\n\n'
-        'Source https://geschichteeuropas.podigee.io/feed/mp3'
+        f'Source {MP3_FEED_URL}'
         '\n\n'
     ])
 
@@ -256,18 +261,32 @@ def format_markdown(p: pathlib.Path,
         f.writelines(lines)
 
 
+def download_current_feed() -> pathlib.Path:
+    response = requests.get(MP3_FEED_URL)
+    output_dir = THIS_FILE_FOLDER / '..' / 'data'
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_file_path = output_dir / 'data.xml'
+
+    with open(output_file_path, 'w') as fd:
+        fd.writelines(response.content.decode('utf-8'))
+    return output_file_path
+
+
 def main():
-    input_p = pathlib.Path('/home/micha') / 'git_root' / 'geschichte-eur0pas-podcast' / 'data' / 'data.xml'
-    channel = read_feed(input_p.resolve())
+    local_feed_file_path = download_current_feed().resolve()
+    channel = read_feed(local_feed_file_path)
     r = analyse_channel_data(channel)
     mapped_categories = list(map(Category.adjust_category, r.categories))
-    output_p = pathlib.Path('/home/micha') / 'git_root' / 'geschichte-eur0pas-podcast' / 'output' / 'episodes.md'
+
+    output_path = THIS_FILE_FOLDER / '..' / 'output'
+    output_path.mkdir(parents=True, exist_ok=True)
+    output_file = output_path / 'episodes.md'
+
     episodes = list(map(Episode.adjust_category, r.episodes))
 
-    format_markdown(output_p,
+    format_markdown(output_file,
                     r,
                     mapped_categories, episodes)
-
 
 
 if __name__ == '__main__':
