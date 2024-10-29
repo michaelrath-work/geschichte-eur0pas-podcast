@@ -186,8 +186,6 @@ def format_markdown(p: pathlib.Path,
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
         '\n\n'
-        '![Geschichte Eur0pas icon](https://images.podigee-cdn.net/1400x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg)'
-        '\n\n',
         f'Data source for this overview is {MP3_FEED_URL}'
         '\n\n'
     ])
