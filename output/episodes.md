@@ -1,9 +1,12 @@
 <a id="top"></a>
 # Geschichte Eur0pas
 
-Source https://geschichteeuropas.podigee.io/feed/mp3
+![Geschichte Eur0pas icon](https://images.podigee-cdn.net/1400x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg)
+
+Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 
 ## Meta
+
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
@@ -13,41 +16,41 @@ Source https://geschichteeuropas.podigee.io/feed/mp3
 <a id="categories"></a>
 ## Categories
 
-| #  | marker |title (organic)| title (re-categorized by MR)|
-|---:|:---:|:---------------|:-------------| 
-|000 | A | A - Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) |
-|001 | A | A: Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) |
-|002 | A | A: Epochenübergreifende Überblicke| [A: Epochenübergreifende Themen](#category-A) |
-|003 | A | A; Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) |
-|004 | B | B: Geologische Geschichte| [B: Geologische Geschichte](#category-B) |
-|005 | C | C: Vorgeschichte und Altsteinzeit| [C: Vorgeschichte und Altsteinzeit](#category-C) |
-|006 | D | D: Mittel- und Jungsteinzeit| [D: Mittel- und Jungsteinzeit](#category-D) |
-|007 | G | G: Römische Antike| [G: Römische Antike](#category-G) |
-|008 | I | I: Das Hochmittelalter| [I: Das Hochmittelalter](#category-I) |
-|009 | J | J: Das Spätmittelalter| [J: Das Spätmittelalter](#category-J) |
-|010 | T | Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) |
-|011 | M | M: Reformation und Glaubenskriege| [M: Reformation und Glaubenskriege](#category-M) |
-|012 | N | N: Absolutimus und Aufklärung| [N: Absolutismus und Aufklärung](#category-N) |
-|013 | N | N: Absolutismus und Aufklärung| [N: Absolutismus und Aufklärung](#category-N) |
-|014 | O | O: Das Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#category-O) |
-|015 | O | O: Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#category-O) |
-|016 | P | P: Nationalismus und Imperialismus| [P: Nationalismus und Imperialismus](#category-P) |
-|017 | Q | Q: Erster Weltkrieg| [Q: Erster Weltkrieg](#category-Q) |
-|018 | R | R: Zwischenkriegszeit| [R: Zwischenkriegszeit](#category-R) |
-|019 | S | S: Zweiter Weltkrieg| [S: Zweiter Weltkrieg](#category-S) |
-|020 | T | T: Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) |
-|021 | T | T: Kalter Krieg und europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) |
-|022 | U | U: Nach dem Kalten Krieg| [U: Nach dem Kalten Krieg](#category-U) |
-|023 | V | V: Europa aktuell| [V: Europa aktuell](#category-V) |
-|024 | W | W: Epochenübergreifende Biographien| [W: Epochenübergreifende Biographien](#category-W) |
-|025 | X | W: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) |
-|026 | X | X: Geschichtswissenschaft und Erinnerungkultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) |
-|027 | X | X: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) |
-|028 | Y | Y - Quellen| [Y: Quellen](#category-Y) |
-|029 | Y | Y: Quelle| [Y: Quellen](#category-Y) |
-|030 | Y | Y: Quellen| [Y: Quellen](#category-Y) |
-|031 | Y | Y; Quellen| [Y: Quellen](#category-Y) |
-|032 | Z | Z: Meta/ Podcast| [Z: Meta/ Podcast](#category-Z) |
+| #  | marker |title (organic)| title (re-categorized by MR)| #episodes |
+|---:|:---:|:---------------|:-------------|:---:|
+|000 | A | A - Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) | 42 |
+|001 | A | A: Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) | 42 |
+|002 | A | A: Epochenübergreifende Überblicke| [A: Epochenübergreifende Themen](#category-A) | 42 |
+|003 | A | A; Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) | 42 |
+|004 | B | B: Geologische Geschichte| [B: Geologische Geschichte](#category-B) | 1 |
+|005 | C | C: Vorgeschichte und Altsteinzeit| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 |
+|006 | D | D: Mittel- und Jungsteinzeit| [D: Mittel- und Jungsteinzeit](#category-D) | 2 |
+|007 | G | G: Römische Antike| [G: Römische Antike](#category-G) | 11 |
+|008 | I | I: Das Hochmittelalter| [I: Das Hochmittelalter](#category-I) | 12 |
+|009 | J | J: Das Spätmittelalter| [J: Das Spätmittelalter](#category-J) | 1 |
+|010 | T | Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) | 22 |
+|011 | M | M: Reformation und Glaubenskriege| [M: Reformation und Glaubenskriege](#category-M) | 2 |
+|012 | N | N: Absolutimus und Aufklärung| [N: Absolutismus und Aufklärung](#category-N) | 13 |
+|013 | N | N: Absolutismus und Aufklärung| [N: Absolutismus und Aufklärung](#category-N) | 13 |
+|014 | O | O: Das Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#category-O) | 8 |
+|015 | O | O: Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#category-O) | 8 |
+|016 | P | P: Nationalismus und Imperialismus| [P: Nationalismus und Imperialismus](#category-P) | 9 |
+|017 | Q | Q: Erster Weltkrieg| [Q: Erster Weltkrieg](#category-Q) | 2 |
+|018 | R | R: Zwischenkriegszeit| [R: Zwischenkriegszeit](#category-R) | 14 |
+|019 | S | S: Zweiter Weltkrieg| [S: Zweiter Weltkrieg](#category-S) | 19 |
+|020 | T | T: Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) | 22 |
+|021 | T | T: Kalter Krieg und europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) | 22 |
+|022 | U | U: Nach dem Kalten Krieg| [U: Nach dem Kalten Krieg](#category-U) | 3 |
+|023 | V | V: Europa aktuell| [V: Europa aktuell](#category-V) | 2 |
+|024 | W | W: Epochenübergreifende Biographien| [W: Epochenübergreifende Biographien](#category-W) | 15 |
+|025 | X | W: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 |
+|026 | X | X: Geschichtswissenschaft und Erinnerungkultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 |
+|027 | X | X: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 |
+|028 | Y | Y - Quellen| [Y: Quellen](#category-Y) | 161 |
+|029 | Y | Y: Quelle| [Y: Quellen](#category-Y) | 161 |
+|030 | Y | Y: Quellen| [Y: Quellen](#category-Y) | 161 |
+|031 | Y | Y; Quellen| [Y: Quellen](#category-Y) | 161 |
+|032 | Z | Z: Meta/ Podcast| [Z: Meta/ Podcast](#category-Z) | 33 |
 
 
 ## Episode list (chronologically)

@@ -186,13 +186,15 @@ def format_markdown(p: pathlib.Path,
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
         '\n\n'
-        f'Source {MP3_FEED_URL}'
+        '![Geschichte Eur0pas icon](https://images.podigee-cdn.net/1400x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg)'
+        '\n\n',
+        f'Data source for this overview is {MP3_FEED_URL}'
         '\n\n'
     ])
 
     now = datetime.datetime.now()
     format_date_to_ymd = lambda x: f'{x:%Y-%m-%d}'
-    lines.extend('## Meta\n')
+    lines.extend('## Meta\n\n')
     lines.extend('|key |value|\n')
     lines.extend('|:---|:----|\n')
     lines.extend(f'|podcast first published|{format_date_to_ymd(analysis_result.channel.publication_date)}|\n')
@@ -204,22 +206,25 @@ def format_markdown(p: pathlib.Path,
         [
             f'<a id="categories"></a>\n'
             '## Categories\n\n',
-            '| #  | marker |title (organic)| title (re-categorized by MR)|\n',
-            '|---:|:---:|:---------------|:-------------| \n']
+            '| #  | marker |title (organic)| title (re-categorized by MR)| #episodes |\n',
+            '|---:|:---:|:---------------|:-------------|:---:|\n']
         )
     categories_sorted = sorted(categories, key= lambda x: x.organic)
+
+    unique_categories = set([x.adjusted for x in categories])
 
     for i, cat in enumerate(categories_sorted):
         category_link = f'[{cat.adjusted}](#{Category.markdown_category_link(Category.identifier(cat.adjusted))})'
         category_id = Category.identifier(cat.adjusted)
-        lines.append(f'|{i:03d} | {category_id} | {cat.organic}| {category_link} |\n')
+        ep: typing.List[Episode] = list(filter(lambda x: x.adjusted_category == cat.adjusted, episodes))
+        num_episodes = len(ep)
+        # print(f'episodes for {cat.adjusted}, {num_episodes}')
+        lines.append(f'|{i:03d} | {category_id} | {cat.organic}| {category_link} | {num_episodes:d} |\n')
 
     lines.extend([
         '\n\n',
         '## Episode list (chronologically)\n\n',
     ])
-
-    unique_categories = set([x.adjusted for x in categories])
 
     for adjusted_category in sorted(unique_categories):
         lines.extend([
@@ -273,7 +278,10 @@ def download_current_feed() -> pathlib.Path:
 
 
 def main():
-    local_feed_file_path = download_current_feed().resolve()
+    if False:
+        local_feed_file_path = download_current_feed().resolve()
+    else:
+        local_feed_file_path = THIS_FILE_FOLDER / '..' / 'data' / 'data.xml'
     channel = read_feed(local_feed_file_path)
     r = analyse_channel_data(channel)
     mapped_categories = list(map(Category.adjust_category, r.categories))

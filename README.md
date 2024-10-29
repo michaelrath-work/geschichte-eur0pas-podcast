@@ -5,7 +5,6 @@ According to original author/creator Tobias Jakobi [[1]](#ref1) podcast episodes
 
 > (German quote) "Die Episoden werden thematisch und nicht nach Erscheinungsdatum nummeriert. Für einen chronologischen Durchgang zur europäischen Geschichte sollten die Episoden nach Namen sortiert werden."
 
-
 > (English translation) "The episodes are numbered thematically and not by release date. For a chronological passage to European history, the episodes should be sorted by name."
 
 This script takes the published RSS feed [[3]](#ref3) as input and outputs the recommended ordering.
