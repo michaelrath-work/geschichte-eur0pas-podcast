@@ -278,10 +278,7 @@ def download_current_feed() -> pathlib.Path:
 
 
 def main():
-    if False:
-        local_feed_file_path = download_current_feed().resolve()
-    else:
-        local_feed_file_path = THIS_FILE_FOLDER / '..' / 'data' / 'data.xml'
+    local_feed_file_path = download_current_feed().resolve()
     channel = read_feed(local_feed_file_path)
     r = analyse_channel_data(channel)
     mapped_categories = list(map(Category.adjust_category, r.categories))
