@@ -79,6 +79,12 @@ class Episode:
         e.adjusted_category = Category.adjust_category(e.organic_category).adjusted
         return e
 
+
+@dataclasses.dataclass
+class DefinedCategory:
+    id: str
+    name: str
+
 @dataclasses.dataclass
 class Channel:
     publication_date: datetime.datetime
@@ -272,6 +278,17 @@ def download_current_feed() -> pathlib.Path:
     with open(output_file_path, 'w') as fd:
         fd.writelines(response.content.decode('utf-8'))
     return output_file_path
+
+
+def poor_mans_csv_parser(p: pathlib.Path) -> typing.List[DefinedCategory]:
+    r: typing.List[DefinedCategory] = []
+    with open(p, 'r') as fd:
+        for idx, line in enumerate(fd.readlines()):
+            if idx == 0:
+                continue
+            column_values = [l.strip() for l in line.split(',')]
+            r.append(DefinedCategory(column_values[0], column_values[1]))
+    return r
 
 
 def main():
