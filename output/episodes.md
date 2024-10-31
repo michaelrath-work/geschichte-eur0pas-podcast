@@ -42,8 +42,8 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |023 | V | V: Europa aktuell| [V: Europa aktuell](#category-V) | 2 |
 |024 | W | W: Epochenübergreifende Biographien| [W: Epochenübergreifende Biographien](#category-W) | 17 |
 |025 | W | W: Geschichtswissenschaft und Erinnerungskultur| [W: Epochenübergreifende Biographien](#category-W) | 17 |
-|026 | X | X: Geschichtswissenschaft und Erinnerungkultur| [X: Geschichtwissenschaft und Erinnerungskultur](#category-X) | 31 |
-|027 | X | X: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtwissenschaft und Erinnerungskultur](#category-X) | 31 |
+|026 | X | X: Geschichtswissenschaft und Erinnerungkultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 |
+|027 | X | X: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 |
 |028 | Y | Y - Quellen| [Y: Quellen](#category-Y) | 161 |
 |029 | Y | Y: Quelle| [Y: Quellen](#category-Y) | 161 |
 |030 | Y | Y: Quellen| [Y: Quellen](#category-Y) | 161 |
@@ -429,7 +429,7 @@ Organic categories
 
 
 <a id="category-X"></a>
-### X: Geschichtwissenschaft und Erinnerungskultur
+### X: Geschichtswissenschaft und Erinnerungskultur
 
 [Top](#top)
 
