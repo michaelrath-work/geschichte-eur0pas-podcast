@@ -1,5 +1,6 @@
 import dataclasses
 import datetime
+import functools
 import pathlib
 import pprint
 import typing
@@ -13,22 +14,6 @@ THIS_FILE_FOLDER = pathlib.Path(__file__).parent.resolve()
 NAMESPACES = {'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'}
 
 UNKNOWN_CATEGORY_TAG = '??? UNKNOWN_CATEGORY ???'
-
-@dataclasses.dataclass
-class Episode:
-    organic_category: str
-    adjusted_category: str
-    title: str
-    number: int
-    link: str
-    publication_date: datetime.datetime
-    keywords: typing.List[str] = dataclasses.field(default_factory=list)
-
-    @staticmethod
-    def adjust_category(e: "Episode") -> "Episode":
-        e.adjusted_category = Category.adjust(e.organic_category).adjusted
-        return e
-
 
 @dataclasses.dataclass
 class PredefinedCategory:
@@ -52,18 +37,28 @@ class Category:
 
         return Category(organic, organic, organic)
 
-    def afjusted_str(self):
+    def adjusted_str(self):
         return f'{self.adjusted_id}: {self.adjusted_name}'
 
-    @staticmethod
-    def markdown_category_link(s: str) -> str:
-        return f'category-{s}'
+    def markdown_category_link(self) -> str:
+        return f'category-{self.adjusted_id}'
+
+
+@dataclasses.dataclass
+class Episode:
+    category: Category
+    title: str
+    number: int
+    link: str
+    publication_date: datetime.datetime
+    keywords: typing.List[str] = dataclasses.field(default_factory=list)
 
 
 @dataclasses.dataclass
 class Channel:
     publication_date: datetime.datetime
     last_build_date: datetime.datetime
+
 
 @dataclasses.dataclass
 class AnalysisResult:
@@ -133,7 +128,7 @@ def analyse_channel_data(xml_channel: ET.Element, predefined_categories: typing.
             item.find('itunes:keywords', NAMESPACES),
             default='??? INCONSISTANT FORMAT ???')
 
-        keywords = ['??? INCONSISTANT FORMAT ???']
+        keywords = ['<p style="background-color:Tomato; color:white;">MISSING</p>']
         if keywords_raw is not None:
             keywords = keywords_raw.split(',')
 
@@ -189,7 +184,7 @@ def format_markdown(p: pathlib.Path,
         [
             f'<a id="categories"></a>\n'
             '## Categories\n\n',
-            '| #  | marker |title (organic)| title (adjusted)| #episodes |\n',
+            '| #  | marker |title (organic)| title (currated)| #episodes |\n',
             '|---:|:---:|:---------------|:-------------|:---:|\n']
         )
 
@@ -273,20 +268,18 @@ def poor_mans_csv_parser(p: pathlib.Path) -> typing.List[PredefinedCategory]:
 
 
 def main():
-    local_feed_file_path = download_current_feed().resolve()
+    predefined_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / 'meta' / 'categories.csv')
+    local_feed_file_path = download_current_feed()
     channel = read_feed(local_feed_file_path)
-    r = analyse_channel_data(channel)
-    mapped_categories = list(map(Category.adjust_category, r.categories))
-
+    analysis_result = analyse_channel_data(channel, predefined_categories)
+    adjusted_categories = list(map(functools.partial(Category.adjust, predefined_categories), analysis_result.categories))
     output_path = THIS_FILE_FOLDER / '..' / 'output'
     output_path.mkdir(parents=True, exist_ok=True)
     output_file = output_path / 'episodes.md'
-
-    episodes = list(map(Episode.adjust_category, r.episodes))
-
-    format_markdown(output_file,
-                    r,
-                    mapped_categories, episodes)
+    format_markdown(
+        output_file,
+        analysis_result,
+        adjusted_categories)
 
 
 if __name__ == '__main__':
