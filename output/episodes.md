@@ -8,13 +8,13 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-10-28|
-|date of generation of this list|2024-10-29|
+|podcast last build|2024-10-30|
+|date of generation of this list|2024-10-31|
 
 <a id="categories"></a>
 ## Categories
 
-| #  | marker |title (organic)| title (re-categorized by MR)| #episodes |
+| #  | marker |title (organic)| title (currated)| #episodes |
 |---:|:---:|:---------------|:-------------|:---:|
 |000 | A | A - Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) | 42 |
 |001 | A | A: Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) | 42 |
@@ -24,31 +24,31 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |005 | C | C: Vorgeschichte und Altsteinzeit| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 |
 |006 | D | D: Mittel- und Jungsteinzeit| [D: Mittel- und Jungsteinzeit](#category-D) | 2 |
 |007 | G | G: Römische Antike| [G: Römische Antike](#category-G) | 11 |
-|008 | I | I: Das Hochmittelalter| [I: Das Hochmittelalter](#category-I) | 12 |
-|009 | J | J: Das Spätmittelalter| [J: Das Spätmittelalter](#category-J) | 1 |
-|010 | T | Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) | 22 |
-|011 | M | M: Reformation und Glaubenskriege| [M: Reformation und Glaubenskriege](#category-M) | 2 |
-|012 | N | N: Absolutimus und Aufklärung| [N: Absolutismus und Aufklärung](#category-N) | 13 |
-|013 | N | N: Absolutismus und Aufklärung| [N: Absolutismus und Aufklärung](#category-N) | 13 |
-|014 | O | O: Das Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#category-O) | 8 |
-|015 | O | O: Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen](#category-O) | 8 |
-|016 | P | P: Nationalismus und Imperialismus| [P: Nationalismus und Imperialismus](#category-P) | 9 |
-|017 | Q | Q: Erster Weltkrieg| [Q: Erster Weltkrieg](#category-Q) | 2 |
-|018 | R | R: Zwischenkriegszeit| [R: Zwischenkriegszeit](#category-R) | 14 |
-|019 | S | S: Zweiter Weltkrieg| [S: Zweiter Weltkrieg](#category-S) | 19 |
-|020 | T | T: Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) | 22 |
-|021 | T | T: Kalter Krieg und europäische Einigung| [T: Kalter Krieg und europäische Einigung](#category-T) | 22 |
-|022 | U | U: Nach dem Kalten Krieg| [U: Nach dem Kalten Krieg](#category-U) | 3 |
+|008 | I | I: Das Hochmittelalter| [I: Das Hochmittelalter (1000-1250)](#category-I) | 12 |
+|009 | J | J: Das Spätmittelalter| [J: Das späte Mittelalter (1250-1450)](#category-J) | 1 |
+|010 | K | Kalter Krieg und Europäische Einigung| [K: Erste europäische Expansion](#category-K) | 1 |
+|011 | M | M: Reformation und Glaubenskriege| [M: Reformation und Glaubenskriege (1517-1648)](#category-M) | 2 |
+|012 | N | N: Absolutimus und Aufklärung| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 13 |
+|013 | N | N: Absolutismus und Aufklärung| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 13 |
+|014 | O | O: Das Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 |
+|015 | O | O: Zeitalter der Revolutionen| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 |
+|016 | P | P: Nationalismus und Imperialismus| [P: Nationalismus und Imperialismus (1849-1914)](#category-P) | 9 |
+|017 | Q | Q: Erster Weltkrieg| [Q: 1. Weltkrieg (1914-1918)](#category-Q) | 2 |
+|018 | R | R: Zwischenkriegszeit| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 14 |
+|019 | S | S: Zweiter Weltkrieg| [S: 2. Weltkrieg (1939-1945)](#category-S) | 19 |
+|020 | T | T: Kalter Krieg und Europäische Einigung| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 21 |
+|021 | T | T: Kalter Krieg und europäische Einigung| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 21 |
+|022 | U | U: Nach dem Kalten Krieg| [U: Nach dem Kalten Krieg (1990-)](#category-U) | 3 |
 |023 | V | V: Europa aktuell| [V: Europa aktuell](#category-V) | 2 |
-|024 | W | W: Epochenübergreifende Biographien| [W: Epochenübergreifende Biographien](#category-W) | 15 |
-|025 | X | W: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 |
-|026 | X | X: Geschichtswissenschaft und Erinnerungkultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 |
-|027 | X | X: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 |
+|024 | W | W: Epochenübergreifende Biographien| [W: Epochenübergreifende Biographien](#category-W) | 17 |
+|025 | W | W: Geschichtswissenschaft und Erinnerungskultur| [W: Epochenübergreifende Biographien](#category-W) | 17 |
+|026 | X | X: Geschichtswissenschaft und Erinnerungkultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 |
+|027 | X | X: Geschichtswissenschaft und Erinnerungskultur| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 |
 |028 | Y | Y - Quellen| [Y: Quellen](#category-Y) | 161 |
 |029 | Y | Y: Quelle| [Y: Quellen](#category-Y) | 161 |
 |030 | Y | Y: Quellen| [Y: Quellen](#category-Y) | 161 |
 |031 | Y | Y; Quellen| [Y: Quellen](#category-Y) | 161 |
-|032 | Z | Z: Meta/ Podcast| [Z: Meta/ Podcast](#category-Z) | 33 |
+|032 | Z | Z: Meta/ Podcast| [Z: Meta/Podcast](#category-Z) | 33 |
 
 
 ## Episode list (chronologically)
@@ -97,7 +97,7 @@ Organic categories
 |[A-029: Das KZ Dachau (1933-1945), mit Dr. Gabriele Hammermann, Albert Knoll und Dr. Christoph Thonfeld](https://geschichteeuropas.podigee.io/231-231)|231|2023-09-11|20. Jahrhundert, Deutschland, Konzentrationslager, München, Nationalsozialismus, Neuere und neueste Geschichte|
 |[A-030: Das Konzentrationslager Buchenwald (1937-1945), mit Dr. Michael Löffelsender](https://geschichteeuropas.podigee.io/304-304)|304|2024-04-01|Buchenwald, Deutschland, Konzentrationslager, Neuere und neueste Geschichte, Thüringen, Verbrechen, Weimar|
 |[A-031: Neuengamme - KZ und Gedenkstätte, mit Ulrike Jensen](https://geschichteeuropas.podigee.io/103-103)|103|2022-08-22|2. Weltkrieg, 20. Jahrhundert, Deutschland, Erinnerungskultur, Hamburg, Konzentrationslager, Neuengamme, Neuere und neueste Geschichte, Zeitgeschichte|
-|[A-032: Das Konzentrationslager Flossenbürg (1938-1945), mit Lisa Herbst und Tilo Saalmann](https://geschichteeuropas.podigee.io/407-407)|407|2024-10-28|Deutschland, Dietrich Bonhoeffer, Flossenbürg, KZ Flossenbürg, Konzentraionslager, Neuere und Neueste Geschichte|
+|[A-032: Das Konzentrationslager Flossenbürg (1938-1945), mit Lisa Herbst und Timo Saalmann](https://geschichteeuropas.podigee.io/407-407)|407|2024-10-28|Deutschland, Dietrich Bonhoeffer, Flossenbürg, KZ Flossenbürg, Konzentraionslager, Neuere und Neueste Geschichte|
 |[A-032: Trümmerfrauen (?) in Kassel, 1943-1955, mit Helke Dreier und Dr. Kerstin Wolff [Archiv der dt. Frauenbewegung]](https://geschichteeuropas.podigee.io/342-342)|342|2024-07-02|20. Jahrhundert, Deutschland, Enttrümmerung, Geschichtsmythos, Kassel, Luftkrieg, Neuere und neueste Geschichte, Trümmerfrauen, Zeitgeschichte|
 |[A-033: Deals mit Diktaturen - eine andere Geschichte der Bundesrepublik, mit Prof. Dr. Frank Bösch [C. H. Beck]](https://geschichteeuropas.podigee.io/292-292)|292|2024-02-15|20. Jahrhundert, Bundesrepublik Deutschland, Deutschland, Estado Novo, Franco-Spanien, Griechenland, Iran, Portugal, Spanien, Zeitgeschichte|
 |[A-034: Das industrialisierte Rheinische Revier, mit Dr. Walter Hauser [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/250-250)|250|2023-10-29|20. Jahrhundert, 21. Jahrhundert, Braunkohle, Deindustrialisierung, Deutschland, Energiewende, Klimakrise, Nordrhein-Westfalen, Rheinisches Revier, Zeitgeschichte|
@@ -163,7 +163,7 @@ Organic categories
 
 
 <a id="category-I"></a>
-### I: Das Hochmittelalter
+### I: Das Hochmittelalter (1000-1250)
 
 [Top](#top)
 
@@ -184,7 +184,7 @@ Organic categories
 
 
 <a id="category-J"></a>
-### J: Das Spätmittelalter
+### J: Das späte Mittelalter (1250-1450)
 
 [Top](#top)
 
@@ -193,8 +193,18 @@ Organic categories
 |[J-001: Armut in spätmittelalterlichen deutschen Städten, mit Prof. Dr. Jörg Rogge [Univ. Potsdam]](https://geschichteeuropas.podigee.io/344-344)|344|2024-07-06|Armut, Deutschland, Gesellschaftsordnung, Mittelalter, Spätmittelalter, Stadt, Zünfte|
 
 
+<a id="category-K"></a>
+### K: Erste europäische Expansion
+
+[Top](#top)
+
+|title |episode | publication date| keywords |
+|---|---|---|---|
+|[T-019: Die RAF und der "Deutsche Herbst" (1977), mit Kevin Lenk](https://geschichteeuropas.podigee.io/123-123)|123|2022-10-06|20. Jahrhundert, Andreas Baader, Deutscher Herbst, Deutschland, Hanns Martin Schleyer, Helmut Schmidt, Rote Armee Fraktion, Stuttgart-Stammheim, Terrorismus, Zeitgeschichte|
+
+
 <a id="category-M"></a>
-### M: Reformation und Glaubenskriege
+### M: Reformation und Glaubenskriege (1517-1648)
 
 [Top](#top)
 
@@ -205,7 +215,7 @@ Organic categories
 
 
 <a id="category-N"></a>
-### N: Absolutismus und Aufklärung
+### N: Absolutismus und Aufklärung (1648-1789)
 
 [Top](#top)
 
@@ -231,7 +241,7 @@ Organic categories
 
 
 <a id="category-O"></a>
-### O: Zeitalter der Revolutionen
+### O: Zeitalter der Revolutionen (1789-1848)
 
 [Top](#top)
 
@@ -242,7 +252,7 @@ Organic categories
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[O-001: Die "Franzosenzeit" im Rheinischen Revier, mit Dr. Helmut Rönz [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/218-218)|218|2023-07-30|19. Jahrhundert, Aachen, Deutschland, Frankreich, Französische Revolution, Napoleon Bonaparte, Neuere und neueste Geschichte, Rheinisches Revier, Roerdeparment, Westeuropa|
-|[O-002: Champollion und die Hieroglyphen (1822), mit Roxane Bicker (Mummies & Magic)](https://geschichteeuropas.podigee.io/74-74)|074|2022-03-07|??? INCONSISTANT FORMAT ???|
+|[O-002: Champollion und die Hieroglyphen (1822), mit Roxane Bicker (Mummies & Magic)](https://geschichteeuropas.podigee.io/74-74)|074|2022-03-07|<p style="background-color:Tomato; color:white;">MISSING</p>|
 |[O-003: "Die Generalprobe" (1841), mit Stephan Brakensiek, Dorothée Henschel und Stephan Laux [Stadtmuseum Trier]](https://geschichteeuropas.podigee.io/278-278)|278|2023-12-30|19. Jahrhundert, Armut, Deutschland, Frankreich, Friedrich Anton Wyttenbach, Kunst, München, Neuere und neueste Geschichte, Savoyen, Westeuropa|
 |[O-004: Die Entdeckung des Neptuns (1846), mit Prof. Dr. Matthias Steinmetz](https://geschichteeuropas.podigee.io/46-46)|046|2021-09-20|19. Jahrhundert, Astronomie, Berlin, Deutschland, England, Frankreich, James Challis, Johann Gottfried Galle, Neptun, Neuere und neueste Geschichte, Urbain Le Verrier, Westeuropa|
 |[O-005: 1848 - Erfolgsgeschichte einer gescheiterten Revolution, mit Dr. Alexandra Bleyer [Reclam]](https://geschichteeuropas.podigee.io/110-110)|110|2022-09-06|19. Jahrhundert, Neuere und neueste Geschichte, Osteuropa, Revolution von 1848/49, Westeuropa|
@@ -252,7 +262,7 @@ Organic categories
 
 
 <a id="category-P"></a>
-### P: Nationalismus und Imperialismus
+### P: Nationalismus und Imperialismus (1849-1914)
 
 [Top](#top)
 
@@ -270,7 +280,7 @@ Organic categories
 
 
 <a id="category-Q"></a>
-### Q: Erster Weltkrieg
+### Q: 1. Weltkrieg (1914-1918)
 
 [Top](#top)
 
@@ -281,7 +291,7 @@ Organic categories
 
 
 <a id="category-R"></a>
-### R: Zwischenkriegszeit
+### R: Zwischenkriegszeit (1918-1939)
 
 [Top](#top)
 
@@ -304,7 +314,7 @@ Organic categories
 
 
 <a id="category-S"></a>
-### S: Zweiter Weltkrieg
+### S: 2. Weltkrieg (1939-1945)
 
 [Top](#top)
 
@@ -332,14 +342,13 @@ Organic categories
 
 
 <a id="category-T"></a>
-### T: Kalter Krieg und europäische Einigung
+### T: Kalter Krieg und Europäische Einigung (1945-1990)
 
 [Top](#top)
 
 Organic categories
-1. *Kalter Krieg und Europäische Einigung*
-2. *T: Kalter Krieg und Europäische Einigung*
-3. *T: Kalter Krieg und europäische Einigung*
+1. *T: Kalter Krieg und Europäische Einigung*
+2. *T: Kalter Krieg und europäische Einigung*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -361,14 +370,13 @@ Organic categories
 |[T-016: Sowjetische Aufbruchvisionen zum Ende des Kalten Kriegs, mit Prof. Dr. Susanne Schattenberg](https://geschichteeuropas.podigee.io/209-209)|209|2023-06-26|20. Jahrhundert, Entspannungspolitik, Gasexporte, Kalter Krieg, Natalja Gorbanewskaja, Neue Ostpolitik, Nikita Chruschtschow, Osteuropa, Sowjetunion, Zeitgeschichte|
 |[T-017: Deutsch-deutsche Umweltpolitik im Kalten Krieg (1970-1989), mit Sophie Lange](https://geschichteeuropas.podigee.io/54-54)|054|2021-11-15|20. Jahrhundert, DDR, Deutschland, Kalter Krieg, Umwelt, Zeitgeschichte|
 |[T-018: Das Münchener Olympia-Attentat (1972), mit Bernhard Purin](https://geschichteeuropas.podigee.io/109-109)|109|2022-09-05|20. Jahrhundert, Deutschland, München, Nahostkonflikt, Olympia-Attentat 1972, Olympische Spiele 1972, Zeitgeschichte|
-|[T-019: Die RAF und der "Deutsche Herbst" (1977), mit Kevin Lenk](https://geschichteeuropas.podigee.io/123-123)|123|2022-10-06|20. Jahrhundert, Andreas Baader, Deutscher Herbst, Deutschland, Hanns Martin Schleyer, Helmut Schmidt, Rote Armee Fraktion, Stuttgart-Stammheim, Terrorismus, Zeitgeschichte|
 |[T-020: Flucht nach Österreich im Kalten Krieg, mit Sarah Knoll](https://geschichteeuropas.podigee.io/67-67)|067|2022-01-31|20. Jahrhundert, DDR, Europa, Flucht, Kalter Krieg, Osteuropa, Ungarischer Volksaufstand 1956, Ungarn, Wende, Zeitgeschichte, Österreich|
 |[T-021: Kirchenbau in der späten DDR-Zeit, mit Dr. Karin Berkemann [AG Kirche und Kulturerbe, Univ. Greifswald]](https://geschichteeuropas.podigee.io/229-229)|229|2023-09-05|20. Jahrhundert, DDR, Deutschland, Erinnerungskultur, Kirchen, Kirchenbau, Ostdeutschland, Religion, Stadtplanung, Zeitgeschichte|
 |[T-022: Die Auflösung der Sowjetunion (1991), mit Prof. Dr. Susanne Schattenberg](https://geschichteeuropas.podigee.io/60-60)|060|2021-12-27|20. Jahrhundert, Europa, Kalter Krieg, Michail Gorbatschow, Osteuropa, Quelle, Russland, Sowjetunion, Zeitgeschichte|
 
 
 <a id="category-U"></a>
-### U: Nach dem Kalten Krieg
+### U: Nach dem Kalten Krieg (1990-)
 
 [Top](#top)
 
@@ -395,6 +403,10 @@ Organic categories
 
 [Top](#top)
 
+Organic categories
+1. *W: Epochenübergreifende Biographien*
+2. *W: Geschichtswissenschaft und Erinnerungskultur*
+
 |title |episode | publication date| keywords |
 |---|---|---|---|
 |[O-009: Der Revolutionär Robert Blum (1807-48), mit Dr. Katharina Thielen [LVR Institut f. Landeskunde & Regionalgesch.]](https://geschichteeuropas.podigee.io/256-256)|256|2023-11-10|19. Jahrhundert, Deutschland, Frankfurt, Köln, Leipzig, Neuere und neueste Geschichte, Paulskirchenparlament, Revolution von 1848/49, Robert Blum, Wien|
@@ -412,6 +424,8 @@ Organic categories
 |[W-011: Der Bundeskanzler Kurt Georg Kiesinger (1904-1988), mit Prof. Dr. Philipp Gassert](https://geschichteeuropas.podigee.io/239-239)|239|2023-10-02|20. Jahrhundert, Baden-Württemberg, Beate Klarsfeld, CDU, Deutschland, Konrad Adenauer, Kurt Georg Kiesinger, NS-Aufarbeitung, Neuere und neueste Geschichte, Zeitgeschichte|
 |[W-012: Die NS-Widerstandskämpfer Tilly Spiegel (1906-88) und Franz Marek (1913-79), mit Dr. Ina Markova und Sarah Knoll](https://geschichteeuropas.podigee.io/99-99)|099|2022-08-08|20. Jahrhundert, Biographie, Frankreich, Franz Marek, NS-Widerstand, Neuere und neueste Geschichte, Tilly Spiegel, Westeuropa, Zeitgeschichte, Österreich|
 |[W-013: Willy Brandts NS-Widerstand und Exil (1933-1945), mit Frauke Kleine Wächter und Dr. Kristina Meyer [BWBS]](https://geschichteeuropas.podigee.io/220-220)|220|2023-08-07|20. Jahrhundert, Deutschland, Exil, NS-Widerstand, Nationalsozialismus, Neuere und neueste Geschichte, Nordeuropa, Norwegen, Schweden, Willy Brandt|
+|[X-014: "Tempo! Tempo!" Zeit und Zeitwahrnehmung in der Geschichte, mit Dr. Andreas Braune [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/248-248)|248|2023-10-24|Antike, Deutschland, Erinnerungskultur, Europa, Frühe Neuzeit, Mittelalter, Neuere und Neueste Geschichte, Weimar, Zeit|
+|[X-022: Mit der Vergangenheit in die Zukunft: Resilienz aus Umbrüchen, mit M. Kolocek &  F. Matzke [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/295-295)|295|2024-02-25|20. Jahrhundert, 21. Jahrhundert, Deutschland, Erinnerungskultur, Rheinisches Revier, Sozialforschung, Soziologie, Zeitgeschichte|
 
 
 <a id="category-X"></a>
@@ -420,9 +434,8 @@ Organic categories
 [Top](#top)
 
 Organic categories
-1. *W: Geschichtswissenschaft und Erinnerungskultur*
-2. *X: Geschichtswissenschaft und Erinnerungkultur*
-3. *X: Geschichtswissenschaft und Erinnerungskultur*
+1. *X: Geschichtswissenschaft und Erinnerungkultur*
+2. *X: Geschichtswissenschaft und Erinnerungskultur*
 
 |title |episode | publication date| keywords |
 |---|---|---|---|
@@ -439,7 +452,6 @@ Organic categories
 |[X-011: Byzantinistik, mit Dr. Günter Fuchs (Anno Mundi)](https://geschichteeuropas.podigee.io/178-178)|178|2023-04-03|18. Jahrhundert, 19. Jahrhundert, 20. Jahrhundert, Byzantinistik, Europa, Frühe Neuzeit, Neuere und neueste Geschichte, Oströmisches Reich, Wissenschaftsgeschichte, Zeitgeschichte|
 |[X-012: Der "Mythos Bismarck", mit Dr. Ulf Morgenstern [Otto-von-Bismarck-Stiftung]](https://geschichteeuropas.podigee.io/215-215)|215|2023-07-24|20. Jahrhundert, 21. Jahrhundert, Deutschland, Erinnerungskultur, Friedrichsruh, Geschichtsmythos, Hamburg, Neuere und neueste Geschichte, Otto von Bismarck, Postkolonialismus|
 |[X-013: "Juni '53" - vom historischen Stoff zum historischen Roman, mit Frank Goldammer [Konrad-Adenauer-Stiftung]](https://geschichteeuropas.podigee.io/217-217)|217|2023-07-29|20. Jahrhundert, DDR, Deutschland, Dresden, Historischer Roman, Max Heller, Volksaufstand in der DDR, Zeitgeschichte|
-|[X-014: "Tempo! Tempo!" Zeit und Zeitwahrnehmung in der Geschichte, mit Dr. Andreas Braune [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/248-248)|248|2023-10-24|Antike, Deutschland, Erinnerungskultur, Europa, Frühe Neuzeit, Mittelalter, Neuere und Neueste Geschichte, Weimar, Zeit|
 |[X-015: Die Diskussion um die DDR als #Unrechtsstaat auf Twitter, mit Robert Scholz](https://geschichteeuropas.podigee.io/251-251)|251|2023-10-30|20. Jahrhundert, 21. Jahrhundert, DDR, Deutschland, Diskurs, Twitter, Unrechtsstaat, Wende, Wiedervereinigung, Zeitgeschichte|
 |[X-016: Transottomanica: Osteuropäisch-nahöstliche Verflechtungen, mit Denise Klein u. Anna Vlachopoulou [Univ. Leipzig]](https://geschichteeuropas.podigee.io/258-258)|258|2023-11-16|Balkan, Migration, Mobilität, Naher Osten, Neuere und neueste Geschichte, Osmanisches Reich, Osteuropa, Südeuropa, Transottomanica, Verflechtungsgeschichte|
 |[X-017: "Wolken und Berge" und veränderte Landschaften, mit Alexandra Orth und Dr. Manuel Seeger [Stadtmuseum Trier]](https://geschichteeuropas.podigee.io/263-263)|263|2023-11-25|20. Jahrhundert, Deutschland, Eifel, Fritz von Wille, Gemälde, Klimawandel, Landschaft, Neuere und neueste Geschichte, Sötenich, Umwelt|
@@ -447,7 +459,6 @@ Organic categories
 |[X-019: Niedersächsische Archive im Nationalsozialismus, mit Sabine Graf & Dietmar v. Reeken [Niedersächs. Landesarchiv]](https://geschichteeuropas.podigee.io/265-265)|265|2023-11-27|20. Jahrhundert, Archiv, Aufarbeitung, Deutschland, Nachkriegszeit, Nationalsozialismus, Neuere und neueste Geschichte, Niedersachsen, Zeitgeschichte|
 |[X-020: Archäologie im Braunkohletagebau, mit Robin Peters und Prof. Dr. Michael Schmauder [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/279-279)|279|2023-12-31|Antike, Archäologie, Braunkohletagebau, Deutschland, Mittelalter, Rheinisches Revier, Zeitgeschichte|
 |[X-021: Keyenberg: Leben mit dem Loch, mit Dr. des. Anja Schmid-Engbrodt und Dr. Judith Schmidt [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/287-287)|287|2024-01-28|21. Jahrhundert, Braunkohle, Deutschland, Fridays for Future, Garzweiler, Keyenberg, Klimawandel, Rheinisches Revier, Tagebau, Zeitgeschichte|
-|[X-022: Mit der Vergangenheit in die Zukunft: Resilienz aus Umbrüchen, mit M. Kolocek &  F. Matzke [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/295-295)|295|2024-02-25|20. Jahrhundert, 21. Jahrhundert, Deutschland, Erinnerungskultur, Rheinisches Revier, Sozialforschung, Soziologie, Zeitgeschichte|
 |[X-023: Das archäologische Projekt Manheim, mit Dr. Martin Heinen und Susanne Harke-Schmidt [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/303-303)|303|2024-03-31|Archäologie, Braunkohle, Deutschland, Manheim, Rheinisches Revier, Zeitgeschichte|
 |[X-024: Immaterielles Kulturerbe zwischen Südosteuropa u. deutschsprachigem Raum, mit Y. Zivkovic [KFU Graz] & M. Thaden](https://geschichteeuropas.podigee.io/322-322)|322|2024-05-28|20. Jahrhundert, Balkan, Kulturaustausch, Kulturerbe, Mitteleuropa, Südosteuropa, UNESCO, Westeuropa|
 |[X-025: Die Vertriebenenwallfahrt "Maria in der Ferne" - Identität und Integration, mit Dr. Heinke Kalinke [IKKDOS e.V.]](https://geschichteeuropas.podigee.io/331-331)|331|2024-06-13|Deutschland, Heimatvertriebene, Hildesheim, Integration, Maria in der Ferne, Wallfahrt, Zeitgeschichte|
@@ -638,7 +649,7 @@ Organic categories
 
 
 <a id="category-Z"></a>
-### Z: Meta/ Podcast
+### Z: Meta/Podcast
 
 [Top](#top)
 
@@ -649,11 +660,11 @@ Organic categories
 |[Z-003: Deutschland und England bei der EM 2021](https://geschichteeuropas.podigee.io/b31-31)|031|2021-06-11|Deutschland, EM 2021, England, Europa, Herrenfußball, Zeitgeschichte|
 |[Z-004: Wie heißen und zu welchem Ende produzieren wir Geschichtspodcasts?](https://geschichteeuropas.podigee.io/b61-61)|061|2021-12-31|Geschichtspodcasts|
 |[Z-005: Jahresrückblick 2021](https://geschichteeuropas.podigee.io/b62-62)|062|2022-01-01|Jahresrückblick|
-|[Z-006: Bugfix #1](https://geschichteeuropas.podigee.io/b70-70)|070|2022-02-16|??? INCONSISTANT FORMAT ???|
+|[Z-006: Bugfix #1](https://geschichteeuropas.podigee.io/b70-70)|070|2022-02-16|<p style="background-color:Tomato; color:white;">MISSING</p>|
 |[Z-007: Überraschung zum 2. Podcastgeburtstag!](https://geschichteeuropas.podigee.io/b95-95)|095|2022-07-27|Meta|
 |[Z-008: schwarze0fm entwickelt sich weiter](https://geschichteeuropas.podigee.io/b107-107)|107|2022-09-03|Ankündigung, Auftragsproduktion|
 |[Z-009: Sonderreihe zur Hanse mit dem EHM & der FGHO!](https://geschichteeuropas.podigee.io/b112-112)|112|2022-09-09|Hanse, Sonderserie|
-|[Z-010: Drei Monate Doppelprogramm!](https://geschichteeuropas.podigee.io/b132-132)|132|2022-11-01|??? INCONSISTANT FORMAT ???|
+|[Z-010: Drei Monate Doppelprogramm!](https://geschichteeuropas.podigee.io/b132-132)|132|2022-11-01|<p style="background-color:Tomato; color:white;">MISSING</p>|
 |[Z-011: Sondereihe zu Pompeji mit dem Staatlichen Museum für Archäologie in Chemnitz!](https://geschichteeuropas.podigee.io/b133-133)|133|2022-11-03|Ankündigung, Pompeji, Sonderserie, smac|
 |[Z-012: Zur Sonderausstellung "Pompeji & Herculaneum" im Staatlichen Museum für Archäologie Chemnitz](https://geschichteeuropas.podigee.io/b137-137)|137|2022-11-12|1. Jahrhundert, Antike, Ausstellung, Italien, Pompeji, Südeuropa, Vesuv|
 |[Z-013: Get-Together 2 - Podcasting Booglaoo!](https://geschichteeuropas.podigee.io/b151-151)|151|2022-12-31|Geschichtspodcasts, Jahresende, Quiz|
@@ -667,8 +678,8 @@ Organic categories
 |[Z-021: Der 3. Podcast-Geburtstag!](https://geschichteeuropas.podigee.io/b216-216)|216|2023-07-27|Meta|
 |[Z-022: Sonderreihe zu "Tell me more - Bilder erzählen Geschichten" im Stadtmuseum Trier!](https://geschichteeuropas.podigee.io/t233-233)|233|2023-09-16|Gemälde, Kunst, Kunstgschichte, Sonderausstellung, Stadtmuseum Trier, Tell me more|
 |[Z-023: Sonderreihe zur (süd)osteuropäischen Geschichte mit der Universität Leipzig!](https://geschichteeuropas.podigee.io/b245-245)|245|2023-10-19|Ankündigung, Kolloquium, Osteuropa, Südeuropa, Süodosteuropa|
-|[Z-024: Get-together 3: Der Übungsplatz der reformierten Podcast-Druiden](https://geschichteeuropas.podigee.io/b277-277)|277|2023-12-29|??? INCONSISTANT FORMAT ???|
-|[Z-025: Jahresrückblick 2023](https://geschichteeuropas.podigee.io/b280-280)|280|2023-12-31|??? INCONSISTANT FORMAT ???|
+|[Z-024: Get-together 3: Der Übungsplatz der reformierten Podcast-Druiden](https://geschichteeuropas.podigee.io/b277-277)|277|2023-12-29|<p style="background-color:Tomato; color:white;">MISSING</p>|
+|[Z-025: Jahresrückblick 2023](https://geschichteeuropas.podigee.io/b280-280)|280|2023-12-31|<p style="background-color:Tomato; color:white;">MISSING</p>|
 |[Z-026: Goodbye, Auf den Tag genau!](https://geschichteeuropas.podigee.io/b297-297)|297|2024-02-29|Auf den Tag genau, Podcast|
 |[Z-027: ACH! Schade, das war's!](https://geschichteeuropas.podigee.io/b308-308)|308|2024-04-23|Das ACH!, Podcast|
 |[Z-028: Ankündigung der Sonderreihe „Kirche in Wandel: Integration von Flüchtlingen und Vertriebenen (1945-1963)"](https://geschichteeuropas.podigee.io/b310-310)|310|2024-05-02|Ankündigung, Sonderreihe|
