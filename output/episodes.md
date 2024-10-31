@@ -14,7 +14,7 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 <a id="categories"></a>
 ## Categories
 
-| #  | marker |title (organic)| title (curated)| #episodes |
+| #  | id | organic name| curated name | #episodes |
 |---:|:---:|:---------------|:-------------|:---:|
 |000 | A | A - Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) | 42 |
 |001 | A | A: Epochenübergreifende Themen| [A: Epochenübergreifende Themen](#category-A) | 42 |
