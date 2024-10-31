@@ -184,7 +184,7 @@ def format_markdown(p: pathlib.Path,
         [
             f'<a id="categories"></a>\n'
             '## Categories\n\n',
-            '| #  | marker |title (organic)| title (currated)| #episodes |\n',
+            '| #  | marker |title (organic)| title (curated)| #episodes |\n',
             '|---:|:---:|:---------------|:-------------|:---:|\n']
         )
 
