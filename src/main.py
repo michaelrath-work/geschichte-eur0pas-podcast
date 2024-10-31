@@ -15,56 +15,6 @@ NAMESPACES = {'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'}
 UNKNOWN_CATEGORY_TAG = '??? UNKNOWN_CATEGORY ???'
 
 @dataclasses.dataclass
-class Category:
-    organic: str
-    adjusted: str
-
-    @staticmethod
-    def adjust_category(organic: str) -> "Category":
-        A = 'A: Epochenübergreifende Themen'
-        N = 'N: Absolutismus und Aufklärung'
-        O = 'O: Zeitalter der Revolutionen'
-        T = 'T: Kalter Krieg und europäische Einigung'
-        X = 'X: Geschichtswissenschaft und Erinnerungskultur'
-        Y = 'Y: Quellen'
-        MAPPING = {
-            'A - Epochen': A,
-            'A; Epochen': A,
-            'A: Epochen': A,
-
-            'N: Absolutimus und Aufklärung': N,
-
-            'O: Das Zeitalter der Revolutionen': O,
-
-            'T: Kalter Krieg': T,
-            'Kalter Krieg': T,
-
-            'W: Geschichtswissenschaft und Erinnerungskultur': X,
-            'X: Geschichtswissenschaft und': X,
-
-            'Y: Quelle': Y,
-            'Y - Quellen': Y,
-            'Y; Quellen': Y,
-        }
-
-        for k, v in MAPPING.items():
-            if organic.startswith(k):
-                return Category(organic, v)
-
-        return Category(organic, organic)
-
-    @staticmethod
-    def markdown_category_link(s: str) -> str:
-        return f'category-{s}'
-
-    def identifier(s: str) -> str:
-        g = s.split(':')
-        if len(g) > 1:
-            return g[0].strip()
-        return '?'
-
-
-@dataclasses.dataclass
 class Episode:
     organic_category: str
     adjusted_category: str
@@ -76,14 +26,39 @@ class Episode:
 
     @staticmethod
     def adjust_category(e: "Episode") -> "Episode":
-        e.adjusted_category = Category.adjust_category(e.organic_category).adjusted
+        e.adjusted_category = Category.adjust(e.organic_category).adjusted
         return e
 
 
 @dataclasses.dataclass
-class DefinedCategory:
+class PredefinedCategory:
     id: str
     name: str
+
+
+@dataclasses.dataclass
+class Category:
+    organic: str
+    adjusted_id: str
+    adjusted_name: str
+
+    @staticmethod
+    def adjust(categories: typing.List[PredefinedCategory], organic: str) -> "Category":
+        CATEGORY_MAP = {i.id: i.name for i in categories}
+
+        for k, v in CATEGORY_MAP.items():
+            if organic[0] == k:
+                return Category(organic, k, v)
+
+        return Category(organic, organic, organic)
+
+    def afjusted_str(self):
+        return f'{self.adjusted_id}: {self.adjusted_name}'
+
+    @staticmethod
+    def markdown_category_link(s: str) -> str:
+        return f'category-{s}'
+
 
 @dataclasses.dataclass
 class Channel:
@@ -126,7 +101,7 @@ def convert_str_to_date(a: any, default: datetime.date = datetime.date(2000, 1,1
 
 
 
-def analyse_channel_data(xml_channel: ET.Element) -> AnalysisResult:
+def analyse_channel_data(xml_channel: ET.Element, predefined_categories: typing.List[Category]) -> AnalysisResult:
     categories = set()
 
     channel = Channel(
@@ -139,7 +114,7 @@ def analyse_channel_data(xml_channel: ET.Element) -> AnalysisResult:
     episodes : typing.List[Episode] = []
     for item in xml_channel.findall('item'):
         title = item.find('itunes:title', NAMESPACES)
-        category = get_xml_node_text_or_default(
+        organic_category = get_xml_node_text_or_default(
             item.find('itunes:subtitle', NAMESPACES),
             default=UNKNOWN_CATEGORY_TAG)
         link = get_xml_node_text_or_default(
@@ -164,8 +139,7 @@ def analyse_channel_data(xml_channel: ET.Element) -> AnalysisResult:
 
         episodes.append(
             Episode(
-                organic_category=category,
-                adjusted_category=category,
+                category=Category.adjust(predefined_categories, organic_category),
                 title=title.text or '???',
                 number=episode_number,
                 publication_date=publication_date,
@@ -174,8 +148,7 @@ def analyse_channel_data(xml_channel: ET.Element) -> AnalysisResult:
             )
         )
 
-
-        categories.add(category)
+        categories.add(organic_category)
 
     return AnalysisResult(
         channel=channel,
@@ -183,9 +156,16 @@ def analyse_channel_data(xml_channel: ET.Element) -> AnalysisResult:
         categories=categories
     )
 
+
+def select_by_adjusted_category(c: Category, e: Episode) -> bool:
+    return (
+        (e.category.adjusted_id == c.adjusted_id)
+        and (e.category.adjusted_name == c.adjusted_name))
+
+
 def format_markdown(p: pathlib.Path,
                     analysis_result: AnalysisResult,
-                    categories: typing.List[Category], episodes: typing.List[Episode]):
+                    adjusted_categories: typing.List[Category]):
     lines = []
     lines.extend([
         f'<a id="top"></a>\n',
@@ -209,40 +189,41 @@ def format_markdown(p: pathlib.Path,
         [
             f'<a id="categories"></a>\n'
             '## Categories\n\n',
-            '| #  | marker |title (organic)| title (re-categorized by MR)| #episodes |\n',
+            '| #  | marker |title (organic)| title (adjusted)| #episodes |\n',
             '|---:|:---:|:---------------|:-------------|:---:|\n']
         )
-    categories_sorted = sorted(categories, key= lambda x: x.organic)
 
-    unique_categories = set([x.adjusted for x in categories])
+    organic_categories_sorted = sorted(adjusted_categories, key= lambda x: x.organic)
 
-    for i, cat in enumerate(categories_sorted):
-        category_link = f'[{cat.adjusted}](#{Category.markdown_category_link(Category.identifier(cat.adjusted))})'
-        category_id = Category.identifier(cat.adjusted)
-        ep: typing.List[Episode] = list(filter(lambda x: x.adjusted_category == cat.adjusted, episodes))
+    for i, cat in enumerate(organic_categories_sorted):
+        ep: typing.List[Episode] = list(filter(
+            functools.partial(select_by_adjusted_category, cat),
+            analysis_result.episodes))
         num_episodes = len(ep)
-        # print(f'episodes for {cat.adjusted}, {num_episodes}')
-        lines.append(f'|{i:03d} | {category_id} | {cat.organic}| {category_link} | {num_episodes:d} |\n')
+        category_link = f'[{cat.adjusted_str()}](#{cat.markdown_category_link()})'
+        lines.append(f'|{i:03d} | {cat.adjusted_id} | {cat.organic}| {category_link} | {num_episodes:d} |\n')
 
     lines.extend([
         '\n\n',
         '## Episode list (chronologically)\n\n',
     ])
 
-    for adjusted_category in sorted(unique_categories):
+    helper_unschoen = set([(c.adjusted_id, c.adjusted_name) for c in adjusted_categories])
+    unique_categories = [Category(None, e[0], e[1]) for e in helper_unschoen]
+
+    for category in sorted(unique_categories, key=lambda x: x.adjusted_id):
         lines.extend([
-            f'<a id="{Category.markdown_category_link(Category.identifier(adjusted_category))}"></a>\n'
-            f'### {adjusted_category}\n\n'
+            f'<a id="{category.markdown_category_link()}"></a>\n'
+            f'### {category.adjusted_str()}\n\n'
         ])
 
         selected_episodes: typing.List[Episode] = sorted(
-            filter(lambda x: x.adjusted_category == adjusted_category, episodes),
-        key=lambda x: x.title)
-        organic_categories = sorted(set([x.organic_category for x in selected_episodes]))
-
+            filter(functools.partial(select_by_adjusted_category, category), analysis_result.episodes),
+            key=lambda x: x.title)
+        organic_categories = sorted(set([x.category.organic for x in selected_episodes]))
         lines.append(f'[Top](#top)\n\n')
 
-        if (len(organic_categories) > 1) or (adjusted_category not in organic_categories):
+        if len(organic_categories) > 1:
             def italic(s: str) -> str:
                 return f'*{s}*'
 
@@ -280,14 +261,14 @@ def download_current_feed() -> pathlib.Path:
     return output_file_path
 
 
-def poor_mans_csv_parser(p: pathlib.Path) -> typing.List[DefinedCategory]:
-    r: typing.List[DefinedCategory] = []
+def poor_mans_csv_parser(p: pathlib.Path) -> typing.List[PredefinedCategory]:
+    r: typing.List[PredefinedCategory] = []
     with open(p, 'r') as fd:
         for idx, line in enumerate(fd.readlines()):
             if idx == 0:
                 continue
             column_values = [l.strip() for l in line.split(',')]
-            r.append(DefinedCategory(column_values[0], column_values[1]))
+            r.append(PredefinedCategory(column_values[0], column_values[1]))
     return r
 
 
