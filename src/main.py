@@ -1,3 +1,4 @@
+import collections
 import dataclasses
 import datetime
 import functools
@@ -158,11 +159,56 @@ def select_by_adjusted_category(c: Category, e: Episode) -> bool:
         and (e.category.adjusted_name == c.adjusted_name))
 
 
-def format_markdown(p: pathlib.Path,
-                    analysis_result: AnalysisResult,
-                    adjusted_categories: typing.List[Category]):
-    lines = []
+def episode_list_per_category(category: Category, analysis_result: AnalysisResult) -> typing.List[str]:
+    lines: typing.List[str] = [
+            f'<a id="{category.markdown_category_link()}"></a>\n'
+            f'### {category.adjusted_str()}\n\n'
+        ]
+
+    selected_episodes: typing.List[Episode] = sorted(
+        filter(functools.partial(select_by_adjusted_category, category), analysis_result.episodes),
+        key=lambda x: x.title)
+    organic_categories = sorted(set([x.category.organic for x in selected_episodes]))
+    lines.append(f'[Top](#top)\n\n')
+
+    if len(organic_categories) > 1:
+        def italic(s: str) -> str:
+            return f'*{s}*'
+
+        lines.append(f'Organic categories\n')
+        for idx, c in enumerate(organic_categories):
+            lines.append(f'{idx+1}. {italic(c)}\n')
+        lines.append('\n')
+
+
     lines.extend([
+        f'|title |episode | publication date| keywords |\n',
+        '|---|---|---|---|\n',
+    ])
+
+    for ep in selected_episodes:
+        keywords = ', '.join(sorted(ep.keywords))
+        lines.append(
+            f'|[{ep.title}]({ep.link})|{ep.number:03d}|{ep.publication_date:%Y-%m-%d}|{keywords}|\n'
+        )
+
+    lines.append('\n\n')
+    return lines
+
+
+def keyword_usage(ar: AnalysisResult) -> collections.Counter:
+    kws = [
+        k.strip() for e in ar.episodes
+        for k in e.keywords
+    ]
+    return collections.Counter(kws)
+
+
+def format_episodes_as_markdown(p: pathlib.Path,
+                                analysis_result: AnalysisResult,
+                                adjusted_categories: typing.List[Category]):
+    output_lines = []
+    output_lines.extend([
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
         '\n\n'
@@ -172,15 +218,15 @@ def format_markdown(p: pathlib.Path,
 
     now = datetime.datetime.now()
     format_date_to_ymd = lambda x: f'{x:%Y-%m-%d}'
-    lines.extend('## Meta\n\n')
-    lines.extend('|key |value|\n')
-    lines.extend('|:---|:----|\n')
-    lines.extend(f'|podcast first published|{format_date_to_ymd(analysis_result.channel.publication_date)}|\n')
-    lines.extend(f'|podcast last build|{format_date_to_ymd(analysis_result.channel.last_build_date)}|\n')
-    lines.extend(f'|date of generation of this list|{format_date_to_ymd(now)}|\n')
-    lines.extend('\n')
+    output_lines.extend('## Meta\n\n')
+    output_lines.extend('|key |value|\n')
+    output_lines.extend('|:---|:----|\n')
+    output_lines.extend(f'|podcast first published|{format_date_to_ymd(analysis_result.channel.publication_date)}|\n')
+    output_lines.extend(f'|podcast last build|{format_date_to_ymd(analysis_result.channel.last_build_date)}|\n')
+    output_lines.extend(f'|date of generation of this list|{format_date_to_ymd(now)}|\n')
+    output_lines.extend('\n')
 
-    lines.extend(
+    output_lines.extend(
         [
             f'<a id="categories"></a>\n'
             '## Categories\n\n',
@@ -196,53 +242,46 @@ def format_markdown(p: pathlib.Path,
             analysis_result.episodes))
         num_episodes = len(ep)
         category_link = f'[{cat.adjusted_str()}](#{cat.markdown_category_link()})'
-        lines.append(f'|{cat.adjusted_id}| {category_link} | {num_episodes:d} | {cat.organic} |\n')
-
-    lines.extend([
-        '\n\n',
-        '## Episode list (chronologically)\n\n',
-    ])
+        output_lines.append(f'|{cat.adjusted_id}| {category_link} | {num_episodes:d} | {cat.organic} |\n')
 
     helper_unschoen = set([(c.adjusted_id, c.adjusted_name) for c in adjusted_categories])
     unique_categories = [Category(None, e[0], e[1]) for e in helper_unschoen]
 
+    output_lines.extend([
+        '\n\n',
+        '## Keywords \n\n',
+        'List of all used [keywords](keywords.md)\n\n'
+    ])
+
+    output_lines.extend([
+        '\n\n',
+        '## Episode list (chronologically)\n\n',
+    ])
+
     for category in sorted(unique_categories, key=lambda x: x.adjusted_id):
-        lines.extend([
-            f'<a id="{category.markdown_category_link()}"></a>\n'
-            f'### {category.adjusted_str()}\n\n'
-        ])
-
-        selected_episodes: typing.List[Episode] = sorted(
-            filter(functools.partial(select_by_adjusted_category, category), analysis_result.episodes),
-            key=lambda x: x.title)
-        organic_categories = sorted(set([x.category.organic for x in selected_episodes]))
-        lines.append(f'[Top](#top)\n\n')
-
-        if len(organic_categories) > 1:
-            def italic(s: str) -> str:
-                return f'*{s}*'
-
-            lines.append(f'Organic categories\n')
-            for idx, c in enumerate(organic_categories):
-                lines.append(f'{idx+1}. {italic(c)}\n')
-            lines.append('\n')
-
-
-        lines.extend([
-            f'|title |episode | publication date| keywords |\n',
-            '|---|---|---|---|\n',
-        ])
-
-        for ep in selected_episodes:
-            keywords = ', '.join(sorted(ep.keywords))
-            lines.append(
-                f'|[{ep.title}]({ep.link})|{ep.number:03d}|{ep.publication_date:%Y-%m-%d}|{keywords}|\n'
-            )
-
-        lines.append('\n\n')
+        output_lines.extend(episode_list_per_category(category, analysis_result))
 
     with open(p, mode='w') as f:
-        f.writelines(lines)
+        f.writelines(output_lines)
+
+
+def format_keywords_as_markdown(p: pathlib.Path,
+                                analysis_result: AnalysisResult):
+    output_lines = [
+        f'<a id="top"></a>\n',
+        '# Used keywords\n\n',
+        '[Episode list](episodes.md)\n\n',
+        '|keyword| #appearences |     |\n',
+        '|:------|-------------:|:---:|\n',
+    ]
+
+    ku = keyword_usage(analysis_result)
+    for kw in sorted(ku.keys()):
+        l = f'|{kw} | {ku[kw]} | [top](#top) |\n'
+        output_lines.append(l)
+
+    with open(p, mode='w') as f:
+        f.writelines(output_lines)
 
 
 def download_current_feed() -> pathlib.Path:
@@ -276,10 +315,16 @@ def main():
     output_path = THIS_FILE_FOLDER / '..' / 'output'
     output_path.mkdir(parents=True, exist_ok=True)
     output_file = output_path / 'episodes.md'
-    format_markdown(
+
+    format_episodes_as_markdown(
         output_file,
         analysis_result,
         adjusted_categories)
+
+    output_file = output_path / 'keywords.md'
+    format_keywords_as_markdown(
+        output_file,
+        analysis_result)
 
 
 if __name__ == '__main__':
