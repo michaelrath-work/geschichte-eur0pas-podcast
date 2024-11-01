@@ -7,7 +7,7 @@ import typing
 import requests
 import xml.etree.ElementTree as ET
 
-MP3_FEED_URL = 'https://geschichteeuropas.podigee.io/feed/mp3'
+URL_FEED_MP3 = 'https://geschichteeuropas.podigee.io/feed/mp3'
 
 THIS_FILE_FOLDER = pathlib.Path(__file__).parent.resolve()
 
@@ -166,7 +166,7 @@ def format_markdown(p: pathlib.Path,
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
         '\n\n'
-        f'Data source for this overview is {MP3_FEED_URL}'
+        f'Data source for this overview is {URL_FEED_MP3}'
         '\n\n'
     ])
 
@@ -184,19 +184,19 @@ def format_markdown(p: pathlib.Path,
         [
             f'<a id="categories"></a>\n'
             '## Categories\n\n',
-            '| #  | id | organic name| curated name | #episodes |\n',
-            '|---:|:---:|:---------------|:-------------|:---:|\n']
+            '| id  | curated name | #episodes | organic name |\n',
+            '|:---:|:-------------|:---------:|:-------------|\n']
         )
 
     organic_categories_sorted = sorted(adjusted_categories, key= lambda x: x.organic)
 
-    for i, cat in enumerate(organic_categories_sorted):
+    for idx, cat in enumerate(organic_categories_sorted):
         ep: typing.List[Episode] = list(filter(
             functools.partial(select_by_adjusted_category, cat),
             analysis_result.episodes))
         num_episodes = len(ep)
         category_link = f'[{cat.adjusted_str()}](#{cat.markdown_category_link()})'
-        lines.append(f'|{i:03d} | {cat.adjusted_id} | {cat.organic}| {category_link} | {num_episodes:d} |\n')
+        lines.append(f'|{cat.adjusted_id}| {category_link} | {num_episodes:d} | {cat.organic} |\n')
 
     lines.extend([
         '\n\n',
@@ -246,7 +246,7 @@ def format_markdown(p: pathlib.Path,
 
 
 def download_current_feed() -> pathlib.Path:
-    response = requests.get(MP3_FEED_URL)
+    response = requests.get(URL_FEED_MP3)
     output_dir = THIS_FILE_FOLDER / '..' / 'data'
     output_dir.mkdir(parents=True, exist_ok=True)
     output_file_path = output_dir / 'data.xml'
