@@ -16,7 +16,7 @@
 |14. Jahrhundert | 1 | [top](#top) |
 |16. Jahrhundert | 8 | [top](#top) |
 |17. Jahrhundert | 7 | [top](#top) |
-|18. Jahrhundert | 21 | [top](#top) |
+|18. Jahrhundert | 22 | [top](#top) |
 |19. Jahrhundert | 62 | [top](#top) |
 |1933 | 1 | [top](#top) |
 |2. Jahrhundert | 2 | [top](#top) |
@@ -105,6 +105,7 @@
 |Bombardierung | 2 | [top](#top) |
 |Boris Jelzin | 2 | [top](#top) |
 |Borken | 1 | [top](#top) |
+|Brandenburg | 1 | [top](#top) |
 |Braunkohle | 9 | [top](#top) |
 |Braunkohleabbau | 1 | [top](#top) |
 |Braunkohlebergbau | 1 | [top](#top) |
@@ -157,7 +158,7 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 232 | [top](#top) |
+|Deutschland | 235 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
@@ -197,6 +198,7 @@
 |Ermächtigungsgesetz | 1 | [top](#top) |
 |Erster Weltkrieg | 1 | [top](#top) |
 |Erwin von Witzleben | 1 | [top](#top) |
+|Essen | 1 | [top](#top) |
 |Estado Novo | 1 | [top](#top) |
 |Euromaidan | 1 | [top](#top) |
 |Europa | 53 | [top](#top) |
@@ -248,11 +250,11 @@
 |Friedrich Schiller | 2 | [top](#top) |
 |Friedrich Wilhelm Raiffeisen | 1 | [top](#top) |
 |Friedrich Zell | 1 | [top](#top) |
-|Friedrich der Große | 2 | [top](#top) |
+|Friedrich der Große | 3 | [top](#top) |
 |Friedrichsruh | 1 | [top](#top) |
 |Fringsen | 1 | [top](#top) |
 |Fritz von Wille | 2 | [top](#top) |
-|Frühe Neuzeit | 43 | [top](#top) |
+|Frühe Neuzeit | 44 | [top](#top) |
 |Frühgeschichte | 4 | [top](#top) |
 |Fußball | 6 | [top](#top) |
 |Fußballweltmeisterschaft 1966 | 2 | [top](#top) |
@@ -261,6 +263,7 @@
 |Gallische Kriege | 1 | [top](#top) |
 |Garzweiler | 2 | [top](#top) |
 |Gasexporte | 1 | [top](#top) |
+|Gastarbeiter | 1 | [top](#top) |
 |Gebet | 1 | [top](#top) |
 |Gedicht | 5 | [top](#top) |
 |Gemälde | 2 | [top](#top) |
@@ -343,7 +346,7 @@
 |Hunger | 1 | [top](#top) |
 |Immaterielles Kulturerbe | 1 | [top](#top) |
 |Industrialisierung | 1 | [top](#top) |
-|Industriekultur | 2 | [top](#top) |
+|Industriekultur | 3 | [top](#top) |
 |Instagram | 2 | [top](#top) |
 |Integration | 2 | [top](#top) |
 |Interregnum | 1 | [top](#top) |
@@ -419,7 +422,7 @@
 |Krim-Annexion | 1 | [top](#top) |
 |Kultur | 1 | [top](#top) |
 |Kulturaustausch | 1 | [top](#top) |
-|Kulturerbe | 2 | [top](#top) |
+|Kulturerbe | 3 | [top](#top) |
 |Kulturwissenschaft | 1 | [top](#top) |
 |Kunst | 6 | [top](#top) |
 |Kunstakademien | 1 | [top](#top) |
@@ -481,7 +484,7 @@
 |Merowinger | 1 | [top](#top) |
 |Meta | 3 | [top](#top) |
 |Michail Gorbatschow | 2 | [top](#top) |
-|Migration | 2 | [top](#top) |
+|Migration | 3 | [top](#top) |
 |Mittelalter | 33 | [top](#top) |
 |Mitteleuropa | 1 | [top](#top) |
 |Mittelmeer | 2 | [top](#top) |
@@ -525,7 +528,7 @@
 |Neue Ostpolitik | 2 | [top](#top) |
 |Neuengamme | 2 | [top](#top) |
 |Neuere und Neueste Geschichte | 22 | [top](#top) |
-|Neuere und neueste Geschichte | 158 | [top](#top) |
+|Neuere und neueste Geschichte | 159 | [top](#top) |
 |Neutraubling | 1 | [top](#top) |
 |Niederdeutsch | 1 | [top](#top) |
 |Niedersachsen | 1 | [top](#top) |
@@ -597,7 +600,7 @@
 |Postkarten | 1 | [top](#top) |
 |Postkolonialismus | 1 | [top](#top) |
 |Predigt | 2 | [top](#top) |
-|Preußen | 8 | [top](#top) |
+|Preußen | 9 | [top](#top) |
 |Preußenschlag | 1 | [top](#top) |
 |Propaganda | 5 | [top](#top) |
 |Protest | 1 | [top](#top) |
@@ -605,7 +608,7 @@
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 155 | [top](#top) |
+|Quelle | 156 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
@@ -649,7 +652,8 @@
 |Rudolf Heß | 1 | [top](#top) |
 |Rudolf I. (HRR) | 2 | [top](#top) |
 |Ruhrbesetzung | 3 | [top](#top) |
-|Ruhrgebiet | 3 | [top](#top) |
+|Ruhrgebiet | 4 | [top](#top) |
+|Ruhrpolen | 1 | [top](#top) |
 |Rumelien | 1 | [top](#top) |
 |Russische Revolution 1905 | 1 | [top](#top) |
 |Russisches Zarenreich | 1 | [top](#top) |
@@ -660,14 +664,14 @@
 |Römisches Ägypten | 1 | [top](#top) |
 |SED | 1 | [top](#top) |
 |SPD | 1 | [top](#top) |
-|Sachsen | 4 | [top](#top) |
+|Sachsen | 5 | [top](#top) |
 |Said Giray | 1 | [top](#top) |
 |Saladin | 1 | [top](#top) |
 |Savoyen | 1 | [top](#top) |
 |Schiedsrichter | 1 | [top](#top) |
 |Schlacht von Poltawa | 1 | [top](#top) |
 |Schlacht von Sedan | 1 | [top](#top) |
-|Schlesien | 1 | [top](#top) |
+|Schlesien | 2 | [top](#top) |
 |Schweden | 9 | [top](#top) |
 |Schweiz | 1 | [top](#top) |
 |Schwur von Buchenwald | 1 | [top](#top) |
@@ -675,7 +679,7 @@
 |Seeschlacht | 1 | [top](#top) |
 |Seldschuken | 2 | [top](#top) |
 |Serbien | 1 | [top](#top) |
-|Siebenjähriger Krieg | 3 | [top](#top) |
+|Siebenjähriger Krieg | 4 | [top](#top) |
 |Siedlungsausbau | 1 | [top](#top) |
 |Simeonstift (Trier) | 1 | [top](#top) |
 |Simon Rosenberger | 1 | [top](#top) |
@@ -713,12 +717,12 @@
 |Stau | 2 | [top](#top) |
 |Stauffenberg | 1 | [top](#top) |
 |Steinfeld | 1 | [top](#top) |
-|Steinkohle | 1 | [top](#top) |
+|Steinkohle | 2 | [top](#top) |
 |Steinzeit | 3 | [top](#top) |
 |Stonehenge | 2 | [top](#top) |
 |Storytelling | 1 | [top](#top) |
 |Strukturförderung | 1 | [top](#top) |
-|Strukturwandel | 3 | [top](#top) |
+|Strukturwandel | 4 | [top](#top) |
 |Stuttgart | 1 | [top](#top) |
 |Stuttgart-Stammheim | 1 | [top](#top) |
 |Szlama Ber Winer | 1 | [top](#top) |
@@ -749,7 +753,7 @@
 |Tutenchamun | 2 | [top](#top) |
 |Twitter | 2 | [top](#top) |
 |Tübingen | 2 | [top](#top) |
-|UNESCO | 2 | [top](#top) |
+|UNESCO | 3 | [top](#top) |
 |USA | 1 | [top](#top) |
 |Ukraine | 9 | [top](#top) |
 |Ukraine-Krieg | 1 | [top](#top) |
@@ -817,8 +821,9 @@
 |York | 1 | [top](#top) |
 |YouTube | 2 | [top](#top) |
 |Zar Nikolaus II. | 2 | [top](#top) |
+|Zeche Zollverein | 1 | [top](#top) |
 |Zeit | 2 | [top](#top) |
-|Zeitgeschichte | 119 | [top](#top) |
+|Zeitgeschichte | 121 | [top](#top) |
 |Zeitungen | 1 | [top](#top) |
 |Zeitzone | 1 | [top](#top) |
 |Zentrum (Partei) | 1 | [top](#top) |

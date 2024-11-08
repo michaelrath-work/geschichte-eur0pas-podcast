@@ -8,18 +8,18 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-01|
-|date of generation of this list|2024-11-01|
+|podcast last build|2024-11-07|
+|date of generation of this list|2024-11-08|
 
 <a id="categories"></a>
 ## Categories
 
 | id  | curated name | #episodes | organic name |
 |:---:|:-------------|:---------:|:-------------|
-|A| [A: Epochenübergreifende Themen](#category-A) | 42 | A - Epochenübergreifende Themen |
-|A| [A: Epochenübergreifende Themen](#category-A) | 42 | A: Epochenübergreifende Themen |
-|A| [A: Epochenübergreifende Themen](#category-A) | 42 | A: Epochenübergreifende Überblicke |
-|A| [A: Epochenübergreifende Themen](#category-A) | 42 | A; Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 43 | A - Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 43 | A: Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 43 | A: Epochenübergreifende Überblicke |
+|A| [A: Epochenübergreifende Themen](#category-A) | 43 | A; Epochenübergreifende Themen |
 |B| [B: Geologische Geschichte](#category-B) | 1 | B: Geologische Geschichte |
 |C| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 | C: Vorgeschichte und Altsteinzeit |
 |D| [D: Mittel- und Jungsteinzeit](#category-D) | 2 | D: Mittel- und Jungsteinzeit |
@@ -28,8 +28,8 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |J| [J: Das späte Mittelalter (1250-1450)](#category-J) | 1 | J: Das Spätmittelalter |
 |K| [K: Erste europäische Expansion](#category-K) | 1 | Kalter Krieg und Europäische Einigung |
 |M| [M: Reformation und Glaubenskriege (1517-1648)](#category-M) | 2 | M: Reformation und Glaubenskriege |
-|N| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 13 | N: Absolutimus und Aufklärung |
-|N| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 13 | N: Absolutismus und Aufklärung |
+|N| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 14 | N: Absolutimus und Aufklärung |
+|N| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 14 | N: Absolutismus und Aufklärung |
 |O| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 | O: Das Zeitalter der Revolutionen |
 |O| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 | O: Zeitalter der Revolutionen |
 |P| [P: Nationalismus und Imperialismus (1849-1914)](#category-P) | 9 | P: Nationalismus und Imperialismus |
@@ -44,10 +44,10 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungkultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 161 | Y - Quellen |
-|Y| [Y: Quellen](#category-Y) | 161 | Y: Quelle |
-|Y| [Y: Quellen](#category-Y) | 161 | Y: Quellen |
-|Y| [Y: Quellen](#category-Y) | 161 | Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 162 | Y - Quellen |
+|Y| [Y: Quellen](#category-Y) | 162 | Y: Quelle |
+|Y| [Y: Quellen](#category-Y) | 162 | Y: Quellen |
+|Y| [Y: Quellen](#category-Y) | 162 | Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 33 | Z: Meta/ Podcast |
 
 
@@ -114,6 +114,7 @@ Organic categories
 |[A-039: Transformation der Industriekultur im Rheinischen Revier, mit Dr. W. Hauser & Dr. A. Kierdorf [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/393-393)|393|2024-10-10|Deutschland, Erinnerungskultur, Industriekultur, Public History, Rheinisches Revier, Transformation, Zeitgeschichte|
 |[A-040: Neuland?! Vom Land zur Stadt zurück zum Land, mit Prof. Dr. Gerd Zimmermann [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/399-399)|399|2024-10-19|Deutschland, Digitalisierung, Landflucht, Stadtflucht, Zeitgeschichte|
 |[A-042: Das Hessische Braunkohlen-Revier, mit Ingo Sielaff [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/405-405)|405|2024-10-24|Borken, Braunkohle, Braunkohlenbergbau, Deutschland, Elektrizität, Grubenunglück, Hessen|
+|[A-043: Das Ruhrgebiet als Nachbarregion des Rheinischen Reviers, mit Prof. Dr. Stefan Berger [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/410-410)|410|2024-11-07|Deutschland, Gastarbeiter, Migration, Neuere und neueste Geschichte, Ruhrpolen, Strukturwandel, Zeitgeschichte|
 
 
 <a id="category-B"></a>
@@ -243,6 +244,7 @@ Organic categories
 |[N-010: Die Malerin Anna Dorothea Therbusch (1721-82), mit N. Jetter, S. Salomon & A. Wolf [Gemäldegalerie Berlin]](https://geschichteeuropas.podigee.io/374-374)|374|2024-09-05|Berlin, Deutschland, Frühe Neuzeit, Kunst, Kunstakademien, Kunstgeschichte, Paris, Preußen, Stuttgart|
 |[N-011: Preußen und der Siebenjährige Krieg (1756-1763) (Teil 1), mit Prof. Dr. Frank Göse](https://geschichteeuropas.podigee.io/372-372)|372|2024-09-02|Deutschland, Friedrich der Große, Frühe Neuzeit, Preußen, Sachsen, Schlesien, Siebenjähriger Krieg|
 |[N-012: Das Veterinärwesen im Habsburgerreich, mit Dr. Daniela Haarmann](https://geschichteeuropas.podigee.io/28-28)|028|2021-05-24|18. Jahrhundert, Europa, Frühe Neuzeit, Habsburgerreich, Veterinärwesen, Österreich, Österreich-Ungarn|
+|[N-012: Preußen und der Siebenjährige Krieg (1756-1763) (Teil 2), mit Prof. Dr. Frank Göse](https://geschichteeuropas.podigee.io/408-408)|408|2024-11-04|18. Jahrhundert, Brandenburg, Deutschland, Friedrich der Große, Frühe Neuzeit, Preußen, Sachsen, Schlesien, Siebenjähriger Krieg|
 |[N-013: Schatzsucherei und Archäologie im Habsburgerreich, mit Dr. Daniela Haarmann](https://geschichteeuropas.podigee.io/36-36)|036|2021-07-12|18. Jahrhundert, 19. Jahrhundert, Archäologie, Europa, Frühe Neuzeit, Habsburgerreich, Österreich-Ungarn|
 
 
@@ -640,6 +642,7 @@ Organic categories
 |[Y-142: Bezirksregierung Köln: Braunkohlenplan Umsiedlung Manheim (Auszüge, 2011)](https://geschichteeuropas.podigee.io/t301-301)|301|2024-03-24|21. Jahrhundert, Braunkohletagebau, Deutschland, Manheim, Quelle, Rheinisches Reiver, Umsiedlung, Zeitgeschichte|
 |[Y-143: Genehmigung des Braunkohlenplanes Umsiedlung Keyenberg, Kuckum, Ober-/ Unterwestrich, Berverath (2015)](https://geschichteeuropas.podigee.io/t284-284)|284|2024-01-21|21. Jahrhundert, Braunkohletagebau, Deutschland, Keyenberg, Quelle, Rheinisches Revier, Zeitgeschichte|
 |[Y-144: Zitate aus Keyenberg zum Strukturwandel und den Auswirkungen auf den Alltag (2019/2020)](https://geschichteeuropas.podigee.io/t367-36)|367|2024-08-28|Deutschland, Erinnerungen, Keyenberg, Rheinisches Revier, Zeitgeschichte|
+|[Y-145: Aufnahme der Zeche Zollverein in die Welterbeliste der UNESCO (2001)](https://geschichteeuropas.podigee.io/t409-409)|409|2024-11-06|Deutschland, Essen, Industriekultur, Kulturerbe, Quelle, Ruhrgebiet, Steinkohle, UNESCO, Zeche Zollverein, Zeitgeschichte|
 |[Y-145: Die letzten Stau- und Verkehrsmeldungen des Deutschlandfunks (2020)](https://geschichteeuropas.podigee.io/t272-272)|272|2023-12-21|21. Jahrhundert, Deutschland, Mobilität, Quelle, Radio, Stau, Verkehr, Zeitgeschichte|
 |[Y-146: Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung (2020)](https://geschichteeuropas.podigee.io/t356-356)|356|2024-07-31|Braunkohle, Deutschland, Energiewende, Gesetz, Quelle, Rheinisches Revier, Steinkohle, Zeitgeschichte|
 |[Y-147: Strukturstärkungsgesetz Kohleregionen (2020)](https://geschichteeuropas.podigee.io/t384-384)|384|2024-09-25|Deutschland, Gesetz, Quelle, Strukturförderung, Zeitgeschichte|
