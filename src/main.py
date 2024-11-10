@@ -52,6 +52,7 @@ class Episode:
     number: int
     link: str
     publication_date: datetime.datetime
+    duration_seconds: int
     keywords: typing.List[str] = dataclasses.field(default_factory=list)
 
 
@@ -96,6 +97,8 @@ def convert_str_to_date(a: any, default: datetime.date = datetime.date(2000, 1,1
     return default
 
 
+def _seconds_to_minutes_seconds(sec: int) -> typing.Tuple[int, int]:
+    return divmod(sec, 60)
 
 def analyse_channel_data(xml_channel: ET.Element, predefined_categories: typing.List[Category]) -> AnalysisResult:
     categories = set()
@@ -129,6 +132,10 @@ def analyse_channel_data(xml_channel: ET.Element, predefined_categories: typing.
             item.find('itunes:keywords', NAMESPACES),
             default='??? INCONSISTANT FORMAT ???')
 
+        duration_seconds_str = get_xml_node_text_or_default(
+            item.find('itunes:duration', NAMESPACES),
+            default='0')
+
         keywords = ['<p style="background-color:Tomato; color:white;">MISSING</p>']
         if keywords_raw is not None:
             keywords = keywords_raw.split(',')
@@ -140,6 +147,7 @@ def analyse_channel_data(xml_channel: ET.Element, predefined_categories: typing.
                 number=episode_number,
                 publication_date=publication_date,
                 link=link,
+                duration_seconds=int(duration_seconds_str),
                 keywords=keywords
             )
         )
@@ -169,7 +177,7 @@ def episode_list_per_category(category: Category, analysis_result: AnalysisResul
         filter(functools.partial(select_by_adjusted_category, category), analysis_result.episodes),
         key=lambda x: x.title)
     organic_categories = sorted(set([x.category.organic for x in selected_episodes]))
-    lines.append(f'[Top](#top)\n\n')
+    lines.append(f'[top](#top)\n\n')
 
     if len(organic_categories) > 1:
         def italic(s: str) -> str:
@@ -182,14 +190,16 @@ def episode_list_per_category(category: Category, analysis_result: AnalysisResul
 
 
     lines.extend([
-        f'|title |episode | publication date| keywords |\n',
-        '|---|---|---|---|\n',
+        f'|title |episode | duration (mm:ss) | publication date| keywords |\n',
+        '|:---|:---:|---:|---:|:---|\n',
     ])
 
     for ep in selected_episodes:
         keywords = ', '.join(sorted(ep.keywords))
+        min, sec = _seconds_to_minutes_seconds(ep.duration_seconds)
+        mm_ss = f'{min:02d}:{sec:02d}'
         lines.append(
-            f'|[{ep.title}]({ep.link})|{ep.number:03d}|{ep.publication_date:%Y-%m-%d}|{keywords}|\n'
+            f'|[{ep.title}]({ep.link})|{ep.number:03d}|{mm_ss}|{ep.publication_date:%Y-%m-%d}|{keywords}|\n'
         )
 
     lines.append('\n\n')

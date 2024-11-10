@@ -131,6 +131,7 @@
 |Charles Darwin | 1 | [top](#top) |
 |Chelmno | 1 | [top](#top) |
 |Christentum | 5 | [top](#top) |
+|Clemens August Graf von Galen | 1 | [top](#top) |
 |Confessiones | 1 | [top](#top) |
 |Constantius Chlorus | 1 | [top](#top) |
 |Cäsar Flaischlen | 1 | [top](#top) |
@@ -158,7 +159,7 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 235 | [top](#top) |
+|Deutschland | 236 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
@@ -205,7 +206,7 @@
 |Europäische Einigung | 1 | [top](#top) |
 |Europäische Regionalgeschichte | 1 | [top](#top) |
 |Europäische Union | 1 | [top](#top) |
-|Euthanasie | 2 | [top](#top) |
+|Euthanasie | 3 | [top](#top) |
 |Evolution | 1 | [top](#top) |
 |Exil | 1 | [top](#top) |
 |Fall Blau | 1 | [top](#top) |
@@ -503,7 +504,7 @@
 |NS-Ideologie | 1 | [top](#top) |
 |NS-Medizin | 1 | [top](#top) |
 |NS-Verbrechen | 5 | [top](#top) |
-|NS-Widerstand | 6 | [top](#top) |
+|NS-Widerstand | 7 | [top](#top) |
 |NSDAP | 2 | [top](#top) |
 |Nachkriegsordnung | 1 | [top](#top) |
 |Nachkriegszeit | 5 | [top](#top) |
@@ -528,7 +529,7 @@
 |Neue Ostpolitik | 2 | [top](#top) |
 |Neuengamme | 2 | [top](#top) |
 |Neuere und Neueste Geschichte | 22 | [top](#top) |
-|Neuere und neueste Geschichte | 159 | [top](#top) |
+|Neuere und neueste Geschichte | 160 | [top](#top) |
 |Neutraubling | 1 | [top](#top) |
 |Niederdeutsch | 1 | [top](#top) |
 |Niedersachsen | 1 | [top](#top) |
@@ -599,7 +600,7 @@
 |Postkarte | 1 | [top](#top) |
 |Postkarten | 1 | [top](#top) |
 |Postkolonialismus | 1 | [top](#top) |
-|Predigt | 2 | [top](#top) |
+|Predigt | 3 | [top](#top) |
 |Preußen | 9 | [top](#top) |
 |Preußenschlag | 1 | [top](#top) |
 |Propaganda | 5 | [top](#top) |
@@ -608,7 +609,7 @@
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 156 | [top](#top) |
+|Quelle | 157 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
