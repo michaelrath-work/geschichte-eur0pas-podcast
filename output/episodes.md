@@ -8,18 +8,18 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-10|
-|date of generation of this list|2024-11-10|
+|podcast last build|2024-11-12|
+|date of generation of this list|2024-11-14|
 
 <a id="categories"></a>
 ## Categories
 
 | id  | curated name | #episodes | organic name |
 |:---:|:-------------|:---------:|:-------------|
-|A| [A: Epochenübergreifende Themen](#category-A) | 43 | A - Epochenübergreifende Themen |
-|A| [A: Epochenübergreifende Themen](#category-A) | 43 | A: Epochenübergreifende Themen |
-|A| [A: Epochenübergreifende Themen](#category-A) | 43 | A: Epochenübergreifende Überblicke |
-|A| [A: Epochenübergreifende Themen](#category-A) | 43 | A; Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 44 | A - Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 44 | A: Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 44 | A: Epochenübergreifende Überblicke |
+|A| [A: Epochenübergreifende Themen](#category-A) | 44 | A; Epochenübergreifende Themen |
 |B| [B: Geologische Geschichte](#category-B) | 1 | B: Geologische Geschichte |
 |C| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 | C: Vorgeschichte und Altsteinzeit |
 |D| [D: Mittel- und Jungsteinzeit](#category-D) | 2 | D: Mittel- und Jungsteinzeit |
@@ -48,7 +48,7 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |Y| [Y: Quellen](#category-Y) | 163 | Y: Quelle |
 |Y| [Y: Quellen](#category-Y) | 163 | Y: Quellen |
 |Y| [Y: Quellen](#category-Y) | 163 | Y; Quellen |
-|Z| [Z: Meta/Podcast](#category-Z) | 33 | Z: Meta/ Podcast |
+|Z| [Z: Meta/Podcast](#category-Z) | 34 | Z: Meta/ Podcast |
 
 
 ## Keywords 
@@ -102,6 +102,7 @@ Organic categories
 |[A-028: Die Hitlerjugend (1926-1945), mit Dr. André Postert](https://geschichteeuropas.podigee.io/184-184)|184|64:01|2023-04-24|20. Jahrhundert, Adolf Hitler, Baldur von Schirach, Deutschland, Hitlerjugend, Jugend, Nationalsozialismus, Neuere und neueste Geschichte|
 |[A-029: Das KZ Dachau (1933-1945), mit Dr. Gabriele Hammermann, Albert Knoll und Dr. Christoph Thonfeld](https://geschichteeuropas.podigee.io/231-231)|231|54:46|2023-09-11|20. Jahrhundert, Deutschland, Konzentrationslager, München, Nationalsozialismus, Neuere und neueste Geschichte|
 |[A-030: Das Konzentrationslager Buchenwald (1937-1945), mit Dr. Michael Löffelsender](https://geschichteeuropas.podigee.io/304-304)|304|65:09|2024-04-01|Buchenwald, Deutschland, Konzentrationslager, Neuere und neueste Geschichte, Thüringen, Verbrechen, Weimar|
+|[A-030: NS-Medizin-Verbrechen im Rheinland (1933-1945) , mit Dr. Luisa Hulsrøj](https://geschichteeuropas.podigee.io/412-412)|412|45:44|2024-11-11|Deutschland, Euthanasie, NS-Medizin, NS-Verbrechen, Neuere und Neueste Geschichte, Rheinland|
 |[A-031: Neuengamme - KZ und Gedenkstätte, mit Ulrike Jensen](https://geschichteeuropas.podigee.io/103-103)|103|62:39|2022-08-22|2. Weltkrieg, 20. Jahrhundert, Deutschland, Erinnerungskultur, Hamburg, Konzentrationslager, Neuengamme, Neuere und neueste Geschichte, Zeitgeschichte|
 |[A-032: Das Konzentrationslager Flossenbürg (1938-1945), mit Lisa Herbst und Timo Saalmann](https://geschichteeuropas.podigee.io/407-407)|407|87:22|2024-10-28|Deutschland, Dietrich Bonhoeffer, Flossenbürg, KZ Flossenbürg, Konzentraionslager, Neuere und Neueste Geschichte|
 |[A-032: Trümmerfrauen (?) in Kassel, 1943-1955, mit Helke Dreier und Dr. Kerstin Wolff [Archiv der dt. Frauenbewegung]](https://geschichteeuropas.podigee.io/342-342)|342|71:22|2024-07-02|20. Jahrhundert, Deutschland, Enttrümmerung, Geschichtsmythos, Kassel, Luftkrieg, Neuere und neueste Geschichte, Trümmerfrauen, Zeitgeschichte|
@@ -698,5 +699,6 @@ Organic categories
 |[Z-031: Der 4. Podcast-Geburtstag - mit neuem Veröffentlichungsrhythmus!](https://geschichteeuropas.podigee.io/b353-353)|353|05:46|2024-07-27|Podcast, Veröffentlichungsrhythmus|
 |[Z-032: Spenden-Dank!](https://geschichteeuropas.podigee.io/b377-377)|377|01:26|2024-09-10|Danke, Meta|
 |[Z-033: Sonderserie "Rechtsextremismus in Deutschland nach 1945"](https://geschichteeuropas.podigee.io/b402-402)|402|05:51|2024-10-22|Ankündigung, Deutschland, Rechtsextremismus, Sonderserie, Zeitgeschichte|
+|[Z-034: Sonderreihe zur studentischen Tagung "Was bleibt? Erinnerung in Ost- und Südosteuropa" an der Univ. Mainz!](https://geschichteeuropas.podigee.io/b413-413)|413|01:17|2024-11-12|Ankündigung, Erinnerungskultur, Osteuropa, Sonderserie, Südosteuropa|
 
 
