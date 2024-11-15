@@ -8,8 +8,8 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-12|
-|date of generation of this list|2024-11-14|
+|podcast last build|2024-11-15|
+|date of generation of this list|2024-11-15|
 
 <a id="categories"></a>
 ## Categories
@@ -44,10 +44,10 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungkultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 163 | Y - Quellen |
-|Y| [Y: Quellen](#category-Y) | 163 | Y: Quelle |
-|Y| [Y: Quellen](#category-Y) | 163 | Y: Quellen |
-|Y| [Y: Quellen](#category-Y) | 163 | Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 164 | Y - Quellen |
+|Y| [Y: Quellen](#category-Y) | 164 | Y: Quelle |
+|Y| [Y: Quellen](#category-Y) | 164 | Y: Quellen |
+|Y| [Y: Quellen](#category-Y) | 164 | Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 34 | Z: Meta/ Podcast |
 
 
@@ -618,6 +618,7 @@ Organic categories
 |[Y-116: Martin Schilling, Bericht zum Bau von Notkirchen (1950)](https://geschichteeuropas.podigee.io/t349-349)|349|01:30|2024-07-18|Deutschland, Martin Schilling, Notkirchen, Quelle, Zeitgeschichte|
 |[Y-117: Brief des Pfarrers Nolte an das Bischöfliche Generalvikariat Hildesheim (1951)](https://geschichteeuropas.podigee.io/t327-327)|327|03:55|2024-06-06|Deutschland, Heimatvertriebene, Hildesheim, Katholizismus, Maria in der Ferne, Quelle, Wallfahrt|
 |[Y-118: Erklärung des Ausnahmezustands im Sowjetischen Sektor Berlins (1953)](https://geschichteeuropas.podigee.io/t213-213)|213|01:47|2023-07-22|Berlin, Deutschland, Quelle, Volksaufstand in der DDR 1953, Zeitgeschichte|
+|[Y-118: Wochenschau "Padomju Latvija", 2. Jahrestag der "Befreiung" Rigas (1946)](https://geschichteeuropas.podigee.io/t414-414)|414|02:28|2024-11-15|Lettland, Mediengeschichte, Osteuropa, Propaganda, Quelle, Riga, Sowjetunion, Wochenschau, Zeitgeschichte|
 |[Y-119: Bischof Otto Spülbeck, Predigt auf dem Katholikentag in Köln 1956](https://geschichteeuropas.podigee.io/t312-312)|312|00:51|2024-05-09|Bischof Otto Spülbeck, DDR, Deutschland, Katholizismus, Predigt, Quelle, Religion, Zeitgeschichte|
 |[Y-120: UN-Resolution 1006 zu ungarischen Flüchtlingen (1956)](https://geschichteeuropas.podigee.io/t66-66)|066|02:18|2022-01-24|20. Jahrhundert, Flucht, Kalter Krieg, Osteuropa, Ungarischer Volksaufstand 1956, Ungarn, Zeitgeschichte, Österreich|
 |[Y-121: Parlamentarische Anfrage zur Aufnahme Franco-Spanien in die NATO (1959)](https://geschichteeuropas.podigee.io/t290-290)|290|06:11|2024-02-08|20. Jahrhundert, Bundestag, Deutschland, Francisco Franco, NATO, Quelle, Spanien, Zeitgeschichte|

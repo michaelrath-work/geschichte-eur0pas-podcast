@@ -449,6 +449,7 @@
 |Lenin | 1 | [top](#top) |
 |Leningrad | 1 | [top](#top) |
 |Leonid Kuchma | 1 | [top](#top) |
+|Lettland | 1 | [top](#top) |
 |Levante | 1 | [top](#top) |
 |Lichtdruck | 1 | [top](#top) |
 |Literatur | 2 | [top](#top) |
@@ -481,7 +482,7 @@
 |Max Heller | 1 | [top](#top) |
 |Maxentius | 1 | [top](#top) |
 |Maximian | 1 | [top](#top) |
-|Mediengeschichte | 1 | [top](#top) |
+|Mediengeschichte | 2 | [top](#top) |
 |Merowinger | 1 | [top](#top) |
 |Meta | 3 | [top](#top) |
 |Michail Gorbatschow | 2 | [top](#top) |
@@ -558,7 +559,7 @@
 |Osmanisches Reich | 6 | [top](#top) |
 |Ostberlin | 1 | [top](#top) |
 |Ostdeutschland | 1 | [top](#top) |
-|Osteuropa | 54 | [top](#top) |
+|Osteuropa | 55 | [top](#top) |
 |Ostfront | 1 | [top](#top) |
 |Oströmisches Reich | 1 | [top](#top) |
 |Ostsee | 4 | [top](#top) |
@@ -603,13 +604,13 @@
 |Predigt | 3 | [top](#top) |
 |Preußen | 9 | [top](#top) |
 |Preußenschlag | 1 | [top](#top) |
-|Propaganda | 5 | [top](#top) |
+|Propaganda | 6 | [top](#top) |
 |Protest | 1 | [top](#top) |
 |Protestkultur | 1 | [top](#top) |
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 157 | [top](#top) |
+|Quelle | 158 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
@@ -639,6 +640,7 @@
 |Rheinland | 2 | [top](#top) |
 |Rheinprovinz | 1 | [top](#top) |
 |Richard Löwenherz | 1 | [top](#top) |
+|Riga | 1 | [top](#top) |
 |Robert Blum | 3 | [top](#top) |
 |Robert Schumann | 1 | [top](#top) |
 |Roerdeparment | 1 | [top](#top) |
@@ -692,7 +694,7 @@
 |Sonderreihe | 2 | [top](#top) |
 |Sonderserie | 5 | [top](#top) |
 |Sophie Scholl | 1 | [top](#top) |
-|Sowjetunion | 20 | [top](#top) |
+|Sowjetunion | 21 | [top](#top) |
 |Sozialbau | 1 | [top](#top) |
 |Sozialdemokratie | 2 | [top](#top) |
 |Sozialforschung | 2 | [top](#top) |
@@ -818,13 +820,14 @@
 |Wissenschaftskommunikation | 1 | [top](#top) |
 |Wladimir Iljitsch Lenin | 1 | [top](#top) |
 |Wladimir Putin | 1 | [top](#top) |
+|Wochenschau | 1 | [top](#top) |
 |Wolfsschanze | 1 | [top](#top) |
 |York | 1 | [top](#top) |
 |YouTube | 2 | [top](#top) |
 |Zar Nikolaus II. | 2 | [top](#top) |
 |Zeche Zollverein | 1 | [top](#top) |
 |Zeit | 2 | [top](#top) |
-|Zeitgeschichte | 121 | [top](#top) |
+|Zeitgeschichte | 122 | [top](#top) |
 |Zeitungen | 1 | [top](#top) |
 |Zeitzone | 1 | [top](#top) |
 |Zentrum (Partei) | 1 | [top](#top) |
