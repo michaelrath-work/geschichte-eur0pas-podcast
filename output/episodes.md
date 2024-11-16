@@ -8,8 +8,8 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-15|
-|date of generation of this list|2024-11-15|
+|podcast last build|2024-11-16|
+|date of generation of this list|2024-11-16|
 
 <a id="categories"></a>
 ## Categories
@@ -36,8 +36,8 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |Q| [Q: 1. Weltkrieg (1914-1918)](#category-Q) | 2 | Q: Erster Weltkrieg |
 |R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 14 | R: Zwischenkriegszeit |
 |S| [S: 2. Weltkrieg (1939-1945)](#category-S) | 19 | S: Zweiter Weltkrieg |
-|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 21 | T: Kalter Krieg und Europäische Einigung |
-|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 21 | T: Kalter Krieg und europäische Einigung |
+|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und Europäische Einigung |
+|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und europäische Einigung |
 |U| [U: Nach dem Kalten Krieg (1990-)](#category-U) | 3 | U: Nach dem Kalten Krieg |
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien |
@@ -365,6 +365,7 @@ Organic categories
 |[T-002: Ausrangiert: Alltag und Notlösungen nach Kriegsende (1945-1948), mit Markus Berberich [Stadtmuseum Trier]](https://geschichteeuropas.podigee.io/390-390)|390|29:59|2024-10-03|Alltag, Armut, Deutschland, Nachkriegszeit, Notlösungen, Zeitgeschichte|
 |[T-003: Kirche im Wandel - Integration von Flüchtlingen u. Vertriebenen (1945-63), mit Prof. Dr. R. Bendel [IKKDOS e.V.]](https://geschichteeuropas.podigee.io/339-339)|339|55:42|2024-06-27|Deutschland, Heimatvertriebene, Integration, Kirchengeschichte, Zeitgeschichte|
 |[T-004: Die katholischen Vertriebenen in der DDR, mit Dr. Torsten Müller [IKKDOS e.V.]](https://geschichteeuropas.podigee.io/315-315)|315|44:48|2024-05-16|20. Jahrhundert, Atheismus, DDR, Deutschland, Heimatvertriebene, Katholizismus, Papst Johannes Paul II., Religion, Wiedervereinigung, Zeitgeschichte|
+|[T-004: Jahrestage der "Befreiung" Rigas in sowjetischen Wochenschauen, mit Paul Birkner](https://geschichteeuropas.podigee.io/415-415)|415|53:41|2024-11-16|Lettland, Mediengeschichte, Osteuropa, Propaganda, Riga, Sowjetunion, Wochenschau, Zeitgeschichte|
 |[T-005: Martin Schilling und die Notkirchen der frühen Nachkriegszeit, mit Thomas Oschmann [IKKDOS e.V.]](https://geschichteeuropas.podigee.io/352-352)|352|46:45|2024-07-25|20. Jahrhundert, Deutschland, Martin Schilling, Notkirchen, Rottenburg, Zeitgeschichte|
 |[T-006: Neutraubling - wenn Heimatvertriebene neue (Kirchen)gemeinden bilden, mit Dr. Elisabeth Fendl [IKKDOS e.V.]](https://geschichteeuropas.podigee.io/323-323)|323|47:58|2024-05-30|20. Jahrhundert, Bayern, Deutschland, Heimatvertriebene, Kirchengemeinde, Neutraubling, Zeitgeschichte, evangelische Kirche, katholische Kirche|
 |[T-007: Der Parlamentarische Rat und das Grundgesetz (1948/49), mit Dr. Benedikt Wintgens](https://geschichteeuropas.podigee.io/381-381)|381|69:10|2024-09-16|Besatzungszeit, Demokratie, Deutschland, Grundgesetz, Parlamentarischer Rat, Zeitgeschichte|
