@@ -8,18 +8,18 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-16|
-|date of generation of this list|2024-11-16|
+|podcast last build|2024-11-21|
+|date of generation of this list|2024-11-21|
 
 <a id="categories"></a>
 ## Categories
 
 | id  | curated name | #episodes | organic name |
 |:---:|:-------------|:---------:|:-------------|
-|A| [A: Epochenübergreifende Themen](#category-A) | 44 | A - Epochenübergreifende Themen |
-|A| [A: Epochenübergreifende Themen](#category-A) | 44 | A: Epochenübergreifende Themen |
-|A| [A: Epochenübergreifende Themen](#category-A) | 44 | A: Epochenübergreifende Überblicke |
-|A| [A: Epochenübergreifende Themen](#category-A) | 44 | A; Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A - Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A: Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A: Epochenübergreifende Überblicke |
+|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A; Epochenübergreifende Themen |
 |B| [B: Geologische Geschichte](#category-B) | 1 | B: Geologische Geschichte |
 |C| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 | C: Vorgeschichte und Altsteinzeit |
 |D| [D: Mittel- und Jungsteinzeit](#category-D) | 2 | D: Mittel- und Jungsteinzeit |
@@ -34,7 +34,7 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |O| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 | O: Zeitalter der Revolutionen |
 |P| [P: Nationalismus und Imperialismus (1849-1914)](#category-P) | 9 | P: Nationalismus und Imperialismus |
 |Q| [Q: 1. Weltkrieg (1914-1918)](#category-Q) | 2 | Q: Erster Weltkrieg |
-|R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 14 | R: Zwischenkriegszeit |
+|R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 15 | R: Zwischenkriegszeit |
 |S| [S: 2. Weltkrieg (1939-1945)](#category-S) | 19 | S: Zweiter Weltkrieg |
 |T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und Europäische Einigung |
 |T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und europäische Einigung |
@@ -44,10 +44,10 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungkultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 164 | Y - Quellen |
-|Y| [Y: Quellen](#category-Y) | 164 | Y: Quelle |
-|Y| [Y: Quellen](#category-Y) | 164 | Y: Quellen |
-|Y| [Y: Quellen](#category-Y) | 164 | Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 166 | Y - Quellen |
+|Y| [Y: Quellen](#category-Y) | 166 | Y: Quelle |
+|Y| [Y: Quellen](#category-Y) | 166 | Y: Quellen |
+|Y| [Y: Quellen](#category-Y) | 166 | Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 34 | Z: Meta/ Podcast |
 
 
@@ -116,6 +116,7 @@ Organic categories
 |[A-040: Neuland?! Vom Land zur Stadt zurück zum Land, mit Prof. Dr. Gerd Zimmermann [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/399-399)|399|80:21|2024-10-19|Deutschland, Digitalisierung, Landflucht, Stadtflucht, Zeitgeschichte|
 |[A-042: Das Hessische Braunkohlen-Revier, mit Ingo Sielaff [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/405-405)|405|78:19|2024-10-24|Borken, Braunkohle, Braunkohlenbergbau, Deutschland, Elektrizität, Grubenunglück, Hessen|
 |[A-043: Das Ruhrgebiet als Nachbarregion des Rheinischen Reviers, mit Prof. Dr. Stefan Berger [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/410-410)|410|69:34|2024-11-07|Deutschland, Gastarbeiter, Migration, Neuere und neueste Geschichte, Ruhrpolen, Strukturwandel, Zeitgeschichte|
+|[A-045: Das Mitteldeutsche Revier, mit Dr. Annette Schneider-Reinhardt [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/419-419)|419|69:57|2024-11-21|Braunkohle, DDR, Deutschland, Industriekultur, Mitteldeutsches Revier, Rekultivierung, Strukturbruch, Wende, Wiedervereinigung, Zeitgeschichte|
 
 
 <a id="category-B"></a>
@@ -319,6 +320,7 @@ Organic categories
 |[R-011: Das Ermächtigungsgesetz (1933), mit Prof. Dr. Philipp Austermann](https://geschichteeuropas.podigee.io/334-334)|334|84:53|2024-06-17|20. Jahrhundert, Adolf Hitler, Deutschland, Ermächtigungsgesetz, NS-Diktatur, NSDAP, Neuere und neueste Geschichte, Reichstag, SPD, Zentrum (Partei)|
 |[R-012: Die Anfänge der Gestapo (1933), mit Dr. Claudia Steur](https://geschichteeuropas.podigee.io/257-257)|257|61:41|2023-11-13|20. Jahrhundert, Berlin, Deutschland, Gestapo, NS-Diktatur, Neuere und neueste Geschichte, Polizei, Preußenschlag, Weimarer Republik|
 |[R-013: Die nationalsozialistischen Bücherverbrennungen (1933), mit Dr. Sophia Dafinger](https://geschichteeuropas.podigee.io/192-192)|192|54:42|2023-05-08|20. Jahrhundert, Berlin, Bücherverbrennung, Deutschland, Joseph Goebbels, Nationalsozialismus, Neuere und neueste Geschichte|
+|[R-014: Das Reichskonkordat (1933), mit Dr. Jan Wille](https://geschichteeuropas.podigee.io/417-417)|417|75:49|2024-11-18|Deutschland, Eugenio Pacelli, Katholische Kirche, NS-Deutschland, Neuere und neueste Geschichte, Pius XI., Pius XII., Reichskonkordat, Vatikan|
 |[R-014: Der Hitler-Stalin-Pakt (1939), mit Prof. Dr. Claudia Weber](https://geschichteeuropas.podigee.io/96-96)|096|93:17|2022-07-28|2. Weltkrieg, 20. Jahrhundert, Adolf Hitler, Hitler-Stalin-Pakt, Josef Stalin, NS-Deutschland, Neuere und neueste Geschichte, Osteuropa, Polen, Sowjetunion|
 
 
@@ -587,6 +589,7 @@ Organic categories
 |[Y-086: Neville Chamberlain verkündet Englands Kriegszustand mit Deutschland (1939)](https://geschichteeuropas.podigee.io/t104-104)|104|04:06|2022-08-25|2. Weltkrieg, 20. Jahrhundert, Deutschland, Neuere und neueste Geschichte, Osteuropa, Polen, Quelle|
 |[Y-087: Adolf Hitler, Befehl zur Ermordung von Menschen mit Behinderung (1939)](https://geschichteeuropas.podigee.io/t19-19)|019|02:13|2021-02-15|20. Jahrhundert, Adolf Hitler, Aktion T4, Deutschland, Euthanasie, NS-Verbrechen, Neuere und neueste Geschichte, Quelle|
 |[Y-088: Adolf Hitler, Weisung Nr. 21 (1940)](https://geschichteeuropas.podigee.io/t32-32)|032|05:45|2021-06-14|2. Weltkrieg, 20. Jahrhundert, Adolf Hitler, Europa, NS-Deutschland, Neuere und neueste Geschichte, Osteuropa, Quelle, Sowjetunion|
+|[Y-088: Auszug aus dem "Konkordat zwischen dem Heiligen Stuhl und dem Deutschen Reich" (1933)](https://geschichteeuropas.podigee.io/t416-416)|416|06:49|2024-11-17|Eugenio Pacelli, Katholische Kirche, NS-Deutschland, Neuere und Neueste Geschichte, Pius XII., Quelle, Reichskonkordat, Vatikan|
 |[Y-089: Reinhard Heydrich, Bericht über die Deportationen nach Gurs (1940)](https://geschichteeuropas.podigee.io/t210-210)|210|01:50|2023-07-03|20. Jahrhundert, Antisemitismus, Deutschland, Frankreich, Gurs, Neuere und Neueste Geschichte, Quelle, Reinhard Heydrich, Westeuropa|
 |[Y-090: Aktennotiz über Ergebnis der heutigen Besprechung mit den Staatssekretären über Barbarossa (1941)](https://geschichteeuropas.podigee.io/t285-285)|285|02:00|2024-01-22|20. Jahrhundert, Deutschland, Kriegsverbrechen, Neuere und neueste Geschichte, Operation Barbarossa, Quelle, Sowjetunion|
 |[Y-091: Szlama Ber Winer, Beschreibung einer Mordtechnik im Holocaust (1942)](https://geschichteeuropas.podigee.io/t63-63)|063|02:17|2022-01-03|20. Jahrhundert, Chelmno, Europa, Holocaust, Neuere und neueste Geschichte, Quelle, Szlama Ber Winer|
@@ -659,6 +662,7 @@ Organic categories
 |[Y-154: Auszug aus dem Fragebogen "Zusammenhalt hoch drei" (2022)](https://geschichteeuropas.podigee.io/t293-293)|293|04:14|2024-02-18|Deutschland, Erkelenz, Fragebogen, Quelle, Rheinisches Revier, Sozialforschung, Zeitgeschichte|
 |[Y-155: Reviervertrag 2.0 (2023)](https://geschichteeuropas.podigee.io/t360-360)|360|03:34|2024-08-14|Deutschland, Energiewende, Kohleausstieg, Quelle, Rheinisches Revier, Strukturwandel, Zeitgeschichte|
 |[Y-156: Erinnerungen der Bevölkerung des Rheinischen Reviers (2023)](https://geschichteeuropas.podigee.io/t260-260)|260|01:38|2023-11-19|Braunkohleabbau, Deutschland, Lützerath, Quellen, Rheinisches Revier, Umsiedlung, Zeitgeschichte|
+|[Y-166: Zitate zum Strukturwandel im Mitteldeutschen Revier (2023)](https://geschichteeuropas.podigee.io/t418-418)|418|02:30|2024-11-20|Alltagsgeschichte, Deindustrialisierung, Deutschland, Industriekultur, Ostdeutschland, Quelle, Strukturwandel, Zeitgeschichte|
 
 
 <a id="category-Z"></a>

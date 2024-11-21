@@ -37,7 +37,7 @@
 |Alexandre Yersin | 1 | [top](#top) |
 |Alfred Wegener | 1 | [top](#top) |
 |Alltag | 3 | [top](#top) |
-|Alltagsgeschichte | 1 | [top](#top) |
+|Alltagsgeschichte | 2 | [top](#top) |
 |Alltagskultur | 1 | [top](#top) |
 |Alltagsleben | 2 | [top](#top) |
 |Alp Arslan | 2 | [top](#top) |
@@ -106,7 +106,7 @@
 |Boris Jelzin | 2 | [top](#top) |
 |Borken | 1 | [top](#top) |
 |Brandenburg | 1 | [top](#top) |
-|Braunkohle | 9 | [top](#top) |
+|Braunkohle | 10 | [top](#top) |
 |Braunkohleabbau | 1 | [top](#top) |
 |Braunkohlebergbau | 1 | [top](#top) |
 |Braunkohlenbergbau | 1 | [top](#top) |
@@ -136,14 +136,14 @@
 |Constantius Chlorus | 1 | [top](#top) |
 |Cäsar Flaischlen | 1 | [top](#top) |
 |D-Day | 1 | [top](#top) |
-|DDR | 14 | [top](#top) |
+|DDR | 15 | [top](#top) |
 |DFB | 1 | [top](#top) |
 |Dalmatien | 1 | [top](#top) |
 |Damiette | 1 | [top](#top) |
 |Dampfmaschine | 1 | [top](#top) |
 |Danke | 1 | [top](#top) |
 |Das ACH! | 1 | [top](#top) |
-|Deindustrialisierung | 1 | [top](#top) |
+|Deindustrialisierung | 2 | [top](#top) |
 |Demokratie | 3 | [top](#top) |
 |Demonstration | 1 | [top](#top) |
 |Denkmalpflege | 1 | [top](#top) |
@@ -159,7 +159,7 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 237 | [top](#top) |
+|Deutschland | 240 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
@@ -201,6 +201,7 @@
 |Erwin von Witzleben | 1 | [top](#top) |
 |Essen | 1 | [top](#top) |
 |Estado Novo | 1 | [top](#top) |
+|Eugenio Pacelli | 2 | [top](#top) |
 |Euromaidan | 1 | [top](#top) |
 |Europa | 53 | [top](#top) |
 |Europäische Einigung | 1 | [top](#top) |
@@ -347,7 +348,7 @@
 |Hunger | 1 | [top](#top) |
 |Immaterielles Kulturerbe | 1 | [top](#top) |
 |Industrialisierung | 1 | [top](#top) |
-|Industriekultur | 3 | [top](#top) |
+|Industriekultur | 5 | [top](#top) |
 |Instagram | 2 | [top](#top) |
 |Integration | 2 | [top](#top) |
 |Interregnum | 1 | [top](#top) |
@@ -388,6 +389,7 @@
 |Karthago | 2 | [top](#top) |
 |Kartharer | 1 | [top](#top) |
 |Kassel | 2 | [top](#top) |
+|Katholische Kirche | 2 | [top](#top) |
 |Katholizismus | 4 | [top](#top) |
 |Katyn | 1 | [top](#top) |
 |Kaukasus | 1 | [top](#top) |
@@ -488,6 +490,7 @@
 |Michail Gorbatschow | 2 | [top](#top) |
 |Migration | 3 | [top](#top) |
 |Mittelalter | 33 | [top](#top) |
+|Mitteldeutsches Revier | 1 | [top](#top) |
 |Mitteleuropa | 1 | [top](#top) |
 |Mittelmeer | 2 | [top](#top) |
 |Mobilität | 3 | [top](#top) |
@@ -500,7 +503,7 @@
 |München | 12 | [top](#top) |
 |NATO | 2 | [top](#top) |
 |NS-Aufarbeitung | 1 | [top](#top) |
-|NS-Deutschland | 9 | [top](#top) |
+|NS-Deutschland | 11 | [top](#top) |
 |NS-Diktatur | 5 | [top](#top) |
 |NS-Ideologie | 1 | [top](#top) |
 |NS-Medizin | 2 | [top](#top) |
@@ -529,8 +532,8 @@
 |Neue Burg | 2 | [top](#top) |
 |Neue Ostpolitik | 2 | [top](#top) |
 |Neuengamme | 2 | [top](#top) |
-|Neuere und Neueste Geschichte | 23 | [top](#top) |
-|Neuere und neueste Geschichte | 160 | [top](#top) |
+|Neuere und Neueste Geschichte | 24 | [top](#top) |
+|Neuere und neueste Geschichte | 161 | [top](#top) |
 |Neutraubling | 1 | [top](#top) |
 |Niederdeutsch | 1 | [top](#top) |
 |Niedersachsen | 1 | [top](#top) |
@@ -558,7 +561,7 @@
 |Orangene Revolution | 1 | [top](#top) |
 |Osmanisches Reich | 6 | [top](#top) |
 |Ostberlin | 1 | [top](#top) |
-|Ostdeutschland | 1 | [top](#top) |
+|Ostdeutschland | 2 | [top](#top) |
 |Osteuropa | 56 | [top](#top) |
 |Ostfront | 1 | [top](#top) |
 |Oströmisches Reich | 1 | [top](#top) |
@@ -586,7 +589,8 @@
 |Pest | 1 | [top](#top) |
 |Peter der Große | 5 | [top](#top) |
 |Pink Floyd | 1 | [top](#top) |
-|Pius XII. | 2 | [top](#top) |
+|Pius XI. | 1 | [top](#top) |
+|Pius XII. | 4 | [top](#top) |
 |Plauen | 1 | [top](#top) |
 |Plinius der Jüngere | 1 | [top](#top) |
 |Plinius der Ältere | 1 | [top](#top) |
@@ -610,7 +614,7 @@
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 158 | [top](#top) |
+|Quelle | 160 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
@@ -621,11 +625,12 @@
 |Rede | 1 | [top](#top) |
 |Reformation | 2 | [top](#top) |
 |Reichsgründung | 3 | [top](#top) |
+|Reichskonkordat | 2 | [top](#top) |
 |Reichstag | 4 | [top](#top) |
 |Reichstagsbrand | 3 | [top](#top) |
 |Reichstagsbrandverordnung | 1 | [top](#top) |
 |Reinhard Heydrich | 1 | [top](#top) |
-|Rekultivierung | 1 | [top](#top) |
+|Rekultivierung | 2 | [top](#top) |
 |Religion | 4 | [top](#top) |
 |Reparationen | 2 | [top](#top) |
 |Republik | 1 | [top](#top) |
@@ -724,8 +729,9 @@
 |Steinzeit | 3 | [top](#top) |
 |Stonehenge | 2 | [top](#top) |
 |Storytelling | 1 | [top](#top) |
+|Strukturbruch | 1 | [top](#top) |
 |Strukturförderung | 1 | [top](#top) |
-|Strukturwandel | 4 | [top](#top) |
+|Strukturwandel | 5 | [top](#top) |
 |Stuttgart | 1 | [top](#top) |
 |Stuttgart-Stammheim | 1 | [top](#top) |
 |Szlama Ber Winer | 1 | [top](#top) |
@@ -771,7 +777,7 @@
 |Urban II. | 1 | [top](#top) |
 |Urmenschen | 1 | [top](#top) |
 |Valerius Licinianus Licinius | 1 | [top](#top) |
-|Vatikan | 3 | [top](#top) |
+|Vatikan | 5 | [top](#top) |
 |Venedig | 2 | [top](#top) |
 |Verbrechen | 1 | [top](#top) |
 |Vereinigtes Königreich | 2 | [top](#top) |
@@ -804,10 +810,10 @@
 |Weimar | 2 | [top](#top) |
 |Weimarer Republik | 5 | [top](#top) |
 |Weiße Rose | 1 | [top](#top) |
-|Wende | 2 | [top](#top) |
+|Wende | 3 | [top](#top) |
 |Westeuropa | 47 | [top](#top) |
 |Widerstand | 1 | [top](#top) |
-|Wiedervereinigung | 2 | [top](#top) |
+|Wiedervereinigung | 3 | [top](#top) |
 |Wien | 2 | [top](#top) |
 |Wilhelm I. | 6 | [top](#top) |
 |Wilhelm II. | 1 | [top](#top) |
@@ -827,7 +833,7 @@
 |Zar Nikolaus II. | 2 | [top](#top) |
 |Zeche Zollverein | 1 | [top](#top) |
 |Zeit | 2 | [top](#top) |
-|Zeitgeschichte | 123 | [top](#top) |
+|Zeitgeschichte | 125 | [top](#top) |
 |Zeitungen | 1 | [top](#top) |
 |Zeitzone | 1 | [top](#top) |
 |Zentrum (Partei) | 1 | [top](#top) |
