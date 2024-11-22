@@ -8,8 +8,8 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-21|
-|date of generation of this list|2024-11-21|
+|podcast last build|2024-11-22|
+|date of generation of this list|2024-11-22|
 
 <a id="categories"></a>
 ## Categories
@@ -44,10 +44,10 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungkultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 166 | Y - Quellen |
-|Y| [Y: Quellen](#category-Y) | 166 | Y: Quelle |
-|Y| [Y: Quellen](#category-Y) | 166 | Y: Quellen |
-|Y| [Y: Quellen](#category-Y) | 166 | Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 167 | Y - Quellen |
+|Y| [Y: Quellen](#category-Y) | 167 | Y: Quelle |
+|Y| [Y: Quellen](#category-Y) | 167 | Y: Quellen |
+|Y| [Y: Quellen](#category-Y) | 167 | Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 34 | Z: Meta/ Podcast |
 
 
@@ -534,6 +534,7 @@ Organic categories
 |[Y-033: Versteigerung einer Braunkohlegrube und Dachziegelei in der Nähe von Köln (1835)](https://geschichteeuropas.podigee.io/t234-234)|234|03:02|2023-09-17|19. Jahrhundert, Braunkohle, Deutschland, Köln, Neuere und neueste Geschichte, Rheinisches Revier, Tagebau|
 |[Y-034: Friedrich Engels, Die Lage der arbeitenden Klasse in England (1845)](https://geschichteeuropas.podigee.io/t347-347)|347|05:06|2024-07-13|19. Jahrhundert, Arbeiter, England, Friedrich Engels, Neuere und Neueste Geschichte, Quelle|
 |[Y-035: Düsseldorfer Zeitung, Die Ramboux'sche Sammlung (1846)](https://geschichteeuropas.podigee.io/t227-227)|227|02:30|2023-09-03|19. Jahrhundert, Deutschland, Johann Anton Ramboux, Kunstgeschichte, Lithographie, München, Nazarener, Neuere und neueste Geschichte, Rom, Trier|
+|[Y-036: Fréderic Chopin, Regentropfen-Prélude (1838/39) / Jannick Piskorski, Ogien (2024)](https://geschichteeuropas.podigee.io/t420-420)|420|02:42|2024-11-22|Frederic Chopin, Klavier, Musik, Neuere und neueste Geschichte, Osteuropa, Polen, Quelle|
 |[Y-036: Robert Blum u.a., An unsere Mitbürger in Sachsen! (1848)](https://geschichteeuropas.podigee.io/t108-108)|108|06:31|2022-09-04|19. Jahrhundert, Neuere und neueste Geschichte, Osteuropa, Quelle, Revolution von 1848/49, Robert Blum, Sachsen, Westeuropa|
 |[Y-037: Henriette Obermüller, Brief an Jakob Venedey (1848)](https://geschichteeuropas.podigee.io/t190-190)|190|05:14|2023-05-06|19. Jahrhundert, Deutschland, Heckerzug, Henriette Obermüller, Jacob Venedey, Kommunismus, Neuere und neueste Geschichte, Paulskirchenparlament, Quelle, Revolution von 1848/49|
 |[Y-038: Louise Otto, "Robert Blum" (1848)](https://geschichteeuropas.podigee.io/t253-253)|253|01:31|2023-11-03|19. Jahrhundert, Deutschland, Gedicht, Louise Otto, Neuere und neueste Geschichte, Quelle, Revolution 1848/49, Robert Blum, Wien|
