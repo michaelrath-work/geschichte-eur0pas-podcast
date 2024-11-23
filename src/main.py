@@ -4,11 +4,16 @@ import datetime
 import functools
 import pathlib
 import pprint
+import os
 import typing
 import requests
 import xml.etree.ElementTree as ET
 
-URL_FEED_MP3 = 'https://geschichteeuropas.podigee.io/feed/mp3'
+CHANNEL_IMG_URL = 'https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg'
+
+PODCAST_URL = 'https://geschichteeuropas.podigee.io/'
+
+URL_FEED_MP3 = os.path.join(PODCAST_URL, 'feed', 'mp3')
 
 THIS_FILE_FOLDER = pathlib.Path(__file__).parent.resolve()
 
@@ -217,17 +222,17 @@ def keyword_usage(ar: AnalysisResult) -> collections.Counter:
 def format_episodes_as_markdown(p: pathlib.Path,
                                 analysis_result: AnalysisResult,
                                 adjusted_categories: typing.List[Category]):
-    output_lines = []
-    img = f'<img src="{channel_image_url()}" alt="icon" width="200"/>'
-    output_lines.extend([
+    output_lines = [
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
-        '\n\n',
-        img,
+        '\n\n'
+    ]
+    output_lines.extend(img_to_link_html(PODCAST_URL, CHANNEL_IMG_URL))
+    output_lines +=[
         '\n\n'
         f'Data source: {URL_FEED_MP3}'
         '\n\n'
-    ])
+    ]
 
     now = datetime.datetime.now()
     format_date_to_ymd = lambda x: f'{x:%Y-%m-%d}'
@@ -281,12 +286,13 @@ def format_episodes_as_markdown(p: pathlib.Path,
 def format_keywords_as_markdown(p: pathlib.Path,
                                 analysis_result: AnalysisResult):
 
-    img = f'<img src="{channel_image_url()}" alt="icon" width="200"/>'
     output_lines = [
         f'<a id="top"></a>\n',
         '# Used keywords\n\n',
-        '\n\n',
-        img,
+        '\n\n'
+    ]
+    output_lines.extend(img_to_link_html(PODCAST_URL, CHANNEL_IMG_URL))
+    output_lines += [
         '\n\n',
         '[Episode list](episodes.md)\n\n',
         '|keyword| #appearences |     |\n',
@@ -324,9 +330,12 @@ def poor_mans_csv_parser(p: pathlib.Path) -> typing.List[PredefinedCategory]:
     return r
 
 
-def channel_image_url() -> str:
-    return 'https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg'
-
+def img_to_link_html(url: str, img: str, width=200) -> typing.List[str]:
+    return [
+        f'<a href="{url}">',
+        f'<img src="{img}" alt="{img}" width="{width}>',
+        f'</a>'
+    ]
 
 def main():
     predefined_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / 'meta' / 'categories.csv')
