@@ -292,10 +292,6 @@ def format_keywords_as_markdown(p: pathlib.Path,
         '\n\n',
         f'<a id="top"></a>\n',
         '# Used keywords\n\n',
-        '\n\n'
-    ]
-    output_lines.extend('\n'.join(img_to_link_html(PODCAST_URL, CHANNEL_IMG_URL)))
-    output_lines += [
         '\n\n',
         '[Episode list](episodes.md)\n\n',
         '|keyword| #appearences |     |\n',
