@@ -1,6 +1,10 @@
 <a id="top"></a>
 # Used keywords
 
+
+
+<img src="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" alt="icon" width="200"/>
+
 [Episode list](episodes.md)
 
 |keyword| #appearences |     |

@@ -1,7 +1,9 @@
 <a id="top"></a>
 # Geschichte Eur0pas
 
-Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
+<img src="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" alt="icon" width="200"/>
+
+Data source: https://geschichteeuropas.podigee.io/feed/mp3
 
 ## Meta
 

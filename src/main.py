@@ -218,11 +218,14 @@ def format_episodes_as_markdown(p: pathlib.Path,
                                 analysis_result: AnalysisResult,
                                 adjusted_categories: typing.List[Category]):
     output_lines = []
+    img = f'<img src="{channel_image_url()}" alt="icon" width="200"/>'
     output_lines.extend([
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
+        '\n\n',
+        img,
         '\n\n'
-        f'Data source for this overview is {URL_FEED_MP3}'
+        f'Data source: {URL_FEED_MP3}'
         '\n\n'
     ])
 
@@ -277,9 +280,14 @@ def format_episodes_as_markdown(p: pathlib.Path,
 
 def format_keywords_as_markdown(p: pathlib.Path,
                                 analysis_result: AnalysisResult):
+
+    img = f'<img src="{channel_image_url()}" alt="icon" width="200"/>'
     output_lines = [
         f'<a id="top"></a>\n',
         '# Used keywords\n\n',
+        '\n\n',
+        img,
+        '\n\n',
         '[Episode list](episodes.md)\n\n',
         '|keyword| #appearences |     |\n',
         '|:------|-------------:|:---:|\n',
@@ -314,6 +322,10 @@ def poor_mans_csv_parser(p: pathlib.Path) -> typing.List[PredefinedCategory]:
             column_values = [l.strip() for l in line.split(',')]
             r.append(PredefinedCategory(column_values[0], column_values[1]))
     return r
+
+
+def channel_image_url() -> str:
+    return 'https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg'
 
 
 def main():
