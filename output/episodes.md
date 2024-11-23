@@ -8,8 +8,8 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-22|
-|date of generation of this list|2024-11-22|
+|podcast last build|2024-11-23|
+|date of generation of this list|2024-11-23|
 
 <a id="categories"></a>
 ## Categories
@@ -42,8 +42,8 @@ Data source for this overview is https://geschichteeuropas.podigee.io/feed/mp3
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Geschichtswissenschaft und Erinnerungskultur |
-|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungkultur |
-|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 31 | X: Geschichtswissenschaft und Erinnerungskultur |
+|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungkultur |
+|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungskultur |
 |Y| [Y: Quellen](#category-Y) | 167 | Y - Quellen |
 |Y| [Y: Quellen](#category-Y) | 167 | Y: Quelle |
 |Y| [Y: Quellen](#category-Y) | 167 | Y: Quellen |
@@ -482,6 +482,7 @@ Organic categories
 |[X-031: Orte der deutschen Demokratiegeschichte, mit A. Braune, M. Lang & K.-M. Sprenger [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/370-370)|370|64:09|2024-08-31|Demokratie, Deutschland, Erinnerungskultur, Neuere und Neueste Geschichte, Zeitgeschichte|
 |[X-032: Industriekultur im Rheinischen Revier erfassen, mit Dr. Ralf Liptau & Dipl.-Ing. Rasmus Radach [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/385-385)|385|52:38|2024-09-26|Deutschland, Industriekultur, Rheinisches Revier, Zeitgeschichte|
 |[X-033: Stadt beziehungsweise Land, mit Prof. Dr. Susanne Rau [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/387-387)|387|60:07|2024-09-28|Deutschland, Frühe Neuzeit, Land, Neuere und Neueste Geschichte, Stadt, Zeitgeschichte|
+|[X-034: Polen A und B in der postkolonialen Theorie und Popkultur, mit Jannick Piskorski](https://geschichteeuropas.podigee.io/421-421)|421|43:42|2024-11-23|Erinnerungskultur, Polen, Popkultur, Postkoloniale Theorie, Zeitgeschichte|
 
 
 <a id="category-Y"></a>
