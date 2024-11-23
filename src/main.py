@@ -222,12 +222,13 @@ def keyword_usage(ar: AnalysisResult) -> collections.Counter:
 def format_episodes_as_markdown(p: pathlib.Path,
                                 analysis_result: AnalysisResult,
                                 adjusted_categories: typing.List[Category]):
-    output_lines = [
+    output_lines = ['\n'.join(img_to_link_html(PODCAST_URL, CHANNEL_IMG_URL))]
+    output_lines += [
+        '\n\n',
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
         '\n\n'
     ]
-    output_lines.extend('\n'.join(img_to_link_html(PODCAST_URL, CHANNEL_IMG_URL)))
     output_lines +=[
         '\n\n'
         f'Data source: {URL_FEED_MP3}'
@@ -286,7 +287,9 @@ def format_episodes_as_markdown(p: pathlib.Path,
 def format_keywords_as_markdown(p: pathlib.Path,
                                 analysis_result: AnalysisResult):
 
-    output_lines = [
+    output_lines = ['\n'.join(img_to_link_html(PODCAST_URL, CHANNEL_IMG_URL))]
+    output_lines += [
+        '\n\n',
         f'<a id="top"></a>\n',
         '# Used keywords\n\n',
         '\n\n'
