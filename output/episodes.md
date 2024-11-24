@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-23|
-|date of generation of this list|2024-11-23|
+|podcast last build|2024-11-24|
+|date of generation of this list|2024-11-24|
 
 <a id="categories"></a>
 ## Categories
@@ -50,10 +50,10 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungkultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 167 | Y - Quellen |
-|Y| [Y: Quellen](#category-Y) | 167 | Y: Quelle |
-|Y| [Y: Quellen](#category-Y) | 167 | Y: Quellen |
-|Y| [Y: Quellen](#category-Y) | 167 | Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 168 | Y - Quellen |
+|Y| [Y: Quellen](#category-Y) | 168 | Y: Quelle |
+|Y| [Y: Quellen](#category-Y) | 168 | Y: Quellen |
+|Y| [Y: Quellen](#category-Y) | 168 | Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 34 | Z: Meta/ Podcast |
 
 
@@ -507,6 +507,7 @@ Organic categories
 |[Y-001: Marcus Tullius Cicero, de re publica (54-51 v. Chr.)](https://geschichteeuropas.podigee.io/t329-329)|329|02:42|2024-06-09|Antike, Italien, Marcus Tullius Cicero, Quelle, Republik, Römische Republik, Staatswesen, Südeuropa|
 |[Y-002: Gaius Iulius Caesar, De Bello Gallico VI (52/51 v. Chr.)](https://geschichteeuropas.podigee.io/t183-183)|183|05:22|2023-04-23|1. Jahrhundert v. Chr., Antike, Eburonen, Gaius Iulius Caesar, Gallien, Gallische Kriege, Quelle, Westeuropa|
 |[Y-003: Die Inschrift am Vatikanischen Obelisken (c. 14-20)](https://geschichteeuropas.podigee.io/t34-34)|034|01:24|2021-06-28|Antike, Europa, Obelisk, Quelle, Rom, Ägypten|
+|[Y-003: Titus Livius, Ab urbe condita, Auszüge aus dem ersten Buch (ca. 27 v. Chr.)](https://geschichteeuropas.podigee.io/t422-422)|422|03:11|2024-11-24|Antike, Mythos, Quelle, Remus, Rom, Romulus|
 |[Y-004: Matthäus-Evangelium, Die Bergpredigt (ca. 80-90 n. Chr.?)](https://geschichteeuropas.podigee.io/t316-316)|316|01:44|2024-05-18|Antike, Armut, Bergpredigt, Christentum, Jesus Christus, Naher Osten, Quelle|
 |[Y-005: Matthäus-Evangelium, Das Gleichnis vom Gericht des Menschensohnes über die Völker (ca. 80-90 n. Chr.?)](https://geschichteeuropas.podigee.io/t340-340)|340|02:58|2024-06-29|Antike, Armenfürsorge, Armut, Jesus Christus, Matthäus-Evangelium, Quelle|
 |[Y-006: Die Mailänder Vereinbarung (313)](https://geschichteeuropas.podigee.io/t142-142)|142|03:43|2022-11-28|4. Jahrhundert, Antike, Christentum, Italien, Konstantin der Große, Mailand, Quelle, Südeuropa, Toleranzedikt, Valerius Licinianus Licinius|
