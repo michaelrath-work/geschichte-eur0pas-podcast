@@ -38,6 +38,7 @@
 |Abstimmung | 1 | [top](#top) |
 |Adolf Eichmann | 2 | [top](#top) |
 |Adolf Hitler | 18 | [top](#top) |
+|Aeneas | 1 | [top](#top) |
 |Aktion T4 | 2 | [top](#top) |
 |Albigenser | 1 | [top](#top) |
 |Alexandre Yersin | 1 | [top](#top) |
@@ -55,7 +56,7 @@
 |Ankündigung | 9 | [top](#top) |
 |Anna Dorothea Therbusch | 1 | [top](#top) |
 |Antifaschismus | 1 | [top](#top) |
-|Antike | 35 | [top](#top) |
+|Antike | 36 | [top](#top) |
 |Antisemitismus | 2 | [top](#top) |
 |Anton von Werner | 1 | [top](#top) |
 |Arbeiter | 1 | [top](#top) |
@@ -509,7 +510,7 @@
 |Museum | 1 | [top](#top) |
 |Musik | 1 | [top](#top) |
 |Mussolini | 2 | [top](#top) |
-|Mythos | 1 | [top](#top) |
+|Mythos | 2 | [top](#top) |
 |München | 12 | [top](#top) |
 |NATO | 2 | [top](#top) |
 |NS-Aufarbeitung | 1 | [top](#top) |
@@ -644,7 +645,7 @@
 |Reinhard Heydrich | 1 | [top](#top) |
 |Rekultivierung | 2 | [top](#top) |
 |Religion | 4 | [top](#top) |
-|Remus | 1 | [top](#top) |
+|Remus | 2 | [top](#top) |
 |Reparationen | 2 | [top](#top) |
 |Republik | 1 | [top](#top) |
 |Republik Venedig | 1 | [top](#top) |
@@ -663,10 +664,10 @@
 |Robert Schumann | 1 | [top](#top) |
 |Roerdeparment | 1 | [top](#top) |
 |Roerdepartment | 1 | [top](#top) |
-|Rom | 5 | [top](#top) |
+|Rom | 6 | [top](#top) |
 |Romanisierung | 1 | [top](#top) |
 |Romanos IV. | 2 | [top](#top) |
-|Romulus | 1 | [top](#top) |
+|Romulus | 2 | [top](#top) |
 |Rote Armee Fraktion | 2 | [top](#top) |
 |Rottenburg | 1 | [top](#top) |
 |Royal Airforce | 1 | [top](#top) |
@@ -750,7 +751,7 @@
 |Stuttgart-Stammheim | 1 | [top](#top) |
 |Szlama Ber Winer | 1 | [top](#top) |
 |Sötenich | 1 | [top](#top) |
-|Südeuropa | 39 | [top](#top) |
+|Südeuropa | 40 | [top](#top) |
 |Südosteuropa | 3 | [top](#top) |
 |Süodosteuropa | 1 | [top](#top) |
 |Tag der deutschen Einheit | 1 | [top](#top) |

@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-24|
-|date of generation of this list|2024-11-24|
+|podcast last build|2024-11-25|
+|date of generation of this list|2024-11-25|
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |B| [B: Geologische Geschichte](#category-B) | 1 | B: Geologische Geschichte |
 |C| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 | C: Vorgeschichte und Altsteinzeit |
 |D| [D: Mittel- und Jungsteinzeit](#category-D) | 2 | D: Mittel- und Jungsteinzeit |
-|G| [G: Römische Antike](#category-G) | 11 | G: Römische Antike |
+|G| [G: Römische Antike](#category-G) | 12 | G: Römische Antike |
 |I| [I: Das Hochmittelalter (1000-1250)](#category-I) | 12 | I: Das Hochmittelalter |
 |J| [J: Das späte Mittelalter (1250-1450)](#category-J) | 1 | J: Das Spätmittelalter |
 |K| [K: Erste europäische Expansion](#category-K) | 1 | Kalter Krieg und Europäische Einigung |
@@ -165,6 +165,7 @@ Organic categories
 |title |episode | duration (mm:ss) | publication date| keywords |
 |:---|:---:|---:|---:|:---|
 |[G-001: Der Weg in den ersten punischen Krieg (ca. 800 v. Chr. - 264 v. Chr), mit Dr. Christian Rollinger](https://geschichteeuropas.podigee.io/309-309)|309|96:43|2024-04-29|1. Punischer Krieg, Antike, Karthago, Mittelmeer, Nordafrika, Römische Republik, Sizilien, Südeuropa|
+|[G-001: Die Zwillinge und die Wölfin - der Mythos von der Gründung Roms, mit Florian Feil](https://geschichteeuropas.podigee.io/423-423)|423|59:52|2024-11-25|Aeneas, Antike, Mythos, Remus, Rom, Romulus, Südeuropa|
 |[G-002: Der erste punische Krieg (264-241 v. Chr.), mit Dr. Christian Rollinger](https://geschichteeuropas.podigee.io/351-351)|351|131:08|2024-07-22|Antike, Italien, Karthago, Krieg, Mittelmeer, Nordafrika, Punischer Krieg, Seeschlacht, Sizilien, Südeuropa|
 |[G-003: Sklaverei im alten Rom, mit Prof. Dr. Andrea Binsfeld](https://geschichteeuropas.podigee.io/311-311)|311|71:09|2024-05-06|Antike, Christentum, Europa, Gladiatoren, Römische Republik, Römisches Imperium, Sklaverei, Südeuropa|
 |[G-004: Die Romanisierung des Rheinischen Reviers, mit Dr. Marion Brüggler und Eva Cott [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/187-187)|187|92:21|2023-04-30|1. Jahrhundert, 1. Jahrhundert v. Chr., 2. Jahrhundert, Antike, Deutschland, Eburonen, Gaius Iulius Caesar, Gallien, Germanen, Romanisierung|
