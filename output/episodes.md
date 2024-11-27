@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-25|
-|date of generation of this list|2024-11-25|
+|podcast last build|2024-11-26|
+|date of generation of this list|2024-11-27|
 
 <a id="categories"></a>
 ## Categories
@@ -54,7 +54,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |Y| [Y: Quellen](#category-Y) | 168 | Y: Quelle |
 |Y| [Y: Quellen](#category-Y) | 168 | Y: Quellen |
 |Y| [Y: Quellen](#category-Y) | 168 | Y; Quellen |
-|Z| [Z: Meta/Podcast](#category-Z) | 34 | Z: Meta/ Podcast |
+|Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast |
+|Z| [Z: Meta/Podcast](#category-Z) | 35 | Z: Meta/ Podcast |
 
 
 ## Keywords 
@@ -680,6 +681,10 @@ Organic categories
 
 [top](#top)
 
+Organic categories
+1. *Z - Meta/ Podcast*
+2. *Z: Meta/ Podcast*
+
 |title |episode | duration (mm:ss) | publication date| keywords |
 |:---|:---:|---:|---:|:---|
 |[Z-001: Das Intro als Nullnummer](https://geschichteeuropas.podigee.io/b1-1)|001|00:33|2020-07-27|Intro, Nullnummer|
@@ -716,5 +721,6 @@ Organic categories
 |[Z-032: Spenden-Dank!](https://geschichteeuropas.podigee.io/b377-377)|377|01:26|2024-09-10|Danke, Meta|
 |[Z-033: Sonderserie "Rechtsextremismus in Deutschland nach 1945"](https://geschichteeuropas.podigee.io/b402-402)|402|05:51|2024-10-22|Ankündigung, Deutschland, Rechtsextremismus, Sonderserie, Zeitgeschichte|
 |[Z-034: Sonderreihe zur studentischen Tagung "Was bleibt? Erinnerung in Ost- und Südosteuropa" an der Univ. Mainz!](https://geschichteeuropas.podigee.io/b413-413)|413|01:17|2024-11-12|Ankündigung, Erinnerungskultur, Osteuropa, Sonderserie, Südosteuropa|
+|[Z-035: Christian Lindner und mein Redaktionsplan fliegen im hohen Bogen aus dem Fenster](https://geschichteeuropas.podigee.io/b424-424)|424|03:09|2024-11-26|Sonderfolge|
 
 

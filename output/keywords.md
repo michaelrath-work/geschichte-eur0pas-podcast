@@ -711,6 +711,7 @@
 |Slawen | 1 | [top](#top) |
 |Social Media | 4 | [top](#top) |
 |Sonderausstellung | 1 | [top](#top) |
+|Sonderfolge | 1 | [top](#top) |
 |Sonderreihe | 2 | [top](#top) |
 |Sonderserie | 5 | [top](#top) |
 |Sophie Scholl | 1 | [top](#top) |
