@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-11-26|
-|date of generation of this list|2024-11-27|
+|podcast last build|2024-12-02|
+|date of generation of this list|2024-12-02|
 
 <a id="categories"></a>
 ## Categories
@@ -40,7 +40,7 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |O| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 | O: Zeitalter der Revolutionen |
 |P| [P: Nationalismus und Imperialismus (1849-1914)](#category-P) | 9 | P: Nationalismus und Imperialismus |
 |Q| [Q: 1. Weltkrieg (1914-1918)](#category-Q) | 2 | Q: Erster Weltkrieg |
-|R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 15 | R: Zwischenkriegszeit |
+|R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 16 | R: Zwischenkriegszeit |
 |S| [S: 2. Weltkrieg (1939-1945)](#category-S) | 19 | S: Zweiter Weltkrieg |
 |T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und Europäische Einigung |
 |T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und europäische Einigung |
@@ -330,6 +330,7 @@ Organic categories
 |[R-013: Die nationalsozialistischen Bücherverbrennungen (1933), mit Dr. Sophia Dafinger](https://geschichteeuropas.podigee.io/192-192)|192|54:42|2023-05-08|20. Jahrhundert, Berlin, Bücherverbrennung, Deutschland, Joseph Goebbels, Nationalsozialismus, Neuere und neueste Geschichte|
 |[R-014: Das Reichskonkordat (1933), mit Dr. Jan Wille](https://geschichteeuropas.podigee.io/417-417)|417|75:49|2024-11-18|Deutschland, Eugenio Pacelli, Katholische Kirche, NS-Deutschland, Neuere und neueste Geschichte, Pius XI., Pius XII., Reichskonkordat, Vatikan|
 |[R-014: Der Hitler-Stalin-Pakt (1939), mit Prof. Dr. Claudia Weber](https://geschichteeuropas.podigee.io/96-96)|096|93:17|2022-07-28|2. Weltkrieg, 20. Jahrhundert, Adolf Hitler, Hitler-Stalin-Pakt, Josef Stalin, NS-Deutschland, Neuere und neueste Geschichte, Osteuropa, Polen, Sowjetunion|
+|[R-015: Die Übernahme des Gestapa durch Heinrich Himmler und Reinhard Heydrich (1934), mit Andreas Mix](https://geschichteeuropas.podigee.io/425-425)|425|31:08|2024-12-02|Deutschland, Geheime Staatspolizei, Gestapa, Gestapo, Heinrich Himmler, NS-Deutschland, Neuere und Neueste Geschichte, Reinhard Heydrich|
 
 
 <a id="category-S"></a>

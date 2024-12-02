@@ -166,7 +166,7 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 240 | [top](#top) |
+|Deutschland | 241 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
@@ -276,6 +276,7 @@
 |Gastarbeiter | 1 | [top](#top) |
 |Gebet | 1 | [top](#top) |
 |Gedicht | 5 | [top](#top) |
+|Geheime Staatspolizei | 1 | [top](#top) |
 |Gemälde | 2 | [top](#top) |
 |Geologie | 2 | [top](#top) |
 |Gerichtsakte | 1 | [top](#top) |
@@ -293,7 +294,8 @@
 |Gesellschaftsordnung | 1 | [top](#top) |
 |Gesetz | 5 | [top](#top) |
 |Gesta Treverorum | 1 | [top](#top) |
-|Gestapo | 1 | [top](#top) |
+|Gestapa | 1 | [top](#top) |
+|Gestapo | 2 | [top](#top) |
 |Gladiatoren | 1 | [top](#top) |
 |Gleichberechtigung | 1 | [top](#top) |
 |Gottesdienst | 1 | [top](#top) |
@@ -329,6 +331,7 @@
 |Heiliges Römisches Reich | 3 | [top](#top) |
 |Heimatvertriebene | 7 | [top](#top) |
 |Heinrich Brüning | 1 | [top](#top) |
+|Heinrich Himmler | 1 | [top](#top) |
 |Heinrich Lübke | 1 | [top](#top) |
 |Helmond von Bosau | 1 | [top](#top) |
 |Helmut Schmidt | 1 | [top](#top) |
@@ -514,7 +517,7 @@
 |München | 12 | [top](#top) |
 |NATO | 2 | [top](#top) |
 |NS-Aufarbeitung | 1 | [top](#top) |
-|NS-Deutschland | 11 | [top](#top) |
+|NS-Deutschland | 12 | [top](#top) |
 |NS-Diktatur | 5 | [top](#top) |
 |NS-Ideologie | 1 | [top](#top) |
 |NS-Medizin | 2 | [top](#top) |
@@ -543,7 +546,7 @@
 |Neue Burg | 2 | [top](#top) |
 |Neue Ostpolitik | 2 | [top](#top) |
 |Neuengamme | 2 | [top](#top) |
-|Neuere und Neueste Geschichte | 24 | [top](#top) |
+|Neuere und Neueste Geschichte | 25 | [top](#top) |
 |Neuere und neueste Geschichte | 162 | [top](#top) |
 |Neutraubling | 1 | [top](#top) |
 |Niederdeutsch | 1 | [top](#top) |
@@ -642,7 +645,7 @@
 |Reichstag | 4 | [top](#top) |
 |Reichstagsbrand | 3 | [top](#top) |
 |Reichstagsbrandverordnung | 1 | [top](#top) |
-|Reinhard Heydrich | 1 | [top](#top) |
+|Reinhard Heydrich | 2 | [top](#top) |
 |Rekultivierung | 2 | [top](#top) |
 |Religion | 4 | [top](#top) |
 |Remus | 2 | [top](#top) |
