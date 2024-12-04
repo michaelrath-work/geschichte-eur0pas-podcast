@@ -253,18 +253,20 @@ def format_episodes_as_markdown(p: pathlib.Path,
             '|:---:|:-------------|:---------:|:-------------|\n']
         )
 
-    organic_categories_sorted = sorted(adjusted_categories, key= lambda x: x.organic)
-
-    for idx, cat in enumerate(organic_categories_sorted):
-        ep: typing.List[Episode] = list(filter(
-            functools.partial(select_by_adjusted_category, cat),
-            analysis_result.episodes))
-        num_episodes = len(ep)
-        category_link = f'[{cat.adjusted_str()}](#{cat.markdown_category_link()})'
-        output_lines.append(f'|{cat.adjusted_id}| {category_link} | {num_episodes:d} | {cat.organic} |\n')
-
     helper_unschoen = set([(c.adjusted_id, c.adjusted_name) for c in adjusted_categories])
     unique_categories = [Category(None, e[0], e[1]) for e in helper_unschoen]
+
+    for category in sorted(unique_categories, key=lambda x: x.adjusted_id):
+        ep: typing.List[Episode] = list(filter(
+            functools.partial(select_by_adjusted_category, category),
+            analysis_result.episodes))
+
+        num_episodes = len(ep)
+        organic_categories = list(sorted(set([e.category.organic for e in ep])))
+        organic_cell = '<br>'.join(organic_categories)
+        category_link = f'[{category.adjusted_str()}](#{category.markdown_category_link()})'
+        row = f'|{category.adjusted_id}| {category_link} | {num_episodes:d} | {organic_cell} |\n'
+        output_lines.append(row)
 
     output_lines.extend([
         '\n\n',

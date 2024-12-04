@@ -108,6 +108,7 @@
 |Biographie | 3 | [top](#top) |
 |Bischof Otto Spülbeck | 1 | [top](#top) |
 |Bismarck | 2 | [top](#top) |
+|Blühende Landschaften | 1 | [top](#top) |
 |Bolschewismus | 1 | [top](#top) |
 |Bombardierung | 2 | [top](#top) |
 |Boris Jelzin | 2 | [top](#top) |
@@ -143,7 +144,7 @@
 |Constantius Chlorus | 1 | [top](#top) |
 |Cäsar Flaischlen | 1 | [top](#top) |
 |D-Day | 1 | [top](#top) |
-|DDR | 15 | [top](#top) |
+|DDR | 16 | [top](#top) |
 |DFB | 1 | [top](#top) |
 |Dalmatien | 1 | [top](#top) |
 |Damiette | 1 | [top](#top) |
@@ -166,7 +167,7 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 241 | [top](#top) |
+|Deutschland | 242 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
@@ -334,6 +335,7 @@
 |Heinrich Himmler | 1 | [top](#top) |
 |Heinrich Lübke | 1 | [top](#top) |
 |Helmond von Bosau | 1 | [top](#top) |
+|Helmut Kohl | 1 | [top](#top) |
 |Helmut Schmidt | 1 | [top](#top) |
 |Henriette Obermüller | 3 | [top](#top) |
 |Henry VIII (England) | 1 | [top](#top) |
@@ -630,7 +632,7 @@
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 162 | [top](#top) |
+|Quelle | 163 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
@@ -832,7 +834,7 @@
 |Wende | 3 | [top](#top) |
 |Westeuropa | 47 | [top](#top) |
 |Widerstand | 1 | [top](#top) |
-|Wiedervereinigung | 3 | [top](#top) |
+|Wiedervereinigung | 4 | [top](#top) |
 |Wien | 2 | [top](#top) |
 |Wilhelm I. | 6 | [top](#top) |
 |Wilhelm II. | 1 | [top](#top) |
@@ -840,6 +842,7 @@
 |William Shakespeae | 1 | [top](#top) |
 |Willy Brandt | 3 | [top](#top) |
 |Winston Churchill | 1 | [top](#top) |
+|Wirtschaft | 1 | [top](#top) |
 |Wissen | 1 | [top](#top) |
 |Wissenschaftsgeschichte | 1 | [top](#top) |
 |Wissenschaftskommunikation | 1 | [top](#top) |

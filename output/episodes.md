@@ -14,18 +14,15 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-02|
-|date of generation of this list|2024-12-02|
+|podcast last build|2024-12-04|
+|date of generation of this list|2024-12-04|
 
 <a id="categories"></a>
 ## Categories
 
 | id  | curated name | #episodes | organic name |
 |:---:|:-------------|:---------:|:-------------|
-|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A - Epochenübergreifende Themen |
-|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A: Epochenübergreifende Themen |
-|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A: Epochenübergreifende Überblicke |
-|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A; Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A - Epochenübergreifende Themen<br>A: Epochenübergreifende Themen<br>A: Epochenübergreifende Überblicke<br>A; Epochenübergreifende Themen |
 |B| [B: Geologische Geschichte](#category-B) | 1 | B: Geologische Geschichte |
 |C| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 | C: Vorgeschichte und Altsteinzeit |
 |D| [D: Mittel- und Jungsteinzeit](#category-D) | 2 | D: Mittel- und Jungsteinzeit |
@@ -34,28 +31,19 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |J| [J: Das späte Mittelalter (1250-1450)](#category-J) | 1 | J: Das Spätmittelalter |
 |K| [K: Erste europäische Expansion](#category-K) | 1 | Kalter Krieg und Europäische Einigung |
 |M| [M: Reformation und Glaubenskriege (1517-1648)](#category-M) | 2 | M: Reformation und Glaubenskriege |
-|N| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 14 | N: Absolutimus und Aufklärung |
-|N| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 14 | N: Absolutismus und Aufklärung |
-|O| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 | O: Das Zeitalter der Revolutionen |
-|O| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 | O: Zeitalter der Revolutionen |
+|N| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 14 | N: Absolutimus und Aufklärung<br>N: Absolutismus und Aufklärung |
+|O| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 | O: Das Zeitalter der Revolutionen<br>O: Zeitalter der Revolutionen |
 |P| [P: Nationalismus und Imperialismus (1849-1914)](#category-P) | 9 | P: Nationalismus und Imperialismus |
 |Q| [Q: 1. Weltkrieg (1914-1918)](#category-Q) | 2 | Q: Erster Weltkrieg |
 |R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 16 | R: Zwischenkriegszeit |
 |S| [S: 2. Weltkrieg (1939-1945)](#category-S) | 19 | S: Zweiter Weltkrieg |
-|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und Europäische Einigung |
-|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und europäische Einigung |
+|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und Europäische Einigung<br>T: Kalter Krieg und europäische Einigung |
 |U| [U: Nach dem Kalten Krieg (1990-)](#category-U) | 3 | U: Nach dem Kalten Krieg |
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
-|W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien |
-|W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Geschichtswissenschaft und Erinnerungskultur |
-|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungkultur |
-|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 168 | Y - Quellen |
-|Y| [Y: Quellen](#category-Y) | 168 | Y: Quelle |
-|Y| [Y: Quellen](#category-Y) | 168 | Y: Quellen |
-|Y| [Y: Quellen](#category-Y) | 168 | Y; Quellen |
-|Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast |
-|Z| [Z: Meta/Podcast](#category-Z) | 35 | Z: Meta/ Podcast |
+|W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
+|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
+|Y| [Y: Quellen](#category-Y) | 169 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
+|Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
 
 ## Keywords 
@@ -663,6 +651,7 @@ Organic categories
 |[Y-144: Zitate aus Keyenberg zum Strukturwandel und den Auswirkungen auf den Alltag (2019/2020)](https://geschichteeuropas.podigee.io/t367-36)|367|01:58|2024-08-28|Deutschland, Erinnerungen, Keyenberg, Rheinisches Revier, Zeitgeschichte|
 |[Y-145: Aufnahme der Zeche Zollverein in die Welterbeliste der UNESCO (2001)](https://geschichteeuropas.podigee.io/t409-409)|409|01:58|2024-11-06|Deutschland, Essen, Industriekultur, Kulturerbe, Quelle, Ruhrgebiet, Steinkohle, UNESCO, Zeche Zollverein, Zeitgeschichte|
 |[Y-145: Die letzten Stau- und Verkehrsmeldungen des Deutschlandfunks (2020)](https://geschichteeuropas.podigee.io/t272-272)|272|02:25|2023-12-21|21. Jahrhundert, Deutschland, Mobilität, Quelle, Radio, Stau, Verkehr, Zeitgeschichte|
+|[Y-145: Helmut Kohl spricht von "blühenden Landschaften" (1990)](https://geschichteeuropas.podigee.io/t426-426)|426|06:44|2024-12-04|Blühende Landschaften, DDR, Deutschland, Helmut Kohl, Quelle, Wiedervereinigung, Wirtschaft|
 |[Y-146: Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung (2020)](https://geschichteeuropas.podigee.io/t356-356)|356|03:24|2024-07-31|Braunkohle, Deutschland, Energiewende, Gesetz, Quelle, Rheinisches Revier, Steinkohle, Zeitgeschichte|
 |[Y-147: Strukturstärkungsgesetz Kohleregionen (2020)](https://geschichteeuropas.podigee.io/t384-384)|384|03:44|2024-09-25|Deutschland, Gesetz, Quelle, Strukturförderung, Zeitgeschichte|
 |[Y-148: Tweets zum 30. Jahrestag der #Wiedervereinigung (2020)](https://geschichteeuropas.podigee.io/t247-247)|247|02:34|2023-10-23|Deutsche Wiedervereinigung, Deutschland, Quelle, Social Media, Twitter, Zeitgeschichte|
