@@ -115,7 +115,7 @@
 |Borken | 1 | [top](#top) |
 |Brandenburg | 1 | [top](#top) |
 |Braunkohle | 10 | [top](#top) |
-|Braunkohleabbau | 1 | [top](#top) |
+|Braunkohleabbau | 2 | [top](#top) |
 |Braunkohlebergbau | 1 | [top](#top) |
 |Braunkohlenbergbau | 1 | [top](#top) |
 |Braunkohletagebau | 7 | [top](#top) |
@@ -167,7 +167,7 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 242 | [top](#top) |
+|Deutschland | 243 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
@@ -459,6 +459,7 @@
 |Landtag | 1 | [top](#top) |
 |Landwirtschaft | 1 | [top](#top) |
 |Languedoc | 1 | [top](#top) |
+|Lausitz | 1 | [top](#top) |
 |Lebensreform | 1 | [top](#top) |
 |Lebensreformbewegung | 1 | [top](#top) |
 |Leipzig | 2 | [top](#top) |
@@ -855,7 +856,7 @@
 |Zar Nikolaus II. | 2 | [top](#top) |
 |Zeche Zollverein | 1 | [top](#top) |
 |Zeit | 2 | [top](#top) |
-|Zeitgeschichte | 126 | [top](#top) |
+|Zeitgeschichte | 127 | [top](#top) |
 |Zeitungen | 1 | [top](#top) |
 |Zeitzone | 1 | [top](#top) |
 |Zentrum (Partei) | 1 | [top](#top) |

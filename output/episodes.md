@@ -14,15 +14,15 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-04|
-|date of generation of this list|2024-12-04|
+|podcast last build|2024-12-06|
+|date of generation of this list|2024-12-07|
 
 <a id="categories"></a>
 ## Categories
 
 | id  | curated name | #episodes | organic name |
 |:---:|:-------------|:---------:|:-------------|
-|A| [A: Epochenübergreifende Themen](#category-A) | 45 | A - Epochenübergreifende Themen<br>A: Epochenübergreifende Themen<br>A: Epochenübergreifende Überblicke<br>A; Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 46 | A - Epochenübergreifende Themen<br>A: Epochenübergreifende Themen<br>A: Epochenübergreifende Überblicke<br>A; Epochenübergreifende Themen |
 |B| [B: Geologische Geschichte](#category-B) | 1 | B: Geologische Geschichte |
 |C| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 | C: Vorgeschichte und Altsteinzeit |
 |D| [D: Mittel- und Jungsteinzeit](#category-D) | 2 | D: Mittel- und Jungsteinzeit |
@@ -112,6 +112,7 @@ Organic categories
 |[A-042: Das Hessische Braunkohlen-Revier, mit Ingo Sielaff [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/405-405)|405|78:19|2024-10-24|Borken, Braunkohle, Braunkohlenbergbau, Deutschland, Elektrizität, Grubenunglück, Hessen|
 |[A-043: Das Ruhrgebiet als Nachbarregion des Rheinischen Reviers, mit Prof. Dr. Stefan Berger [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/410-410)|410|69:34|2024-11-07|Deutschland, Gastarbeiter, Migration, Neuere und neueste Geschichte, Ruhrpolen, Strukturwandel, Zeitgeschichte|
 |[A-045: Das Mitteldeutsche Revier, mit Dr. Annette Schneider-Reinhardt [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/419-419)|419|69:57|2024-11-21|Braunkohle, DDR, Deutschland, Industriekultur, Mitteldeutsches Revier, Rekultivierung, Strukturbruch, Wende, Wiedervereinigung, Zeitgeschichte|
+|[A-046: Das Lausitzer Revier, mit Heidi Pinkepank und Dr. Lars Scharnholz [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/427-427)|427|95:31|2024-12-05|Braunkohleabbau, Deutschland, Lausitz, Zeitgeschichte|
 
 
 <a id="category-B"></a>
