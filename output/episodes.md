@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-06|
-|date of generation of this list|2024-12-07|
+|podcast last build|2024-12-08|
+|date of generation of this list|2024-12-08|
 
 <a id="categories"></a>
 ## Categories
@@ -42,7 +42,7 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 169 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 170 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
 
@@ -627,6 +627,7 @@ Organic categories
 |[Y-119: Bischof Otto Spülbeck, Predigt auf dem Katholikentag in Köln 1956](https://geschichteeuropas.podigee.io/t312-312)|312|00:51|2024-05-09|Bischof Otto Spülbeck, DDR, Deutschland, Katholizismus, Predigt, Quelle, Religion, Zeitgeschichte|
 |[Y-120: UN-Resolution 1006 zu ungarischen Flüchtlingen (1956)](https://geschichteeuropas.podigee.io/t66-66)|066|02:18|2022-01-24|20. Jahrhundert, Flucht, Kalter Krieg, Osteuropa, Ungarischer Volksaufstand 1956, Ungarn, Zeitgeschichte, Österreich|
 |[Y-121: Parlamentarische Anfrage zur Aufnahme Franco-Spanien in die NATO (1959)](https://geschichteeuropas.podigee.io/t290-290)|290|06:11|2024-02-08|20. Jahrhundert, Bundestag, Deutschland, Francisco Franco, NATO, Quelle, Spanien, Zeitgeschichte|
+|[Y-122: Kontrollratsdirektive Nr. 38 zur sogenannten "Entnazifizierung" Deutschlands (1946)](https://geschichteeuropas.podigee.io/t428-428)|428|03:43|2024-12-08|2. Weltkrieg, Deutschland, Entnazifizierung, Kontrollrat, Kriegsende, Nationalsozialismus, Quelle|
 |[Y-122: Walter Ulbricht, "Niemand hat die Absicht, eine Mauer zu errichten" (1961)](https://geschichteeuropas.podigee.io/t39-39)|039|02:11|2021-08-02|20. Jahrhundert, Berlin, Berliner Mauer, Deutschland, Mauerbau, Quelle, Walter Ulbricht, Zeitgeschichte|
 |[Y-123: Heinrich Lübke, Proklamation des 17. Juni zum Nationalen Gedenktag des deutschen Volkes (1963)](https://geschichteeuropas.podigee.io/t204-204)|204|05:32|2023-06-05|20. Jahrhundert, BRD, DDR, Deutschland, Heinrich Lübke, Quelle, Tag der deutschen Einheit, Volksaufstand DDR 1953, Zeitgeschichte|
 |[Y-124: Ergebnisse der Herren-Fußball-WM 1966](https://geschichteeuropas.podigee.io/t37-37)|037|02:56|2021-07-19|20. Jahrhundert, England, Fußball, Fußballweltmeisterschaft 1966, Herrenfußball, Quelle, Westeuropa, Zeitgeschichte|

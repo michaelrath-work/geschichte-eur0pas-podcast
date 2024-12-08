@@ -26,7 +26,7 @@
 |19. Jahrhundert | 62 | [top](#top) |
 |1933 | 1 | [top](#top) |
 |2. Jahrhundert | 2 | [top](#top) |
-|2. Weltkrieg | 19 | [top](#top) |
+|2. Weltkrieg | 20 | [top](#top) |
 |20. Jahrhundert | 152 | [top](#top) |
 |20. Juli 1944 | 1 | [top](#top) |
 |21. Jahrhundert | 19 | [top](#top) |
@@ -167,7 +167,7 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 243 | [top](#top) |
+|Deutschland | 244 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
@@ -194,6 +194,7 @@
 |Energiewende | 4 | [top](#top) |
 |England | 15 | [top](#top) |
 |Entdeckung | 2 | [top](#top) |
+|Entnazifizierung | 1 | [top](#top) |
 |Entspannungspolitik | 1 | [top](#top) |
 |Enttrümmerung | 1 | [top](#top) |
 |Erdgas | 1 | [top](#top) |
@@ -425,6 +426,7 @@
 |Konrad Adenauer | 2 | [top](#top) |
 |Konstantin der Große | 3 | [top](#top) |
 |Konstantinopel | 2 | [top](#top) |
+|Kontrollrat | 1 | [top](#top) |
 |Konzentraionslager | 1 | [top](#top) |
 |Konzentrationslager | 4 | [top](#top) |
 |Kreta | 1 | [top](#top) |
@@ -432,6 +434,7 @@
 |Kreuzzug von Damiette | 1 | [top](#top) |
 |Kreuzzüge | 6 | [top](#top) |
 |Krieg | 3 | [top](#top) |
+|Kriegsende | 1 | [top](#top) |
 |Kriegsführung | 1 | [top](#top) |
 |Kriegsgefangenschaft | 3 | [top](#top) |
 |Kriegsverbrechen | 6 | [top](#top) |
@@ -538,7 +541,7 @@
 |Natalja Gorbanewskaja | 1 | [top](#top) |
 |Nationalismus | 1 | [top](#top) |
 |Nationalsozialimsus | 1 | [top](#top) |
-|Nationalsozialismus | 15 | [top](#top) |
+|Nationalsozialismus | 16 | [top](#top) |
 |Nationalversammlung | 2 | [top](#top) |
 |Naturschutz | 2 | [top](#top) |
 |Nazarener | 1 | [top](#top) |
@@ -633,7 +636,7 @@
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 163 | [top](#top) |
+|Quelle | 164 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
