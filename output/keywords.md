@@ -124,7 +124,7 @@
 |Buchenwald | 1 | [top](#top) |
 |Bugfix | 1 | [top](#top) |
 |Bulgarien | 1 | [top](#top) |
-|Bundesrepublik Deutschland | 3 | [top](#top) |
+|Bundesrepublik Deutschland | 4 | [top](#top) |
 |Bundestag | 1 | [top](#top) |
 |Byzantinisches Reich | 5 | [top](#top) |
 |Byzantinistik | 1 | [top](#top) |
@@ -153,6 +153,7 @@
 |Das ACH! | 1 | [top](#top) |
 |Deindustrialisierung | 2 | [top](#top) |
 |Demokratie | 3 | [top](#top) |
+|Demokratisierung | 1 | [top](#top) |
 |Demonstration | 1 | [top](#top) |
 |Denkmalpflege | 1 | [top](#top) |
 |Desertion | 1 | [top](#top) |
@@ -167,10 +168,11 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 244 | [top](#top) |
+|Deutschland | 246 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
+|Dillenburg | 1 | [top](#top) |
 |Diokletian | 2 | [top](#top) |
 |Diplomatie | 3 | [top](#top) |
 |Diskurs | 1 | [top](#top) |
@@ -194,7 +196,7 @@
 |Energiewende | 4 | [top](#top) |
 |England | 15 | [top](#top) |
 |Entdeckung | 2 | [top](#top) |
-|Entnazifizierung | 1 | [top](#top) |
+|Entnazifizierung | 2 | [top](#top) |
 |Entspannungspolitik | 1 | [top](#top) |
 |Enttrümmerung | 1 | [top](#top) |
 |Erdgas | 1 | [top](#top) |
@@ -392,7 +394,7 @@
 |KZ Buchenwald | 1 | [top](#top) |
 |KZ Flossenbürg | 2 | [top](#top) |
 |Kaiser Friedrich II. | 1 | [top](#top) |
-|Kalter Krieg | 12 | [top](#top) |
+|Kalter Krieg | 13 | [top](#top) |
 |Kanalinseln | 1 | [top](#top) |
 |Kardinal Frings | 1 | [top](#top) |
 |Karl Marx | 2 | [top](#top) |
@@ -552,7 +554,7 @@
 |Neue Burg | 2 | [top](#top) |
 |Neue Ostpolitik | 2 | [top](#top) |
 |Neuengamme | 2 | [top](#top) |
-|Neuere und Neueste Geschichte | 25 | [top](#top) |
+|Neuere und Neueste Geschichte | 26 | [top](#top) |
 |Neuere und neueste Geschichte | 162 | [top](#top) |
 |Neutraubling | 1 | [top](#top) |
 |Niederdeutsch | 1 | [top](#top) |
@@ -636,7 +638,7 @@
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 164 | [top](#top) |
+|Quelle | 165 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
@@ -843,6 +845,8 @@
 |Wilhelm I. | 6 | [top](#top) |
 |Wilhelm II. | 1 | [top](#top) |
 |Wilhelm Liebknecht | 2 | [top](#top) |
+|Wilhelm von Oranje | 1 | [top](#top) |
+|Wilhelmsturm | 1 | [top](#top) |
 |William Shakespeae | 1 | [top](#top) |
 |Willy Brandt | 3 | [top](#top) |
 |Winston Churchill | 1 | [top](#top) |
@@ -859,7 +863,7 @@
 |Zar Nikolaus II. | 2 | [top](#top) |
 |Zeche Zollverein | 1 | [top](#top) |
 |Zeit | 2 | [top](#top) |
-|Zeitgeschichte | 127 | [top](#top) |
+|Zeitgeschichte | 128 | [top](#top) |
 |Zeitungen | 1 | [top](#top) |
 |Zeitzone | 1 | [top](#top) |
 |Zentrum (Partei) | 1 | [top](#top) |

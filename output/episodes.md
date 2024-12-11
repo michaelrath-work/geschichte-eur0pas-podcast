@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-08|
-|date of generation of this list|2024-12-08|
+|podcast last build|2024-12-11|
+|date of generation of this list|2024-12-11|
 
 <a id="categories"></a>
 ## Categories
@@ -37,12 +37,12 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |Q| [Q: 1. Weltkrieg (1914-1918)](#category-Q) | 2 | Q: Erster Weltkrieg |
 |R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 16 | R: Zwischenkriegszeit |
 |S| [S: 2. Weltkrieg (1939-1945)](#category-S) | 19 | S: Zweiter Weltkrieg |
-|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 22 | T: Kalter Krieg und Europäische Einigung<br>T: Kalter Krieg und europäische Einigung |
+|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 23 | T: Kalter Krieg und Europäische Einigung<br>T: Kalter Krieg und europäische Einigung |
 |U| [U: Nach dem Kalten Krieg (1990-)](#category-U) | 3 | U: Nach dem Kalten Krieg |
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 170 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 171 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
 
@@ -363,6 +363,7 @@ Organic categories
 |:---|:---:|---:|---:|:---|
 |[T-001: Der Nürnberger Hauptkriegsverbrecherprozess (1945/46), mit Prof. Dr. Kim Christian Priemel](https://geschichteeuropas.podigee.io/84-84)|084|58:13|2022-05-16|2. Weltkrieg, 20. Jahrhundert, Deutschland, Kriegsverbrechen, Nürnberg, Nürnberger Kriegsverbrecherprozess, Westeuropa, Zeitgeschichte|
 |[T-002: Ausrangiert: Alltag und Notlösungen nach Kriegsende (1945-1948), mit Markus Berberich [Stadtmuseum Trier]](https://geschichteeuropas.podigee.io/390-390)|390|29:59|2024-10-03|Alltag, Armut, Deutschland, Nachkriegszeit, Notlösungen, Zeitgeschichte|
+|[T-002: Die "Entnazifizierung" Deutschlands ab 1945, mit Dr. Sebastian Rojek](https://geschichteeuropas.podigee.io/429-429)|429|78:15|2024-12-09|Bundesrepublik Deutschland, Demokratisierung, Deutschland, Entnazifizierung, Kalter Krieg, Zeitgeschichte|
 |[T-003: Kirche im Wandel - Integration von Flüchtlingen u. Vertriebenen (1945-63), mit Prof. Dr. R. Bendel [IKKDOS e.V.]](https://geschichteeuropas.podigee.io/339-339)|339|55:42|2024-06-27|Deutschland, Heimatvertriebene, Integration, Kirchengeschichte, Zeitgeschichte|
 |[T-004: Die katholischen Vertriebenen in der DDR, mit Dr. Torsten Müller [IKKDOS e.V.]](https://geschichteeuropas.podigee.io/315-315)|315|44:48|2024-05-16|20. Jahrhundert, Atheismus, DDR, Deutschland, Heimatvertriebene, Katholizismus, Papst Johannes Paul II., Religion, Wiedervereinigung, Zeitgeschichte|
 |[T-004: Jahrestage der "Befreiung" Rigas in sowjetischen Wochenschauen, mit Paul Birkner](https://geschichteeuropas.podigee.io/415-415)|415|53:41|2024-11-16|Lettland, Mediengeschichte, Osteuropa, Propaganda, Riga, Sowjetunion, Wochenschau, Zeitgeschichte|
@@ -546,6 +547,7 @@ Organic categories
 |[Y-044: Die Emser Depesche (1870)](https://geschichteeuropas.podigee.io/t9-9)|009|03:11|2020-10-22|19. Jahrhundert, Deutsch-Französischer Krieg, Deutschland, Frankreich, Neuere und neueste Geschichte, Otto von Bismarck, Quelle, Westeuropa, Wilhelm I.|
 |[Y-045: August Bebel und Wilhelm Liebknecht, Begründung  der Enthaltung bei der Abstimmung über Kriegskrediten (1870)](https://geschichteeuropas.podigee.io/t75-75)|075|02:07|2022-03-14|, 19. Jahrhundert, August Bebel, Deutsch-französischer Krieg, Deutschland, Neuere und neueste Geschichte, Quelle, Wilhelm Liebknecht|
 |[Y-046: Kurze Nachrichten zum Ausbruch des deutsch-französischen Kriegs (1870)](https://geschichteeuropas.podigee.io/t41-41)|041|08:42|2021-08-16|19. Jahrhundert, Deutsch-Französischer Krieg, Deutschland, Frankreich, Neuere und neueste Geschichte, Quelle, Westeuropa|
+|[Y-047: Aufruf zum Bau des Dillenburger Wilhelmsturms (1865)](https://geschichteeuropas.podigee.io/t430-430)|430|02:33|2024-12-11|Deutschland, Dillenburg, Neuere und Neueste Geschichte, Quelle, Wilhelm von Oranje, Wilhelmsturm|
 |[Y-047: Henriette Venedey, Erinnerungen an den Vater (1870)](https://geschichteeuropas.podigee.io/t191-191)|191|02:17|2023-05-07|19. Jahrhundert, Baden, Carl Theodor Obermüller, Deutschland, Henriette Obermüller, Neuere und neueste Geschichte, Quelle, Revolution von 1848/49|
 |[Y-048: Charles Darwin, The Descent of Man (1871/74)](https://geschichteeuropas.podigee.io/t382-382)|382|04:57|2024-09-22|Charles Darwin, England, Evolution, Neuere und neueste Geschichte, Quelle, Urmenschen|
 |[Y-049: Theodor v. Huber-Liebenau, Pompeji: Die Lavastadt (1879)](https://geschichteeuropas.podigee.io/t143-143)|143|04:13|2022-12-02|1. Jahrhundert, Antike, Graffiti, Italien, Mosaik, Pompeji, Quelle, Südeuropa, Wandmalereien|
