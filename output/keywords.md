@@ -168,11 +168,11 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 246 | [top](#top) |
+|Deutschland | 247 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
-|Dillenburg | 1 | [top](#top) |
+|Dillenburg | 2 | [top](#top) |
 |Diokletian | 2 | [top](#top) |
 |Diplomatie | 3 | [top](#top) |
 |Diskurs | 1 | [top](#top) |
@@ -204,7 +204,7 @@
 |Erich Kästner | 1 | [top](#top) |
 |Erich Ludendorff | 2 | [top](#top) |
 |Erinnerungen | 1 | [top](#top) |
-|Erinnerungskultur | 19 | [top](#top) |
+|Erinnerungskultur | 20 | [top](#top) |
 |Erkelenz | 1 | [top](#top) |
 |Ermächigungsgesetz | 1 | [top](#top) |
 |Ermächtigungsgesetz | 1 | [top](#top) |
@@ -219,6 +219,7 @@
 |Europäische Regionalgeschichte | 1 | [top](#top) |
 |Europäische Union | 1 | [top](#top) |
 |Euthanasie | 4 | [top](#top) |
+|Evangelium | 1 | [top](#top) |
 |Evolution | 1 | [top](#top) |
 |Exil | 1 | [top](#top) |
 |Fall Blau | 1 | [top](#top) |
@@ -379,7 +380,7 @@
 |James Challis | 2 | [top](#top) |
 |Jena | 1 | [top](#top) |
 |Jerusalem | 1 | [top](#top) |
-|Jesus Christus | 2 | [top](#top) |
+|Jesus Christus | 3 | [top](#top) |
 |Johann Amos Comenius | 1 | [top](#top) |
 |Johann Anton Ramboux | 1 | [top](#top) |
 |Johann Anton Wyttenbach | 1 | [top](#top) |
@@ -481,6 +482,7 @@
 |Louise Otto | 1 | [top](#top) |
 |Ludwig Simon | 2 | [top](#top) |
 |Luftkrieg | 3 | [top](#top) |
+|Lukas | 1 | [top](#top) |
 |Lübeck | 1 | [top](#top) |
 |Lützerath | 1 | [top](#top) |
 |Machtübernahme | 2 | [top](#top) |
@@ -534,7 +536,7 @@
 |NSDAP | 2 | [top](#top) |
 |Nachkriegsordnung | 1 | [top](#top) |
 |Nachkriegszeit | 5 | [top](#top) |
-|Naher Osten | 2 | [top](#top) |
+|Naher Osten | 3 | [top](#top) |
 |Naher und mittlerer Osten | 8 | [top](#top) |
 |Nahostkonflikt | 1 | [top](#top) |
 |Napoleon Bonaparte | 1 | [top](#top) |
@@ -638,7 +640,7 @@
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 165 | [top](#top) |
+|Quelle | 166 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
@@ -834,6 +836,7 @@
 |Wannsee-Konferenz | 1 | [top](#top) |
 |Warschau | 2 | [top](#top) |
 |Wehrmacht | 2 | [top](#top) |
+|Weihnachtsgeschichte | 1 | [top](#top) |
 |Weimar | 2 | [top](#top) |
 |Weimarer Republik | 5 | [top](#top) |
 |Weiße Rose | 1 | [top](#top) |
@@ -845,8 +848,8 @@
 |Wilhelm I. | 6 | [top](#top) |
 |Wilhelm II. | 1 | [top](#top) |
 |Wilhelm Liebknecht | 2 | [top](#top) |
-|Wilhelm von Oranje | 1 | [top](#top) |
-|Wilhelmsturm | 1 | [top](#top) |
+|Wilhelm von Oranje | 2 | [top](#top) |
+|Wilhelmsturm | 2 | [top](#top) |
 |William Shakespeae | 1 | [top](#top) |
 |Willy Brandt | 3 | [top](#top) |
 |Winston Churchill | 1 | [top](#top) |

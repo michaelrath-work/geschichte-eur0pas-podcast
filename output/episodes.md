@@ -14,15 +14,15 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-11|
-|date of generation of this list|2024-12-11|
+|podcast last build|2024-12-13|
+|date of generation of this list|2024-12-13|
 
 <a id="categories"></a>
 ## Categories
 
 | id  | curated name | #episodes | organic name |
 |:---:|:-------------|:---------:|:-------------|
-|A| [A: Epochenübergreifende Themen](#category-A) | 46 | A - Epochenübergreifende Themen<br>A: Epochenübergreifende Themen<br>A: Epochenübergreifende Überblicke<br>A; Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 47 | A - Epochenübergreifende Themen<br>A: Epochenübergreifende Themen<br>A: Epochenübergreifende Überblicke<br>A; Epochenübergreifende Themen |
 |B| [B: Geologische Geschichte](#category-B) | 1 | B: Geologische Geschichte |
 |C| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 | C: Vorgeschichte und Altsteinzeit |
 |D| [D: Mittel- und Jungsteinzeit](#category-D) | 2 | D: Mittel- und Jungsteinzeit |
@@ -42,7 +42,7 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 171 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 172 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
 
@@ -86,6 +86,7 @@ Organic categories
 |[A-017: Die Industrialisierung des Rheinischen Reviers, mit Prof. Dr. Boris Gehlen [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/224-224)|224|55:57|2023-08-27|19. Jahrhundert, 20. Jahrhundert, Braunkohle, Deutschland, Elektrizität, Finanzwesen, Industrialisierung, Köln, Neuere und Neueste Geschichte, Rheinisches Revier|
 |[A-018: Die Erfindung des Pauperismus im 19. Jahrhundert, mit Prof. Dr. Monika Wienfort [Univ. Potsdam]](https://geschichteeuropas.podigee.io/350-350)|350|68:26|2024-07-20|19. Jahrhundert, Armut, Europa, Neuere und neueste Geschichte, Pauperismus|
 |[A-019: Die Geschichte des Braunkohlebergbaus im Rheinischen Revier, mit Dr. Guido Hitze [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/238-238)|238|71:28|2023-09-24|19. Jahrhundert, 20. Jahrhundert, 21. Jahrhundert, Bergbau, Braunkohle, Deutschland, Elektrizität, Neuere und neueste Geschichte, Zeitgeschichte|
+|[A-020: Der Dillenburger Wilhelmsturm: Geschichte - Gegenwart - Zukunft, mit Simon Dietrich [Oranienstadt Dillenburg]](https://geschichteeuropas.podigee.io/431-431)|431|63:37|2024-12-12|Deutschland, Dillenburg, Erinnerungskultur, Wilhelm von Oranje, Wilhelmsturm|
 |[A-020: Ein Steilpass durch die Fußballgeschichte, mit Petra Tabarelli (FRÜF)](https://geschichteeuropas.podigee.io/13-13)|013|78:51|2020-11-16|19. Jahrhundert, 20. Jahrhundert, Deutschland, England, Europa, Fußball, Herrenfußball, Neuere und neueste Geschichte|
 |[A-021: Die 3. Pestpandemie und die Entdeckung des Pesterregers, mit Dr. Alexander Berner](https://geschichteeuropas.podigee.io/14-14)|014|52:04|2020-12-27|19. Jahrhundert, Alexandre Yersin, Die Pest, Europa, Neuere und neueste Geschichte|
 |[A-022: Die Geschichte des Frauenfußballs, mit Petra Tabarelli (FRÜF)](https://geschichteeuropas.podigee.io/25-25)|025|83:26|2021-05-03|19. Jahrhundert, 20. Jahrhundert, Deutschland, England, Europa, Frauenfußball, Fußball, Nettie Honeyball, Neuere und neueste Geschichte|
@@ -502,6 +503,7 @@ Organic categories
 |[Y-003: Die Inschrift am Vatikanischen Obelisken (c. 14-20)](https://geschichteeuropas.podigee.io/t34-34)|034|01:24|2021-06-28|Antike, Europa, Obelisk, Quelle, Rom, Ägypten|
 |[Y-003: Titus Livius, Ab urbe condita, Auszüge aus dem ersten Buch (ca. 27 v. Chr.)](https://geschichteeuropas.podigee.io/t422-422)|422|03:11|2024-11-24|Antike, Mythos, Quelle, Remus, Rom, Romulus|
 |[Y-004: Matthäus-Evangelium, Die Bergpredigt (ca. 80-90 n. Chr.?)](https://geschichteeuropas.podigee.io/t316-316)|316|01:44|2024-05-18|Antike, Armut, Bergpredigt, Christentum, Jesus Christus, Naher Osten, Quelle|
+|[Y-005: Lukas-Evangelium, Schilderung von Jesus Christus' Geburt (ca. 70-90 n. Chr.?)](https://geschichteeuropas.podigee.io/t432-432)|432|02:53|2024-12-13|Evangelium, Jesus Christus, Lukas, Naher Osten, Quelle, Weihnachtsgeschichte|
 |[Y-005: Matthäus-Evangelium, Das Gleichnis vom Gericht des Menschensohnes über die Völker (ca. 80-90 n. Chr.?)](https://geschichteeuropas.podigee.io/t340-340)|340|02:58|2024-06-29|Antike, Armenfürsorge, Armut, Jesus Christus, Matthäus-Evangelium, Quelle|
 |[Y-006: Die Mailänder Vereinbarung (313)](https://geschichteeuropas.podigee.io/t142-142)|142|03:43|2022-11-28|4. Jahrhundert, Antike, Christentum, Italien, Konstantin der Große, Mailand, Quelle, Südeuropa, Toleranzedikt, Valerius Licinianus Licinius|
 |[Y-007: Lactantius, de mortibus persecutorum (ca. 314)](https://geschichteeuropas.podigee.io/t3-3)|003|03:52|2020-08-03|4. Jahrhundert, Antike, Konstantin der Große, Lactantius, Maxentius, Quelle, Römisches Kaiserreich, Südeuropa|
