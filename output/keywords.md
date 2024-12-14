@@ -38,6 +38,7 @@
 |Abstimmung | 1 | [top](#top) |
 |Adolf Eichmann | 2 | [top](#top) |
 |Adolf Hitler | 18 | [top](#top) |
+|Advent | 1 | [top](#top) |
 |Aeneas | 1 | [top](#top) |
 |Aktion T4 | 2 | [top](#top) |
 |Albigenser | 1 | [top](#top) |
@@ -204,7 +205,7 @@
 |Erich Kästner | 1 | [top](#top) |
 |Erich Ludendorff | 2 | [top](#top) |
 |Erinnerungen | 1 | [top](#top) |
-|Erinnerungskultur | 20 | [top](#top) |
+|Erinnerungskultur | 21 | [top](#top) |
 |Erkelenz | 1 | [top](#top) |
 |Ermächigungsgesetz | 1 | [top](#top) |
 |Ermächtigungsgesetz | 1 | [top](#top) |
@@ -432,6 +433,7 @@
 |Kontrollrat | 1 | [top](#top) |
 |Konzentraionslager | 1 | [top](#top) |
 |Konzentrationslager | 4 | [top](#top) |
+|Krakau | 1 | [top](#top) |
 |Kreta | 1 | [top](#top) |
 |Kreuzzug | 2 | [top](#top) |
 |Kreuzzug von Damiette | 1 | [top](#top) |
@@ -445,7 +447,7 @@
 |Krim-Annexion | 1 | [top](#top) |
 |Kultur | 1 | [top](#top) |
 |Kulturaustausch | 1 | [top](#top) |
-|Kulturerbe | 3 | [top](#top) |
+|Kulturerbe | 4 | [top](#top) |
 |Kulturwissenschaft | 1 | [top](#top) |
 |Kunst | 6 | [top](#top) |
 |Kunstakademien | 1 | [top](#top) |
@@ -586,7 +588,7 @@
 |Osmanisches Reich | 6 | [top](#top) |
 |Ostberlin | 1 | [top](#top) |
 |Ostdeutschland | 2 | [top](#top) |
-|Osteuropa | 57 | [top](#top) |
+|Osteuropa | 58 | [top](#top) |
 |Ostfront | 1 | [top](#top) |
 |Oströmisches Reich | 1 | [top](#top) |
 |Ostsee | 4 | [top](#top) |
@@ -619,7 +621,7 @@
 |Plinius der Jüngere | 1 | [top](#top) |
 |Plinius der Ältere | 1 | [top](#top) |
 |Podcast | 4 | [top](#top) |
-|Polen | 10 | [top](#top) |
+|Polen | 11 | [top](#top) |
 |Polen-Litauen | 2 | [top](#top) |
 |Polizei | 1 | [top](#top) |
 |Pompeji | 10 | [top](#top) |
@@ -784,6 +786,7 @@
 |Toleranzedikt | 1 | [top](#top) |
 |Tony Blair | 2 | [top](#top) |
 |Totaler Krieg | 1 | [top](#top) |
+|Tradition | 1 | [top](#top) |
 |Transformation | 1 | [top](#top) |
 |Transottomanica | 1 | [top](#top) |
 |Trier | 11 | [top](#top) |
@@ -836,6 +839,7 @@
 |Wannsee-Konferenz | 1 | [top](#top) |
 |Warschau | 2 | [top](#top) |
 |Wehrmacht | 2 | [top](#top) |
+|Weihnachten | 1 | [top](#top) |
 |Weihnachtsgeschichte | 1 | [top](#top) |
 |Weimar | 2 | [top](#top) |
 |Weimarer Republik | 5 | [top](#top) |
@@ -866,7 +870,7 @@
 |Zar Nikolaus II. | 2 | [top](#top) |
 |Zeche Zollverein | 1 | [top](#top) |
 |Zeit | 2 | [top](#top) |
-|Zeitgeschichte | 128 | [top](#top) |
+|Zeitgeschichte | 129 | [top](#top) |
 |Zeitungen | 1 | [top](#top) |
 |Zeitzone | 1 | [top](#top) |
 |Zentrum (Partei) | 1 | [top](#top) |

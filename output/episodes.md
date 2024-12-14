@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-13|
-|date of generation of this list|2024-12-13|
+|podcast last build|2024-12-14|
+|date of generation of this list|2024-12-14|
 
 <a id="categories"></a>
 ## Categories
@@ -41,7 +41,7 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |U| [U: Nach dem Kalten Krieg (1990-)](#category-U) | 3 | U: Nach dem Kalten Krieg |
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
-|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 32 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
+|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
 |Y| [Y: Quellen](#category-Y) | 172 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
@@ -483,6 +483,7 @@ Organic categories
 |[X-032: Industriekultur im Rheinischen Revier erfassen, mit Dr. Ralf Liptau & Dipl.-Ing. Rasmus Radach [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/385-385)|385|52:38|2024-09-26|Deutschland, Industriekultur, Rheinisches Revier, Zeitgeschichte|
 |[X-033: Stadt beziehungsweise Land, mit Prof. Dr. Susanne Rau [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/387-387)|387|60:07|2024-09-28|Deutschland, Frühe Neuzeit, Land, Neuere und Neueste Geschichte, Stadt, Zeitgeschichte|
 |[X-034: Polen A und B in der postkolonialen Theorie und Popkultur, mit Jannick Piskorski](https://geschichteeuropas.podigee.io/421-421)|421|43:42|2024-11-23|Erinnerungskultur, Polen, Popkultur, Postkoloniale Theorie, Zeitgeschichte|
+|[X-035: Die Krakauer Krippentradition "Szopka" als immaterielles Kulturerbe, mit Annika Häberlein](https://geschichteeuropas.podigee.io/433-433)|433|55:30|2024-12-14|Advent, Erinnerungskultur, Krakau, Kulturerbe, Osteuropa, Polen, Tradition, Weihnachten, Zeitgeschichte|
 
 
 <a id="category-Y"></a>
