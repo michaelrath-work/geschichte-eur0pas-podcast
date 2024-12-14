@@ -5,9 +5,12 @@ import functools
 import pathlib
 import pprint
 import os
+import re
 import typing
 import requests
 import xml.etree.ElementTree as ET
+import urllib.request
+
 
 CHANNEL_IMG_URL = 'https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg'
 
@@ -358,6 +361,5 @@ def main():
         output_file,
         analysis_result)
 
-
 if __name__ == '__main__':
-    main()
+     main()
