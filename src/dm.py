@@ -1,7 +1,7 @@
 from typing import List
 from sqlalchemy import Column, ForeignKey, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import relationship, backref, Mapped, mapped_column
+from sqlalchemy.orm import relationship, Mapped, mapped_column
 
 
 Base = declarative_base()
@@ -16,11 +16,12 @@ class Episode(Base):
   publication_date = Column(String)
   duration_seconds = Column(Integer)
 
+  category: Mapped['Category'] = relationship(back_populates='episode')
   keywords: Mapped[List['Keyword']] = relationship()
 
 
-  def __repr__(self) -> str:
-    return f"Episode(id={self.id!r}, name={self.name!r})"
+  # def __repr__(self) -> str:
+  #   return f"Episode(id={self.id!r}, name={self.name!r})"
 
 
 class Category(Base):
@@ -31,10 +32,14 @@ class Category(Base):
   currated_name = Column(String)
   organic_names = Column(String)
 
+  episode_id: Mapped[int] = mapped_column(ForeignKey('episode.id'))
+  episode: Mapped['Episode'] = relationship(back_populates='category')
+
 
 class Keyword(Base):
   __tablename__ = 'keyword'
 
   id: Mapped[int] = mapped_column(primary_key=True)
   name = Column(String)
-  episode_id: Mapped[int] = mapped_column(ForeignKey("episode.id"))
+
+  episode_id: Mapped[int] = mapped_column(ForeignKey('episode.id'))
