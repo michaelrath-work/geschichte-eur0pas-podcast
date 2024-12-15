@@ -10,6 +10,14 @@ entity "Episode" as episodeEntity {
   duration_seconds: number
 }
 
+note top {
+  title: A-001: Ägyptische Obelisken in Europa, mit Dr. Arnulf Schlüter (SMÄK auf die Ohren)
+  number: 35
+  link: https://geschichteeuropas.podigee.io/35-35
+  publication_date: 2021-07-05
+  duration_seconds: 3629
+}
+
 entity "Category" as categoryEntity {
   id
   ---
@@ -19,7 +27,6 @@ entity "Category" as categoryEntity {
 }
 
 note bottom {
-Example
 marker: A
 currated_name: Epochenübergreifende Themen
 organic_names:  [A - Epochenübergreifende Themen, A: Epochenübergreifende Themen]
@@ -29,6 +36,10 @@ entity "Keyword" as keywordEntity {
   id
   ---
   name: str
+}
+
+note bottom {
+  name: 16. Jahrhundert
 }
 
 
