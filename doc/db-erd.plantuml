@@ -1,0 +1,39 @@
+@startuml
+
+entity "Episode" as episodeEntity {
+  id
+  ---
+  title: str
+  number: number
+  link: URL
+  publication_date: YYYY-MM-DD
+  duration_seconds: number
+}
+
+entity "Category" as categoryEntity {
+  id
+  ---
+  marker: (single letter A-Z)
+  currated_name: str
+  organic_names: list[str]
+}
+
+note bottom {
+Example
+marker: A
+currated_name: Epochenübergreifende Themen
+organic_names:  [A - Epochenübergreifende Themen, A: Epochenübergreifende Themen]
+}
+
+entity "Keyword" as keywordEntity {
+  id
+  ---
+  name: str
+}
+
+
+episodeEntity ||--o{ categoryEntity
+episodeEntity ||--o{ keywordEntity
+episodeEntity ||--o{ episodeEntity: linked episode(s)
+
+@enduml
