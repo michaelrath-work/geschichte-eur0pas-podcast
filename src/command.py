@@ -4,7 +4,7 @@ import pathlib
 from sqlalchemy import create_engine, select
 from sqlalchemy.orm import sessionmaker
 
-from dm import Base, DB_NAME, Episode, Keyword, Category
+from db_datamodel import Base, DB_NAME, Episode, Keyword, Category
 
 def _delete_db():
   try:

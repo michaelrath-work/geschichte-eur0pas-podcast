@@ -1,16 +1,8 @@
 import argparse
-import pathlib
-import pprint
 import functools
 
-from dm import Base, Category, Episode, Keyword
 from command import step_bootstrap
-from sub_command_parser import SubCommandConfiguration, install_sub_commands, resolve_sub_command
-
-
-
-def add_bootstrap_arguments(parser: argparse.ArgumentParser):
-    pass
+from sub_command_parser import SubCommandConfiguration, install_sub_commands, no_arguments, resolve_sub_command
 
 
 def bind_bootstrap(args: argparse.ArgumentParser):
@@ -22,10 +14,8 @@ def command_bootstrap(args: argparse.ArgumentParser):
 
 
 SUB_COMMAND_CONFIG = {
-    'bootstrap': SubCommandConfiguration(
-        add_bootstrap_arguments, bind_bootstrap),
+    'bootstrap': SubCommandConfiguration(no_arguments, bind_bootstrap),
 }
-
 
 
 def main():
