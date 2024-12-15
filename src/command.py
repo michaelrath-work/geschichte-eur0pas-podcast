@@ -2,10 +2,11 @@ import datetime
 import os
 import pprint
 import pathlib
-from sqlalchemy import create_engine, select
+from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from db_datamodel import Base, DB_NAME, Episode, Keyword, Category
+from db_datamodel import Base, Category, DB_NAME, Episode
+import rss_datamodel
 from rss_datamodel import analyse_channel_data, download_current_feed, poor_mans_csv_parser, read_feed
 
 THIS_FILE_FOLDER = pathlib.Path(__file__).parent.resolve()
@@ -20,7 +21,7 @@ def _delete_db():
 def step_bootstrap():
   _delete_db()
 
-  engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=True)
+  engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=False)
   Base.metadata.create_all(engine)
 
   Session = sessionmaker(bind=engine)
@@ -46,7 +47,7 @@ def step_bootstrap():
     return d.strftime('%Y-%m-%d')
 
   for i, e in enumerate(analysis_result.episodes):
-    print(f'{i:03d}')
+
     db_e = Episode(
       title=e.title,
       number=e.number,
@@ -54,6 +55,13 @@ def step_bootstrap():
       publication_date=date_to_str(e.publication_date),
       duration_seconds=e.duration_seconds
     )
+    print(f'aa {i:03d}')
+    pprint.pprint(currated_categories)
+    rss_cat = rss_datamodel.Category.adjust(currated_categories, e.category.organic)
+
+    cat = session.query(Category).filter(Category.marker == rss_cat.currated_id)[0]
+    pprint.pprint(f'==== {cat}')
+    db_e.category = [cat]
     session.add(db_e)
 
   session.commit()

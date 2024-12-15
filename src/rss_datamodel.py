@@ -2,6 +2,7 @@ import datetime
 import dataclasses
 import os
 import pathlib
+import pprint
 import requests
 import typing
 import xml.etree.ElementTree as ET
@@ -30,7 +31,11 @@ class Category:
 
     @staticmethod
     def adjust(categories: typing.List[CurratedCategory], organic: str) -> "Category":
+        print(f'adjust!!!!!!!!!!!! {categories}')
         CATEGORY_MAP = {i.id: i.name for i in categories}
+        pprint.pprint('+++++++++++++++++++')
+        pprint.pprint(CATEGORY_MAP)
+        pprint.pprint(f'organic {organic}')
 
         for k, v in CATEGORY_MAP.items():
             if organic[0] == k:
