@@ -43,8 +43,8 @@ note bottom {
 }
 
 
-episodeEntity ||--|| categoryEntity
-episodeEntity ||--o{ keywordEntity
+episodeEntity }o--|| categoryEntity
+episodeEntity }o--|| keywordEntity
 episodeEntity ||--o{ episodeEntity: linked episode(s)
 
 @enduml
