@@ -1,7 +1,10 @@
+import pathlib
 from typing import List
 from sqlalchemy import Column, ForeignKey, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, Mapped, mapped_column
+
+DB_NAME = pathlib.Path(__file__) / '..' / '..' / 'db' / 'geschichte_eur0pas.db' # TODO(micha): strange path with double ..
 
 
 Base = declarative_base()
@@ -18,10 +21,6 @@ class Episode(Base):
 
   category: Mapped['Category'] = relationship(back_populates='episode')
   keywords: Mapped[List['Keyword']] = relationship()
-
-
-  # def __repr__(self) -> str:
-  #   return f"Episode(id={self.id!r}, name={self.name!r})"
 
 
 class Category(Base):
