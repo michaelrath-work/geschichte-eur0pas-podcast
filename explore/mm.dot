@@ -1,0 +1,33 @@
+digraph G {
+  node [margin=0 fontcolor=blue fontsize=14 shape=box style=filled fillcolor=white]
+
+  subgraph cluster_a {
+    label="A: Epochenübergreifende Themen"
+    bgcolor="lightyellow"
+
+    "A-001: Ägyptische Obelisken in Europa, mit Dr. Arnulf Schlüter (SMÄK auf die Ohren)" [URL="https://geschichteeuropas.podigee.io/35-35"];
+    "A-002: Byzanz: Ein erster Überblick (Teil 1), mit Günter L. Fuchs (Anno Mundi)" [URL="https://geschichteeuropas.podigee.io/4-4"];
+
+
+    "A-001: Ägyptische Obelisken in Europa, mit Dr. Arnulf Schlüter (SMÄK auf die Ohren)" -> "A-002: Byzanz: Ein erster Überblick (Teil 1), mit Günter L. Fuchs (Anno Mundi)"  [style=invis]
+  }
+
+  subgraph cluster_b {
+   label="B: Geologische Geschichte"
+   bgcolor="lightyellow"
+
+    "B-001: Die geologische Geschichte Europas, mit Kira Raith" [URL="https://geschichteeuropas.podigee.io/58-58"]
+  }
+
+  subgraph cluster_c {
+    label="C: Vorgeschichte und Altsteinzeit"
+    bgcolor="lightyellow"
+
+    "C-001: Der homo erectus in Europa, mit Dustin Welper" [URL="https://geschichteeuropas.podigee.io/383-383"]
+    "C-002: Die Neandertaler, mit Dr. Elham Ghasidian" [URL="https://geschichteeuropas.podigee.io/11-11"]
+
+     "C-001: Der homo erectus in Europa, mit Dustin Welper" -> "C-002: Die Neandertaler, mit Dr. Elham Ghasidian" [style=invis]
+  }
+
+  "A-001: Ägyptische Obelisken in Europa, mit Dr. Arnulf Schlüter (SMÄK auf die Ohren)" -> "C-001: Der homo erectus in Europa, mit Dustin Welper";
+}
