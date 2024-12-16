@@ -2,7 +2,7 @@ import datetime
 import os
 import pprint
 import pathlib
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, select
 from sqlalchemy.orm import sessionmaker
 
 from db_datamodel import Base, Category, DB_NAME, Episode
@@ -30,13 +30,13 @@ def step_bootstrap():
   currated_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / 'meta' / 'categories.csv')
 
   for c in currated_categories:
-    pprint.pprint(c)
-    cat = Category(
+    # pprint.pprint(c)
+    db_cat = Category(
       marker=c.id,
       currated_name=c.name,
       organic_names='',
     )
-    session.add(cat)
+    session.add(db_cat)
   session.commit()
 
   local_feed_file_path = download_current_feed()
@@ -55,17 +55,14 @@ def step_bootstrap():
       publication_date=date_to_str(e.publication_date),
       duration_seconds=e.duration_seconds
     )
-    print(f'aa {i:03d}')
-    pprint.pprint(currated_categories)
     rss_cat = rss_datamodel.Category.adjust(currated_categories, e.category.organic)
 
-    cat = session.query(Category).filter(Category.marker == rss_cat.currated_id)[0]
-    pprint.pprint(f'==== {cat}')
-    db_e.category = [cat]
-    session.add(db_e)
+    db_cat = session.query(Category).filter(Category.marker == rss_cat.currated_id)[0]
+    db_cat.episodes.append(db_e)
+    session.add_all([db_e, db_cat])
 
   session.commit()
 
-  # stmt = select(Episode, Keyword, Category).join(Episode.keywords).join(Episode.category).order_by(Episode.id)
-  # for r in session.execute(stmt):
-  #   pprint.pprint(f'{r.Episode.name} {r.Keyword.name} {r.Category.marker}')
+  stmt = select(Episode, Category).join(Episode.category).order_by(Episode.title)
+  for r in session.execute(stmt):
+    pprint.pprint(f'{r.Episode.title} -> {r.Category.marker}: {r.Category.currated_name}')

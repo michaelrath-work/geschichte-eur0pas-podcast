@@ -20,8 +20,8 @@ class Episode(Base):
   publication_date = Column(String)
   duration_seconds = Column(Integer)
 
-  category: Mapped[List['Category']] = relationship()
-  keywords: Mapped[List['Keyword']] = relationship()
+  category_id: Mapped[int] = mapped_column(ForeignKey('category.id'))
+  category: Mapped['Category'] = relationship(back_populates='episodes')
 
 
 class Category(Base):
@@ -32,8 +32,7 @@ class Category(Base):
   currated_name = Column(String)
   organic_names = Column(String)
 
-  episode_id: Mapped[int] = mapped_column(ForeignKey('episode.id'), nullable=True)
-  # episode: Mapped[int] = relationship(back_populates='category')
+  episodes: Mapped[List['Episode']] = relationship(back_populates='category')
 
 
 class Keyword(Base):
@@ -43,4 +42,3 @@ class Keyword(Base):
   name = Column(String)
 
   episode_id: Mapped[int] = mapped_column(ForeignKey('episode.id'), nullable=True)
-  # episode: Mapped[int] = relationship(back_populates='keywords')

@@ -30,12 +30,12 @@ class Category:
     currated_name: str
 
     @staticmethod
-    def adjust(categories: typing.List[CurratedCategory], organic: str) -> "Category":
-        print(f'adjust!!!!!!!!!!!! {categories}')
+    def adjust(categories: typing.List[CurratedCategory], organic: str) -> 'Category':
+        # print(f'adjust!!!!!!!!!!!! {categories}')
         CATEGORY_MAP = {i.id: i.name for i in categories}
-        pprint.pprint('+++++++++++++++++++')
-        pprint.pprint(CATEGORY_MAP)
-        pprint.pprint(f'organic {organic}')
+        # pprint.pprint('+++++++++++++++++++')
+        # pprint.pprint(CATEGORY_MAP)
+        # pprint.pprint(f'organic {organic}')
 
         for k, v in CATEGORY_MAP.items():
             if organic[0] == k:
