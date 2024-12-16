@@ -2,6 +2,7 @@ import datetime
 import os
 import pprint
 import pathlib
+import typing
 from sqlalchemy import create_engine, select
 from sqlalchemy.orm import sessionmaker
 
@@ -11,11 +12,34 @@ from rss_datamodel import analyse_channel_data, download_current_feed, poor_mans
 
 THIS_FILE_FOLDER = pathlib.Path(__file__).parent.resolve()
 
+ORGANIC_NAME_SEPARATOR = '|'
+
 def _delete_db():
   try:
     pathlib.Path.unlink(DB_NAME.resolve())
   except:
     print('Nothing to delete')
+
+
+def _split_organic_category(c: str) -> typing.Tuple[str, str]:
+  """analyze first char to determine category"""
+  return (c[0], c)
+
+
+def _map_categories(e: typing.Tuple[str, str], m: typing.Mapping[str, str]) -> typing.Mapping[str, str]:
+  if e[0] in m:
+    m[e[0]] = m[e[0]] + f'{ORGANIC_NAME_SEPARATOR}{e[1]}'
+  else:
+    m[e[0]] = e[1]
+  return m
+
+
+def _summarize_organic_categories(categories: typing.Set[str]) -> typing.Mapping[str, str]:
+  l = [_split_organic_category(c) for c in categories]
+  m = dict()
+  for e in l:
+    m = _map_categories(e, m)
+  return m
 
 
 def step_bootstrap():
@@ -29,19 +53,19 @@ def step_bootstrap():
 
   currated_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / 'meta' / 'categories.csv')
 
-  for c in currated_categories:
-    # pprint.pprint(c)
-    db_cat = Category(
-      marker=c.id,
-      currated_name=c.name,
-      organic_names='',
-    )
-    session.add(db_cat)
-  session.commit()
-
   local_feed_file_path = download_current_feed()
   channel_xml = read_feed(local_feed_file_path)
   analysis_result = analyse_channel_data(channel_xml, currated_categories)
+  organic_categories = _summarize_organic_categories(analysis_result.categories)
+
+  for c in currated_categories:
+    db_cat = Category(
+      marker=c.id,
+      currated_name=c.name,
+      organic_names=organic_categories.get(c.id, '')
+    )
+    session.add(db_cat)
+  session.commit()
 
   def date_to_str(d: datetime.date) -> str:
     return d.strftime('%Y-%m-%d')
@@ -65,4 +89,4 @@ def step_bootstrap():
 
   stmt = select(Episode, Category).join(Episode.category).order_by(Episode.title)
   for r in session.execute(stmt):
-    pprint.pprint(f'{r.Episode.title} -> {r.Category.marker}: {r.Category.currated_name}')
+    pprint.pprint(f'{r.Episode.title} -> {r.Category.marker}: {r.Category.currated_name} {r.Category.organic_names}')
