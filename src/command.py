@@ -1,5 +1,5 @@
 import datetime
-import os
+import logging
 import pprint
 import pathlib
 import typing
@@ -15,6 +15,8 @@ from rss_datamodel import (
     read_feed
 )
 import episode_links
+
+LOGGER = logging.getLogger('command')
 
 THIS_FILE_FOLDER = pathlib.Path(__file__).parent.resolve()
 
@@ -59,7 +61,7 @@ def step_bootstrap():
 
   currated_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / 'meta' / 'categories.csv')
 
-  local_feed_file_path = download_current_feed()
+  local_feed_file_path = download_current_feed(for_real=True)
   channel_xml = read_feed(local_feed_file_path)
   analysis_result = analyse_channel_data(channel_xml, currated_categories)
   organic_categories = _summarize_organic_categories(analysis_result.categories)
@@ -167,4 +169,5 @@ def step_export():
     sql_stmt = select(Episode).order_by(Episode.title)
     for idx, r in enumerate(session.execute(sql_stmt)):
       linked = episode_links.get_linked_episodes(r.Episode.link)
-      pprint.pprint(f'{r.Episode.title} -> {linked}')
+      LOGGER.info(f'{r.Episode.title} -> {linked}')
+      break

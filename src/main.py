@@ -2,6 +2,7 @@ import collections
 import dataclasses
 import datetime
 import functools
+import logging
 import pathlib
 import pprint
 import os
@@ -342,6 +343,10 @@ def img_to_link_html(url: str, img: str, width=200) -> typing.List[str]:
     ]
 
 def main():
+    logging.basicConfig(format='%(asctime)-15s %(name)s %(levelname)s %(message)s',
+                        datefmt='%Y-%m-%d %H:%M:%S',
+                        level=logging.INFO)
+
     predefined_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / 'meta' / 'categories.csv')
     local_feed_file_path = download_current_feed()
     channel = read_feed(local_feed_file_path)

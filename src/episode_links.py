@@ -1,16 +1,20 @@
+import logging
 import pprint
 import re
 import typing
 import urllib.request
 
+LOGGER = logging.getLogger('episode_links')
 
-def get_html_page(url: str):
+
+def _get_html_page(url: str):
     with urllib.request.urlopen(url) as response:
         page_bytes = response.read()
         content = page_bytes.decode('utf-8')
         return content
 
-def parse_page_content(content: str):
+
+def _parse_page_content(content: str):
     lines = content.split('\n')
     state = 'SEARCHING'
     episode_link_lines = []
@@ -28,7 +32,7 @@ def parse_page_content(content: str):
     return episode_link_lines
 
 
-def extract_episode_link(html_line: str):
+def _extract_episode_link(html_line: str):
     match = re.search(r"href=\"(.+)\">", html_line)
     if match:
         return match.group(1)
@@ -41,24 +45,29 @@ def get_linked_episodes(url: str) -> typing.List[str]:
 
     out: ['https://geschichteeuropas.podigee.io/231-231', 'https://geschichteeuropas.podigee.io/257-257']
     """
-    content = get_html_page(url)
-    lines = parse_page_content(content)
-    return [extract_episode_link(l) for l in lines]
+    try:
+        content = _get_html_page(url)
+        lines = _parse_page_content(content)
+        return [_extract_episode_link(l) for l in lines]
+    except Exception as e:
+        LOGGER.warning(f'Failed to get linked episodes for {url}')
+        return []
 
 
 def _dummy_get_content():
     with open('dummy.html', 'r') as f:
         return f.read()
 
+
 def main():
-    content = get_html_page('https://geschichteeuropas.podigee.io/425-425')
+    content = _get_html_page('https://geschichteeuropas.podigee.io/425-425')
     # HELPER to avoid download
     # with open('dummy.html', 'w') as f:
     #     f.write(content)
     # content = _dummy_get_content()
-    lines = parse_page_content(content)
+    lines = _parse_page_content(content)
     for l in lines:
-        pprint.pprint(extract_episode_link(l))
+        pprint.pprint(_extract_episode_link(l))
 
 if __name__ == '__main__':
      main()

@@ -1,5 +1,6 @@
 import argparse
 import functools
+import logging
 
 from command import (
   step_bootstrap,
@@ -36,6 +37,10 @@ SUB_COMMAND_CONFIG = {
 
 
 def main():
+  logging.basicConfig(format='%(asctime)-15s %(name)s %(levelname)s %(message)s',
+                      datefmt='%Y-%m-%d %H:%M:%S',
+                      level=logging.INFO)
+
   parser = argparse.ArgumentParser(description='Geschichte Eur0pas processing')
   install_sub_commands(SUB_COMMAND_CONFIG, parser)
   args = parser.parse_args()

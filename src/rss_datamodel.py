@@ -1,21 +1,20 @@
 import datetime
 import dataclasses
+import logging
 import os
 import pathlib
-import pprint
-import requests
 import typing
 import xml.etree.ElementTree as ET
 
+import requests
+
+LOGGER = logging.getLogger('rss_datamodel')
 PODCAST_URL = 'https://geschichteeuropas.podigee.io/'
-
 URL_FEED_MP3 = os.path.join(PODCAST_URL, 'feed', 'mp3')
-
 THIS_FILE_FOLDER = pathlib.Path(__file__).parent.resolve()
-
 NAMESPACES = {'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'}
-
 UNKNOWN_CATEGORY_TAG = '??? UNKNOWN_CATEGORY ???'
+
 
 @dataclasses.dataclass
 class CurratedCategory:
@@ -31,11 +30,7 @@ class Category:
 
     @staticmethod
     def adjust(categories: typing.List[CurratedCategory], organic: str) -> 'Category':
-        # print(f'adjust!!!!!!!!!!!! {categories}')
         CATEGORY_MAP = {i.id: i.name for i in categories}
-        # pprint.pprint('+++++++++++++++++++')
-        # pprint.pprint(CATEGORY_MAP)
-        # pprint.pprint(f'organic {organic}')
 
         for k, v in CATEGORY_MAP.items():
             if organic[0] == k:
@@ -101,7 +96,7 @@ def _get_xml_node_text_or_default(e: ET.Element, default: str) -> str:
     return default
 
 
-# TODO(micha): shoulb be in separate file
+# TODO(micha): should be in separate file
 def poor_mans_csv_parser(p: pathlib.Path) -> typing.List[CurratedCategory]:
     r: typing.List[CurratedCategory] = []
     with open(p, 'r') as fd:
@@ -157,7 +152,7 @@ def analyse_channel_data(xml_channel: ET.Element, predefined_categories: typing.
         category = Category.adjust(predefined_categories, organic_category)
 
         if title.text.startswith('T-019'):
-            pprint.pprint(f'TODO(Micha): invalid organic category format (itunes:subtitle): "{title.text}" != "{organic_category}"')
+            LOGGER.warning(f'TODO(Micha): invalid organic category format (itunes:subtitle): "{title.text}" != "{organic_category}"')
             category=Category.adjust(predefined_categories, 'T')
 
         episodes.append(
@@ -186,12 +181,13 @@ def read_feed(p: pathlib) -> ET.Element:
     return root.find('channel')
 
 
-def download_current_feed() -> pathlib.Path:
-    # response = requests.get(URL_FEED_MP3)
+def download_current_feed(for_real: bool=False) -> pathlib.Path:
     output_dir = THIS_FILE_FOLDER / '..' / 'rss'
     output_dir.mkdir(parents=True, exist_ok=True)
     output_file_path = output_dir / 'rss_feed.xml'
 
-    # with open(output_file_path, 'w') as fd:
-        # fd.writelines(response.content.decode('utf-8'))
+    if for_real:
+        response = requests.get(URL_FEED_MP3)
+        with open(output_file_path, 'w') as fd:
+            fd.writelines(response.content.decode('utf-8'))
     return output_file_path
