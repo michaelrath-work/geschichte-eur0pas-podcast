@@ -80,13 +80,81 @@ def step_bootstrap():
       duration_seconds=e.duration_seconds
     )
     rss_cat = rss_datamodel.Category.adjust(currated_categories, e.category.organic)
-
     db_cat = session.query(Category).filter(Category.marker == rss_cat.currated_id)[0]
     db_cat.episodes.append(db_e)
     session.add_all([db_e, db_cat])
 
   session.commit()
 
-  stmt = select(Episode, Category).join(Episode.category).order_by(Episode.title)
-  for r in session.execute(stmt):
-    pprint.pprint(f'{r.Episode.title} -> {r.Category.marker}: {r.Category.currated_name} {r.Category.organic_names}')
+
+def _generate_graphviz(session):
+  raw_lines = [
+    'digraph G {',
+    '  node [margin=0 fontcolor=blue fontsize=14 shape=box style=filled fillcolor=white]'
+  ]
+
+  def start_cluster(c: Category):
+    return [
+      f'subgraph cluster_{category.lower()}' + ' {',
+      f'  label="{r.Category.marker}: {r.Category.currated_name}"',
+      f'  bgcolor="lightyellow"'
+    ]
+
+  def split_title(s: str):
+    """
+    in: A-020: Der Dillenburger Wilhelmsturm: Geschichte - Gegenwart - Zukunft, mit Simon Dietrich [Oranienstadt Dillenburg]
+
+    out: ('A020', 'A=020: Der Dillenburger Wilhelmsturm: Geschichte - Gegenwart - Zukunft, mit Simon Dietrich [Oranienstadt Dillenburg'])
+    """
+    pairs = s.split(':')
+    return (pairs[0].replace('-',''), s)
+
+  def escape(s):
+    return s.replace('"', '\\"')
+
+  category = None
+  nodes_in_cluster = []
+  sql_stmt = select(Category, Episode).join(Episode.category).order_by(Category.marker, Episode.title)
+  # for idx, r in enumerate(session.execute(sql_stmt)):
+  #   pprint.pprint(f'{idx}:: {r.Category.marker}:{r.Category.currated_name} -> {r.Episode.title}')
+  # # return
+  for idx, r in enumerate(session.execute(sql_stmt)):
+    running_category = r.Category.marker
+
+    if category is None:
+        category = r.Category.marker
+        raw_lines.extend(start_cluster(r.Category))
+        nodes_in_cluster = []
+
+    if category != running_category:
+      category = r.Category.marker
+      if len(nodes_in_cluster) > 1:
+        links = '->'.join(nodes_in_cluster) + '[style=invis];'
+        raw_lines.append(links)
+      raw_lines.append('}') # close previous cluster
+      raw_lines.extend(start_cluster(r.Category))
+      nodes_in_cluster = []
+
+    title_split = split_title(r.Episode.title)
+    raw_lines.append(f'{title_split[0].lower()} [label= "{escape(r.Episode.title)}", URL="{r.Episode.link}"];')
+    nodes_in_cluster.append(title_split[0].lower())
+
+  links = '->'.join(nodes_in_cluster) + '[style=invis];'
+  raw_lines.append(links)
+  raw_lines.append('}') # close cluster
+  raw_lines.append('}') # close graph
+
+  lines = '\n'.join(raw_lines)
+  fn = THIS_FILE_FOLDER / '..' / 'explore' / 'episodes.dot'
+  with open(fn, 'w') as fd:
+    fd.writelines(lines)
+
+
+def step_export():
+  engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=False)
+  Base.metadata.create_all(engine)
+
+  Session = sessionmaker(bind=engine)
+  session = Session()
+
+  _generate_graphviz(session)

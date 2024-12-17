@@ -1,3 +1,3 @@
 # Readme
 
-`dot -Tsvg explore/mm.dot -o explore/mm.svg`
+`dot -Tsvg explore/episodes.dot -o explore/episodes.svg`

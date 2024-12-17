@@ -1,0 +1,541 @@
+digraph G {
+  node [margin=0 fontcolor=blue fontsize=14 shape=box style=filled fillcolor=white]
+subgraph cluster_a {
+  label="A: Epochenübergreifende Themen"
+  bgcolor="lightyellow"
+a001 [label= "A-001: Ägyptische Obelisken in Europa, mit Dr. Arnulf Schlüter (SMÄK auf die Ohren)", URL="https://geschichteeuropas.podigee.io/35-35"];
+a002 [label= "A-002: Byzanz: Ein erster Überblick (Teil 1), mit Günter L. Fuchs (Anno Mundi)", URL="https://geschichteeuropas.podigee.io/4-4"];
+a003 [label= "A-003: Byzanz: Ein erster Überblick (Teil 2), mit Günter L. Fuchs (Anno Mundi)", URL="https://geschichteeuropas.podigee.io/5-5"];
+a004 [label= "A-004: Spätantike und Frühmittelalter im Rhein. Revier, mit M. Brüggler, M. Grünewald u. U. Müssemeier [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/201-201"];
+a005 [label= "A-005: Armut und Verzicht in der Vormoderne - ein Überblick, mit Prof. Dr. Christine Kleinjung [Univ. Potsdam]", URL="https://geschichteeuropas.podigee.io/320-320"];
+a006 [label= "A-006: Die Pest als pandemische Krankheit, mit Dr. Alexander Berner", URL="https://geschichteeuropas.podigee.io/6-6"];
+a007 [label= "A-007: Die Hanse - Konsens, Kontore und Konflikte, mit Dr. Angela L. Huang", URL="https://geschichteeuropas.podigee.io/118-118"];
+a008 [label= "A-008: Der \"Schwarze Tod\" und die 2. Pestpandemie, mit Dr. Alexander Berner", URL="https://geschichteeuropas.podigee.io/12-12"];
+a009 [label= "A-009: Hansetage und Hansestädte, mit Dr. Angela L. Huang", URL="https://geschichteeuropas.podigee.io/121-121"];
+a010 [label= "A-010: Guter Stoff - Textilhandel in der Hanse, mit Dr. Angela L. Huang", URL="https://geschichteeuropas.podigee.io/124-124"];
+a011 [label= "A-011: Kometenglaube und Kometenfurcht in der FNZ, mit Dr. Doris Gruber", URL="https://geschichteeuropas.podigee.io/24-24"];
+a012 [label= "A-012: Transottomanica: Sklaverei und Mobilität im frühneuzeitl. Istanbul, mit Dr. Veruschka Wagner [Univ. Leipzig]", URL="https://geschichteeuropas.podigee.io/270-270"];
+a013 [label= "A-013: Warschau und Migration, mit M. Nesselrodt & F. Schuffert [Kommission für die Geschichte der Deutschen in Polen]", URL="https://geschichteeuropas.podigee.io/269-269"];
+a014 [label= "A-014: Alternative Gottesdienstorte im Bistum Hildesheim seit dem 19. Jhd., mit Dr. Thomas Scharf-Wrede [IKKDOS e.V.]", URL="https://geschichteeuropas.podigee.io/346-346"];
+a015 [label= "A-015: Demokratische Traditionen in 1848er-Familien, mit Birgit Bublies-Godau [Tagung \"Die Modernität von 1848/49\"]", URL="https://geschichteeuropas.podigee.io/195-195"];
+a016 [label= "A-016: \"Gräberfeld X\" in Tübingen - Geschichte und Erinnerung, mit Prof. Dr. Benigna Schönhagen und Stefan Wannenwetsch", URL="https://geschichteeuropas.podigee.io/355-355"];
+a017 [label= "A-017: Die Industrialisierung des Rheinischen Reviers, mit Prof. Dr. Boris Gehlen [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/224-224"];
+a018 [label= "A-018: Die Erfindung des Pauperismus im 19. Jahrhundert, mit Prof. Dr. Monika Wienfort [Univ. Potsdam]", URL="https://geschichteeuropas.podigee.io/350-350"];
+a019 [label= "A-019: Die Geschichte des Braunkohlebergbaus im Rheinischen Revier, mit Dr. Guido Hitze [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/238-238"];
+a020 [label= "A-020: Der Dillenburger Wilhelmsturm: Geschichte - Gegenwart - Zukunft, mit Simon Dietrich [Oranienstadt Dillenburg]", URL="https://geschichteeuropas.podigee.io/431-431"];
+a020 [label= "A-020: Ein Steilpass durch die Fußballgeschichte, mit Petra Tabarelli (FRÜF)", URL="https://geschichteeuropas.podigee.io/13-13"];
+a021 [label= "A-021: Die 3. Pestpandemie und die Entdeckung des Pesterregers, mit Dr. Alexander Berner", URL="https://geschichteeuropas.podigee.io/14-14"];
+a022 [label= "A-022: Die Geschichte des Frauenfußballs, mit Petra Tabarelli (FRÜF)", URL="https://geschichteeuropas.podigee.io/25-25"];
+a023 [label= "A-023: Druckerei Schaar & Dathe (1895-1936) - Postkarten & Propaganda, mit B. Röder & W. Stenzhorn [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/286-286"];
+a024 [label= "A-024: Das deutsch-russische Jahrhundert, mit Prof. Dr. Stefan Creuzberger", URL="https://geschichteeuropas.podigee.io/114-114"];
+a025 [label= "A-025: Ukrainischer Nationalismus als sowjetisches Feindbild, mit Dr. Kai Struve [Univ. Leipzig]", URL="https://geschichteeuropas.podigee.io/252-252"];
+a026 [label= "A-026: Zwangssterilisationen, \"Euthanasie\" und die Aktion T4, mit Robert Parzer", URL="https://geschichteeuropas.podigee.io/20-20"];
+a027 [label= "A-027: Auslandskorrespondenten im 20. Jhd., mit K. Bönker, C. Breitfelder und N. Domeier [HSU d. Bundeswehr Hamburg]", URL="https://geschichteeuropas.podigee.io/182-182"];
+a028 [label= "A-028: Die Hitlerjugend (1926-1945), mit Dr. André Postert", URL="https://geschichteeuropas.podigee.io/184-184"];
+a029 [label= "A-029: Das KZ Dachau (1933-1945), mit Dr. Gabriele Hammermann, Albert Knoll und Dr. Christoph Thonfeld", URL="https://geschichteeuropas.podigee.io/231-231"];
+a030 [label= "A-030: Das Konzentrationslager Buchenwald (1937-1945), mit Dr. Michael Löffelsender", URL="https://geschichteeuropas.podigee.io/304-304"];
+a030 [label= "A-030: NS-Medizin-Verbrechen im Rheinland (1933-1945) , mit Dr. Luisa Hulsrøj", URL="https://geschichteeuropas.podigee.io/412-412"];
+a031 [label= "A-031: Neuengamme - KZ und Gedenkstätte, mit Ulrike Jensen", URL="https://geschichteeuropas.podigee.io/103-103"];
+a032 [label= "A-032: Das Konzentrationslager Flossenbürg (1938-1945), mit Lisa Herbst und Timo Saalmann", URL="https://geschichteeuropas.podigee.io/407-407"];
+a032 [label= "A-032: Trümmerfrauen (?) in Kassel, 1943-1955, mit Helke Dreier und Dr. Kerstin Wolff [Archiv der dt. Frauenbewegung]", URL="https://geschichteeuropas.podigee.io/342-342"];
+a033 [label= "A-033: Deals mit Diktaturen - eine andere Geschichte der Bundesrepublik, mit Prof. Dr. Frank Bösch [C. H. Beck]", URL="https://geschichteeuropas.podigee.io/292-292"];
+a034 [label= "A-034: Das industrialisierte Rheinische Revier, mit Dr. Walter Hauser [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/250-250"];
+a035 [label= "A-035: Staubekämpfung und Mobilität in Europa, mit Dr. Veit Damm & Dr. Christian Franke [Univ. Siegen]", URL="https://geschichteeuropas.podigee.io/276-276"];
+a036 [label= "A-036: Protest und Protestkultur im Rheinischen Revier, mit Dirk Jansen [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/357-357"];
+a037 [label= "A-037: Strukturwandel und Naturschutz im Rheinischen Revier, mit Linus Platzer [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/361-361"];
+a038 [label= "A-038: Rekultivierung im Rheinischen Revier, mit Dr. Michael Farrenkopf [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/379-379"];
+a039 [label= "A-039: Transformation der Industriekultur im Rheinischen Revier, mit Dr. W. Hauser & Dr. A. Kierdorf [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/393-393"];
+a040 [label= "A-040: Neuland?! Vom Land zur Stadt zurück zum Land, mit Prof. Dr. Gerd Zimmermann [Weimarer Rendez-vous]", URL="https://geschichteeuropas.podigee.io/399-399"];
+a042 [label= "A-042: Das Hessische Braunkohlen-Revier, mit Ingo Sielaff [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/405-405"];
+a043 [label= "A-043: Das Ruhrgebiet als Nachbarregion des Rheinischen Reviers, mit Prof. Dr. Stefan Berger [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/410-410"];
+a045 [label= "A-045: Das Mitteldeutsche Revier, mit Dr. Annette Schneider-Reinhardt [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/419-419"];
+a046 [label= "A-046: Das Lausitzer Revier, mit Heidi Pinkepank und Dr. Lars Scharnholz [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/427-427"];
+a001->a002->a003->a004->a005->a006->a007->a008->a009->a010->a011->a012->a013->a014->a015->a016->a017->a018->a019->a020->a020->a021->a022->a023->a024->a025->a026->a027->a028->a029->a030->a030->a031->a032->a032->a033->a034->a035->a036->a037->a038->a039->a040->a042->a043->a045->a046[style=invis];
+}
+subgraph cluster_b {
+  label="B: Geologische Geschichte"
+  bgcolor="lightyellow"
+b001 [label= "B-001: Die geologische Geschichte Europas, mit Kira Raith", URL="https://geschichteeuropas.podigee.io/58-58"];
+}
+subgraph cluster_c {
+  label="C: Vorgeschichte und Altsteinzeit"
+  bgcolor="lightyellow"
+c001 [label= "C-001: Der homo erectus in Europa, mit Dustin Welper", URL="https://geschichteeuropas.podigee.io/383-383"];
+c002 [label= "C-002: Die Neandertaler, mit Dr. Elham Ghasidian", URL="https://geschichteeuropas.podigee.io/11-11"];
+c001->c002[style=invis];
+}
+subgraph cluster_d {
+  label="D: Mittel- und Jungsteinzeit"
+  bgcolor="lightyellow"
+d001 [label= "D-001: Die Jungsteinzeit im Rheinischen Revier, mit Dr. Erich Claßen und Dr. Kerstin Schierhold [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/176-176"];
+d002 [label= "D-002: Stonehenge (in Herne), mit Dr. Kerstin Schierhold", URL="https://geschichteeuropas.podigee.io/48-48"];
+d001->d002[style=invis];
+}
+subgraph cluster_g {
+  label="G: Römische Antike"
+  bgcolor="lightyellow"
+g001 [label= "G-001: Der Weg in den ersten punischen Krieg (ca. 800 v. Chr. - 264 v. Chr), mit Dr. Christian Rollinger", URL="https://geschichteeuropas.podigee.io/309-309"];
+g001 [label= "G-001: Die Zwillinge und die Wölfin - der Mythos von der Gründung Roms, mit Florian Feil", URL="https://geschichteeuropas.podigee.io/423-423"];
+g002 [label= "G-002: Der erste punische Krieg (264-241 v. Chr.), mit Dr. Christian Rollinger", URL="https://geschichteeuropas.podigee.io/351-351"];
+g003 [label= "G-003: Sklaverei im alten Rom, mit Prof. Dr. Andrea Binsfeld", URL="https://geschichteeuropas.podigee.io/311-311"];
+g004 [label= "G-004: Die Romanisierung des Rheinischen Reviers, mit Dr. Marion Brüggler und Eva Cott [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/187-187"];
+g005 [label= "G-005: Die Zerstörung Pompejis (79), mit Dr. Yvonne Schmuhl [Staatl. Museum f. Archäologie Chemnitz]", URL="https://geschichteeuropas.podigee.io/136-136"];
+g006 [label= "G-006: Pompeji - Alltag im Schatten des Vulkans, mit Dr. Korana Deppmeyer [Staatl. Museum f. Archäologie Chemnitz]", URL="https://geschichteeuropas.podigee.io/141-141"];
+g007 [label= "G-007: Graffiti und Wandmalereien in Pompeji, mit Dr. Polly Lohmann [Staatl. Museum f. Archäologie Chemnitz]", URL="https://geschichteeuropas.podigee.io/145-145"];
+g008 [label= "G-008: Ein römisches Mumienporträt, mit Dr. Julia Niewind und JProf. Dr. Patrick Reinhard [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/240-240"];
+g009 [label= "G-009: Diokletian und die Tetrarchie (284-305), mit Dr. Christian Rollinger", URL="https://geschichteeuropas.podigee.io/101-101"];
+g010 [label= "G-010: Konstantin und das Christentum (306-337), mit Prof. Dr. Andrea Binsfeld", URL="https://geschichteeuropas.podigee.io/144-144"];
+g011 [label= "G-011: Asketische Praktiken in der Spätantike, mit Dr. Eike Faber [Univ. Potsdam]", URL="https://geschichteeuropas.podigee.io/328-328"];
+g001->g001->g002->g003->g004->g005->g006->g007->g008->g009->g010->g011[style=invis];
+}
+subgraph cluster_i {
+  label="I: Das Hochmittelalter (1000-1250)"
+  bgcolor="lightyellow"
+i001 [label= "I-001: Der hochmittelalterliche Siedlungsbau im Rheinischen Revier, mit Dr. Torsten Rünger [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/208-208"];
+i002 [label= "I-002: Die Neue Burg in Hamburg (ca. 1021 - ca. 1139), mit Kay-Peter Suchowa", URL="https://geschichteeuropas.podigee.io/173-173"];
+i003 [label= "I-003: Die Schlacht von Manzikert (1071), mit Günter L. Fuchs (Anno Mundi) und Elias Harth (Historia Universalis)", URL="https://geschichteeuropas.podigee.io/22-22"];
+i004 [label= "I-004: Der erste Kreuzzug (1095-1099), mit Dr. Alexander Berner", URL="https://geschichteeuropas.podigee.io/26-26"];
+i005 [label= "I-005: Der zweite Kreuzzug (1147-1149), mit Dr. Alexander Berner", URL="https://geschichteeuropas.podigee.io/49-49"];
+i006 [label= "I-006: Franz von Assisi (1181/82 - 1226) und seine Bewegung, mit Prof. Dr. Mirko Breitenstein [Univ. Potsdam]", URL="https://geschichteeuropas.podigee.io/336-336"];
+i007 [label= "I-007: Der dritte Kreuzzug (1189-1192), mit Dr. Alexander Berner", URL="https://geschichteeuropas.podigee.io/55-55"];
+i008 [label= "I-008: Der vierte Kreuzzug (1202-1204), mit Dr. Alexander Berner und Günter L. Fuchs (Anno Mundi)", URL="https://geschichteeuropas.podigee.io/77-77"];
+i009 [label= "I-009: Der Albigenserkreuzzug (1209-1229), mit Dr. Alexander Berner", URL="https://geschichteeuropas.podigee.io/299-299"];
+i010 [label= "I-010: Der Kinderkreuzzug (1212), mit Dr. Tim Weitzel", URL="https://geschichteeuropas.podigee.io/401-401"];
+i010 [label= "I-010: Der Kreuzzug nach Damiette (1217-1221), mit Dr. Alexander Berner", URL="https://geschichteeuropas.podigee.io/91-91"];
+i011 [label= "I-011: Der Kreuzzug Friedrich II. (1227-1229), mit Dr. Alexander Berner", URL="https://geschichteeuropas.podigee.io/111-111"];
+i001->i002->i003->i004->i005->i006->i007->i008->i009->i010->i010->i011[style=invis];
+}
+subgraph cluster_j {
+  label="J: Das späte Mittelalter (1250-1450)"
+  bgcolor="lightyellow"
+j001 [label= "J-001: Armut in spätmittelalterlichen deutschen Städten, mit Prof. Dr. Jörg Rogge [Univ. Potsdam]", URL="https://geschichteeuropas.podigee.io/344-344"];
+}
+subgraph cluster_m {
+  label="M: Reformation und Glaubenskriege (1517-1648)"
+  bgcolor="lightyellow"
+m001 [label= "M-001: Königin Elizabeth I. von England und das \"Elizabethan Age\" (1558-1603), mit Dr. Lena Oetzel", URL="https://geschichteeuropas.podigee.io/388-388"];
+m002 [label= "M-002: Herrschaftskritik an Elizabeth I. von England (r. 1558-1603), mit Dr. Lena Oetzel", URL="https://geschichteeuropas.podigee.io/69-69"];
+m001->m002[style=invis];
+}
+subgraph cluster_n {
+  label="N: Absolutismus und Aufklärung (1648-1789)"
+  bgcolor="lightyellow"
+n001 [label= "N-001: Zar Peter I. \"der Große\" von Russland (1672-1725), mit Prof. Dr. Martina Winkler", URL="https://geschichteeuropas.podigee.io/168-168"];
+n002 [label= "N-002: Transottomanica: Der venezianische Soldat Muazzo im Morea-Krieg (1685-99), mit Andreas Helmedach [Univ. Leipzig]", URL="https://geschichteeuropas.podigee.io/266-266"];
+n003 [label= "N-003: Der Beginn des Großen Nordischen Kriegs (1700), mit Dr. Dorothée Goetze", URL="https://geschichteeuropas.podigee.io/44-44"];
+n004 [label= "N-004: Der Entthronungsfeldzug gegen August den Starken (1701-1706), mit Dr. Dorothée Goetze", URL="https://geschichteeuropas.podigee.io/50-50"];
+n005 [label= "N-005: Die Wende im Großen Nordischen Krieg (1707-1709), mit Dr. Dorothée Goetze", URL="https://geschichteeuropas.podigee.io/80-80"];
+n006 [label= "N-006: Karl XII. im osmanischen Exil (1710-1714), mit Dr. Dorothée Goetze", URL="https://geschichteeuropas.podigee.io/97-97"];
+n007 [label= "N-007: Der Große Nordische Krieg im Ostseeraum (1710-1715), mit Dr. Dorothée Goetze", URL="https://geschichteeuropas.podigee.io/157-157"];
+n008 [label= "N-008: Die Rückkehr des Königs in den Großen Nordischen Krieg (1715-1718), mit Dr. Dorothée Goetze", URL="https://geschichteeuropas.podigee.io/305-305"];
+n009 [label= "N-009: Das Ende des Großen Nordischen Kriegs und der Frieden von Nystadt (1718-1721), mit Dr. Dorothée Goetze", URL="https://geschichteeuropas.podigee.io/359-359"];
+n010 [label= "N-010: Die Malerin Anna Dorothea Therbusch (1721-82), mit N. Jetter, S. Salomon & A. Wolf [Gemäldegalerie Berlin]", URL="https://geschichteeuropas.podigee.io/374-374"];
+n011 [label= "N-011: Preußen und der Siebenjährige Krieg (1756-1763) (Teil 1), mit Prof. Dr. Frank Göse", URL="https://geschichteeuropas.podigee.io/372-372"];
+n012 [label= "N-012: Das Veterinärwesen im Habsburgerreich, mit Dr. Daniela Haarmann", URL="https://geschichteeuropas.podigee.io/28-28"];
+n012 [label= "N-012: Preußen und der Siebenjährige Krieg (1756-1763) (Teil 2), mit Prof. Dr. Frank Göse", URL="https://geschichteeuropas.podigee.io/408-408"];
+n013 [label= "N-013: Schatzsucherei und Archäologie im Habsburgerreich, mit Dr. Daniela Haarmann", URL="https://geschichteeuropas.podigee.io/36-36"];
+n001->n002->n003->n004->n005->n006->n007->n008->n009->n010->n011->n012->n012->n013[style=invis];
+}
+subgraph cluster_o {
+  label="O: Zeitalter der Revolutionen (1789-1848)"
+  bgcolor="lightyellow"
+o001 [label= "O-001: Die \"Franzosenzeit\" im Rheinischen Revier, mit Dr. Helmut Rönz [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/218-218"];
+o002 [label= "O-002: Champollion und die Hieroglyphen (1822), mit Roxane Bicker (Mummies & Magic)", URL="https://geschichteeuropas.podigee.io/74-74"];
+o003 [label= "O-003: \"Die Generalprobe\" (1841), mit Stephan Brakensiek, Dorothée Henschel und Stephan Laux [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/278-278"];
+o004 [label= "O-004: Die Entdeckung des Neptuns (1846), mit Prof. Dr. Matthias Steinmetz", URL="https://geschichteeuropas.podigee.io/46-46"];
+o005 [label= "O-005: 1848 - Erfolgsgeschichte einer gescheiterten Revolution, mit Dr. Alexandra Bleyer [Reclam]", URL="https://geschichteeuropas.podigee.io/110-110"];
+o006 [label= "O-006: Das Kommunistische Manifest (1848), mit Prof. Dr. Beatrix Bouvier", URL="https://geschichteeuropas.podigee.io/294-294"];
+o007 [label= "O-007: Die Revolution von 1848/49 in Trier, mit Prof. Dr. Beatrix Bouvier [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/172-172"];
+o008 [label= "O-008: Die Geschlechtergeschichte der Revolution v. 1848/49, mit Dr. Kerstin Wolff [Tagung \"Die Modernität von 1848/49\"]", URL="https://geschichteeuropas.podigee.io/194-194"];
+o001->o002->o003->o004->o005->o006->o007->o008[style=invis];
+}
+subgraph cluster_p {
+  label="P: Nationalismus und Imperialismus (1849-1914)"
+  bgcolor="lightyellow"
+p001 [label= "P-001: Der deutsch-dänische Krieg (1864), mit Prof. Dr. Tobias Arand", URL="https://geschichteeuropas.podigee.io/56-56"];
+p002 [label= "P-002: Der Deutsche Krieg (1866), mit Prof. Dr. Tobias Arand", URL="https://geschichteeuropas.podigee.io/92-92"];
+p003 [label= "P-003: Der deutsch-französische Krieg (1870/71), mit Prof. Dr. Tobias Arand", URL="https://geschichteeuropas.podigee.io/10-10"];
+p004 [label= "P-004: Die Schlacht von Sedan (1870), mit Prof. Dr. Tobias Arand", URL="https://geschichteeuropas.podigee.io/135-135"];
+p005 [label= "P-005: Die Reichsgründung (1871), mit Jan Markert", URL="https://geschichteeuropas.podigee.io/307-307"];
+p006 [label= "P-006: Die Pariser Kommune (1871), mit Prof. Dr. Tobias Arand", URL="https://geschichteeuropas.podigee.io/235-235"];
+p007 [label= "P-007: Der Leipziger Hochverratsprozess (1872), mit Dr. Jürgen Schmidt", URL="https://geschichteeuropas.podigee.io/76-76"];
+p008 [label= "P-008: Die russische Revolution von 1905, mit Prof. Dr. Jörn Happel", URL="https://geschichteeuropas.podigee.io/196-196"];
+p009 [label= "P-009: Die Balkankriege (1912/1913), mit Dr. Franziska Zaugg", URL="https://geschichteeuropas.podigee.io/202-202"];
+p001->p002->p003->p004->p005->p006->p007->p008->p009[style=invis];
+}
+subgraph cluster_q {
+  label="Q: 1. Weltkrieg (1914-1918)"
+  bgcolor="lightyellow"
+q001 [label= "Q-001: Kriegsgefangene höherer Lebensstellung im Celler Schloss (1914-1918), mit Hilke Langhammer", URL="https://geschichteeuropas.podigee.io/120-120"];
+q002 [label= "Q-002: Die Februarrevolution in Russland (1917), mit Prof. Dr. Jörn Happel", URL="https://geschichteeuropas.podigee.io/366-366"];
+q001->q002[style=invis];
+}
+subgraph cluster_r {
+  label="R: Zwischenkriegszeit (1918-1939)"
+  bgcolor="lightyellow"
+r001 [label= "R-001: Der Rapallo-Vertrag zwischen Deutschland und Sowjetrussland (1922), mit Prof. Dr. Jörn Happel", URL="https://geschichteeuropas.podigee.io/79-79"];
+r002 [label= "R-002: Der Aufstieg Mussolinis und der Marsch auf Rom (1922), mit Dr. René Möhrle", URL="https://geschichteeuropas.podigee.io/131-131"];
+r003 [label= "R-003: Die Entdeckung des Grabes des Tutenchamuns (1922), mit Dr. Sylvia Schoske", URL="https://geschichteeuropas.podigee.io/140-140"];
+r004 [label= "R-004: Die Etablierung der faschistischen Diktatur in Italien unter Mussolini (1922-1934), mit Dr. René Möhrle", URL="https://geschichteeuropas.podigee.io/317-317"];
+r005 [label= "R-005: Die Ruhrbesetzung (1923-1925), mit Prof. Dr. Stefan Goch", URL="https://geschichteeuropas.podigee.io/155-155"];
+r006 [label= "R-006: Der Holodomor (1931-1933), mit Dr. Franziska Davies", URL="https://geschichteeuropas.podigee.io/314-314"];
+r007 [label= "R-007: Der Hitlerputsch (1923), mit Dr. Wolfgang Niess [C.H. Beck]", URL="https://geschichteeuropas.podigee.io/164-164"];
+r008 [label= "R-008: Hitlers Machtübernahme (1933), mit Andreas Mix", URL="https://geschichteeuropas.podigee.io/159-159"];
+r009 [label= "R-009: Der Reichstagsbrand (1933) (Teil 1), mit Dr. Rainer Orth", URL="https://geschichteeuropas.podigee.io/223-223"];
+r010 [label= "R-010: Der Reichstagsbrand (1933) (Teil 2), mit Dr. Rainer Orth", URL="https://geschichteeuropas.podigee.io/225-225"];
+r011 [label= "R-011: Das Ermächtigungsgesetz (1933), mit Prof. Dr. Philipp Austermann", URL="https://geschichteeuropas.podigee.io/334-334"];
+r012 [label= "R-012: Die Anfänge der Gestapo (1933), mit Dr. Claudia Steur", URL="https://geschichteeuropas.podigee.io/257-257"];
+r013 [label= "R-013: Die nationalsozialistischen Bücherverbrennungen (1933), mit Dr. Sophia Dafinger", URL="https://geschichteeuropas.podigee.io/192-192"];
+r014 [label= "R-014: Das Reichskonkordat (1933), mit Dr. Jan Wille", URL="https://geschichteeuropas.podigee.io/417-417"];
+r014 [label= "R-014: Der Hitler-Stalin-Pakt (1939), mit Prof. Dr. Claudia Weber", URL="https://geschichteeuropas.podigee.io/96-96"];
+r015 [label= "R-015: Die Übernahme des Gestapa durch Heinrich Himmler und Reinhard Heydrich (1934), mit Andreas Mix", URL="https://geschichteeuropas.podigee.io/425-425"];
+r001->r002->r003->r004->r005->r006->r007->r008->r009->r010->r011->r012->r013->r014->r014->r015[style=invis];
+}
+subgraph cluster_s {
+  label="S: 2. Weltkrieg (1939-1945)"
+  bgcolor="lightyellow"
+s001 [label= "S-001: Der deutsche Überfall auf Polen (1939), mit Svea Hammerle", URL="https://geschichteeuropas.podigee.io/105-105"];
+s002 [label= "S-002: Das Massaker von Katyn (1940), mit Prof. Dr. Claudia Weber", URL="https://geschichteeuropas.podigee.io/298-298"];
+s003 [label= "S-003: Deportationen jüdischer Menschen nach Gurs (1940), mit Dr. Marco Brenneisen [MARCHIVUM]", URL="https://geschichteeuropas.podigee.io/211-211"];
+s004 [label= "S-004: Die Besetzung der britischen Kanalinseln (1940-1945), mit Prof. Dr. Tobias Arand", URL="https://geschichteeuropas.podigee.io/300-300"];
+s005 [label= "S-005: Die Operation Barbarossa (1941), mit Dr. Dmitri Stratievski", URL="https://geschichteeuropas.podigee.io/33-33"];
+s006 [label= "S-006: Die Ukraine im 2. Weltkrieg (1941-1944), mit Dr. Johannes Spohr", URL="https://geschichteeuropas.podigee.io/243-243"];
+s007 [label= "S-007: Die Belagerung Leningrads (1941-1944), mit Dr. Olga Sturkin", URL="https://geschichteeuropas.podigee.io/288-288"];
+s007 [label= "S-007: Unter deutscher Besatzung: Europa 1939-1945, mit Prof. Dr. Tatjana Tönsmeyer [C.H. Beck]", URL="https://geschichteeuropas.podigee.io/395-395"];
+s008 [label= "S-008: Sowjetische Kriegsgefangene im 2. Weltkrieg, mit Dr. Dmitri Stratievski", URL="https://geschichteeuropas.podigee.io/87-87"];
+s009 [label= "S-009: Der Massenmord von Babyn Jar (1941), mit Dr. Franziska Davies", URL="https://geschichteeuropas.podigee.io/150-150"];
+s010 [label= "S-010: Die Wannsee-Konferenz (1942), mit Eike Stegen", URL="https://geschichteeuropas.podigee.io/64-64"];
+s011 [label= "S-011: Fall Blau - der deutsch-sowjetische Krieg 1942, mit Prof. Dr. Dieter Pohl", URL="https://geschichteeuropas.podigee.io/90-90"];
+s012 [label= "S-012: Die Schlacht um Stalingrad (1942/1943), mit Dr. Jens Ebert", URL="https://geschichteeuropas.podigee.io/282-282"];
+s013 [label= "S-013: Die Weihnachtsansprache Papst Pius XII. (1942), mit Prof. Dr. Dr. Wolf Hubert", URL="https://geschichteeuropas.podigee.io/275-275"];
+s014 [label= "S-014: \"Totaler Krieg\" - Goebbels' Sportpalastrede (1943), mit Prof. Dr. Ute Daniel", URL="https://geschichteeuropas.podigee.io/163-163"];
+s015 [label= "S-015: Die Panzerschlacht von Kursk und der dt.-sowj. Krieg 1943, mit Dr. Jens Wehner", URL="https://geschichteeuropas.podigee.io/363-363"];
+s016 [label= "S-016: D-Day: Die allierte Landung in der Normandie (1944), mit Dr. Peter Lieb", URL="https://geschichteeuropas.podigee.io/326-326"];
+s017 [label= "S-017: Operation Walküre - Das Attentat auf Hitler am 20. Juli 1944, mit Dr. Christopher Dowe", URL="https://geschichteeuropas.podigee.io/348-348"];
+s018 [label= "S-018: Wehrmachtsdeserteure, mit Robert Parzer", URL="https://geschichteeuropas.podigee.io/65-65"];
+s020 [label= "S-020: Die Regierung Dönitz - NS-Deutschland nach Hitlers Suizid (1945), mit Dr. John Zimmermann", URL="https://geschichteeuropas.podigee.io/435-435"];
+s001->s002->s003->s004->s005->s006->s007->s007->s008->s009->s010->s011->s012->s013->s014->s015->s016->s017->s018->s020[style=invis];
+}
+subgraph cluster_t {
+  label="T: Kalter Krieg und Europäische Einigung (1945-1990)"
+  bgcolor="lightyellow"
+t001 [label= "T-001: Der Nürnberger Hauptkriegsverbrecherprozess (1945/46), mit Prof. Dr. Kim Christian Priemel", URL="https://geschichteeuropas.podigee.io/84-84"];
+t002 [label= "T-002: Ausrangiert: Alltag und Notlösungen nach Kriegsende (1945-1948), mit Markus Berberich [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/390-390"];
+t002 [label= "T-002: Die \"Entnazifizierung\" Deutschlands ab 1945, mit Dr. Sebastian Rojek", URL="https://geschichteeuropas.podigee.io/429-429"];
+t003 [label= "T-003: Kirche im Wandel - Integration von Flüchtlingen u. Vertriebenen (1945-63), mit Prof. Dr. R. Bendel [IKKDOS e.V.]", URL="https://geschichteeuropas.podigee.io/339-339"];
+t004 [label= "T-004: Die katholischen Vertriebenen in der DDR, mit Dr. Torsten Müller [IKKDOS e.V.]", URL="https://geschichteeuropas.podigee.io/315-315"];
+t004 [label= "T-004: Jahrestage der \"Befreiung\" Rigas in sowjetischen Wochenschauen, mit Paul Birkner", URL="https://geschichteeuropas.podigee.io/415-415"];
+t005 [label= "T-005: Martin Schilling und die Notkirchen der frühen Nachkriegszeit, mit Thomas Oschmann [IKKDOS e.V.]", URL="https://geschichteeuropas.podigee.io/352-352"];
+t006 [label= "T-006: Neutraubling - wenn Heimatvertriebene neue (Kirchen)gemeinden bilden, mit Dr. Elisabeth Fendl [IKKDOS e.V.]", URL="https://geschichteeuropas.podigee.io/323-323"];
+t007 [label= "T-007: Der Parlamentarische Rat und das Grundgesetz (1948/49), mit Dr. Benedikt Wintgens", URL="https://geschichteeuropas.podigee.io/381-381"];
+t008 [label= "T-008: Die Gründung der DDR (1949), mit Dr. Ilko-Sascha Kowalczuk", URL="https://geschichteeuropas.podigee.io/391-391"];
+t009 [label= "T-009: Die Europäische Gemeinschaft für Kohle und Stahl (1952), mit Prof. Dr. Michael Gehler", URL="https://geschichteeuropas.podigee.io/93-93"];
+t010 [label= "T-010: Der Volksaufstand in der DDR am 17. Juni 1953, mit Dr. Ilko-Sascha Kowalczuk", URL="https://geschichteeuropas.podigee.io/205-205"];
+t011 [label= "T-011: Der ungarische Volksaufstand (1956), mit Prof. Dr. Michael Gehler", URL="https://geschichteeuropas.podigee.io/52-52"];
+t012 [label= "T-012: Der Bau der Berliner Mauer (1961), mit Dr. Gerhard Sälter", URL="https://geschichteeuropas.podigee.io/40-40"];
+t013 [label= "T-013: Die Herren-Fußball-WM 1966, mit Nicole Selmer", URL="https://geschichteeuropas.podigee.io/38-38"];
+t014 [label= "T-014: Sowjetische Gasexporte nach Europa, mit Prof. Dr. Susanne Schattenberg", URL="https://geschichteeuropas.podigee.io/127-127"];
+t015 [label= "T-015: Der Grundlagenvertrag zwischen BRD und DDR (1972), mit Jörn Petrick", URL="https://geschichteeuropas.podigee.io/291-291"];
+t016 [label= "T-016: Sowjetische Aufbruchvisionen zum Ende des Kalten Kriegs, mit Prof. Dr. Susanne Schattenberg", URL="https://geschichteeuropas.podigee.io/209-209"];
+t017 [label= "T-017: Deutsch-deutsche Umweltpolitik im Kalten Krieg (1970-1989), mit Sophie Lange", URL="https://geschichteeuropas.podigee.io/54-54"];
+t018 [label= "T-018: Das Münchener Olympia-Attentat (1972), mit Bernhard Purin", URL="https://geschichteeuropas.podigee.io/109-109"];
+t019 [label= "T-019: Die RAF und der \"Deutsche Herbst\" (1977), mit Kevin Lenk", URL="https://geschichteeuropas.podigee.io/123-123"];
+t020 [label= "T-020: Flucht nach Österreich im Kalten Krieg, mit Sarah Knoll", URL="https://geschichteeuropas.podigee.io/67-67"];
+t021 [label= "T-021: Kirchenbau in der späten DDR-Zeit, mit Dr. Karin Berkemann [AG Kirche und Kulturerbe, Univ. Greifswald]", URL="https://geschichteeuropas.podigee.io/229-229"];
+t022 [label= "T-022: Die Auflösung der Sowjetunion (1991), mit Prof. Dr. Susanne Schattenberg", URL="https://geschichteeuropas.podigee.io/60-60"];
+t001->t002->t002->t003->t004->t004->t005->t006->t007->t008->t009->t010->t011->t012->t013->t014->t015->t016->t017->t018->t019->t020->t021->t022[style=invis];
+}
+subgraph cluster_u {
+  label="U: Nach dem Kalten Krieg (1990-)"
+  bgcolor="lightyellow"
+u001 [label= "U-001: Russland in den 1990er Jahren, mit Dr. Tobias Rupprecht", URL="https://geschichteeuropas.podigee.io/376-376"];
+u002 [label= "U-002: Tony Blair, Britain und der Irakkrieg (2001-2003), mit Martin Günzel", URL="https://geschichteeuropas.podigee.io/82-82"];
+u003 [label= "U-003: Der Krieg gegen die Ukraine (ab 2022), mit Prof. Dr. Gwendolyn Sasse [C.H. Beck]", URL="https://geschichteeuropas.podigee.io/126-126"];
+u001->u002->u003[style=invis];
+}
+subgraph cluster_v {
+  label="V: Europa aktuell"
+  bgcolor="lightyellow"
+v001 [label= "V-001: Die Geschichte der Ukraine vom 19. Jhd. bis heute, mit Dr. Franziska Davies", URL="https://geschichteeuropas.podigee.io/73-73"];
+v002 [label= "V-002: Die Konstituierende Sitzung des Thüringer Landtags 2024, mit Prof. Dr. Philipp Austermann", URL="https://geschichteeuropas.podigee.io/403-403"];
+v001->v002[style=invis];
+}
+subgraph cluster_w {
+  label="W: Epochenübergreifende Biographien"
+  bgcolor="lightyellow"
+o009 [label= "O-009: Der Revolutionär Robert Blum (1807-48), mit Dr. Katharina Thielen [LVR Institut f. Landeskunde & Regionalgesch.]", URL="https://geschichteeuropas.podigee.io/256-256"];
+w001 [label= "W-001: Rudolf I. (1218-1291) und der Aufstieg der Habsburger, mit Aaron Jochim", URL="https://geschichteeuropas.podigee.io/129-129"];
+w002 [label= "W-002: Der Trierer Künstler und Lithograph Johann Anton Ramboux (1790-1866), mit Dr. Bernd Röder [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/230-230"];
+w003 [label= "W-003: Der Flugpionier Otto Lilienthal (1848-1896), mit Dr. Peter Busse [Otto-Lilienthal-Museum Anklam]", URL="https://geschichteeuropas.podigee.io/200-200"];
+w004 [label= "W-004: Gustav und Otto Lilienthal - mehr als nur Flugpioniere, mit Dr. Peter Busse [Otto-Lilienthal-Museum Anklam]", URL="https://geschichteeuropas.podigee.io/203-203"];
+w005 [label= "W-005: Lenins Leben bis zur Februarrevolution (1870-1917), mit Prof. Dr. Jörn Happel und Prof. Dr. Susanne Schattenberg", URL="https://geschichteeuropas.podigee.io/296-296"];
+w006 [label= "W-006: Der Trierer Denkmalpfleger Friedrich Kutzbach (1873-1942), mit Bettina Leuchtenberg [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/207-207"];
+w007 [label= "W-007: Der Gestalter und Lebensreformer Hans Proppe (1875-1951), mit Bettina Leuchtenberg [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/156-156"];
+w008 [label= "W-008: Die AWO-Gründerin und Reichstagsabgeordnete Marie Juchacz (1879-1956), mit Laura Baumgarten (@frauabgeordnete)", URL="https://geschichteeuropas.podigee.io/397-397"];
+w008 [label= "W-008: Simon Rosenberger - der vergessene Fußballpionier (1885-1931), mit Petra Tabarelli (FRÜF)", URL="https://geschichteeuropas.podigee.io/179-179"];
+w009 [label= "W-009: Rudolf Hess - der \"Stellvertreter\" Hitlers (1894-1987), mit Prof. Dr. Manfred Görtemaker [C.H. Beck]", URL="https://geschichteeuropas.podigee.io/236-236"];
+w010 [label= "W-010: Der NS-Widerstandskämpfer Theo Hespers (1903-1943), mit Nora Hespers (Die Anarchronistin)", URL="https://geschichteeuropas.podigee.io/86-86"];
+w011 [label= "W-011: Der Bundeskanzler Kurt Georg Kiesinger (1904-1988), mit Prof. Dr. Philipp Gassert", URL="https://geschichteeuropas.podigee.io/239-239"];
+w012 [label= "W-012: Die NS-Widerstandskämpfer Tilly Spiegel (1906-88) und Franz Marek (1913-79), mit Dr. Ina Markova und Sarah Knoll", URL="https://geschichteeuropas.podigee.io/99-99"];
+w013 [label= "W-013: Willy Brandts NS-Widerstand und Exil (1933-1945), mit Frauke Kleine Wächter und Dr. Kristina Meyer [BWBS]", URL="https://geschichteeuropas.podigee.io/220-220"];
+x014 [label= "X-014: \"Tempo! Tempo!\" Zeit und Zeitwahrnehmung in der Geschichte, mit Dr. Andreas Braune [Weimarer Rendez-vous]", URL="https://geschichteeuropas.podigee.io/248-248"];
+x022 [label= "X-022: Mit der Vergangenheit in die Zukunft: Resilienz aus Umbrüchen, mit M. Kolocek &  F. Matzke [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/295-295"];
+o009->w001->w002->w003->w004->w005->w006->w007->w008->w008->w009->w010->w011->w012->w013->x014->x022[style=invis];
+}
+subgraph cluster_x {
+  label="X: Geschichtswissenschaft und Erinnerungskultur"
+  bgcolor="lightyellow"
+x001 [label= "X-001: Das Twitterprojekt \"@Krieg7071\", mit Cathérine Pfauth", URL="https://geschichteeuropas.podigee.io/18-18"];
+x002 [label= "X-002: Historische Fotografien digitalisieren, mit Dr. Michael Merkel (hadenradio)", URL="https://geschichteeuropas.podigee.io/30-30"];
+x003 [label= "X-003: Glory & Defeat: Der dt.-frz. Krieg auf YouTube, mit Cathérine Pfauth und Florian Wittig", URL="https://geschichteeuropas.podigee.io/42-42"];
+x004 [label= "X-004: Arbeit im Stadtarchiv, mit Petra Tabarelli", URL="https://geschichteeuropas.podigee.io/71-71"];
+x005 [label= "X-005: Herausforderungen für Geschichte auf YouTube, mit Florian Wittig", URL="https://geschichteeuropas.podigee.io/88-88"];
+x006 [label= "X-006: Europäische Regionalgeschichte, mit Prof. Dr. Martin Knoll und Dr. Katharina Scharf", URL="https://geschichteeuropas.podigee.io/117-117"];
+x007 [label= "X-007: Luther war nicht Teufels Dudelsack, mit Thomas Lang", URL="https://geschichteeuropas.podigee.io/148-148"];
+x008 [label= "X-008: Die Rezeption d. untergegangenen Pompejis, mit JProf. Dr. Marian Nebelin [Staatl. Museum f. Archäologie Chemnitz]", URL="https://geschichteeuropas.podigee.io/149-149"];
+x009 [label= "X-009: Das LVR-Projekt \"geSCHICHTEN Rheinisches Revier\", mit Alrun Berger [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/167-167"];
+x010 [label= "X-010: #geschichte #wissenschaftskommunikation #instagram, mit Tabea Henn (klios_spiegel)", URL="https://geschichteeuropas.podigee.io/177-177"];
+x011 [label= "X-011: Byzantinistik, mit Dr. Günter Fuchs (Anno Mundi)", URL="https://geschichteeuropas.podigee.io/178-178"];
+x012 [label= "X-012: Der \"Mythos Bismarck\", mit Dr. Ulf Morgenstern [Otto-von-Bismarck-Stiftung]", URL="https://geschichteeuropas.podigee.io/215-215"];
+x013 [label= "X-013: \"Juni '53\" - vom historischen Stoff zum historischen Roman, mit Frank Goldammer [Konrad-Adenauer-Stiftung]", URL="https://geschichteeuropas.podigee.io/217-217"];
+x015 [label= "X-015: Die Diskussion um die DDR als #Unrechtsstaat auf Twitter, mit Robert Scholz", URL="https://geschichteeuropas.podigee.io/251-251"];
+x016 [label= "X-016: Transottomanica: Osteuropäisch-nahöstliche Verflechtungen, mit Denise Klein u. Anna Vlachopoulou [Univ. Leipzig]", URL="https://geschichteeuropas.podigee.io/258-258"];
+x017 [label= "X-017: \"Wolken und Berge\" und veränderte Landschaften, mit Alexandra Orth und Dr. Manuel Seeger [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/263-263"];
+x018 [label= "X-018: geSCHICHTEN von Umbrüchen erzählen, mit Giulia Fanton, Marian Fritz & Dr. Kerstin Schierhold [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/264-264"];
+x019 [label= "X-019: Niedersächsische Archive im Nationalsozialismus, mit Sabine Graf & Dietmar v. Reeken [Niedersächs. Landesarchiv]", URL="https://geschichteeuropas.podigee.io/265-265"];
+x020 [label= "X-020: Archäologie im Braunkohletagebau, mit Robin Peters und Prof. Dr. Michael Schmauder [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/279-279"];
+x021 [label= "X-021: Keyenberg: Leben mit dem Loch, mit Dr. des. Anja Schmid-Engbrodt und Dr. Judith Schmidt [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/287-287"];
+x023 [label= "X-023: Das archäologische Projekt Manheim, mit Dr. Martin Heinen und Susanne Harke-Schmidt [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/303-303"];
+x024 [label= "X-024: Immaterielles Kulturerbe zwischen Südosteuropa u. deutschsprachigem Raum, mit Y. Zivkovic [KFU Graz] & M. Thaden", URL="https://geschichteeuropas.podigee.io/322-322"];
+x025 [label= "X-025: Die Vertriebenenwallfahrt \"Maria in der Ferne\" - Identität und Integration, mit Dr. Heinke Kalinke [IKKDOS e.V.]", URL="https://geschichteeuropas.podigee.io/331-331"];
+x026 [label= "X-026: Palimpeste und Palimpsest-Räume, mit Prof. Dr. Marian Nebelin und Prof. Dr. Cecile Sandten [TU Chemnitz]", URL="https://geschichteeuropas.podigee.io/333-333"];
+x027 [label= "X-027: Mythen um die deutsche Reichsgründung von 1871, mit Dr. Tobias Hirschmüller", URL="https://geschichteeuropas.podigee.io/341-341"];
+x028 [label= "X-028: Die eigenen (Ur)großväter in der Wehrmacht finden, mit Dr. Johannes Spohr", URL="https://geschichteeuropas.podigee.io/358-358"];
+x029 [label= "X-029: Ausrangiert und aus der Mode: Vergangene Alltage im Museum darstellen, mit Dr. Viola Skiba [Stadtmuseum Trier]", URL="https://geschichteeuropas.podigee.io/365-365"];
+x030 [label= "X-030: Strukturwandel und neue Alltage im Rheinland filmisch dokumentieren, mit Dr. Lisa Maubach [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/368-368"];
+x031 [label= "X-031: Orte der deutschen Demokratiegeschichte, mit A. Braune, M. Lang & K.-M. Sprenger [Weimarer Rendez-vous]", URL="https://geschichteeuropas.podigee.io/370-370"];
+x032 [label= "X-032: Industriekultur im Rheinischen Revier erfassen, mit Dr. Ralf Liptau & Dipl.-Ing. Rasmus Radach [LVR geSCHICHTEN]", URL="https://geschichteeuropas.podigee.io/385-385"];
+x033 [label= "X-033: Stadt beziehungsweise Land, mit Prof. Dr. Susanne Rau [Weimarer Rendez-vous]", URL="https://geschichteeuropas.podigee.io/387-387"];
+x034 [label= "X-034: Polen A und B in der postkolonialen Theorie und Popkultur, mit Jannick Piskorski", URL="https://geschichteeuropas.podigee.io/421-421"];
+x035 [label= "X-035: Die Krakauer Krippentradition \"Szopka\" als immaterielles Kulturerbe, mit Annika Häberlein", URL="https://geschichteeuropas.podigee.io/433-433"];
+x001->x002->x003->x004->x005->x006->x007->x008->x009->x010->x011->x012->x013->x015->x016->x017->x018->x019->x020->x021->x023->x024->x025->x026->x027->x028->x029->x030->x031->x032->x033->x034->x035[style=invis];
+}
+subgraph cluster_y {
+  label="Y: Quellen"
+  bgcolor="lightyellow"
+y001 [label= "Y-001: Marcus Tullius Cicero, de re publica (54-51 v. Chr.)", URL="https://geschichteeuropas.podigee.io/t329-329"];
+y002 [label= "Y-002: Gaius Iulius Caesar, De Bello Gallico VI (52/51 v. Chr.)", URL="https://geschichteeuropas.podigee.io/t183-183"];
+y003 [label= "Y-003: Die Inschrift am Vatikanischen Obelisken (c. 14-20)", URL="https://geschichteeuropas.podigee.io/t34-34"];
+y003 [label= "Y-003: Titus Livius, Ab urbe condita, Auszüge aus dem ersten Buch (ca. 27 v. Chr.)", URL="https://geschichteeuropas.podigee.io/t422-422"];
+y004 [label= "Y-004: Matthäus-Evangelium, Die Bergpredigt (ca. 80-90 n. Chr.?)", URL="https://geschichteeuropas.podigee.io/t316-316"];
+y005 [label= "Y-005: Lukas-Evangelium, Schilderung von Jesus Christus' Geburt (ca. 70-90 n. Chr.?)", URL="https://geschichteeuropas.podigee.io/t432-432"];
+y005 [label= "Y-005: Matthäus-Evangelium, Das Gleichnis vom Gericht des Menschensohnes über die Völker (ca. 80-90 n. Chr.?)", URL="https://geschichteeuropas.podigee.io/t340-340"];
+y006 [label= "Y-006: Die Mailänder Vereinbarung (313)", URL="https://geschichteeuropas.podigee.io/t142-142"];
+y007 [label= "Y-007: Lactantius, de mortibus persecutorum (ca. 314)", URL="https://geschichteeuropas.podigee.io/t3-3"];
+y008 [label= "Y-008: Augustinus von Hippo, Auszug aus den \"Confessiones\" (397-401)", URL="https://geschichteeuropas.podigee.io/t325-325"];
+y009 [label= "Y-009: Historia Augusta über die Tetrarchen (ca. 400?)", URL="https://geschichteeuropas.podigee.io/t100-100"];
+y010 [label= "Y-010: Michael Attaleiates, Die Geschichte (1079)", URL="https://geschichteeuropas.podigee.io/t21-21"];
+y011 [label= "Y-011: Helmold von Bosau, Slawenchronik (c. 1167)", URL="https://geschichteeuropas.podigee.io/t171-171"];
+y012 [label= "Y-012: Abschnitt der Gesta Treverorum (12.-14. Jhd) zum Kinderkreuzzug", URL="https://geschichteeuropas.podigee.io/t400-400"];
+y012 [label= "Y-012: Das Testament des Franz von Assisi (1226)", URL="https://geschichteeuropas.podigee.io/t332-332"];
+y013 [label= "Y-013: Die Tagesordnung des Hansetags von 1518", URL="https://geschichteeuropas.podigee.io/t115-115"];
+y014 [label= "Y-014: Erhard Schön, Des Teufels Sackpfeife (1530-1535)", URL="https://geschichteeuropas.podigee.io/t146-146"];
+y015 [label= "Y-015: Jos Murer, Schrifttafeln auf der Karte des Herrschaftsgebiets der Stadt Zürich (1568)", URL="https://geschichteeuropas.podigee.io/t386-386"];
+y016 [label= "Y-016: Elizabeth I., Rede an die Truppen in Tilbury (1588)", URL="https://geschichteeuropas.podigee.io/t68-68"];
+y016 [label= "Y-016: Urkunde über die Erlaubnis zum Kohlenbergbau in Gensungen (1554)", URL="https://geschichteeuropas.podigee.io/t404-404"];
+y017 [label= "Y-017: Johann Amos Comenius, Orbis sensualium pictus (1658)", URL="https://geschichteeuropas.podigee.io/t116-116"];
+y018 [label= "Y-018: Gerichtsakte zum Nachweis einer vorausgegangen Freilassung einer ungarischen Sklavin (1663/64)", URL="https://geschichteeuropas.podigee.io/t268-268"];
+y019 [label= "Y-019: Der Reichsstadt Lübeck Christliche Anordnung (1681)", URL="https://geschichteeuropas.podigee.io/t23-23"];
+y020 [label= "Y-020: Der Frieden von Nystadt (1721)", URL="https://geschichteeuropas.podigee.io/t166-166"];
+y021 [label= "Y-021: Samuel Johnson, The Vanity of Human Wishes (1748)", URL="https://geschichteeuropas.podigee.io/t43-43"];
+y022 [label= "Y-022: Friedrich II. \"der Große\" von Preußen, General-Principia vom Krieg (1748-1753)", URL="https://geschichteeuropas.podigee.io/t371-371"];
+y023 [label= "Y-023: Said Giray, \"Über die Region Rumelien\" (1754/55)", URL="https://geschichteeuropas.podigee.io/t255-255"];
+y024 [label= "Y-024: Verteilung eines Lehrwerks über Viehseuchen (1781)", URL="https://geschichteeuropas.podigee.io/t27-27"];
+y025 [label= "Y-025: Friedrich Schiller, Die Pest: Eine Fantasie (1782)", URL="https://geschichteeuropas.podigee.io/t2-2"];
+y026 [label= "Y-026: Johann Georg Meusel, Lebensumstände der im Jahr 1782 zu Berlin verstorbenen Madame Therbusch (1783)", URL="https://geschichteeuropas.podigee.io/t373-373"];
+y027 [label= "Y-027: Friedrich Schiller, Pompeji und Herculaneum (1796)", URL="https://geschichteeuropas.podigee.io/t139-139"];
+y028 [label= "Y-028: Account of the Fall of some of the Stones in Stonehenge (1797)", URL="https://geschichteeuropas.podigee.io/t47-47"];
+y029 [label= "Y-029: Anton Dorsch, Statistique du départment de la Roer (1804)", URL="https://geschichteeuropas.podigee.io/t214-214"];
+y030 [label= "Y-030: Hymne der Warschauer Freimaurer-Loge \"Tempel der Weisheit\" (1805)", URL="https://geschichteeuropas.podigee.io/t267-267"];
+y031 [label= "Y-031: Wilhelm Drumann, Historisch-antiquarische Untersuchungen zu Aegypten (1823)", URL="https://geschichteeuropas.podigee.io/t72-72"];
+y032 [label= "Y-032: Edward George Bulwer-Lytton, The Last Days of Pompeii (1834)", URL="https://geschichteeuropas.podigee.io/t147-147"];
+y033 [label= "Y-033: Versteigerung einer Braunkohlegrube und Dachziegelei in der Nähe von Köln (1835)", URL="https://geschichteeuropas.podigee.io/t234-234"];
+y034 [label= "Y-034: Friedrich Engels, Die Lage der arbeitenden Klasse in England (1845)", URL="https://geschichteeuropas.podigee.io/t347-347"];
+y035 [label= "Y-035: Düsseldorfer Zeitung, Die Ramboux'sche Sammlung (1846)", URL="https://geschichteeuropas.podigee.io/t227-227"];
+y036 [label= "Y-036: Fréderic Chopin, Regentropfen-Prélude (1838/39) / Jannick Piskorski, Ogien (2024)", URL="https://geschichteeuropas.podigee.io/t420-420"];
+y036 [label= "Y-036: Robert Blum u.a., An unsere Mitbürger in Sachsen! (1848)", URL="https://geschichteeuropas.podigee.io/t108-108"];
+y037 [label= "Y-037: Henriette Obermüller, Brief an Jakob Venedey (1848)", URL="https://geschichteeuropas.podigee.io/t190-190"];
+y038 [label= "Y-038: Louise Otto, \"Robert Blum\" (1848)", URL="https://geschichteeuropas.podigee.io/t253-253"];
+y039 [label= "Y-039: Ludwig Simon \"von Trier\", Auszug einer Rede über Volkssouveränität (1848)", URL="https://geschichteeuropas.podigee.io/t169-169"];
+y040 [label= "Y-040: Brief des Kronprizen Wilhem an seine Schwester Charlotte (1849)", URL="https://geschichteeuropas.podigee.io/t306-306"];
+y041 [label= "Y-041: Fund des ersten Neandertalers (1856)", URL="https://geschichteeuropas.podigee.io/t8-8"];
+y042 [label= "Y-042: Carl Vogt, Der Urmensch (1864)", URL="https://geschichteeuropas.podigee.io/t174-173"];
+y043 [label= "Y-043: Allgemeines Berggesetz für die preußischen Staaten (1865)", URL="https://geschichteeuropas.podigee.io/t378-377"];
+y044 [label= "Y-044: Die Emser Depesche (1870)", URL="https://geschichteeuropas.podigee.io/t9-9"];
+y045 [label= "Y-045: August Bebel und Wilhelm Liebknecht, Begründung  der Enthaltung bei der Abstimmung über Kriegskrediten (1870)", URL="https://geschichteeuropas.podigee.io/t75-75"];
+y046 [label= "Y-046: Kurze Nachrichten zum Ausbruch des deutsch-französischen Kriegs (1870)", URL="https://geschichteeuropas.podigee.io/t41-41"];
+y047 [label= "Y-047: Aufruf zum Bau des Dillenburger Wilhelmsturms (1865)", URL="https://geschichteeuropas.podigee.io/t430-430"];
+y047 [label= "Y-047: Henriette Venedey, Erinnerungen an den Vater (1870)", URL="https://geschichteeuropas.podigee.io/t191-191"];
+y048 [label= "Y-048: Charles Darwin, The Descent of Man (1871/74)", URL="https://geschichteeuropas.podigee.io/t382-382"];
+y049 [label= "Y-049: Theodor v. Huber-Liebenau, Pompeji: Die Lavastadt (1879)", URL="https://geschichteeuropas.podigee.io/t143-143"];
+y050 [label= "Y-050: Biographische Notiz zu James Challis (1887)", URL="https://geschichteeuropas.podigee.io/t45-45"];
+y051 [label= "Y-051: Allgemeine Deutsche Biographie: Friedrich Wilhelm Raiffeisen (1888)", URL="https://geschichteeuropas.podigee.io/t222-222"];
+y052 [label= "Y-052: Otto Lilienthal, Der Vogelflug als Grundlage der Fliegekunst (1889)", URL="https://geschichteeuropas.podigee.io/t197-197"];
+y053 [label= "Y-053: Meyers Konversationslexikon, Eintrag \"Völkerwanderung\" (1890)", URL="https://geschichteeuropas.podigee.io/t198-198"];
+y054 [label= "Y-054: Marie Eugenie Delle Grazie, \"O sprecht hier nicht!\" (1892)", URL="https://geschichteeuropas.podigee.io/t134-134"];
+y055 [label= "Y-055: Heinrich Brugsch, Die Toten von Hawara (1892)", URL="https://geschichteeuropas.podigee.io/t237-237"];
+y056 [label= "Y-056: Gesetz, betreffend die Einführung einer einheitlichen Zeitbestimmung (1893)", URL="https://geschichteeuropas.podigee.io/t244-244"];
+y057 [label= "Y-057: Die Jenaer Fußballregeln (1893)", URL="https://geschichteeuropas.podigee.io/t7-7"];
+y058 [label= "Y-058: Erzählung über die Benachrichtigung Rudolfs von Habsburg über seine Wahl zum König (1895)", URL="https://geschichteeuropas.podigee.io/t128-128"];
+y059 [label= "Y-059: Theodor Fontane, Wo Bismarck liegen soll (1898)", URL="https://geschichteeuropas.podigee.io/t212-212"];
+y060 [label= "Y-060: Die neue Elbbrücke zwischen Hamburg und Harburg (1899)", URL="https://geschichteeuropas.podigee.io/t29-29"];
+y061 [label= "Y-061: Die Kunst (Monatsheft für freie und angewandte Kunst) über eine Ausstellung mit Fritz v. Wille (1899)", URL="https://geschichteeuropas.podigee.io/t259-259"];
+y062 [label= "Y-062: Cäsar Flaischlen, Auszug aus \"Jost Seyfried: aus dem Leben eines Jeden\"", URL="https://geschichteeuropas.podigee.io/t364-364"];
+y063 [label= "Y-063: Allgemeine Deutsche Biographie: Friedrich Anton Wyttenbach (1910)", URL="https://geschichteeuropas.podigee.io/t273-273"];
+y064 [label= "Y-064: Enyclopedia Britannica, \"Parthenon\" (1911)", URL="https://geschichteeuropas.podigee.io/t262-262"];
+y065 [label= "Y-065: Theodor Paas, Die Prämonstratenserabtei Steinfeld im 13. Jhd. (1913)", URL="https://geschichteeuropas.podigee.io/t206-206"];
+y066 [label= "Y-066: Der Vertrag von London (1913)", URL="https://geschichteeuropas.podigee.io/t199-199"];
+y067 [label= "Y-067: Weltkriegspropaganda auf einer Postkarte der Druckerei Schaar & Dathe (1914)", URL="https://geschichteeuropas.podigee.io/t283-283"];
+y068 [label= "Y-068: Abbé Augustin Aubry, Beschreibung der Kriegsgefangenschaft in Celle (1916)", URL="https://geschichteeuropas.podigee.io/t119-119"];
+y069 [label= "Y-069: Auszüge aus dem Vertrag von Rapallo (1922)", URL="https://geschichteeuropas.podigee.io/t78-78"];
+y069 [label= "Y-069: Marie Juchacz, Beginn ihrer ersten Rede in der Nationalversammlung (1919)", URL="https://geschichteeuropas.podigee.io/t396-396"];
+y070 [label= "Y-070: Berliner Börsen-Courier, \"Die Rutenbündler\" (1922), feat. Auf den Tag genau", URL="https://geschichteeuropas.podigee.io/t130-130"];
+y071 [label= "Y-071: Auszüge aus Howard Carters Grabungstagebuch (1922)", URL="https://geschichteeuropas.podigee.io/t138-138"];
+y072 [label= "Y-072: Berliner Tageblatt, \"Der Bruch\" (1923), feat. Auf den Tag genau", URL="https://geschichteeuropas.podigee.io/t153-153"];
+y073 [label= "Y-073: Paul Scheffer, \"Ruhr und Reich\" (1923), feat. Auf den Tag genau", URL="https://geschichteeuropas.podigee.io/t180-180"];
+y074 [label= "Y-074: Plakat des Hitlerputsches (1923)", URL="https://geschichteeuropas.podigee.io/t161-161"];
+y075 [label= "Y-075: Heinrich Eduard Jacob: Italien, Hakenkreuz, Tirol (1924)", URL="https://geschichteeuropas.podigee.io/t228-228"];
+y076 [label= "Y-076: Alfred Wegener, Die Enstehung der Kontinente und Ozeane (1929)", URL="https://geschichteeuropas.podigee.io/t57-57"];
+y077 [label= "Y-077: Carl von Ossietzky, Zur Reichsgründungsfeier (1931)", URL="https://geschichteeuropas.podigee.io/t337-337"];
+y077 [label= "Y-077: Joachim Ringelnatz, Gedicht \"Landflucht\" (1928)", URL="https://geschichteeuropas.podigee.io/t398-398"];
+y078 [label= "Y-078: Verordnung [zur] Wiederherstellung der öffentl. Sicherheit und Ordnung [in] Preußen (\"Preußenschlag\") (1932)", URL="https://geschichteeuropas.podigee.io/t254-254"];
+y079 [label= "Y-079: Auszug aus den Notizen über die Empfänge des Reichskanzler von Schleicher (1933)", URL="https://geschichteeuropas.podigee.io/t158-158"];
+y080 [label= "Y-080: Die \"Reichstagsbrandverordnung\" (1933)", URL="https://geschichteeuropas.podigee.io/t221-221"];
+y081 [label= "Y-081: Der Text des Ermächtigungsgesetzes (1933)", URL="https://geschichteeuropas.podigee.io/t330-330"];
+y082 [label= "Y-082: Gesetz zur Wiederherstellung des Berufsbeamtentums (1933)", URL="https://geschichteeuropas.podigee.io/t261-261"];
+y083 [label= "Y-083: Erich Kästner als Augenzeuge der Verbrennung seiner Bücher (1933)", URL="https://geschichteeuropas.podigee.io/t188-188"];
+y084 [label= "Y-084: Gesetz über die Hitlerjugend (1936)", URL="https://geschichteeuropas.podigee.io/t181-181"];
+y085 [label= "Y-085: Der Text des deutsch-sowjetischen Nichtangriffspakts (1939)", URL="https://geschichteeuropas.podigee.io/t94-94"];
+y086 [label= "Y-086: Neville Chamberlain verkündet Englands Kriegszustand mit Deutschland (1939)", URL="https://geschichteeuropas.podigee.io/t104-104"];
+y087 [label= "Y-087: Adolf Hitler, Befehl zur Ermordung von Menschen mit Behinderung (1939)", URL="https://geschichteeuropas.podigee.io/t19-19"];
+y088 [label= "Y-088: Adolf Hitler, Weisung Nr. 21 (1940)", URL="https://geschichteeuropas.podigee.io/t32-32"];
+y088 [label= "Y-088: Auszug aus dem \"Konkordat zwischen dem Heiligen Stuhl und dem Deutschen Reich\" (1933)", URL="https://geschichteeuropas.podigee.io/t416-416"];
+y089 [label= "Y-089: Reinhard Heydrich, Bericht über die Deportationen nach Gurs (1940)", URL="https://geschichteeuropas.podigee.io/t210-210"];
+y090 [label= "Y-090: Aktennotiz über Ergebnis der heutigen Besprechung mit den Staatssekretären über Barbarossa (1941)", URL="https://geschichteeuropas.podigee.io/t285-285"];
+y091 [label= "Y-091: Szlama Ber Winer, Beschreibung einer Mordtechnik im Holocaust (1942)", URL="https://geschichteeuropas.podigee.io/t63-63"];
+y092 [label= "Y-092: Der Generalplan Ost (1942)", URL="https://geschichteeuropas.podigee.io/t89-89"];
+y093 [label= "Y-093: Theo Hespers, Brief an die Familie (1942)", URL="https://geschichteeuropas.podigee.io/t85-85"];
+y094 [label= "Y-094: Regeln für die Post der Häftlinge im KZ Flossenbürg (1940)", URL="https://geschichteeuropas.podigee.io/t406-406"];
+y094 [label= "Y-094: Verordnung über die Stiftung des Krimschilds (1942)", URL="https://geschichteeuropas.podigee.io/t242-242"];
+y095 [label= "Y-095: Auszug aus der Weihnachtsansprache Papst Pius XII. (1942)", URL="https://geschichteeuropas.podigee.io/t271-271"];
+y096 [label= "Y-096: Auszug aus Goebbels' Sportpalastrede (1943)", URL="https://geschichteeuropas.podigee.io/t160-160"];
+y097 [label= "Y-097: Auszug aus der Predigt von Clemens August Graf von Galen zur sogenannten Euthanasie (1941)", URL="https://geschichteeuropas.podigee.io/t411-411"];
+y097 [label= "Y-097: Das 6. Flugblatt der \"Weißen Rose\" (1943)", URL="https://geschichteeuropas.podigee.io/t281-281"];
+y098 [label= "Y-098: Generalfeldmarschall Erwin von Witzleben, Befehl zur \"Operation Walküre\" (1943)", URL="https://geschichteeuropas.podigee.io/t345-345"];
+y099 [label= "Y-099: Adolf Hitler, Operationsbefehl Nr. 6 (1943)", URL="https://geschichteeuropas.podigee.io/t362-362"];
+y100 [label= "Y-100: Royal Air Force Bomber Command Campaign Diary über einen Angriff auf Kassel (1943)", URL="https://geschichteeuropas.podigee.io/t338-338"];
+y101 [label= "Y-101: Aufsatz französischer Schulkinder über die Nahrungsversorgung unter deutscher Besatzung (1943)", URL="https://geschichteeuropas.podigee.io/t394-394"];
+y102 [label= "Y-102: General Eisenhowers Befehl zur Invasion der Normandie (1944)", URL="https://geschichteeuropas.podigee.io/t321-321"];
+y103 [label= "Y-103: Willy Brandt, Nach dem Sieg: Die Diskussion über die Kriegs- und Friedensziele (1944)", URL="https://geschichteeuropas.podigee.io/t219-219"];
+y104 [label= "Y-104: Der Schwur von Buchenwald (1945)", URL="https://geschichteeuropas.podigee.io/t302-302"];
+y105 [label= "Y-105: Erster Anklagepunkt im Nürnberger Hauptkriegsverbrecherprozess (1945)", URL="https://geschichteeuropas.podigee.io/t83-83"];
+y106 [label= "Y-106: Auszug aus dem \"Sühnegebet und Gelöbnis der Heimatlosen\" (1945)", URL="https://geschichteeuropas.podigee.io/t319-319"];
+y107 [label= "Y-107: Pater Paulus Sladek, Weihnachtsbrief an die ehemalige Staffelsteiner Gemeinde (1945)", URL="https://geschichteeuropas.podigee.io/t335-335"];
+y108 [label= "Y-108: Winston Churchill, The Sinews of Peace (1946)", URL="https://geschichteeuropas.podigee.io/t16-16"];
+y109 [label= "Y-109: Bericht des Gerichts-Psychologen über den Geisteszustand des Angeklagten Heß (1946)", URL="https://geschichteeuropas.podigee.io/t232-232"];
+y110 [label= "Y-110: Domdechant Clemens Stolte, Schilderung der Zerstörungen in Hildesheim (1946)", URL="https://geschichteeuropas.podigee.io/t343-343"];
+y111 [label= "Y-111: Auszug aus dem Konzept der Silvesterpredigt des Kölner Erzbischofs Joseph Kardina Frings (1946)", URL="https://geschichteeuropas.podigee.io/t389-389"];
+y112 [label= "Y-112: Oberlandesgerichtsrat Buhl an den Senat Hamburgs zum ehem. KZ Neuengamme (1947)", URL="https://geschichteeuropas.podigee.io/t102-102"];
+y113 [label= "Y-113: Hans Proppe, Farbentheorie als Gedicht (1947)", URL="https://geschichteeuropas.podigee.io/t154-154"];
+y114 [label= "Y-114: Präambel des Grundgesetzes für die Bundesrepublik Deutschland (1949)", URL="https://geschichteeuropas.podigee.io/t380-380"];
+y115 [label= "Y-115: Die Präambel der ungarischen Verfassung (1949)", URL="https://geschichteeuropas.podigee.io/t51-51"];
+y116 [label= "Y-116: Erklärung [zur] Niederlage Deutschlands und der Übernahme der obersten [Regierungsgewalt] (1945)", URL="https://geschichteeuropas.podigee.io/t434-434"];
+y116 [label= "Y-116: Martin Schilling, Bericht zum Bau von Notkirchen (1950)", URL="https://geschichteeuropas.podigee.io/t349-349"];
+y117 [label= "Y-117: Brief des Pfarrers Nolte an das Bischöfliche Generalvikariat Hildesheim (1951)", URL="https://geschichteeuropas.podigee.io/t327-327"];
+y118 [label= "Y-118: Erklärung des Ausnahmezustands im Sowjetischen Sektor Berlins (1953)", URL="https://geschichteeuropas.podigee.io/t213-213"];
+y118 [label= "Y-118: Wochenschau \"Padomju Latvija\", 2. Jahrestag der \"Befreiung\" Rigas (1946)", URL="https://geschichteeuropas.podigee.io/t414-414"];
+y119 [label= "Y-119: Bischof Otto Spülbeck, Predigt auf dem Katholikentag in Köln 1956", URL="https://geschichteeuropas.podigee.io/t312-312"];
+y120 [label= "Y-120: UN-Resolution 1006 zu ungarischen Flüchtlingen (1956)", URL="https://geschichteeuropas.podigee.io/t66-66"];
+y121 [label= "Y-121: Parlamentarische Anfrage zur Aufnahme Franco-Spanien in die NATO (1959)", URL="https://geschichteeuropas.podigee.io/t290-290"];
+y122 [label= "Y-122: Kontrollratsdirektive Nr. 38 zur sogenannten \"Entnazifizierung\" Deutschlands (1946)", URL="https://geschichteeuropas.podigee.io/t428-428"];
+y122 [label= "Y-122: Walter Ulbricht, \"Niemand hat die Absicht, eine Mauer zu errichten\" (1961)", URL="https://geschichteeuropas.podigee.io/t39-39"];
+y123 [label= "Y-123: Heinrich Lübke, Proklamation des 17. Juni zum Nationalen Gedenktag des deutschen Volkes (1963)", URL="https://geschichteeuropas.podigee.io/t204-204"];
+y124 [label= "Y-124: Ergebnisse der Herren-Fußball-WM 1966", URL="https://geschichteeuropas.podigee.io/t37-37"];
+y125 [label= "Y-125: Die Regierungserklärung Kurt Georg Kiesingers (1966)", URL="https://geschichteeuropas.podigee.io/t238-238"];
+y126 [label= "Y-126: Der Moskauer Vertrag zwischen BRD und UdSSR (1970)", URL="https://geschichteeuropas.podigee.io/t113-113"];
+y127 [label= "Y-127: Die RAF-Selbstdarstellung als \"Stadtguerilla\" (1971)", URL="https://geschichteeuropas.podigee.io/t122-122"];
+y128 [label= "Y-128: Avery Brundage, \"The Games must go on\" (1972)", URL="https://geschichteeuropas.podigee.io/t106-106"];
+y129 [label= "Y-129: Der Text des Grundlagenvertrags (1972)", URL="https://geschichteeuropas.podigee.io/t289-289"];
+y130 [label= "Y-130: Umweltpolitik im Grundlagenvertrag (1972)", URL="https://geschichteeuropas.podigee.io/t53-53"];
+y131 [label= "Y-131: Bestimmungen der DDR-Verfassung zu Glauben und Religion (1974)", URL="https://geschichteeuropas.podigee.io/t226-226"];
+y132 [label= "Y-132: Franz Marek, Lebenserinnerungen: Beruf und Berufung Kommunist (ab 1974)", URL="https://geschichteeuropas.podigee.io/t98-98"];
+y133 [label= "Y-133: Bundesberggesetz (1980)", URL="https://geschichteeuropas.podigee.io/t274-274"];
+y134 [label= "Y-134: Initiative zur Demokratischen Umgestaltung, Aufruf zur Demonstration in Plauen (1989)", URL="https://geschichteeuropas.podigee.io/t369-369"];
+y135 [label= "Y-135: Inschrift der Grabplatte auf dem Gräberfeld X in Tübingen (1990)", URL="https://geschichteeuropas.podigee.io/t354-354"];
+y136 [label= "Y-136: Grundakte über gegenseitige Beziehungen, Zusammenarbeit u. Sicherheit zwischen der NATO und Russland (1993)", URL="https://geschichteeuropas.podigee.io/t375-375"];
+y137 [label= "Y-137: Die Unabhängigkeitserklärung der Ukraine (1991)", URL="https://geschichteeuropas.podigee.io/t249-249"];
+y138 [label= "Y-138: Die Rücktrittsrede des sowjetischen Präsidenten Gorbatschow (1991)", URL="https://geschichteeuropas.podigee.io/t59-59"];
+y139 [label= "Y-139: Das Budapester Memorandum zur Ukraine (1994)", URL="https://geschichteeuropas.podigee.io/t125-125"];
+y140 [label= "Y-140: Tony Blair, Rede über Terrorismus und Massenvernichtungswaffen (2003)", URL="https://geschichteeuropas.podigee.io/t81-81"];
+y141 [label= "Y-141: UNESCO-Übereinkommen zur Erhaltung des Immateriellen Kulturerbes (2003)", URL="https://geschichteeuropas.podigee.io/t318-318"];
+y142 [label= "Y-142: Bezirksregierung Köln: Braunkohlenplan Umsiedlung Manheim (Auszüge, 2011)", URL="https://geschichteeuropas.podigee.io/t301-301"];
+y143 [label= "Y-143: Genehmigung des Braunkohlenplanes Umsiedlung Keyenberg, Kuckum, Ober-/ Unterwestrich, Berverath (2015)", URL="https://geschichteeuropas.podigee.io/t284-284"];
+y144 [label= "Y-144: Zitate aus Keyenberg zum Strukturwandel und den Auswirkungen auf den Alltag (2019/2020)", URL="https://geschichteeuropas.podigee.io/t367-36"];
+y145 [label= "Y-145: Aufnahme der Zeche Zollverein in die Welterbeliste der UNESCO (2001)", URL="https://geschichteeuropas.podigee.io/t409-409"];
+y145 [label= "Y-145: Die letzten Stau- und Verkehrsmeldungen des Deutschlandfunks (2020)", URL="https://geschichteeuropas.podigee.io/t272-272"];
+y145 [label= "Y-145: Helmut Kohl spricht von \"blühenden Landschaften\" (1990)", URL="https://geschichteeuropas.podigee.io/t426-426"];
+y146 [label= "Y-146: Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung (2020)", URL="https://geschichteeuropas.podigee.io/t356-356"];
+y147 [label= "Y-147: Strukturstärkungsgesetz Kohleregionen (2020)", URL="https://geschichteeuropas.podigee.io/t384-384"];
+y148 [label= "Y-148: Tweets zum 30. Jahrestag der #Wiedervereinigung (2020)", URL="https://geschichteeuropas.podigee.io/t247-247"];
+y149 [label= "Y-149: @Krieg7071 twittert über die Kaiserproklamation (2021)", URL="https://geschichteeuropas.podigee.io/t17-17"];
+y150 [label= "Y-150: Auszüge aus dem \"Wirtschafts- und Strukturprogramms\" der Zukunftsagentur Rheinisches Revier (2021)", URL="https://geschichteeuropas.podigee.io/t392-392"];
+y151 [label= "Y-151: klios_spiegel, Was ist eine historische Quelle? (2022)", URL="https://geschichteeuropas.podigee.io/t175-175"];
+y152 [label= "Y-152: Eigenbeschreibung des Projekts \"geSCHICHTEN Rheinisches Revier\" (2022)", URL="https://geschichteeuropas.podigee.io/t165-165"];
+y153 [label= "Y-153: Entwurf eines Gesetzes zur Beschleunigung des Braunkohleausstiegs im Rheinischen Revier (2022)", URL="https://geschichteeuropas.podigee.io/t246-246"];
+y154 [label= "Y-154: Auszug aus dem Fragebogen \"Zusammenhalt hoch drei\" (2022)", URL="https://geschichteeuropas.podigee.io/t293-293"];
+y155 [label= "Y-155: Reviervertrag 2.0 (2023)", URL="https://geschichteeuropas.podigee.io/t360-360"];
+y156 [label= "Y-156: Erinnerungen der Bevölkerung des Rheinischen Reviers (2023)", URL="https://geschichteeuropas.podigee.io/t260-260"];
+y166 [label= "Y-166: Zitate zum Strukturwandel im Mitteldeutschen Revier (2023)", URL="https://geschichteeuropas.podigee.io/t418-418"];
+y001->y002->y003->y003->y004->y005->y005->y006->y007->y008->y009->y010->y011->y012->y012->y013->y014->y015->y016->y016->y017->y018->y019->y020->y021->y022->y023->y024->y025->y026->y027->y028->y029->y030->y031->y032->y033->y034->y035->y036->y036->y037->y038->y039->y040->y041->y042->y043->y044->y045->y046->y047->y047->y048->y049->y050->y051->y052->y053->y054->y055->y056->y057->y058->y059->y060->y061->y062->y063->y064->y065->y066->y067->y068->y069->y069->y070->y071->y072->y073->y074->y075->y076->y077->y077->y078->y079->y080->y081->y082->y083->y084->y085->y086->y087->y088->y088->y089->y090->y091->y092->y093->y094->y094->y095->y096->y097->y097->y098->y099->y100->y101->y102->y103->y104->y105->y106->y107->y108->y109->y110->y111->y112->y113->y114->y115->y116->y116->y117->y118->y118->y119->y120->y121->y122->y122->y123->y124->y125->y126->y127->y128->y129->y130->y131->y132->y133->y134->y135->y136->y137->y138->y139->y140->y141->y142->y143->y144->y145->y145->y145->y146->y147->y148->y149->y150->y151->y152->y153->y154->y155->y156->y166[style=invis];
+}
+subgraph cluster_z {
+  label="Z: Meta/Podcast"
+  bgcolor="lightyellow"
+z001 [label= "Z-001: Das Intro als Nullnummer", URL="https://geschichteeuropas.podigee.io/b1-1"];
+z002 [label= "Z-002: Jahresrückblick 2020", URL="https://geschichteeuropas.podigee.io/b15-15"];
+z003 [label= "Z-003: Deutschland und England bei der EM 2021", URL="https://geschichteeuropas.podigee.io/b31-31"];
+z004 [label= "Z-004: Wie heißen und zu welchem Ende produzieren wir Geschichtspodcasts?", URL="https://geschichteeuropas.podigee.io/b61-61"];
+z005 [label= "Z-005: Jahresrückblick 2021", URL="https://geschichteeuropas.podigee.io/b62-62"];
+z006 [label= "Z-006: Bugfix #1", URL="https://geschichteeuropas.podigee.io/b70-70"];
+z007 [label= "Z-007: Überraschung zum 2. Podcastgeburtstag!", URL="https://geschichteeuropas.podigee.io/b95-95"];
+z008 [label= "Z-008: schwarze0fm entwickelt sich weiter", URL="https://geschichteeuropas.podigee.io/b107-107"];
+z009 [label= "Z-009: Sonderreihe zur Hanse mit dem EHM & der FGHO!", URL="https://geschichteeuropas.podigee.io/b112-112"];
+z010 [label= "Z-010: Drei Monate Doppelprogramm!", URL="https://geschichteeuropas.podigee.io/b132-132"];
+z011 [label= "Z-011: Sondereihe zu Pompeji mit dem Staatlichen Museum für Archäologie in Chemnitz!", URL="https://geschichteeuropas.podigee.io/b133-133"];
+z012 [label= "Z-012: Zur Sonderausstellung \"Pompeji & Herculaneum\" im Staatlichen Museum für Archäologie Chemnitz", URL="https://geschichteeuropas.podigee.io/b137-137"];
+z013 [label= "Z-013: Get-Together 2 - Podcasting Booglaoo!", URL="https://geschichteeuropas.podigee.io/b151-151"];
+z014 [label= "Z-014: Jahresrückblick 2022", URL="https://geschichteeuropas.podigee.io/b152-152"];
+z015 [label= "Z-015: Sonderreihe zum LVR-Projekt \"geSCHICHTEN Rheinisches Revier\"!", URL="https://geschichteeuropas.podigee.io/b162-162"];
+z016 [label= "Z-016: Bugfix #2", URL="https://geschichteeuropas.podigee.io/b170-170"];
+z017 [label= "Z-017: Eindrücke vom Workshop \"Auslandskorrespondent:innen & Journalismus 2023\" [HSU d. Bundeswehr Hamburg]", URL="https://geschichteeuropas.podigee.io/b185-185"];
+z018 [label= "Z-018: Sonderfolgen zur Tagung \"Die Modernität von 1848/49\"!", URL="https://geschichteeuropas.podigee.io/b186-186"];
+z019 [label= "Z-019: Deine Stimme für Geschichte Europas beim Deutschen Podcast-Preis 2023!", URL="https://geschichteeuropas.podigee.io/b189-189"];
+z020 [label= "Z-020: Sonderfolgen mit dem Otto-Lilienthal-Museum Anklam!", URL="https://geschichteeuropas.podigee.io/t193-193"];
+z021 [label= "Z-021: Der 3. Podcast-Geburtstag!", URL="https://geschichteeuropas.podigee.io/b216-216"];
+z022 [label= "Z-022: Sonderreihe zu \"Tell me more - Bilder erzählen Geschichten\" im Stadtmuseum Trier!", URL="https://geschichteeuropas.podigee.io/t233-233"];
+z023 [label= "Z-023: Sonderreihe zur (süd)osteuropäischen Geschichte mit der Universität Leipzig!", URL="https://geschichteeuropas.podigee.io/b245-245"];
+z024 [label= "Z-024: Get-together 3: Der Übungsplatz der reformierten Podcast-Druiden", URL="https://geschichteeuropas.podigee.io/b277-277"];
+z025 [label= "Z-025: Jahresrückblick 2023", URL="https://geschichteeuropas.podigee.io/b280-280"];
+z026 [label= "Z-026: Goodbye, Auf den Tag genau!", URL="https://geschichteeuropas.podigee.io/b297-297"];
+z027 [label= "Z-027: ACH! Schade, das war's!", URL="https://geschichteeuropas.podigee.io/b308-308"];
+z028 [label= "Z-028: Ankündigung der Sonderreihe „Kirche in Wandel: Integration von Flüchtlingen und Vertriebenen (1945-1963)\"", URL="https://geschichteeuropas.podigee.io/b310-310"];
+z029 [label= "Z-029: Ankündigung der Sonderreihe \"Armut und Verzicht in der Vormoderne\" mit der Univ. Potsdam!", URL="https://geschichteeuropas.podigee.io/b313-313"];
+z030 [label= "Z-030: Tag der Archäologie an der LVR-Außenstelle Titz am 08.06.2024", URL="https://geschichteeuropas.podigee.io/b324-324"];
+z031 [label= "Z-031: Der 4. Podcast-Geburtstag - mit neuem Veröffentlichungsrhythmus!", URL="https://geschichteeuropas.podigee.io/b353-353"];
+z032 [label= "Z-032: Spenden-Dank!", URL="https://geschichteeuropas.podigee.io/b377-377"];
+z033 [label= "Z-033: Sonderserie \"Rechtsextremismus in Deutschland nach 1945\"", URL="https://geschichteeuropas.podigee.io/b402-402"];
+z034 [label= "Z-034: Sonderreihe zur studentischen Tagung \"Was bleibt? Erinnerung in Ost- und Südosteuropa\" an der Univ. Mainz!", URL="https://geschichteeuropas.podigee.io/b413-413"];
+z035 [label= "Z-035: Christian Lindner und mein Redaktionsplan fliegen im hohen Bogen aus dem Fenster", URL="https://geschichteeuropas.podigee.io/b424-424"];
+z001->z002->z003->z004->z005->z006->z007->z008->z009->z010->z011->z012->z013->z014->z015->z016->z017->z018->z019->z020->z021->z022->z023->z024->z025->z026->z027->z028->z029->z030->z031->z032->z033->z034->z035[style=invis];
+}
+}
