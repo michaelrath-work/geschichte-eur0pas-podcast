@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-14|
-|date of generation of this list|2024-12-14|
+|podcast last build|2024-12-17|
+|date of generation of this list|2024-12-17|
 
 <a id="categories"></a>
 ## Categories
@@ -36,13 +36,13 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |P| [P: Nationalismus und Imperialismus (1849-1914)](#category-P) | 9 | P: Nationalismus und Imperialismus |
 |Q| [Q: 1. Weltkrieg (1914-1918)](#category-Q) | 2 | Q: Erster Weltkrieg |
 |R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 16 | R: Zwischenkriegszeit |
-|S| [S: 2. Weltkrieg (1939-1945)](#category-S) | 19 | S: Zweiter Weltkrieg |
+|S| [S: 2. Weltkrieg (1939-1945)](#category-S) | 20 | S: Zweiter Weltkrieg |
 |T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 23 | T: Kalter Krieg und Europäische Einigung<br>T: Kalter Krieg und europäische Einigung |
 |U| [U: Nach dem Kalten Krieg (1990-)](#category-U) | 3 | U: Nach dem Kalten Krieg |
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 172 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 173 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
 
@@ -349,6 +349,7 @@ Organic categories
 |[S-016: D-Day: Die allierte Landung in der Normandie (1944), mit Dr. Peter Lieb](https://geschichteeuropas.podigee.io/326-326)|326|82:51|2024-06-03|D-Day, Frankreich, Neuere und neueste Geschichte, Normandie, Operation Overlord, Westeuropa, Zweiter Weltkrieg|
 |[S-017: Operation Walküre - Das Attentat auf Hitler am 20. Juli 1944, mit Dr. Christopher Dowe](https://geschichteeuropas.podigee.io/348-348)|348|78:55|2024-07-15|20. Jahrhundert, 20. Juli 1944, Adolf Hitler, Attentat, Deutschland, Neuere und neueste Geschichte, Operation Walküre, Stauffenberg, Wolfsschanze|
 |[S-018: Wehrmachtsdeserteure, mit Robert Parzer](https://geschichteeuropas.podigee.io/65-65)|065|65:35|2022-01-17|2. Weltkrieg, 20. Jahrhundert, Desertion, Deutschland, Neuere und neueste Geschichte, Wehrmacht|
+|[S-020: Die Regierung Dönitz - NS-Deutschland nach Hitlers Suizid (1945), mit Dr. John Zimmermann](https://geschichteeuropas.podigee.io/435-435)|435|52:26|2024-12-16|Adolf Hitler, Deutschland, Kapitulation, Karl Dönitz, Kriegsende, NS-Deutschland, Zeitgeschichte|
 
 
 <a id="category-T"></a>
@@ -625,6 +626,7 @@ Organic categories
 |[Y-113: Hans Proppe, Farbentheorie als Gedicht (1947)](https://geschichteeuropas.podigee.io/t154-154)|154|01:53|2023-01-08|20. Jahrhundert, Deutschland, Farbtheorie, Gedicht, Hans Proppe, Neuere und neueste Geschichte, Quelle, Trier, Zeitgeschichte|
 |[Y-114: Präambel des Grundgesetzes für die Bundesrepublik Deutschland (1949)](https://geschichteeuropas.podigee.io/t380-380)|380|01:55|2024-09-15|Deutschland, Grundgesetz, Quelle, Zeitgeschichte|
 |[Y-115: Die Präambel der ungarischen Verfassung (1949)](https://geschichteeuropas.podigee.io/t51-51)|051|02:15|2021-10-25|20. Jahrhundert, Kalter Krieg, Osteuropa, Quelle, Ungarn, Zeitgeschichte|
+|[Y-116: Erklärung [zur] Niederlage Deutschlands und der Übernahme der obersten [Regierungsgewalt] (1945)](https://geschichteeuropas.podigee.io/t434-434)|434|04:42|2024-12-15|Alliierter Kontrollrat, Deutschland, Kapitulation, Kriegsende, Quelle, Zeitgeschichte, Zweiter Weltkrieg|
 |[Y-116: Martin Schilling, Bericht zum Bau von Notkirchen (1950)](https://geschichteeuropas.podigee.io/t349-349)|349|01:30|2024-07-18|Deutschland, Martin Schilling, Notkirchen, Quelle, Zeitgeschichte|
 |[Y-117: Brief des Pfarrers Nolte an das Bischöfliche Generalvikariat Hildesheim (1951)](https://geschichteeuropas.podigee.io/t327-327)|327|03:55|2024-06-06|Deutschland, Heimatvertriebene, Hildesheim, Katholizismus, Maria in der Ferne, Quelle, Wallfahrt|
 |[Y-118: Erklärung des Ausnahmezustands im Sowjetischen Sektor Berlins (1953)](https://geschichteeuropas.podigee.io/t213-213)|213|01:47|2023-07-22|Berlin, Deutschland, Quelle, Volksaufstand in der DDR 1953, Zeitgeschichte|
