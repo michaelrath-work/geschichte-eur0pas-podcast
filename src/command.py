@@ -8,7 +8,13 @@ from sqlalchemy.orm import sessionmaker
 
 from db_datamodel import Base, Category, DB_NAME, Episode
 import rss_datamodel
-from rss_datamodel import analyse_channel_data, download_current_feed, poor_mans_csv_parser, read_feed
+from rss_datamodel import (
+    analyse_channel_data,
+    download_current_feed,
+    poor_mans_csv_parser,
+    read_feed
+)
+import episode_links
 
 THIS_FILE_FOLDER = pathlib.Path(__file__).parent.resolve()
 
@@ -100,7 +106,7 @@ def _generate_graphviz(session):
       f'  bgcolor="lightyellow"'
     ]
 
-  def split_title(s: str):
+  def split_title(s: str) -> typing.Tuple[str, str]:
     """
     in: A-020: Der Dillenburger Wilhelmsturm: Geschichte - Gegenwart - Zukunft, mit Simon Dietrich [Oranienstadt Dillenburg]
 
@@ -115,9 +121,6 @@ def _generate_graphviz(session):
   category = None
   nodes_in_cluster = []
   sql_stmt = select(Category, Episode).join(Episode.category).order_by(Category.marker, Episode.title)
-  # for idx, r in enumerate(session.execute(sql_stmt)):
-  #   pprint.pprint(f'{idx}:: {r.Category.marker}:{r.Category.currated_name} -> {r.Episode.title}')
-  # # return
   for idx, r in enumerate(session.execute(sql_stmt)):
     running_category = r.Category.marker
 
@@ -157,4 +160,11 @@ def step_export():
   Session = sessionmaker(bind=engine)
   session = Session()
 
-  _generate_graphviz(session)
+  if False:
+    _generate_graphviz(session)
+
+  if False:
+    sql_stmt = select(Episode).order_by(Episode.title)
+    for idx, r in enumerate(session.execute(sql_stmt)):
+      linked = episode_links.get_linked_episodes(r.Episode.link)
+      pprint.pprint(f'{r.Episode.title} -> {linked}')

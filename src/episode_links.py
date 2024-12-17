@@ -1,5 +1,6 @@
 import pprint
 import re
+import typing
 import urllib.request
 
 
@@ -24,7 +25,6 @@ def parse_page_content(content: str):
             else:
                 line_nr = len(lines)
         line_nr +=1
-    # pprint.pprint(episode_link_lines)
     return episode_link_lines
 
 
@@ -34,9 +34,21 @@ def extract_episode_link(html_line: str):
         return match.group(1)
     return None
 
+
+def get_linked_episodes(url: str) -> typing.List[str]:
+    """
+    in: 'https://geschichteeuropas.podigee.io/425-425'
+
+    out: ['https://geschichteeuropas.podigee.io/231-231', 'https://geschichteeuropas.podigee.io/257-257']
+    """
+    content = get_html_page(url)
+    lines = parse_page_content(content)
+    return [extract_episode_link(l) for l in lines]
+
+
 def _dummy_get_content():
     with open('dummy.html', 'r') as f:
-            return f.read()
+        return f.read()
 
 def main():
     content = get_html_page('https://geschichteeuropas.podigee.io/425-425')
