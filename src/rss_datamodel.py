@@ -153,9 +153,16 @@ def analyse_channel_data(xml_channel: ET.Element, predefined_categories: typing.
         if keywords_raw is not None:
             keywords = keywords_raw.split(',')
 
+
+        category = Category.adjust(predefined_categories, organic_category)
+
+        if title.text.startswith('T-019'):
+            pprint.pprint(f'TODO(Micha): invalid organic category format (itunes:subtitle): "{title.text}" != "{organic_category}"')
+            category=Category.adjust(predefined_categories, 'T')
+
         episodes.append(
             Episode(
-                category=Category.adjust(predefined_categories, organic_category),
+                category=category,
                 title=title.text or '???',
                 number=episode_number,
                 publication_date=publication_date,
@@ -186,5 +193,5 @@ def download_current_feed() -> pathlib.Path:
     output_file_path = output_dir / 'rss_feed.xml'
 
     # with open(output_file_path, 'w') as fd:
-    #     fd.writelines(response.content.decode('utf-8'))
+        # fd.writelines(response.content.decode('utf-8'))
     return output_file_path

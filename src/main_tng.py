@@ -1,20 +1,37 @@
 import argparse
 import functools
 
-from command import step_bootstrap
-from sub_command_parser import SubCommandConfiguration, install_sub_commands, no_arguments, resolve_sub_command
+from command import (
+  step_bootstrap,
+  step_export
+)
+from sub_command_parser import (
+  SubCommandConfiguration,
+  install_sub_commands,
+  no_arguments,
+  resolve_sub_command
+)
 
 
 def bind_bootstrap(args: argparse.ArgumentParser):
-    return functools.partial(command_bootstrap)
+  return functools.partial(command_bootstrap)
 
 
 def command_bootstrap(args: argparse.ArgumentParser):
   step_bootstrap()
 
 
+def bind_export(args: argparse.ArgumentParser):
+  return functools.partial(command_export)
+
+
+def command_export(args: argparse.ArgumentParser):
+   step_export()
+
+
 SUB_COMMAND_CONFIG = {
     'bootstrap': SubCommandConfiguration(no_arguments, bind_bootstrap),
+    'export': SubCommandConfiguration(no_arguments, bind_export),
 }
 
 
