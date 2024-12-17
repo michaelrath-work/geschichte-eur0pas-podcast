@@ -37,13 +37,14 @@
 |Aachen | 1 | [top](#top) |
 |Abstimmung | 1 | [top](#top) |
 |Adolf Eichmann | 2 | [top](#top) |
-|Adolf Hitler | 18 | [top](#top) |
+|Adolf Hitler | 19 | [top](#top) |
 |Advent | 1 | [top](#top) |
 |Aeneas | 1 | [top](#top) |
 |Aktion T4 | 2 | [top](#top) |
 |Albigenser | 1 | [top](#top) |
 |Alexandre Yersin | 1 | [top](#top) |
 |Alfred Wegener | 1 | [top](#top) |
+|Alliierter Kontrollrat | 1 | [top](#top) |
 |Alltag | 3 | [top](#top) |
 |Alltagsgeschichte | 2 | [top](#top) |
 |Alltagskultur | 1 | [top](#top) |
@@ -169,7 +170,7 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 247 | [top](#top) |
+|Deutschland | 249 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
@@ -398,7 +399,9 @@
 |Kaiser Friedrich II. | 1 | [top](#top) |
 |Kalter Krieg | 13 | [top](#top) |
 |Kanalinseln | 1 | [top](#top) |
+|Kapitulation | 2 | [top](#top) |
 |Kardinal Frings | 1 | [top](#top) |
+|Karl Dönitz | 1 | [top](#top) |
 |Karl Marx | 2 | [top](#top) |
 |Karl XII | 1 | [top](#top) |
 |Karl XII. | 5 | [top](#top) |
@@ -439,7 +442,7 @@
 |Kreuzzug von Damiette | 1 | [top](#top) |
 |Kreuzzüge | 6 | [top](#top) |
 |Krieg | 3 | [top](#top) |
-|Kriegsende | 1 | [top](#top) |
+|Kriegsende | 3 | [top](#top) |
 |Kriegsführung | 1 | [top](#top) |
 |Kriegsgefangenschaft | 3 | [top](#top) |
 |Kriegsverbrechen | 6 | [top](#top) |
@@ -529,7 +532,7 @@
 |München | 12 | [top](#top) |
 |NATO | 2 | [top](#top) |
 |NS-Aufarbeitung | 1 | [top](#top) |
-|NS-Deutschland | 12 | [top](#top) |
+|NS-Deutschland | 13 | [top](#top) |
 |NS-Diktatur | 5 | [top](#top) |
 |NS-Ideologie | 1 | [top](#top) |
 |NS-Medizin | 2 | [top](#top) |
@@ -642,7 +645,7 @@
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 166 | [top](#top) |
+|Quelle | 167 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
@@ -870,11 +873,11 @@
 |Zar Nikolaus II. | 2 | [top](#top) |
 |Zeche Zollverein | 1 | [top](#top) |
 |Zeit | 2 | [top](#top) |
-|Zeitgeschichte | 129 | [top](#top) |
+|Zeitgeschichte | 131 | [top](#top) |
 |Zeitungen | 1 | [top](#top) |
 |Zeitzone | 1 | [top](#top) |
 |Zentrum (Partei) | 1 | [top](#top) |
-|Zweiter Weltkrieg | 7 | [top](#top) |
+|Zweiter Weltkrieg | 8 | [top](#top) |
 |Zünfte | 1 | [top](#top) |
 |Zürich | 1 | [top](#top) |
 |evangelische Kirche | 1 | [top](#top) |
