@@ -120,7 +120,7 @@
 |Braunkohleabbau | 2 | [top](#top) |
 |Braunkohlebergbau | 1 | [top](#top) |
 |Braunkohlenbergbau | 1 | [top](#top) |
-|Braunkohletagebau | 7 | [top](#top) |
+|Braunkohletagebau | 8 | [top](#top) |
 |Brief | 1 | [top](#top) |
 |Bronzezeit | 1 | [top](#top) |
 |Buchenwald | 1 | [top](#top) |
@@ -170,7 +170,7 @@
 |Deutscher Herbst | 1 | [top](#top) |
 |Deutscher Podcastpreis | 1 | [top](#top) |
 |Deutsches Kaiserreich | 2 | [top](#top) |
-|Deutschland | 249 | [top](#top) |
+|Deutschland | 250 | [top](#top) |
 |Die Pest | 3 | [top](#top) |
 |Dietrich Bonhoeffer | 1 | [top](#top) |
 |Digitalisierung | 2 | [top](#top) |
@@ -470,7 +470,7 @@
 |Landtag | 1 | [top](#top) |
 |Landwirtschaft | 1 | [top](#top) |
 |Languedoc | 1 | [top](#top) |
-|Lausitz | 1 | [top](#top) |
+|Lausitz | 2 | [top](#top) |
 |Lebensreform | 1 | [top](#top) |
 |Lebensreformbewegung | 1 | [top](#top) |
 |Leipzig | 2 | [top](#top) |
@@ -645,7 +645,7 @@
 |Prozess | 1 | [top](#top) |
 |Public History | 4 | [top](#top) |
 |Punischer Krieg | 1 | [top](#top) |
-|Quelle | 167 | [top](#top) |
+|Quelle | 168 | [top](#top) |
 |Quellen | 1 | [top](#top) |
 |Quiz | 1 | [top](#top) |
 |Radio | 1 | [top](#top) |
@@ -733,6 +733,7 @@
 |Sonderreihe | 2 | [top](#top) |
 |Sonderserie | 5 | [top](#top) |
 |Sophie Scholl | 1 | [top](#top) |
+|Sorben | 1 | [top](#top) |
 |Sowjetunion | 22 | [top](#top) |
 |Sozialbau | 1 | [top](#top) |
 |Sozialdemokratie | 2 | [top](#top) |
@@ -873,7 +874,7 @@
 |Zar Nikolaus II. | 2 | [top](#top) |
 |Zeche Zollverein | 1 | [top](#top) |
 |Zeit | 2 | [top](#top) |
-|Zeitgeschichte | 131 | [top](#top) |
+|Zeitgeschichte | 132 | [top](#top) |
 |Zeitungen | 1 | [top](#top) |
 |Zeitzone | 1 | [top](#top) |
 |Zentrum (Partei) | 1 | [top](#top) |

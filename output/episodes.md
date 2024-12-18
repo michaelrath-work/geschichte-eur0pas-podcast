@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-17|
-|date of generation of this list|2024-12-17|
+|podcast last build|2024-12-18|
+|date of generation of this list|2024-12-18|
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |G| [G: Römische Antike](#category-G) | 12 | G: Römische Antike |
 |I| [I: Das Hochmittelalter (1000-1250)](#category-I) | 12 | I: Das Hochmittelalter |
 |J| [J: Das späte Mittelalter (1250-1450)](#category-J) | 1 | J: Das Spätmittelalter |
-|K| [K: Erste europäische Expansion](#category-K) | 1 | Kalter Krieg und Europäische Einigung |
+|K| [K: Erste europäische Expansion](#category-K) | 0 |  |
 |M| [M: Reformation und Glaubenskriege (1517-1648)](#category-M) | 2 | M: Reformation und Glaubenskriege |
 |N| [N: Absolutismus und Aufklärung (1648-1789)](#category-N) | 14 | N: Absolutimus und Aufklärung<br>N: Absolutismus und Aufklärung |
 |O| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 | O: Das Zeitalter der Revolutionen<br>O: Zeitalter der Revolutionen |
@@ -37,12 +37,12 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |Q| [Q: 1. Weltkrieg (1914-1918)](#category-Q) | 2 | Q: Erster Weltkrieg |
 |R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 16 | R: Zwischenkriegszeit |
 |S| [S: 2. Weltkrieg (1939-1945)](#category-S) | 20 | S: Zweiter Weltkrieg |
-|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 23 | T: Kalter Krieg und Europäische Einigung<br>T: Kalter Krieg und europäische Einigung |
+|T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 24 | T<br>T: Kalter Krieg und Europäische Einigung<br>T: Kalter Krieg und europäische Einigung |
 |U| [U: Nach dem Kalten Krieg (1990-)](#category-U) | 3 | U: Nach dem Kalten Krieg |
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 173 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 174 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
 
@@ -207,7 +207,6 @@ Organic categories
 
 |title |episode | duration (mm:ss) | publication date| keywords |
 |:---|:---:|---:|---:|:---|
-|[T-019: Die RAF und der "Deutsche Herbst" (1977), mit Kevin Lenk](https://geschichteeuropas.podigee.io/123-123)|123|68:52|2022-10-06|20. Jahrhundert, Andreas Baader, Deutscher Herbst, Deutschland, Hanns Martin Schleyer, Helmut Schmidt, Rote Armee Fraktion, Stuttgart-Stammheim, Terrorismus, Zeitgeschichte|
 
 
 <a id="category-M"></a>
@@ -358,8 +357,9 @@ Organic categories
 [top](#top)
 
 Organic categories
-1. *T: Kalter Krieg und Europäische Einigung*
-2. *T: Kalter Krieg und europäische Einigung*
+1. *T*
+2. *T: Kalter Krieg und Europäische Einigung*
+3. *T: Kalter Krieg und europäische Einigung*
 
 |title |episode | duration (mm:ss) | publication date| keywords |
 |:---|:---:|---:|---:|:---|
@@ -383,6 +383,7 @@ Organic categories
 |[T-016: Sowjetische Aufbruchvisionen zum Ende des Kalten Kriegs, mit Prof. Dr. Susanne Schattenberg](https://geschichteeuropas.podigee.io/209-209)|209|70:38|2023-06-26|20. Jahrhundert, Entspannungspolitik, Gasexporte, Kalter Krieg, Natalja Gorbanewskaja, Neue Ostpolitik, Nikita Chruschtschow, Osteuropa, Sowjetunion, Zeitgeschichte|
 |[T-017: Deutsch-deutsche Umweltpolitik im Kalten Krieg (1970-1989), mit Sophie Lange](https://geschichteeuropas.podigee.io/54-54)|054|65:30|2021-11-15|20. Jahrhundert, DDR, Deutschland, Kalter Krieg, Umwelt, Zeitgeschichte|
 |[T-018: Das Münchener Olympia-Attentat (1972), mit Bernhard Purin](https://geschichteeuropas.podigee.io/109-109)|109|28:44|2022-09-05|20. Jahrhundert, Deutschland, München, Nahostkonflikt, Olympia-Attentat 1972, Olympische Spiele 1972, Zeitgeschichte|
+|[T-019: Die RAF und der "Deutsche Herbst" (1977), mit Kevin Lenk](https://geschichteeuropas.podigee.io/123-123)|123|68:52|2022-10-06|20. Jahrhundert, Andreas Baader, Deutscher Herbst, Deutschland, Hanns Martin Schleyer, Helmut Schmidt, Rote Armee Fraktion, Stuttgart-Stammheim, Terrorismus, Zeitgeschichte|
 |[T-020: Flucht nach Österreich im Kalten Krieg, mit Sarah Knoll](https://geschichteeuropas.podigee.io/67-67)|067|86:58|2022-01-31|20. Jahrhundert, DDR, Europa, Flucht, Kalter Krieg, Osteuropa, Ungarischer Volksaufstand 1956, Ungarn, Wende, Zeitgeschichte, Österreich|
 |[T-021: Kirchenbau in der späten DDR-Zeit, mit Dr. Karin Berkemann [AG Kirche und Kulturerbe, Univ. Greifswald]](https://geschichteeuropas.podigee.io/229-229)|229|69:43|2023-09-05|20. Jahrhundert, DDR, Deutschland, Erinnerungskultur, Kirchen, Kirchenbau, Ostdeutschland, Religion, Stadtplanung, Zeitgeschichte|
 |[T-022: Die Auflösung der Sowjetunion (1991), mit Prof. Dr. Susanne Schattenberg](https://geschichteeuropas.podigee.io/60-60)|060|76:05|2021-12-27|20. Jahrhundert, Europa, Kalter Krieg, Michail Gorbatschow, Osteuropa, Quelle, Russland, Sowjetunion, Zeitgeschichte|
@@ -666,6 +667,7 @@ Organic categories
 |[Y-148: Tweets zum 30. Jahrestag der #Wiedervereinigung (2020)](https://geschichteeuropas.podigee.io/t247-247)|247|02:34|2023-10-23|Deutsche Wiedervereinigung, Deutschland, Quelle, Social Media, Twitter, Zeitgeschichte|
 |[Y-149: @Krieg7071 twittert über die Kaiserproklamation (2021)](https://geschichteeuropas.podigee.io/t17-17)|017|07:22|2021-02-01|19. Jahrhundert, Anton von Werner, Deutsch-Französischer Krieg, Deutschland, Frankreich, Neuere und neueste Geschichte, Otto von Bismarck, Quelle, Westeuropa, Wilhelm I.|
 |[Y-150: Auszüge aus dem "Wirtschafts- und Strukturprogramms" der Zukunftsagentur Rheinisches Revier (2021)](https://geschichteeuropas.podigee.io/t392-392)|392|05:13|2024-10-09|Deutschland, Quelle, Rheinisches Revier, Zeitgeschichte|
+|[Y-151: Aus "Jubel und Schmerz der Mandelkrähe" des sorbischen Schriftstellers Jurij Koch über Lacoma bei Cottbus (1991)](https://geschichteeuropas.podigee.io/t436-436)|436|01:49|2024-12-18|Braunkohletagebau, Deutschland, Lausitz, Quelle, Sorben, Zeitgeschichte|
 |[Y-151: klios_spiegel, Was ist eine historische Quelle? (2022)](https://geschichteeuropas.podigee.io/t175-175)|175|01:23|2023-03-20|Europa, Geschichtswissenschaft, Instagram, Quelle, Social Media, Zeitgeschichte|
 |[Y-152: Eigenbeschreibung des Projekts "geSCHICHTEN Rheinisches Revier" (2022)](https://geschichteeuropas.podigee.io/t165-165)|165|01:54|2023-02-19|Deutschland, Quelle, Rheinisches Revier, geSCHICHTEN|
 |[Y-153: Entwurf eines Gesetzes zur Beschleunigung des Braunkohleausstiegs im Rheinischen Revier (2022)](https://geschichteeuropas.podigee.io/t246-246)|246|05:32|2023-10-22|Braunkohle, Deutschland, Energiewende, Gesetz, Quelle, Rheinisches Revier, Zeitgeschichte|
