@@ -1,6 +1,6 @@
 import pathlib
 from typing import List
-from sqlalchemy import Column, ForeignKey, Integer, String
+from sqlalchemy import Column, ForeignKey, Integer, String, Table
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, Mapped, mapped_column
 
@@ -8,6 +8,17 @@ DB_NAME = pathlib.Path(__file__) / '..' / '..' / 'db' / 'geschichte_eur0pas.db' 
 
 
 Base = declarative_base()
+
+
+episode_2_episode = Table(
+    'episode_2_episode', Base.metadata,
+    Column('from_id', Integer,
+           ForeignKey('episode.id'),
+           primary_key=True),
+    Column('to_id', Integer,
+           ForeignKey('episode.id'),
+           primary_key=True)
+)
 
 
 class Episode(Base):
@@ -22,6 +33,12 @@ class Episode(Base):
 
   category_id: Mapped[int] = mapped_column(ForeignKey('category.id'))
   category: Mapped['Category'] = relationship(back_populates='episodes')
+
+  linked_episodes = relationship(
+    'Episode',
+    secondary=episode_2_episode,
+    primaryjoin=id==episode_2_episode.c.from_id,
+    secondaryjoin=id==episode_2_episode.c.to_id)
 
 
 class Category(Base):

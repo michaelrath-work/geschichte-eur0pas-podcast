@@ -175,17 +175,40 @@ def step_export():
 
 def step_xlink():
     LOGGER.info('XLINK')
-    engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=False)
+    engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=True)
     Base.metadata.create_all(engine)
 
     Session = sessionmaker(bind=engine)
     session = Session()
 
+    # stmt = select(Episode).filter(Episode.link == 'https://geschichteeuropas.podigee.io/74-74')
+    # r = session.execute(stmt).fetchone()
+    # pprint.pprint(r.Episode.title)
+    # return
+
     category_stmt = select(Category).order_by(Category.marker)
     for idx, r in enumerate(session.execute(category_stmt)):
         LOGGER.info(f'xlink for {Category.marker}')
         episodes_in_category_stmt = select(Category, Episode).join(Episode.category).filter(Category.marker == r.Category.marker).order_by(Episode.title)
-        for idx2, r2 in enumerate(session.execute(episodes_in_category_stmt)):
-            pprint.pprint(r2.Episode.title)
+        for _, r2 in enumerate(session.execute(episodes_in_category_stmt)):
+            links = episode_links.get_linked_episodes(r2.Episode.link)
+            pprint.pprint(f'{r2.Episode.title} is linked to {links}')
+            db_linked_episodes = []
+            for l in links:
+                pprint.pprint(f'Search for |{l}|')
+                episodes_stmt = select(Episode).filter(Episode.link == l)
+                try:
+                    a = session.execute(episodes_stmt).fetchone()
+                    if a:
+                        pprint.pprint(f'add {a.Episode.id} {a.Episode.title}')
+                        db_linked_episodes.append(a)
+                except Exception as e:
+                    pprint.pprint(f'miss {e}')
+                    pass
+            r2.Episode.episodes = db_linked_episodes
+            pprint.pprint(r2.Episode.episodes)
+            session.add_all([r2.Episode])# + db_linked_episodes)
+            session.commit()
+            break
 
         break
