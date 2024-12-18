@@ -9,7 +9,6 @@ import requests
 import xml.etree.ElementTree as ET
 
 from rss_datamodel import (
-
     AnalysisResult,
     Category,
     Episode,
@@ -206,24 +205,13 @@ def format_keywords_as_markdown(p: pathlib.Path,
 
 def download_current_feed() -> pathlib.Path:
     response = requests.get(URL_FEED_MP3)
-    output_dir = THIS_FILE_FOLDER / '..' / 'data'
+    output_dir = THIS_FILE_FOLDER / '..' / 'rss'
     output_dir.mkdir(parents=True, exist_ok=True)
-    output_file_path = output_dir / 'data.xml'
+    output_file_path = output_dir / 'rss_feed.xml'
 
     with open(output_file_path, 'w') as fd:
         fd.writelines(response.content.decode('utf-8'))
     return output_file_path
-
-
-# def poor_mans_csv_parser(p: pathlib.Path) -> typing.List[PredefinedCategory]:
-#     r: typing.List[PredefinedCategory] = []
-#     with open(p, 'r') as fd:
-#         for idx, line in enumerate(fd.readlines()):
-#             if idx == 0:
-#                 continue
-#             column_values = [l.strip() for l in line.split(',')]
-#             r.append(PredefinedCategory(column_values[0], column_values[1]))
-#     return r
 
 
 def img_to_link_html(url: str, img: str, width=200) -> typing.List[str]:
