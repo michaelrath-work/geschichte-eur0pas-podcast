@@ -175,40 +175,34 @@ def step_export():
 
 def step_xlink():
     LOGGER.info('XLINK')
-    engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=True)
+    engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=False)
     Base.metadata.create_all(engine)
 
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    # stmt = select(Episode).filter(Episode.link == 'https://geschichteeuropas.podigee.io/74-74')
-    # r = session.execute(stmt).fetchone()
-    # pprint.pprint(r.Episode.title)
-    # return
+    def categories_ordered_by_marker(session) -> typing.List[Category]:
+        stmt = select(Category).order_by(Category.marker)
+        return [row.Category for row in session.execute(stmt)]
 
-    category_stmt = select(Category).order_by(Category.marker)
-    for idx, r in enumerate(session.execute(category_stmt)):
-        LOGGER.info(f'xlink for {Category.marker}')
-        episodes_in_category_stmt = select(Category, Episode).join(Episode.category).filter(Category.marker == r.Category.marker).order_by(Episode.title)
-        for _, r2 in enumerate(session.execute(episodes_in_category_stmt)):
-            links = episode_links.get_linked_episodes(r2.Episode.link)
-            pprint.pprint(f'{r2.Episode.title} is linked to {links}')
-            db_linked_episodes = []
-            for l in links:
-                pprint.pprint(f'Search for |{l}|')
-                episodes_stmt = select(Episode).filter(Episode.link == l)
-                try:
-                    a = session.execute(episodes_stmt).fetchone()
-                    if a:
-                        pprint.pprint(f'add {a.Episode.id} {a.Episode.title}')
-                        db_linked_episodes.append(a)
-                except Exception as e:
-                    pprint.pprint(f'miss {e}')
+    def episodes_ordered_by_category(c: Category) -> typing.List[Episode]:
+        stmt = select(Category, Episode).join(Episode.category).filter(Category.marker == c.marker).order_by(Episode.title)
+        return [row.Episode for row in session.execute(stmt)]
+
+    for _, db_category in enumerate(categories_ordered_by_marker(session)):
+        # LOGGER.info(f'== Category {db_category.id} {db_category.currated_name}')
+        for _, db_episode in enumerate(episodes_ordered_by_category(db_category)):
+            LOGGER.info(f'  Episode {db_episode.number}, {db_episode.title} link {db_episode.link}')
+            raw_links: typing.List[str] = episode_links.get_linked_episodes(db_episode.link)
+            # pprint.pprint(f'{db_episode.title} is linked to {raw_links}')
+            for link_str in raw_links:
+                stmt = select(Episode).filter(Episode.link == link_str)
+                db_linked_episode = session.execute(stmt).fetchone()
+                if db_linked_episode:
+                    LOGGER.info(f'   {db_episode.link} => {db_linked_episode.Episode.number} {db_linked_episode.Episode.title} link {db_linked_episode.Episode.link}')
                     pass
-            r2.Episode.episodes = db_linked_episodes
-            pprint.pprint(r2.Episode.episodes)
-            session.add_all([r2.Episode])# + db_linked_episodes)
-            session.commit()
-            break
+                else:
+                    LOGGER.warning(f'Linked episode not found "{db_episode.link}" => "{link_str}"')
 
+            break
         break
