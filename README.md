@@ -19,12 +19,21 @@ Changes are marked, i.e. when there are differences between **organic** (the ori
 An example output (maybe out of date) is shown here [output/episodes.md](output/episodes.md)
 
 
-## How to use
+## How to use (legacy)
 
 1. Execute `python3 src/main.py`
 2. Output is written to this location [Episodes (output/episodes.md)](output/episodes.md)
 
+## How to use (TNG)
+
+1. `python3 src/main_tng.py bootstrap`
+2. `python3 src/main_tng.py xlink`
+3. `python3 src/main_tng.py export`
+4. temporary: `dot -Tsvg explore/episodes.dot -o explore/episodes.svg` see [Readme](explore/Readme.md)
+
 ## TODO
+
+Experimental (currently insane, propably not usable) [episode link visualization](explore/episodes.svg)
 
 
 ## References / Links

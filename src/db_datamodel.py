@@ -10,7 +10,7 @@ DB_NAME = pathlib.Path(__file__) / '..' / '..' / 'db' / 'geschichte_eur0pas.db' 
 Base = declarative_base()
 
 
-episode_2_episode = Table(
+Episode_2_episode = Table(
     'episode_2_episode', Base.metadata,
     Column('from_id', Integer,
            ForeignKey('episode.id'),
@@ -36,9 +36,9 @@ class Episode(Base):
 
   linked_episodes = relationship(
     'Episode',
-    secondary=episode_2_episode,
-    primaryjoin=id==episode_2_episode.c.from_id,
-    secondaryjoin=id==episode_2_episode.c.to_id)
+    secondary=Episode_2_episode,
+    primaryjoin=id==Episode_2_episode.c.from_id,
+    secondaryjoin=id==Episode_2_episode.c.to_id)
 
 
 class Category(Base):
