@@ -33,7 +33,7 @@ An example output (maybe out of date) is shown here [output/episodes.md](output/
 
 ## TODO
 
-Experimental (currently insane, propably not usable) [episode link visualization](explore/episodes.svg)
+Experimental (currently insane, probably not usable) [episode link visualization](explore/episodes.svg)
 
 
 ## References / Links
