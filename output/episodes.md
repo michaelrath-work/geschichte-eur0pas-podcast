@@ -14,15 +14,15 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-18|
-|date of generation of this list|2024-12-18|
+|podcast last build|2024-12-23|
+|date of generation of this list|2024-12-24|
 
 <a id="categories"></a>
 ## Categories
 
 | id  | curated name | #episodes | organic name |
 |:---:|:-------------|:---------:|:-------------|
-|A| [A: Epochenübergreifende Themen](#category-A) | 47 | A - Epochenübergreifende Themen<br>A: Epochenübergreifende Themen<br>A: Epochenübergreifende Überblicke<br>A; Epochenübergreifende Themen |
+|A| [A: Epochenübergreifende Themen](#category-A) | 49 | A - Epochenübergreifende Themen<br>A: Epochenübergreifende Themen<br>A: Epochenübergreifende Überblicke<br>A; Epochenübergreifende Themen |
 |B| [B: Geologische Geschichte](#category-B) | 1 | B: Geologische Geschichte |
 |C| [C: Vorgeschichte und Altsteinzeit](#category-C) | 2 | C: Vorgeschichte und Altsteinzeit |
 |D| [D: Mittel- und Jungsteinzeit](#category-D) | 2 | D: Mittel- und Jungsteinzeit |
@@ -41,8 +41,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |U| [U: Nach dem Kalten Krieg (1990-)](#category-U) | 3 | U: Nach dem Kalten Krieg |
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
-|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 33 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 174 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
+|X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 34 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
+|Y| [Y: Quellen](#category-Y) | 176 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
 
@@ -100,6 +100,7 @@ Organic categories
 |[A-030: Das Konzentrationslager Buchenwald (1937-1945), mit Dr. Michael Löffelsender](https://geschichteeuropas.podigee.io/304-304)|304|65:09|2024-04-01|Buchenwald, Deutschland, Konzentrationslager, Neuere und neueste Geschichte, Thüringen, Verbrechen, Weimar|
 |[A-030: NS-Medizin-Verbrechen im Rheinland (1933-1945) , mit Dr. Luisa Hulsrøj](https://geschichteeuropas.podigee.io/412-412)|412|45:44|2024-11-11|Deutschland, Euthanasie, NS-Medizin, NS-Verbrechen, Neuere und Neueste Geschichte, Rheinland|
 |[A-031: Neuengamme - KZ und Gedenkstätte, mit Ulrike Jensen](https://geschichteeuropas.podigee.io/103-103)|103|62:39|2022-08-22|2. Weltkrieg, 20. Jahrhundert, Deutschland, Erinnerungskultur, Hamburg, Konzentrationslager, Neuengamme, Neuere und neueste Geschichte, Zeitgeschichte|
+|[A-032: Architektur der Kontrolle: Das Konzentrationslager Sachsenhausen (1936-1945), mit Dr. Astrid Ley](https://geschichteeuropas.podigee.io/441-441)|441|102:16|2024-12-23|2. Weltkrieg, Berlin, Brandenburg, Deutschland, Konzentrationslager, Sachsenhausen|
 |[A-032: Das Konzentrationslager Flossenbürg (1938-1945), mit Lisa Herbst und Timo Saalmann](https://geschichteeuropas.podigee.io/407-407)|407|87:22|2024-10-28|Deutschland, Dietrich Bonhoeffer, Flossenbürg, KZ Flossenbürg, Konzentraionslager, Neuere und Neueste Geschichte|
 |[A-032: Trümmerfrauen (?) in Kassel, 1943-1955, mit Helke Dreier und Dr. Kerstin Wolff [Archiv der dt. Frauenbewegung]](https://geschichteeuropas.podigee.io/342-342)|342|71:22|2024-07-02|20. Jahrhundert, Deutschland, Enttrümmerung, Geschichtsmythos, Kassel, Luftkrieg, Neuere und neueste Geschichte, Trümmerfrauen, Zeitgeschichte|
 |[A-033: Deals mit Diktaturen - eine andere Geschichte der Bundesrepublik, mit Prof. Dr. Frank Bösch [C. H. Beck]](https://geschichteeuropas.podigee.io/292-292)|292|56:34|2024-02-15|20. Jahrhundert, Bundesrepublik Deutschland, Deutschland, Estado Novo, Franco-Spanien, Griechenland, Iran, Portugal, Spanien, Zeitgeschichte|
@@ -114,6 +115,7 @@ Organic categories
 |[A-043: Das Ruhrgebiet als Nachbarregion des Rheinischen Reviers, mit Prof. Dr. Stefan Berger [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/410-410)|410|69:34|2024-11-07|Deutschland, Gastarbeiter, Migration, Neuere und neueste Geschichte, Ruhrpolen, Strukturwandel, Zeitgeschichte|
 |[A-045: Das Mitteldeutsche Revier, mit Dr. Annette Schneider-Reinhardt [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/419-419)|419|69:57|2024-11-21|Braunkohle, DDR, Deutschland, Industriekultur, Mitteldeutsches Revier, Rekultivierung, Strukturbruch, Wende, Wiedervereinigung, Zeitgeschichte|
 |[A-046: Das Lausitzer Revier, mit Heidi Pinkepank und Dr. Lars Scharnholz [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/427-427)|427|95:31|2024-12-05|Braunkohleabbau, Deutschland, Lausitz, Zeitgeschichte|
+|[A-048: Die Sorben und das Lausitzer Revier, mit Dr. Jenny Hagemann [LVR geSCHICHTEN]](https://geschichteeuropas.podigee.io/437-437)|437|67:34|2024-12-19|Braunkohletagebau, Deutschland, Lausitz, Lausitzer Revier, Neuere und Neueste Geschichte, Sachsen, Sorben, Zeitgeschichte|
 
 
 <a id="category-B"></a>
@@ -486,6 +488,7 @@ Organic categories
 |[X-033: Stadt beziehungsweise Land, mit Prof. Dr. Susanne Rau [Weimarer Rendez-vous]](https://geschichteeuropas.podigee.io/387-387)|387|60:07|2024-09-28|Deutschland, Frühe Neuzeit, Land, Neuere und Neueste Geschichte, Stadt, Zeitgeschichte|
 |[X-034: Polen A und B in der postkolonialen Theorie und Popkultur, mit Jannick Piskorski](https://geschichteeuropas.podigee.io/421-421)|421|43:42|2024-11-23|Erinnerungskultur, Polen, Popkultur, Postkoloniale Theorie, Zeitgeschichte|
 |[X-035: Die Krakauer Krippentradition "Szopka" als immaterielles Kulturerbe, mit Annika Häberlein](https://geschichteeuropas.podigee.io/433-433)|433|55:30|2024-12-14|Advent, Erinnerungskultur, Krakau, Kulturerbe, Osteuropa, Polen, Tradition, Weihnachten, Zeitgeschichte|
+|[X-036: Erfahrungsberichte ehemalig kriegsgefangener Rotarmistinnen, mit Muriel Nägler](https://geschichteeuropas.podigee.io/439-439)|439|47:22|2024-12-21|Erinnerungskultur, Kriegsgefangenschaft, Neuere und neueste Geschichte, Osteuropa, Russland, Sowjetunion, Zeitgeschichte|
 
 
 <a id="category-Y"></a>
@@ -664,6 +667,7 @@ Organic categories
 |[Y-145: Helmut Kohl spricht von "blühenden Landschaften" (1990)](https://geschichteeuropas.podigee.io/t426-426)|426|06:44|2024-12-04|Blühende Landschaften, DDR, Deutschland, Helmut Kohl, Quelle, Wiedervereinigung, Wirtschaft|
 |[Y-146: Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung (2020)](https://geschichteeuropas.podigee.io/t356-356)|356|03:24|2024-07-31|Braunkohle, Deutschland, Energiewende, Gesetz, Quelle, Rheinisches Revier, Steinkohle, Zeitgeschichte|
 |[Y-147: Strukturstärkungsgesetz Kohleregionen (2020)](https://geschichteeuropas.podigee.io/t384-384)|384|03:44|2024-09-25|Deutschland, Gesetz, Quelle, Strukturförderung, Zeitgeschichte|
+|[Y-148: Harry Naujoks, Mein Leben im KZ Sachsenhausen (1987)](https://geschichteeuropas.podigee.io/t440-440)|440|04:06|2024-12-22|Berlin, Deutschland, Konzentrationslager, Neuere und Neueste Geschichte, Quelle, Sachenhausen|
 |[Y-148: Tweets zum 30. Jahrestag der #Wiedervereinigung (2020)](https://geschichteeuropas.podigee.io/t247-247)|247|02:34|2023-10-23|Deutsche Wiedervereinigung, Deutschland, Quelle, Social Media, Twitter, Zeitgeschichte|
 |[Y-149: @Krieg7071 twittert über die Kaiserproklamation (2021)](https://geschichteeuropas.podigee.io/t17-17)|017|07:22|2021-02-01|19. Jahrhundert, Anton von Werner, Deutsch-Französischer Krieg, Deutschland, Frankreich, Neuere und neueste Geschichte, Otto von Bismarck, Quelle, Westeuropa, Wilhelm I.|
 |[Y-150: Auszüge aus dem "Wirtschafts- und Strukturprogramms" der Zukunftsagentur Rheinisches Revier (2021)](https://geschichteeuropas.podigee.io/t392-392)|392|05:13|2024-10-09|Deutschland, Quelle, Rheinisches Revier, Zeitgeschichte|
@@ -674,6 +678,7 @@ Organic categories
 |[Y-154: Auszug aus dem Fragebogen "Zusammenhalt hoch drei" (2022)](https://geschichteeuropas.podigee.io/t293-293)|293|04:14|2024-02-18|Deutschland, Erkelenz, Fragebogen, Quelle, Rheinisches Revier, Sozialforschung, Zeitgeschichte|
 |[Y-155: Reviervertrag 2.0 (2023)](https://geschichteeuropas.podigee.io/t360-360)|360|03:34|2024-08-14|Deutschland, Energiewende, Kohleausstieg, Quelle, Rheinisches Revier, Strukturwandel, Zeitgeschichte|
 |[Y-156: Erinnerungen der Bevölkerung des Rheinischen Reviers (2023)](https://geschichteeuropas.podigee.io/t260-260)|260|01:38|2023-11-19|Braunkohleabbau, Deutschland, Lützerath, Quellen, Rheinisches Revier, Umsiedlung, Zeitgeschichte|
+|[Y-159: Aleksandra Arsen´jeva, Erinnerung an die Festnahme im 2. Weltkrieg (2007)](https://geschichteeuropas.podigee.io/t438-438)|438|01:19|2024-12-20|Erinnerung, Kriegsgefangenschaft, Neuere und neueste Geschichte, Quelle, Rote Armee, Russland, Ukraine, Zeitgeschichte|
 |[Y-166: Zitate zum Strukturwandel im Mitteldeutschen Revier (2023)](https://geschichteeuropas.podigee.io/t418-418)|418|02:30|2024-11-20|Alltagsgeschichte, Deindustrialisierung, Deutschland, Industriekultur, Ostdeutschland, Quelle, Strukturwandel, Zeitgeschichte|
 
 
