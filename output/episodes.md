@@ -14,8 +14,8 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |key |value|
 |:---|:----|
 |podcast first published|2020-07-28|
-|podcast last build|2024-12-23|
-|date of generation of this list|2024-12-24|
+|podcast last build|2024-12-27|
+|date of generation of this list|2024-12-27|
 
 <a id="categories"></a>
 ## Categories
@@ -35,14 +35,14 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |O| [O: Zeitalter der Revolutionen (1789-1848)](#category-O) | 8 | O: Das Zeitalter der Revolutionen<br>O: Zeitalter der Revolutionen |
 |P| [P: Nationalismus und Imperialismus (1849-1914)](#category-P) | 9 | P: Nationalismus und Imperialismus |
 |Q| [Q: 1. Weltkrieg (1914-1918)](#category-Q) | 2 | Q: Erster Weltkrieg |
-|R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 16 | R: Zwischenkriegszeit |
+|R| [R: Zwischenkriegszeit (1918-1939)](#category-R) | 17 | R: Zwischenkriegszeit |
 |S| [S: 2. Weltkrieg (1939-1945)](#category-S) | 20 | S: Zweiter Weltkrieg |
 |T| [T: Kalter Krieg und Europäische Einigung (1945-1990)](#category-T) | 24 | T<br>T: Kalter Krieg und Europäische Einigung<br>T: Kalter Krieg und europäische Einigung |
 |U| [U: Nach dem Kalten Krieg (1990-)](#category-U) | 3 | U: Nach dem Kalten Krieg |
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 34 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 176 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 177 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
 
@@ -317,6 +317,7 @@ Organic categories
 |[R-009: Der Reichstagsbrand (1933) (Teil 1), mit Dr. Rainer Orth](https://geschichteeuropas.podigee.io/223-223)|223|58:32|2023-08-21|20. Jahrhundert, Adolf Hitler, Berlin, Deutschland, Marinus van der Lubbe, NS-Diktatur, Neuere und neueste Geschichte, Reichstag, Reichstagsbrand|
 |[R-010: Der Reichstagsbrand (1933) (Teil 2), mit Dr. Rainer Orth](https://geschichteeuropas.podigee.io/225-225)|225|133:57|2023-08-28|20. Jahrhundert, Berlin, Deutschland, Forschungskontroverse, Marinus van der Lubbe, NS-Diktatur, Neuere und neueste Geschichte, Reichstag, Reichstagsbrand|
 |[R-011: Das Ermächtigungsgesetz (1933), mit Prof. Dr. Philipp Austermann](https://geschichteeuropas.podigee.io/334-334)|334|84:53|2024-06-17|20. Jahrhundert, Adolf Hitler, Deutschland, Ermächtigungsgesetz, NS-Diktatur, NSDAP, Neuere und neueste Geschichte, Reichstag, SPD, Zentrum (Partei)|
+|[R-012: Der Dillenburger Wilhelmsturm im Nationalsozialismus (1933), mit Dr. Katherine Lukat [Oranienstadt Dillenburg]](https://geschichteeuropas.podigee.io/443-443)|443|64:36|2024-12-26|Deutschland, Dillenburg, Hessen, Machtübernahme, Nationalsozialismus, Wilhelm von Oranien, Wilhelmsturm|
 |[R-012: Die Anfänge der Gestapo (1933), mit Dr. Claudia Steur](https://geschichteeuropas.podigee.io/257-257)|257|61:41|2023-11-13|20. Jahrhundert, Berlin, Deutschland, Gestapo, NS-Diktatur, Neuere und neueste Geschichte, Polizei, Preußenschlag, Weimarer Republik|
 |[R-013: Die nationalsozialistischen Bücherverbrennungen (1933), mit Dr. Sophia Dafinger](https://geschichteeuropas.podigee.io/192-192)|192|54:42|2023-05-08|20. Jahrhundert, Berlin, Bücherverbrennung, Deutschland, Joseph Goebbels, Nationalsozialismus, Neuere und neueste Geschichte|
 |[R-014: Das Reichskonkordat (1933), mit Dr. Jan Wille](https://geschichteeuropas.podigee.io/417-417)|417|75:49|2024-11-18|Deutschland, Eugenio Pacelli, Katholische Kirche, NS-Deutschland, Neuere und neueste Geschichte, Pius XI., Pius XII., Reichskonkordat, Vatikan|
@@ -603,6 +604,7 @@ Organic categories
 |[Y-088: Auszug aus dem "Konkordat zwischen dem Heiligen Stuhl und dem Deutschen Reich" (1933)](https://geschichteeuropas.podigee.io/t416-416)|416|06:49|2024-11-17|Eugenio Pacelli, Katholische Kirche, NS-Deutschland, Neuere und Neueste Geschichte, Pius XII., Quelle, Reichskonkordat, Vatikan|
 |[Y-089: Reinhard Heydrich, Bericht über die Deportationen nach Gurs (1940)](https://geschichteeuropas.podigee.io/t210-210)|210|01:50|2023-07-03|20. Jahrhundert, Antisemitismus, Deutschland, Frankreich, Gurs, Neuere und Neueste Geschichte, Quelle, Reinhard Heydrich, Westeuropa|
 |[Y-090: Aktennotiz über Ergebnis der heutigen Besprechung mit den Staatssekretären über Barbarossa (1941)](https://geschichteeuropas.podigee.io/t285-285)|285|02:00|2024-01-22|20. Jahrhundert, Deutschland, Kriegsverbrechen, Neuere und neueste Geschichte, Operation Barbarossa, Quelle, Sowjetunion|
+|[Y-091: Einladung zu den Gedenkfeiern zum 400. Geburtstag Wilhelms von Oranien (1933)](https://geschichteeuropas.podigee.io/t442-442)|442|01:20|2024-12-25|Deutschland, Gedenkfeier, Nationalsozialismus, Neuere und neueste Geschichte, Quelle, Wilhelm von Oranien|
 |[Y-091: Szlama Ber Winer, Beschreibung einer Mordtechnik im Holocaust (1942)](https://geschichteeuropas.podigee.io/t63-63)|063|02:17|2022-01-03|20. Jahrhundert, Chelmno, Europa, Holocaust, Neuere und neueste Geschichte, Quelle, Szlama Ber Winer|
 |[Y-092: Der Generalplan Ost (1942)](https://geschichteeuropas.podigee.io/t89-89)|089|06:25|2022-06-20|2. Weltkrieg, 20. Jahrhundert, Deutsch-sowjetischer Krieg, Deutschland, Nationalsozialismus, Neuere und neueste Geschichte, Osteuropa, Quelle|
 |[Y-093: Theo Hespers, Brief an die Familie (1942)](https://geschichteeuropas.podigee.io/t85-85)|085|01:13|2022-05-23|Deutschland, NS-Widerstand, Neuere und neueste Geschichte, Quelle, Theo Hespers, Westeuropa|
