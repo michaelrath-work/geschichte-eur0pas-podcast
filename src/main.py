@@ -226,7 +226,7 @@ def main():
                         datefmt='%Y-%m-%d %H:%M:%S',
                         level=logging.INFO)
     LOGGER.info('legacy main')
-    predefined_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / 'meta' / 'categories.csv')
+    predefined_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / '3rd'/ 'meta' / 'categories.csv')
     local_feed_file_path = download_current_feed()
     channel = read_feed(local_feed_file_path)
     analysis_result = analyse_channel_data(channel, predefined_categories)

@@ -65,7 +65,7 @@ def step_bootstrap():
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    currated_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / 'meta' / 'categories.csv')
+    currated_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / '3rd' / 'meta' / 'categories.csv')
 
     local_feed_file_path = download_current_feed(for_real=True)
     channel_xml = read_feed(local_feed_file_path)
