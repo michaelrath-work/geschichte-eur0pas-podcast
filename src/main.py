@@ -105,7 +105,7 @@ def episode_list_per_category(category: Category, analysis_result: AnalysisResul
                 f'|[{ep.title}]({ep.link})|{ep.number:03d}|{mm_ss}|{ep.publication_date:%Y-%m-%d}|{keywords}|\n'
             )
     else:
-        lines.append('No episodes foundi.\n')
+        lines.append('No episodes found.\n')
 
     lines.append('\n\n')
     return lines

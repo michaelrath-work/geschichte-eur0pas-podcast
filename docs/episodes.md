@@ -188,7 +188,7 @@ Organic categories
 
 [top](#top)
 
-No episodes foundi.
+No episodes found.
 
 
 <a id="category-M"></a>
