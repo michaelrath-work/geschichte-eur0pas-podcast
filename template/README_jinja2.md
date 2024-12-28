@@ -26,6 +26,8 @@ Next to ordering more insights are given such as episode cross links and keyword
 
 <!-- END generated -->
 
+[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=MP3%20Feed&message=https://geschichteeuropas.podigee.io/feed/mp3&color=orange&logo=rss)](https://geschichteeuropas.podigee.io/feed/mp3)
+
 ## Content
 
 - [Episode List](episodes.md)

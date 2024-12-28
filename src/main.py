@@ -91,18 +91,21 @@ def episode_list_per_category(category: Category, analysis_result: AnalysisResul
         lines.append('\n')
 
 
-    lines.extend([
-        f'|title |episode | duration (mm:ss) | publication date| keywords |\n',
-        '|:---|:---:|---:|---:|:---|\n',
-    ])
+    if len(selected_episodes) > 0:
+        lines.extend([
+            f'|title |episode | duration (mm:ss) | publication date| keywords |\n',
+            '|:---|:---:|---:|---:|:---|\n',
+        ])
 
-    for ep in selected_episodes:
-        keywords = ', '.join(sorted(ep.keywords))
-        min, sec = _seconds_to_minutes_seconds(ep.duration_seconds)
-        mm_ss = f'{min:02d}:{sec:02d}'
-        lines.append(
-            f'|[{ep.title}]({ep.link})|{ep.number:03d}|{mm_ss}|{ep.publication_date:%Y-%m-%d}|{keywords}|\n'
-        )
+        for ep in selected_episodes:
+            keywords = ', '.join(sorted(ep.keywords))
+            min, sec = _seconds_to_minutes_seconds(ep.duration_seconds)
+            mm_ss = f'{min:02d}:{sec:02d}'
+            lines.append(
+                f'|[{ep.title}]({ep.link})|{ep.number:03d}|{mm_ss}|{ep.publication_date:%Y-%m-%d}|{keywords}|\n'
+            )
+    else:
+        lines.append('No episodes foundi.\n')
 
     lines.append('\n\n')
     return lines
@@ -124,14 +127,6 @@ def format_episodes_as_markdown(p: pathlib.Path,
         '\n\n',
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
-        '\n'
-    ]
-
-    fancy_feed_link = f'[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=MP3%20Feed&message={URL_FEED_MP3}&color=orange&logo=rss)]({URL_FEED_MP3})'
-
-    output_lines +=[
-        '\n'
-        f'{fancy_feed_link}\n'
         '\n'
     ]
 
@@ -160,12 +155,6 @@ def format_episodes_as_markdown(p: pathlib.Path,
 
     output_lines.extend([
         '\n\n',
-        '## Keywords \n\n',
-        'List of all used [keywords](keywords.md)\n\n'
-    ])
-
-    output_lines.extend([
-        '\n\n',
         '## Episode list (chronologically)\n\n',
     ])
 
@@ -185,7 +174,6 @@ def format_keywords_as_markdown(p: pathlib.Path,
         f'<a id="top"></a>\n',
         '# Used keywords\n\n',
         '\n\n',
-        '[Episode list](episodes.md)\n\n',
         '|keyword| #appearences |     |\n',
         '|:------|-------------:|:---:|\n',
     ]

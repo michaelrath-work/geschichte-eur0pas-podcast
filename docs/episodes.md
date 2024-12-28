@@ -4,9 +4,6 @@
 
 <a id="top"></a>
 # Geschichte Eur0pas
-
-[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=MP3%20Feed&message=https://geschichteeuropas.podigee.io/feed/mp3&color=orange&logo=rss)](https://geschichteeuropas.podigee.io/feed/mp3)
-
 <a id="categories"></a>
 ## Categories
 
@@ -34,12 +31,6 @@
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 34 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
 |Y| [Y: Quellen](#category-Y) | 177 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
-
-
-## Keywords 
-
-List of all used [keywords](keywords.md)
-
 
 
 ## Episode list (chronologically)
@@ -197,8 +188,7 @@ Organic categories
 
 [top](#top)
 
-|title |episode | duration (mm:ss) | publication date| keywords |
-|:---|:---:|---:|---:|:---|
+No episodes foundi.
 
 
 <a id="category-M"></a>

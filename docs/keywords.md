@@ -7,8 +7,6 @@
 
 
 
-[Episode list](episodes.md)
-
 |keyword| #appearences |     |
 |:------|-------------:|:---:|
 | | 1 | [top](#top) |

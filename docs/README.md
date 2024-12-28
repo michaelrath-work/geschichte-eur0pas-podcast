@@ -5,8 +5,8 @@
 # Geschichte Eur0pas Podcast
 
 This project analyzes the podcast [Geschichte Eur0pas](https://geschichteeuropas.podigee.io/).
-It provides an overview of all categories episodes organized in designated hearing order, because some podcast catcher apps have trouble with subtiles and ordering.
-According to original author/creator Tobias Jakobi podcast episodes are supposed to be listened in this order
+It provides an overview of all episodes organized and correctly categorized in designated hearing order, because some podcast catcher apps have trouble with ordering by episode subtitles.
+According to original author/creator Tobias Jakobi podcast episodes are supposed to be listened like this
 
 > (German quote) "Die Episoden werden thematisch und nicht nach Erscheinungsdatum nummeriert. Für einen chronologischen Durchgang zur europäischen Geschichte sollten die Episoden nach Namen sortiert werden."
 
@@ -22,9 +22,11 @@ Next to ordering more insights are given such as episode cross links and keyword
 |:---|----:|
 |Podcast first published|2020-07-28|
 |Podcast last build|2024-12-27|
-|This site update|2024-12-28|
+|This site update|2024-12-29|
 
 <!-- END generated -->
+
+[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=MP3%20Feed&message=https://geschichteeuropas.podigee.io/feed/mp3&color=orange&logo=rss)](https://geschichteeuropas.podigee.io/feed/mp3)
 
 ## Content
 
