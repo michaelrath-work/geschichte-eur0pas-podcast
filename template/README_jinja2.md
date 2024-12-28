@@ -35,7 +35,7 @@ Next to ordering more insights are given such as episode cross links and keyword
 
 ## Links
 
-Visit the podcast site (don't forget to [subscribe](https://geschichteeuropas.podigee.io/#subscribe))
+Visit the podcast site ([subscribe](https://geschichteeuropas.podigee.io/#subscribe))
 
 [![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=geschichteeuropas.podigee.io&color=orange&logo=podcast%20index)](https://geschichteeuropas.podigee.io/)
 
