@@ -1,13 +1,11 @@
 <a href="https://geschichteeuropas.podigee.io/">
-<img src="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" alt="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" width="200>
+<img src="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" alt="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" width="200">
 </a>
 
 <a id="top"></a>
 # Geschichte Eur0pas
 
-
-
-Data source: https://geschichteeuropas.podigee.io/feed/mp3
+[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=MP3%20Feed&message=https://geschichteeuropas.podigee.io/feed/mp3&color=orange&logo=rss)](https://geschichteeuropas.podigee.io/feed/mp3)
 
 ## Meta
 
@@ -15,7 +13,7 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |:---|:----|
 |podcast first published|2020-07-28|
 |podcast last build|2024-12-27|
-|date of generation of this list|2024-12-27|
+|date of generation of this list|2024-12-28|
 
 <a id="categories"></a>
 ## Categories

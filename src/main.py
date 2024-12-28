@@ -121,12 +121,15 @@ def format_episodes_as_markdown(p: pathlib.Path,
         '\n\n',
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
-        '\n\n'
+        '\n'
     ]
+
+    fancy_feed_link = f'[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=MP3%20Feed&message={URL_FEED_MP3}&color=orange&logo=rss)]({URL_FEED_MP3})'
+
     output_lines +=[
-        '\n\n'
-        f'Data source: {URL_FEED_MP3}'
-        '\n\n'
+        '\n'
+        f'{fancy_feed_link}\n'
+        '\n'
     ]
 
     now = datetime.datetime.now()
@@ -217,7 +220,7 @@ def download_current_feed() -> pathlib.Path:
 def img_to_link_html(url: str, img: str, width=200) -> typing.List[str]:
     return [
         f'<a href="{url}">',
-        f'<img src="{img}" alt="{img}" width="{width}>',
+        f'<img src="{img}" alt="{img}" width="{width}">',
         f'</a>'
     ]
 
@@ -231,7 +234,7 @@ def main():
     channel = read_feed(local_feed_file_path)
     analysis_result = analyse_channel_data(channel, predefined_categories)
     adjusted_categories = list(map(functools.partial(Category.adjust, predefined_categories), analysis_result.categories))
-    output_path = THIS_FILE_FOLDER / '..' / 'output'
+    output_path = THIS_FILE_FOLDER / '..' / 'docs'
     output_path.mkdir(parents=True, exist_ok=True)
     output_file = output_path / 'episodes.md'
 
