@@ -5,9 +5,7 @@
 <a id="top"></a>
 # Geschichte Eur0pas
 
-
-
-Data source: https://geschichteeuropas.podigee.io/feed/mp3
+[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=MP3%20Feed&message=https://geschichteeuropas.podigee.io/feed/mp3&color=orange&logo=rss)](https://geschichteeuropas.podigee.io/feed/mp3)
 
 ## Meta
 

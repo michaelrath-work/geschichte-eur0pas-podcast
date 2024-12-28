@@ -121,12 +121,15 @@ def format_episodes_as_markdown(p: pathlib.Path,
         '\n\n',
         f'<a id="top"></a>\n',
         '# Geschichte Eur0pas',
-        '\n\n'
+        '\n'
     ]
+
+    fancy_feed_link = f'[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=MP3%20Feed&message={URL_FEED_MP3}&color=orange&logo=rss)]({URL_FEED_MP3})'
+
     output_lines +=[
-        '\n\n'
-        f'Data source: {URL_FEED_MP3}'
-        '\n\n'
+        '\n'
+        f'{fancy_feed_link}\n'
+        '\n'
     ]
 
     now = datetime.datetime.now()
