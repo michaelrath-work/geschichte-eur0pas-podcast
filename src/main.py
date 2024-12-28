@@ -231,7 +231,7 @@ def main():
     channel = read_feed(local_feed_file_path)
     analysis_result = analyse_channel_data(channel, predefined_categories)
     adjusted_categories = list(map(functools.partial(Category.adjust, predefined_categories), analysis_result.categories))
-    output_path = THIS_FILE_FOLDER / '..' / 'output'
+    output_path = THIS_FILE_FOLDER / '..' / 'docs'
     output_path.mkdir(parents=True, exist_ok=True)
     output_file = output_path / 'episodes.md'
 

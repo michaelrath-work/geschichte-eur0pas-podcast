@@ -1,0 +1,31 @@
+<a href="https://geschichteeuropas.podigee.io/">
+  <img src="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" alt="link to geschichte europas" width="400">,
+</a>
+
+# Geschichte Eur0pas Podcast
+
+This project provides insides into the podcast [Geschichte Eur0pas](https://geschichteeuropas.podigee.io/).
+It provides an overview of all categories episodes organized in designated hearing order.
+This is necessary, because some podcast catcher apps have trouble with subtiles and ordering.
+According to original author/creator Tobias Jakobi podcast episodes [[2]](#ref2) are supposed to be listened in this order
+
+> (German quote) "Die Episoden werden thematisch und nicht nach Erscheinungsdatum nummeriert. Für einen chronologischen Durchgang zur europäischen Geschichte sollten die Episoden nach Namen sortiert werden."
+
+> (English translation) "The episodes are numbered thematically and not by release date. For a chronological passage to European history, the episodes should be sorted by name."
+
+Besides this, more insights are given, such as episode cross links and keyword usage.
+
+## Content
+
+- [Episode List](episodes.md)
+- [Keywords](keywords.md)
+
+## Links
+
+Visit the podcast site (don't forget to [subscribe](https://geschichteeuropas.podigee.io/#subscribe))
+
+[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=geschichteeuropas.podigee.io&color=orange&logo=podcast%20index)](https://geschichteeuropas.podigee.io/)
+
+View source on GitHub
+
+[![Michael Rath - geschichte-eur0pas-podcast](https://img.shields.io/static/v1?label=Michael%20Rath&message=geschichte-eur0pas-podcast&color=blue&logo=github)](https://github.com/michaelrath-work/geschichte-eur0pas-podcast)

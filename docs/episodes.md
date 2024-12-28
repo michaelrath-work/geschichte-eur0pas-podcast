@@ -15,7 +15,7 @@ Data source: https://geschichteeuropas.podigee.io/feed/mp3
 |:---|:----|
 |podcast first published|2020-07-28|
 |podcast last build|2024-12-27|
-|date of generation of this list|2024-12-27|
+|date of generation of this list|2024-12-28|
 
 <a id="categories"></a>
 ## Categories
