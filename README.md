@@ -11,7 +11,7 @@ Description and output can be found [here](https://michaelrath-work.github.io/ge
 ### How to use (legacy)
 
 1. Execute `python3 src/main.py`
-2. Output is written to this location [Episodes (output/episodes.md)](output/episodes.md)
+2. Output is written to this location [Episodes (docs/episodes.md)](docs/episodes.md)
 
 ### How to use (TNG)
 
@@ -23,5 +23,4 @@ Description and output can be found [here](https://michaelrath-work.github.io/ge
 ## TODO
 
 Experimental (currently insane, probably not usable) [episode link visualization](explore/episodes.svg)
-
 
