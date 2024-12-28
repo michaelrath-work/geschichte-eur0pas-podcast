@@ -1,5 +1,5 @@
 <a href="https://geschichteeuropas.podigee.io/">
-  <img src="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" alt="link to geschichte europas" width="400">,
+  <img src="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" alt="link to geschichte europas" width="400">
 </a>
 
 # Geschichte Eur0pas Podcast

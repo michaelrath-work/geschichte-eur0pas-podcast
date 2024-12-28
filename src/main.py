@@ -217,7 +217,7 @@ def download_current_feed() -> pathlib.Path:
 def img_to_link_html(url: str, img: str, width=200) -> typing.List[str]:
     return [
         f'<a href="{url}">',
-        f'<img src="{img}" alt="{img}" width="{width}>',
+        f'<img src="{img}" alt="{img}" width="{width}">',
         f'</a>'
     ]
 
