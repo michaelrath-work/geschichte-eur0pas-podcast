@@ -20,9 +20,9 @@ Next to ordering more insights are given such as episode cross links and keyword
 
 |key |value|
 |:---|----:|
-|Podcast first published|2020-07-28|
-|Podcast last build|2024-12-27|
-|This site update|2024-12-28|
+|Podcast first published|{{ channel.first_published }}|
+|Podcast last build|{{ channel.last_build }}|
+|This site update|{{ channel.generation }}|
 
 <!-- END generated -->
 

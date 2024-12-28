@@ -1,6 +1,8 @@
 import collections
 import datetime
 import functools
+import pprint
+import jinja2
 import logging
 import pathlib
 import os
@@ -11,6 +13,7 @@ import xml.etree.ElementTree as ET
 from rss_datamodel import (
     AnalysisResult,
     Category,
+    Channel,
     Episode,
     analyse_channel_data,
     download_current_feed,
@@ -132,16 +135,6 @@ def format_episodes_as_markdown(p: pathlib.Path,
         '\n'
     ]
 
-    now = datetime.datetime.now()
-    format_date_to_ymd = lambda x: f'{x:%Y-%m-%d}'
-    output_lines.extend('## Meta\n\n')
-    output_lines.extend('|key |value|\n')
-    output_lines.extend('|:---|:----|\n')
-    output_lines.extend(f'|podcast first published|{format_date_to_ymd(analysis_result.channel.publication_date)}|\n')
-    output_lines.extend(f'|podcast last build|{format_date_to_ymd(analysis_result.channel.last_build_date)}|\n')
-    output_lines.extend(f'|date of generation of this list|{format_date_to_ymd(now)}|\n')
-    output_lines.extend('\n')
-
     output_lines.extend(
         [
             f'<a id="categories"></a>\n'
@@ -206,14 +199,16 @@ def format_keywords_as_markdown(p: pathlib.Path,
         f.writelines(output_lines)
 
 
-def download_current_feed() -> pathlib.Path:
-    response = requests.get(URL_FEED_MP3)
+def download_current_feed(download: bool = True) -> pathlib.Path:
     output_dir = THIS_FILE_FOLDER / '..' / 'rss'
     output_dir.mkdir(parents=True, exist_ok=True)
     output_file_path = output_dir / 'rss_feed.xml'
 
-    with open(output_file_path, 'w') as fd:
-        fd.writelines(response.content.decode('utf-8'))
+    if download:
+        response = requests.get(URL_FEED_MP3)
+        with open(output_file_path, 'w') as fd:
+            fd.writelines(response.content.decode('utf-8'))
+
     return output_file_path
 
 
@@ -224,18 +219,45 @@ def img_to_link_html(url: str, img: str, width=200) -> typing.List[str]:
         f'</a>'
     ]
 
+
+def render_readme(channel: Channel, output_path: pathlib.Path):
+    template_folder = (THIS_FILE_FOLDER / '..' / 'template').resolve().absolute()
+    file_name = 'README_jinja2.md'
+
+    environment = jinja2.Environment(
+        loader=jinja2.FileSystemLoader(str(template_folder)),
+    )
+
+    template = environment.get_template(file_name)
+    format_date_to_ymd = lambda x: f'{x:%Y-%m-%d}'
+
+    output = template.render(
+        {
+            'channel': {
+                'first_published': format_date_to_ymd(channel.publication_date),
+                'last_build': format_date_to_ymd(channel.last_build_date),
+                'generation': format_date_to_ymd(datetime.datetime.now()),
+            }
+        }
+    )
+
+    outfile = output_path / 'README.md'
+    with open(outfile, 'w') as f:
+        f.write(output)
+
+
 def main():
-    logging.basicConfig(format='%(asctime)-15s %(name)s %(levelname)s %(message)s',
-                        datefmt='%Y-%m-%d %H:%M:%S',
-                        level=logging.INFO)
     LOGGER.info('legacy main')
     predefined_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / '3rd'/ 'meta' / 'categories.csv')
     local_feed_file_path = download_current_feed()
     channel = read_feed(local_feed_file_path)
     analysis_result = analyse_channel_data(channel, predefined_categories)
     adjusted_categories = list(map(functools.partial(Category.adjust, predefined_categories), analysis_result.categories))
+
     output_path = THIS_FILE_FOLDER / '..' / 'docs'
     output_path.mkdir(parents=True, exist_ok=True)
+
+    render_readme(analysis_result.channel, output_path)
     output_file = output_path / 'episodes.md'
 
     format_episodes_as_markdown(
@@ -248,5 +270,9 @@ def main():
         output_file,
         analysis_result)
 
+
 if __name__ == '__main__':
-     main()
+    logging.basicConfig(format='%(asctime)-15s %(name)s %(levelname)s %(message)s',
+                        datefmt='%Y-%m-%d %H:%M:%S',
+                        level=logging.INFO)
+    main()
