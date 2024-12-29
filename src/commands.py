@@ -6,9 +6,11 @@ import typing
 from sqlalchemy import create_engine, select
 from sqlalchemy.orm import sessionmaker
 
+import db_datamodel
 from db_datamodel import (
     Base,
     Category,
+    Keyword,
     DB_NAME,
     Episode,
     Episode_2_episode
@@ -56,6 +58,26 @@ def _summarize_organic_categories(categories: typing.Set[str]) -> typing.Mapping
     return m
 
 
+def _get_or_add_keyword(session, name: str) -> db_datamodel.Keyword:
+    k = session.query(Keyword).filter(Keyword.name == name).first()
+    if k is None:
+        k = Keyword(name=name)
+        session.add(k)
+        session.commit()
+
+    return k
+
+
+def _add_or_update_keywords(session,
+                            rss_episode: rss_datamodel.Episode,
+                            db_episode: db_datamodel.Episode):
+    LOGGER.info(f'Update keywords for episode {rss_episode.title}')
+    for idx, k in enumerate(rss_episode.keywords):
+        db_keyword = _get_or_add_keyword(session, k)
+        db_episode.keywords.append(db_keyword)
+    session.commit()
+
+
 def step_bootstrap():
     _delete_db()
 
@@ -75,7 +97,7 @@ def step_bootstrap():
     for c in currated_categories:
         db_cat = Category(
         marker=c.id,
-        currated_name=c.name,
+        curated_name=c.name,
         organic_names=organic_categories.get(c.id, '')
         )
         session.add(db_cat)
@@ -84,17 +106,20 @@ def step_bootstrap():
     def date_to_str(d: datetime.date) -> str:
         return d.strftime('%Y-%m-%d')
 
-    for i, e in enumerate(analysis_result.episodes):
+    for idx, rss_episode in enumerate(analysis_result.episodes):
         db_episode = Episode(
-            title=e.title,
-            number=e.number,
-            link=e.link,
-            publication_date=date_to_str(e.publication_date),
-            duration_seconds=e.duration_seconds
+            title=rss_episode.title,
+            number=rss_episode.number,
+            link=rss_episode.link,
+            publication_date=date_to_str(rss_episode.publication_date),
+            duration_seconds=rss_episode.duration_seconds
         )
-        rss_cat = rss_datamodel.Category.curate(currated_categories, e.category.organic)
+        rss_cat = rss_datamodel.Category.curate(currated_categories, rss_episode.category.organic)
         db_cat = session.query(Category).filter(Category.marker == rss_cat.curated_id)[0]
         db_cat.episodes.append(db_episode)
+
+        _add_or_update_keywords(session, rss_episode, db_episode)
+
         session.add_all([db_episode, db_cat])
 
     session.commit()
@@ -245,3 +270,34 @@ def step_xlink():
 
             # break
         # break
+
+
+def step_testing():
+    LOGGER.info('testing')
+
+    engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=False)
+    Base.metadata.create_all(engine)
+
+    Session = sessionmaker(bind=engine)
+    session = Session()
+
+    if True:
+        # keywords
+        LOGGER.info('== Keywords')
+        stmt = select(Episode).filter(Episode.id == 42)
+
+        for r in session.execute(stmt):
+            pprint.pprint(r.Episode.title)
+            for k in sorted(r.Episode.keywords, key=lambda k: k.name):
+                pprint.pprint(k.name)
+
+    if True:
+        # e 2 e links
+        LOGGER.info('== Episode links')
+        stmt = select(Episode).filter(Episode.id == 42)
+        for r in session.execute(stmt):
+            pprint.pprint(f'== {r.Episode.title}')
+            for idx, l in enumerate(sorted(r.Episode.linked_episodes, key=lambda e: e.title)):
+                pprint.pprint(l.title)
+
+    pass
