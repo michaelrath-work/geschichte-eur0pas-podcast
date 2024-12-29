@@ -42,41 +42,43 @@ def get_xml_node_text_or_default(e: ET.Element, default: str) -> str:
         return e.text
     return default
 
+
 def convert_str_to_integer(a: any, default: int = -1) -> int:
     try:
         return int(a)
     except ValueError:
         return default
-    return default
 
-def convert_str_to_date(a: any, default: datetime.date = datetime.date(2000, 1,1)) -> datetime.datetime:
+
+def convert_rss_date_to_date(d: str, default: datetime.date = datetime.date(2000, 1,1)) -> datetime.datetime:
+    """
+    param d: e.g. Sat, 12 Oct 2024 02:00:00 +0000
+    """
     try:
-        # e.g. Sat, 12 Oct 2024 02:00:00 +0000
-        r = datetime.datetime.strptime(a, '%a, %d %b %Y %H:%M:%S %z')
+        r = datetime.datetime.strptime(d, '%a, %d %b %Y %H:%M:%S %z')
         return r
     except ValueError:
         return default
-    return default
 
 
 def _seconds_to_minutes_seconds(sec: int) -> typing.Tuple[int, int]:
     return divmod(sec, 60)
 
 
-def select_by_currated_category(c: Category, e: Episode) -> bool:
+def select_by_curated_category(c: Category, e: Episode) -> bool:
     return (
-        (e.category.currated_id == c.currated_id)
-        and (e.category.currated_name == c.currated_name))
+        (e.category.curated_id == c.curated_id)
+        and (e.category.curated_name == c.curated_name))
 
 
 def episode_list_per_category(category: Category, analysis_result: AnalysisResult) -> typing.List[str]:
     lines: typing.List[str] = [
-            f'<a id="{category.markdown_category_link()}"></a>\n'
-            f'### {category.adjusted_str()}\n\n'
+            f'<a id="{category.markdown_link_identifier()}"></a>\n'
+            f'### {category.curated_str()}\n\n'
         ]
 
     selected_episodes: typing.List[Episode] = sorted(
-        filter(functools.partial(select_by_currated_category, category), analysis_result.episodes),
+        filter(functools.partial(select_by_curated_category, category), analysis_result.episodes),
         key=lambda x: x.title)
     organic_categories = sorted(set([x.category.organic for x in selected_episodes]))
     lines.append(f'[top](#top)\n\n')
@@ -138,19 +140,19 @@ def format_episodes_as_markdown(p: pathlib.Path,
             '|:---:|:-------------|:---------:|:-------------|\n']
         )
 
-    helper_unschoen = set([(c.currated_id, c.currated_name) for c in adjusted_categories])
+    helper_unschoen = set([(c.curated_id, c.curated_name) for c in adjusted_categories])
     unique_categories = [Category(None, e[0], e[1]) for e in helper_unschoen]
 
-    for category in sorted(unique_categories, key=lambda x: x.currated_id):
+    for category in sorted(unique_categories, key=lambda x: x.curated_id):
         ep: typing.List[Episode] = list(filter(
-            functools.partial(select_by_currated_category, category),
+            functools.partial(select_by_curated_category, category),
             analysis_result.episodes))
 
         num_episodes = len(ep)
         organic_categories = list(sorted(set([e.category.organic for e in ep])))
         organic_cell = '<br>'.join(organic_categories)
-        category_link = f'[{category.adjusted_str()}](#{category.markdown_category_link()})'
-        row = f'|{category.currated_id}| {category_link} | {num_episodes:d} | {organic_cell} |\n'
+        category_link = f'[{category.curated_str()}](#{category.markdown_link_identifier()})'
+        row = f'|{category.curated_id}| {category_link} | {num_episodes:d} | {organic_cell} |\n'
         output_lines.append(row)
 
     output_lines.extend([
@@ -158,7 +160,7 @@ def format_episodes_as_markdown(p: pathlib.Path,
         '## Episode list (chronologically)\n\n',
     ])
 
-    for category in sorted(unique_categories, key=lambda x: x.currated_id):
+    for category in sorted(unique_categories, key=lambda x: x.curated_id):
         output_lines.extend(episode_list_per_category(category, analysis_result))
 
     with open(p, mode='w') as f:
@@ -240,7 +242,7 @@ def main():
     local_feed_file_path = download_current_feed()
     channel = read_feed(local_feed_file_path)
     analysis_result = analyse_channel_data(channel, predefined_categories)
-    adjusted_categories = list(map(functools.partial(Category.adjust, predefined_categories), analysis_result.categories))
+    adjusted_categories = list(map(functools.partial(Category.curate, predefined_categories), analysis_result.categories))
 
     output_path = THIS_FILE_FOLDER / '..' / 'docs'
     output_path.mkdir(parents=True, exist_ok=True)

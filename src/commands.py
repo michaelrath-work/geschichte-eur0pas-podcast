@@ -92,8 +92,8 @@ def step_bootstrap():
             publication_date=date_to_str(e.publication_date),
             duration_seconds=e.duration_seconds
         )
-        rss_cat = rss_datamodel.Category.adjust(currated_categories, e.category.organic)
-        db_cat = session.query(Category).filter(Category.marker == rss_cat.currated_id)[0]
+        rss_cat = rss_datamodel.Category.curate(currated_categories, e.category.organic)
+        db_cat = session.query(Category).filter(Category.marker == rss_cat.curated_id)[0]
         db_cat.episodes.append(db_episode)
         session.add_all([db_episode, db_cat])
 

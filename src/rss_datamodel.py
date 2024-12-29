@@ -24,12 +24,15 @@ class CurratedCategory:
 
 @dataclasses.dataclass
 class Category:
+    # e.g.: A - Epochenübergreifende Themen
     organic: str
-    currated_id: str
-    currated_name: str
+    # e.g.: A
+    curated_id: str
+    # e.g.: Epochenübergreifende Themen
+    curated_name: str
 
     @staticmethod
-    def adjust(categories: typing.List[CurratedCategory], organic: str) -> 'Category':
+    def curate(categories: typing.List[CurratedCategory], organic: str) -> 'Category':
         CATEGORY_MAP = {i.id: i.name for i in categories}
 
         for k, v in CATEGORY_MAP.items():
@@ -38,11 +41,15 @@ class Category:
 
         return Category(organic, organic, organic)
 
-    def adjusted_str(self):
-        return f'{self.currated_id}: {self.currated_name}'
+    def curated_str(self):
+        """Combination of `curated_id` and `curated_name`
+        """
+        return f'{self.curated_id}: {self.curated_name}'
 
-    def markdown_category_link(self) -> str:
-        return f'category-{self.currated_id}'
+    def markdown_link_identifier(self) -> str:
+        """
+        """
+        return f'category-{self.curated_id}'
 
 
 @dataclasses.dataclass
@@ -74,20 +81,17 @@ def _convert_str_to_integer(a: any, default: int = -1) -> int:
         return int(a)
     except ValueError:
         return default
-    return default
 
 def _convert_str_to_date(a: any, default: datetime.date = datetime.date(2000, 1,1)) -> datetime.datetime:
+    """
+    e.g. Sat, 12 Oct 2024 02:00:00 +0000
+    """
     try:
-        # e.g. Sat, 12 Oct 2024 02:00:00 +0000
+
         r = datetime.datetime.strptime(a, '%a, %d %b %Y %H:%M:%S %z')
         return r
     except ValueError:
         return default
-    return default
-
-
-def _seconds_to_minutes_seconds(sec: int) -> typing.Tuple[int, int]:
-    return divmod(sec, 60)
 
 
 def _get_xml_node_text_or_default(e: ET.Element, default: str) -> str:
@@ -149,11 +153,11 @@ def analyse_channel_data(xml_channel: ET.Element, predefined_categories: typing.
             keywords = keywords_raw.split(',')
 
 
-        category = Category.adjust(predefined_categories, organic_category)
+        category = Category.curate(predefined_categories, organic_category)
 
         if title.text.startswith('T-019'):
             LOGGER.warning(f'TODO(Micha): invalid organic category format (itunes:subtitle): "{title.text}" != "{organic_category}"')
-            category=Category.adjust(predefined_categories, 'T')
+            category=Category.curate(predefined_categories, 'T')
 
         episodes.append(
             Episode(
