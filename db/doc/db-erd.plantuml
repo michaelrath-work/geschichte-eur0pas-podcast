@@ -6,7 +6,7 @@ entity "Episode" as episodeEntity {
   title: str
   number: number
   link: URL
-  publication_date: YYYY-MM-DD
+  publication_date: str, YYYY-MM-DD
   duration_seconds: number
 }
 
@@ -22,13 +22,13 @@ entity "Category" as categoryEntity {
   id
   ---
   marker: (single letter A-Z)
-  currated_name: str
+  curated_name: str
   organic_names: list[str]
 }
 
 note bottom {
 marker: A
-currated_name: Epochenübergreifende Themen
+curated_name: Epochenübergreifende Themen
 organic_names:  [A - Epochenübergreifende Themen, A: Epochenübergreifende Themen]
 }
 
@@ -44,7 +44,7 @@ note bottom {
 
 
 episodeEntity }o--|| categoryEntity
-episodeEntity }o--|| keywordEntity
+episodeEntity }o--o{ keywordEntity
 episodeEntity ||--o{ episodeEntity: linked episode(s)
 
 @enduml
