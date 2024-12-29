@@ -80,7 +80,41 @@ def _add_or_update_keywords(session,
     session.commit()
 
 
+def _render_readme(channel: rss_datamodel.Channel, output_path: pathlib.Path):
+    template_folder = (THIS_FILE_FOLDER / '..' / 'template').resolve().absolute()
+    file_name = 'README_jinja2.md'
+
+    environment = jinja2.Environment(
+        loader=jinja2.FileSystemLoader(str(template_folder)),
+    )
+
+    template = environment.get_template(file_name)
+    format_date_to_ymd = lambda x: f'{x:%Y-%m-%d}'
+
+    output = template.render(
+        {
+            'channel': {
+                'first_published': format_date_to_ymd(channel.publication_date),
+                'last_build': format_date_to_ymd(channel.last_build_date),
+                'generation': format_date_to_ymd(datetime.datetime.now()),
+            }
+        }
+    )
+
+    outfile = output_path / 'README.md'
+    with open(outfile, 'w') as f:
+        f.write(output)
+
+
 def step_bootstrap():
+    currated_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / '3rd' / 'meta' / 'categories.csv')
+
+    local_feed_file_path = download_current_feed(for_real=True)
+    channel_xml = read_feed(local_feed_file_path)
+    analysis_result = analyse_channel_data(channel_xml, currated_categories)
+    _render_readme(analysis_result.channel, THIS_FILE_FOLDER / '..' / 'docs')
+    organic_categories = _summarize_organic_categories(analysis_result.categories)
+
     _delete_db()
 
     engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=False)
@@ -88,13 +122,6 @@ def step_bootstrap():
 
     Session = sessionmaker(bind=engine)
     session = Session()
-
-    currated_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / '3rd' / 'meta' / 'categories.csv')
-
-    local_feed_file_path = download_current_feed(for_real=True)
-    channel_xml = read_feed(local_feed_file_path)
-    analysis_result = analyse_channel_data(channel_xml, currated_categories)
-    organic_categories = _summarize_organic_categories(analysis_result.categories)
 
     for c in currated_categories:
         db_cat = Category(

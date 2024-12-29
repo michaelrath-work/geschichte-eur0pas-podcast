@@ -21,6 +21,8 @@ from rss_datamodel import (
     read_feed
 )
 
+from commands import _render_readme
+
 
 CHANNEL_IMG_URL = 'https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg'
 PODCAST_URL = 'https://geschichteeuropas.podigee.io/'
@@ -210,32 +212,6 @@ def img_to_link_html(url: str, img: str, width=200) -> typing.List[str]:
     ]
 
 
-def render_readme(channel: Channel, output_path: pathlib.Path):
-    template_folder = (THIS_FILE_FOLDER / '..' / 'template').resolve().absolute()
-    file_name = 'README_jinja2.md'
-
-    environment = jinja2.Environment(
-        loader=jinja2.FileSystemLoader(str(template_folder)),
-    )
-
-    template = environment.get_template(file_name)
-    format_date_to_ymd = lambda x: f'{x:%Y-%m-%d}'
-
-    output = template.render(
-        {
-            'channel': {
-                'first_published': format_date_to_ymd(channel.publication_date),
-                'last_build': format_date_to_ymd(channel.last_build_date),
-                'generation': format_date_to_ymd(datetime.datetime.now()),
-            }
-        }
-    )
-
-    outfile = output_path / 'README.md'
-    with open(outfile, 'w') as f:
-        f.write(output)
-
-
 def main():
     LOGGER.info('legacy main')
     predefined_categories = poor_mans_csv_parser(THIS_FILE_FOLDER / '..' / '3rd'/ 'meta' / 'categories.csv')
@@ -247,7 +223,7 @@ def main():
     output_path = THIS_FILE_FOLDER / '..' / 'docs'
     output_path.mkdir(parents=True, exist_ok=True)
 
-    render_readme(analysis_result.channel, output_path)
+    _render_readme(analysis_result.channel, output_path)
     output_file = output_path / 'episodes.md'
 
     format_episodes_as_markdown(
@@ -265,5 +241,5 @@ if __name__ == '__main__':
     logging.basicConfig(format='%(asctime)-15s %(name)s %(levelname)s %(message)s',
                         datefmt='%Y-%m-%d %H:%M:%S',
                         level=logging.INFO)
-    LOGGER.waning('!!! DEPRECATED !!!')
+    LOGGER.warning('!!! DEPRECATED !!!')
     main()
