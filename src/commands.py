@@ -400,6 +400,45 @@ def step_xlink():
                     LOGGER.error(f'Linked episode not found "{db_episode.link}" => "{link_str}"')
 
 
+def step_check_xlinks():
+
+    def check_backlinks(session, e: db_datamodel.Episode) -> typing.List[typing.Tuple[str, str]]:
+        missing = []
+        for ref_linked_episode in e.linked_episodes:
+            stmt = select(Episode).filter(Episode.id == ref_linked_episode.id)
+            db_linked_episode = session.execute(stmt).fetchone()
+            found = False
+            for back_link in db_linked_episode.Episode.linked_episodes:
+                if back_link.link == e.link:
+                    found = True
+                    break
+
+            if not found:
+                missing.append((ref_linked_episode.title, ref_linked_episode.link))
+        return missing
+
+
+    LOGGER.info('Check XLINK')
+    engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=False)
+    Base.metadata.create_all(engine)
+
+    Session = sessionmaker(bind=engine)
+    session = Session()
+
+    missing = ['# Missing back links\n\n']
+    for idx, e in enumerate(session.query(Episode).order_by(Episode.title)):
+        LOGGER.info(f'Check {idx:04d} {e.title}')
+        local_missing = check_backlinks(session, e)
+        if len(local_missing) > 0:
+            missing.append(f'\n## {idx:04d} [{e.title}]({e.link})\n\n')
+
+            for idx2, (title, link) in enumerate(local_missing):
+                missing.append(f'- {idx2:02d} [{title}]({link})\n')
+
+    with open(THIS_FILE_FOLDER / '..' / 'explore' / 'missing_backlinks.md', 'w') as fd:
+        for m in missing:
+            fd.writelines(missing)
+
 
 def step_testing():
     LOGGER.info('testing')
