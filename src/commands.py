@@ -285,6 +285,7 @@ def step_testing():
         # keywords
         LOGGER.info('== Keywords')
         stmt = select(Episode).filter(Episode.id == 42)
+
         for r in session.execute(stmt):
             pprint.pprint(r.Episode.title)
             for k in sorted(r.Episode.keywords, key=lambda k: k.name):
@@ -298,3 +299,5 @@ def step_testing():
             pprint.pprint(f'== {r.Episode.title}')
             for idx, l in enumerate(sorted(r.Episode.linked_episodes, key=lambda e: e.title)):
                 pprint.pprint(l.title)
+
+    pass
