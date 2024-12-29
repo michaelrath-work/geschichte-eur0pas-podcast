@@ -8,10 +8,10 @@
     sudo apt install openjdk-11-jdk
     ```
 
-- generate plots (from root folder)
+- generate plots
 
     ```sh
-    java -jar 3rd/plantuml-1.2023.7.jar -tsvg  db/layout/db-erd.plantuml
+    java -jar 3rd/plantuml-1.2023.7.jar -tsvg  db/doc/db-erd.plantuml
     ```
 
 ![Entity Relationship Diagram](db-erd.svg)

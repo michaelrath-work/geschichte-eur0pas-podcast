@@ -29,7 +29,7 @@
 |V| [V: Europa aktuell](#category-V) | 2 | V: Europa aktuell |
 |W| [W: Epochenübergreifende Biographien](#category-W) | 17 | W: Epochenübergreifende Biographien<br>W: Geschichtswissenschaft und Erinnerungskultur |
 |X| [X: Geschichtswissenschaft und Erinnerungskultur](#category-X) | 34 | X: Geschichtswissenschaft und Erinnerungkultur<br>X: Geschichtswissenschaft und Erinnerungskultur |
-|Y| [Y: Quellen](#category-Y) | 177 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
+|Y| [Y: Quellen](#category-Y) | 178 | Y - Quellen<br>Y: Quelle<br>Y: Quellen<br>Y; Quellen |
 |Z| [Z: Meta/Podcast](#category-Z) | 35 | Z - Meta/ Podcast<br>Z: Meta/ Podcast |
 
 
@@ -533,6 +533,7 @@ Organic categories
 |[Y-041: Fund des ersten Neandertalers (1856)](https://geschichteeuropas.podigee.io/t8-8)|008|02:00|2020-10-16|19. Jahrhundert, Deutschland, Neandertal, Neandertaler, Neuere und neueste Geschichte, Quelle|
 |[Y-042: Carl Vogt, Der Urmensch (1864)](https://geschichteeuropas.podigee.io/t174-173)|174|06:34|2023-03-19|19. Jahrhundert, Carl Vogt, Deutschland, Europa, Frühgeschichte, Geschichtsbild, Jungsteinzeit, Quelle, Steinzeit|
 |[Y-043: Allgemeines Berggesetz für die preußischen Staaten (1865)](https://geschichteeuropas.podigee.io/t378-377)|378|02:26|2024-09-11|19. Jahrhundert, Braunkohletagebau, Deutschland, Neuere und neueste Geschichte, Preußen, Quelle, Rheinprovinz|
+|[Y-043: Carl Friedrich Wilhelm Jordan spricht von "gesundem Volksegoismus" (1848)](https://geschichteeuropas.podigee.io/t444-444)|444|02:16|2024-12-29|Deutschland, Nationalismus, Neuere und neueste Geschichte, Paulskirche, Polen, Quelle, Rede, Revolution von 1848/49, Wilhelm Jordan|
 |[Y-044: Die Emser Depesche (1870)](https://geschichteeuropas.podigee.io/t9-9)|009|03:11|2020-10-22|19. Jahrhundert, Deutsch-Französischer Krieg, Deutschland, Frankreich, Neuere und neueste Geschichte, Otto von Bismarck, Quelle, Westeuropa, Wilhelm I.|
 |[Y-045: August Bebel und Wilhelm Liebknecht, Begründung  der Enthaltung bei der Abstimmung über Kriegskrediten (1870)](https://geschichteeuropas.podigee.io/t75-75)|075|02:07|2022-03-14|, 19. Jahrhundert, August Bebel, Deutsch-französischer Krieg, Deutschland, Neuere und neueste Geschichte, Quelle, Wilhelm Liebknecht|
 |[Y-046: Kurze Nachrichten zum Ausbruch des deutsch-französischen Kriegs (1870)](https://geschichteeuropas.podigee.io/t41-41)|041|08:42|2021-08-16|19. Jahrhundert, Deutsch-Französischer Krieg, Deutschland, Frankreich, Neuere und neueste Geschichte, Quelle, Westeuropa|

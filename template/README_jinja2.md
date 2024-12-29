@@ -5,14 +5,14 @@
 # Geschichte Eur0pas Podcast
 
 This project analyzes the podcast [Geschichte Eur0pas](https://geschichteeuropas.podigee.io/).
-It provides an overview of all episodes organized and correctly categorized in designated hearing order, because some podcast catcher apps have trouble with ordering by episode subtitles.
-According to original author/creator Tobias Jakobi podcast episodes are supposed to be listened like this
+It provides an overview of all episodes organized and categorized in designated hearing order, because some podcast catcher apps have trouble with ordering by episode subtitle.
+According to original author/creator, Tobias Jakobi, podcast episodes are supposed to be listened like this
 
-> (German quote) "Die Episoden werden thematisch und nicht nach Erscheinungsdatum nummeriert. Für einen chronologischen Durchgang zur europäischen Geschichte sollten die Episoden nach Namen sortiert werden."
+> (German) "Die Episoden werden thematisch und nicht nach Erscheinungsdatum nummeriert. Für einen chronologischen Durchgang zur europäischen Geschichte sollten die Episoden nach Namen sortiert werden."
 
-> (English translation) "The episodes are numbered thematically and not by release date. For a chronological passage to European history, the episodes should be sorted by name."
+> (Translation) "The episodes are numbered thematically and not by release date. For a chronological passage to European history, the episodes should be sorted by name."
 
-Next to ordering more insights are given such as episode cross links and keyword usage.
+Next to ordering, more insights are given such as episode cross links and keyword usage.
 
 ## Podcast meta
 
@@ -30,12 +30,12 @@ Next to ordering more insights are given such as episode cross links and keyword
 
 ## Content
 
-- [Episode List](episodes.md)
+- [Episode list](episodes.md)
 - [Keywords](keywords.md)
 
 ## Links
 
-Visit the podcast site ([subscribe](https://geschichteeuropas.podigee.io/#subscribe))
+Podcast site ([subscribe](https://geschichteeuropas.podigee.io/#subscribe))
 
 [![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=geschichteeuropas.podigee.io&color=orange&logo=podcast%20index)](https://geschichteeuropas.podigee.io/)
 
