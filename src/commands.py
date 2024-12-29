@@ -1,4 +1,6 @@
+import dataclasses
 import datetime
+import jinja2
 import logging
 import pprint
 import pathlib
@@ -201,6 +203,85 @@ def _generate_graphviz(session):
         fd.writelines(lines)
 
 
+@dataclasses.dataclass
+class MarkdownEpisode:
+    title: str
+    number: int
+    link: str
+    duration_str: str
+    publication_str: str
+    keywords: typing.List[str] = dataclasses.field(default_factory=list)
+    linked_episodes: typing.List[typing.Tuple[str, str]] = dataclasses.field(default_factory=list)
+
+    def html_link(self):
+        return f'[{self.title}]({self.link})'
+
+    def linked_episodes_html(self) -> str:
+        s = '<ul>'
+        for e in sorted(self.linked_episodes, key=lambda x: x[0]):
+            s += f'<li>[{e[0]}]({e[1]})</li>'
+        s += '</ul>'
+        return s
+
+
+@dataclasses.dataclass
+class MarkdownCategory:
+    marker: str
+    curated_name: str
+    organic_names: typing.List[str]
+    episodes: typing.List[MarkdownEpisode]
+
+    def html_anchor_name(self):
+        return f'category-{self.marker}'
+
+
+def _seconds_to_minutes_seconds(sec: int) -> typing.Tuple[int, int]:
+    return divmod(sec, 60)
+
+def _render_episode_list(session, output_filepath: pathlib.Path):
+    template_folder = (THIS_FILE_FOLDER / '..' / 'template').resolve().absolute()
+    file_name = 'episodes_jinja2.md'
+
+    environment = jinja2.Environment(
+        loader=jinja2.FileSystemLoader(str(template_folder)),
+    )
+
+    template = environment.get_template(file_name)
+
+    def to_markdown_episode(db_episode: Episode) -> MarkdownEpisode:
+        minutes, seconds =_seconds_to_minutes_seconds(db_episode.duration_seconds)
+        return MarkdownEpisode(
+            title=db_episode.title,
+            number=db_episode.number,
+            link=db_episode.link,
+            publication_str=db_episode.publication_date,
+            duration_str=f'{minutes:02d}:{seconds:02d}',
+            keywords=sorted([k.name for k in db_episode.keywords]),
+            linked_episodes=[(l.title, l.link) for l in db_episode.linked_episodes]
+        )
+
+    category_stmt = select(Category).order_by(Category.marker)
+    md_categories: typing.List[MarkdownCategory] = []
+    for r in session.execute(category_stmt):
+        md_categories.append(MarkdownCategory(
+            marker=r.Category.marker,
+            curated_name=r.Category.curated_name,
+            organic_names=sorted(r.Category.organic_names.split(ORGANIC_NAME_SEPARATOR)),
+            episodes=list(map(to_markdown_episode, r.Category.episodes))
+        ))
+
+
+    output = template.render(
+        {
+            'categories': md_categories
+        }
+    )
+
+    LOGGER.info(f'Write to {output_filepath}')
+    with open(output_filepath, 'w') as f:
+        f.write(output)
+
+
 def step_export():
     engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=False)
     Base.metadata.create_all(engine)
@@ -209,6 +290,11 @@ def step_export():
     session = Session()
 
     if True:
+        # render episode list
+        output_filepath = THIS_FILE_FOLDER / '..' / 'docs' / 'episode_list.md'
+        _render_episode_list(session, output_filepath)
+
+    if False:
         _generate_graphviz(session)
 
     if False:
@@ -227,13 +313,6 @@ def step_xlink():
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    if False:
-        r = session.execute(select(Episode).filter(Episode.id == 402)).fetchone()
-        pprint.pprint(r.Episode.link)
-        for e in sorted(r.Episode.linked_episodes, key=lambda e: e.title):
-            pprint.pprint(e.title)
-        return
-
     def categories_ordered_by_marker(session) -> typing.List[Category]:
         stmt = select(Category).order_by(Category.marker)
         return [row.Category for row in session.execute(stmt)]
@@ -243,11 +322,9 @@ def step_xlink():
         return [row.Episode for row in session.execute(stmt)]
 
     for _, db_category in enumerate(categories_ordered_by_marker(session)):
-        # LOGGER.info(f'== Category {db_category.id} {db_category.currated_name}')
         for _, db_episode in enumerate(episodes_ordered_by_category(db_category)):
             LOGGER.info(f'XLink Episode {db_episode.number}, {db_episode.title} link {db_episode.link}')
             raw_links: typing.List[str] = episode_links.get_linked_episodes(db_episode.link)
-            # pprint.pprint(f'{db_episode.title} is linked to {raw_links}')
             for link_str in raw_links:
                 stmt = select(Episode).filter(Episode.link == link_str)
                 db_linked_episode = session.execute(stmt).fetchone()
@@ -268,8 +345,6 @@ def step_xlink():
                 else:
                     LOGGER.error(f'Linked episode not found "{db_episode.link}" => "{link_str}"')
 
-            # break
-        # break
 
 
 def step_testing():
@@ -299,5 +374,14 @@ def step_testing():
             pprint.pprint(f'== {r.Episode.title}')
             for idx, l in enumerate(sorted(r.Episode.linked_episodes, key=lambda e: e.title)):
                 pprint.pprint(l.title)
+
+    if True:
+        LOGGER.info('== category links')
+        stmt = select(Category).order_by(Category.marker).filter(Category.id == 1)
+        for r in session.execute(stmt):
+            pprint.pprint(f'== {r.Category.curated_name}')
+            for e in r.Category.episodes:
+                pprint.pprint(e.title)
+
 
     pass
