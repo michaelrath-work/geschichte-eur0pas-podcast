@@ -238,6 +238,7 @@ class MarkdownCategory:
 def _seconds_to_minutes_seconds(sec: int) -> typing.Tuple[int, int]:
     return divmod(sec, 60)
 
+
 def _render_episode_list(session, output_filepath: pathlib.Path):
     template_folder = (THIS_FILE_FOLDER / '..' / 'template').resolve().absolute()
     file_name = 'episodes_jinja2.md'
@@ -282,6 +283,38 @@ def _render_episode_list(session, output_filepath: pathlib.Path):
         f.write(output)
 
 
+@dataclasses.dataclass
+class MarkdownKeyword:
+    name: str
+    appearances: int
+
+def _render_keywords_list(session, output_filepath: pathlib.Path):
+    template_folder = (THIS_FILE_FOLDER / '..' / 'template').resolve().absolute()
+    file_name = 'keywords_jinja2.md'
+
+    environment = jinja2.Environment(
+        loader=jinja2.FileSystemLoader(str(template_folder)),
+    )
+
+    template = environment.get_template(file_name)
+
+    keyword_stmt = select(Keyword).order_by(Keyword.name)
+
+    output = template.render(
+        {
+            'context': [MarkdownKeyword(
+                name=r.Keyword.name,
+                appearances=len(r.Keyword.episodes)
+            )
+            for r in session.execute(keyword_stmt)]
+        }
+    )
+
+    LOGGER.info(f'Write to {output_filepath}')
+    with open(output_filepath, 'w') as f:
+        f.write(output)
+
+
 def step_export():
     engine = create_engine(f'sqlite:///{DB_NAME.resolve()}', echo=False)
     Base.metadata.create_all(engine)
@@ -290,19 +323,14 @@ def step_export():
     session = Session()
 
     if True:
-        # render episode list
-        output_filepath = THIS_FILE_FOLDER / '..' / 'docs' / 'episode_list.md'
-        _render_episode_list(session, output_filepath)
+        episodes_filepath = THIS_FILE_FOLDER / '..' / 'docs' / 'episodes.md'
+        _render_episode_list(session, episodes_filepath)
+
+        keywords_filepath = THIS_FILE_FOLDER / '..' / 'docs' / 'keywords.md'
+        _render_keywords_list(session, keywords_filepath)
 
     if False:
         _generate_graphviz(session)
-
-    if False:
-        sql_stmt = select(Episode).order_by(Episode.title)
-        for idx, r in enumerate(session.execute(sql_stmt)):
-            linked = episode_links.get_linked_episodes(r.Episode.link)
-            LOGGER.info(f'{r.Episode.title} -> {linked}')
-            break
 
 
 def step_xlink():

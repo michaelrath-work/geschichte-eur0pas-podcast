@@ -8,17 +8,16 @@ Description and output can be found [here](https://michaelrath-work.github.io/ge
 
 ## For developers
 
-### How to use (legacy)
-
-1. Execute `python3 src/main.py`
-2. Output is written to this location [Episodes (docs/episodes.md)](docs/episodes.md)
-
-### How to use (TNG)
+### How to use
 
 1. `python3 src/main_tng.py bootstrap`
 2. `python3 src/main_tng.py xlink`
 3. `python3 src/main_tng.py export`
 4. temporary: `dot -Tsvg explore/episodes.dot -o explore/episodes.svg` see [Readme](explore/Readme.md)
+
+### How to use (legacy)
+
+1. Execute `python3 src/main.py`
 
 ## TODO
 
