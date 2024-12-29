@@ -244,7 +244,10 @@ class MarkdownEpisode:
         return f'[{self.title}]({self.link})'
 
     def linked_episodes_html(self) -> str:
-        return '<br/>'.join([f'[{item[0]}]({item[1]})' for item in sorted(self.linked_episodes, key=lambda x: x[0])])
+        s = ''
+        for idx, l in enumerate(sorted(self.linked_episodes, key=lambda x: x[0])):
+            s += f'**{idx+1:02d}** [{l[0]}]({l[1]})<br/>'
+        return s
 
 
 @dataclasses.dataclass
