@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+
+    <!-- TODO(micha): WTF? -->
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3?page=1" rel="last"/>
+
+    <title>Geschichte Europas P: Nationalismus und Imperialismus (1849-1914)</title>
+    <language>de</language>
+    <description>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </description>
+    <link>https://geschichteeuropas.podigee.io/</link>
+    <generator>Michael Rath (https://github.com/michaelrath-work/geschichte-eur0pas-podcast)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator, indicate changes to the original and refrain from adding further restrictions. PLEASE NOTE: Some episodes may have a different copyright notice. These will be clearly stated in the respective shownotes.</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg</url>
+      <title>Geschichte Europas P: Nationalismus und Imperialismus (1849-1914)</title>
+      <link>https://geschichteeuropas.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Tobias Jakobi</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Geschichte,Europa</itunes:keywords>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias Jakobi</itunes:name>
+      <itunes:email>podcast.geschichte@gmail.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>P-001: Der deutsch-dänische Krieg (1864), mit Prof. Dr. Tobias Arand</title>
+      <itunes:title>P-001: Der deutsch-dänische Krieg (1864), mit Prof. Dr. Tobias Arand</itunes:title>
+      <description/>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/56-56</link>
+      <guid isPermaLink="false">6f8751a3-8f78-52e3-9440-c5289632ac0d</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>P: Nationalismus und Imperialismus (1849-1914)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Deutschland,Dänemark,Einigungskriege,Neuere und neueste Geschichte,Nordeuropa,Otto von Bismarck,Westeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2440</itunes:duration>
+      <podcast:episode>56</podcast:episode>
+    </item>
+    
+    <item>
+      <title>P-002: Der Deutsche Krieg (1866), mit Prof. Dr. Tobias Arand</title>
+      <itunes:title>P-002: Der Deutsche Krieg (1866), mit Prof. Dr. Tobias Arand</itunes:title>
+      <description/>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/92-92</link>
+      <guid isPermaLink="false">a75f6dd2-ee5a-5a13-a6d0-a0203b8dd9bd</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>92</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>P: Nationalismus und Imperialismus (1849-1914)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Deutschland,Einigungskriege,Königgrätz,Neuere und neueste Geschichte,Otto von Bismarck,Preußen,Westeuropa,Wilhelm I.,Österreich</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2818</itunes:duration>
+      <podcast:episode>92</podcast:episode>
+    </item>
+    
+    <item>
+      <title>P-003: Der deutsch-französische Krieg (1870/71), mit Prof. Dr. Tobias Arand</title>
+      <itunes:title>P-003: Der deutsch-französische Krieg (1870/71), mit Prof. Dr. Tobias Arand</itunes:title>
+      <description/>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/10-10</link>
+      <guid isPermaLink="false">83682312-81ec-53e0-b7af-78544f4d90d4</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>P: Nationalismus und Imperialismus (1849-1914)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Deutsch-Französischer Krieg,Deutschland,Einigungskriege,Frankreich,Napoleon III.,Neuere und neueste Geschichte,Otto von Bismarck,Westeuropa,Wilhelm I.</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3955</itunes:duration>
+      <podcast:episode>10</podcast:episode>
+    </item>
+    
+    <item>
+      <title>P-004: Die Schlacht von Sedan (1870), mit Prof. Dr. Tobias Arand</title>
+      <itunes:title>P-004: Die Schlacht von Sedan (1870), mit Prof. Dr. Tobias Arand</itunes:title>
+      <description/>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/135-135</link>
+      <guid isPermaLink="false">62f1c556-a7ea-5617-a101-d26471f2187c</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>135</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>P: Nationalismus und Imperialismus (1849-1914)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Deutsch-französischer Krieg,Deutschland,Napoleon III.,Neuere und neueste Geschichte,Otto von Bismarck,Schlacht von Sedan,Sedan,Westeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2043</itunes:duration>
+      <podcast:episode>135</podcast:episode>
+    </item>
+    
+    <item>
+      <title>P-005: Die Reichsgründung (1871), mit Jan Markert</title>
+      <itunes:title>P-005: Die Reichsgründung (1871), mit Jan Markert</itunes:title>
+      <description/>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/307-307</link>
+      <guid isPermaLink="false">6fdd7155-e1b0-5039-b6be-595d1b2eef17</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>307</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>P: Nationalismus und Imperialismus (1849-1914)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Bismarck,Deutsch-Deutscher Krieg,Deutsch-dänischer Krieg,Deutsch-französischer Krieg,Deutschland,Neuere und neueste Geschichte,Reichsgründung,Revolution von 1848/49,Wilhelm I.</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5021</itunes:duration>
+      <podcast:episode>307</podcast:episode>
+    </item>
+    
+    <item>
+      <title>P-006: Die Pariser Kommune (1871), mit Prof. Dr. Tobias Arand</title>
+      <itunes:title>P-006: Die Pariser Kommune (1871), mit Prof. Dr. Tobias Arand</itunes:title>
+      <description/>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/235-235</link>
+      <guid isPermaLink="false">c568ad35-fc1f-5913-9097-0d18f02e5c37</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>235</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>P: Nationalismus und Imperialismus (1849-1914)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Bismarck,Deutschland,Frankreich,Neuere und neueste Geschichte,Paris,Pariser Kommune,Revolution,Sozialismus,Westeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2743</itunes:duration>
+      <podcast:episode>235</podcast:episode>
+    </item>
+    
+    <item>
+      <title>P-007: Der Leipziger Hochverratsprozess (1872), mit Dr. Jürgen Schmidt</title>
+      <itunes:title>P-007: Der Leipziger Hochverratsprozess (1872), mit Dr. Jürgen Schmidt</itunes:title>
+      <description/>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/76-76</link>
+      <guid isPermaLink="false">7f33b717-be4d-5821-919f-cd2eb4ff4f02</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>P: Nationalismus und Imperialismus (1849-1914)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,August Bebel,Deutschland,Hochverrat,Leipzig,Neuere und neueste Geschichte,Prozess,Sozialdemokratie,Westeuropa,Wilhelm Liebknecht</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2207</itunes:duration>
+      <podcast:episode>76</podcast:episode>
+    </item>
+    
+    <item>
+      <title>P-008: Die russische Revolution von 1905, mit Prof. Dr. Jörn Happel</title>
+      <itunes:title>P-008: Die russische Revolution von 1905, mit Prof. Dr. Jörn Happel</itunes:title>
+      <description/>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/196-196</link>
+      <guid isPermaLink="false">c5204415-8243-5551-b599-d8a51bd925ca</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>196</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>P: Nationalismus und Imperialismus (1849-1914)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Neuere und Neueste Geschichte,Osteuropa,Revolution,Russische Revolution 1905,Russland,St. Petersburg,Zar Nikolaus II.</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2843</itunes:duration>
+      <podcast:episode>196</podcast:episode>
+    </item>
+    
+    <item>
+      <title>P-009: Die Balkankriege (1912/1913), mit Dr. Franziska Zaugg</title>
+      <itunes:title>P-009: Die Balkankriege (1912/1913), mit Dr. Franziska Zaugg</itunes:title>
+      <description/>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/202-202</link>
+      <guid isPermaLink="false">8994622d-9c8b-565c-b607-6ca3cac7525a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>202</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>P: Nationalismus und Imperialismus (1849-1914)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Balkan,Balkankriege 1912/13,Bulgarien,Griechenland,Neuere und neueste Geschichte,Osmanisches Reich,Quelle,Serbien,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4521</itunes:duration>
+      <podcast:episode>202</podcast:episode>
+    </item>
+    
+
+
+  </channel>
+</rss>

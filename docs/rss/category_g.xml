@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+
+    <!-- TODO(micha): WTF? -->
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3?page=1" rel="last"/>
+
+    <title>Geschichte Europas G: Römische Antike</title>
+    <language>de</language>
+    <description>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </description>
+    <link>https://geschichteeuropas.podigee.io/</link>
+    <generator>Michael Rath (https://github.com/michaelrath-work/geschichte-eur0pas-podcast)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator, indicate changes to the original and refrain from adding further restrictions. PLEASE NOTE: Some episodes may have a different copyright notice. These will be clearly stated in the respective shownotes.</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg</url>
+      <title>Geschichte Europas G: Römische Antike</title>
+      <link>https://geschichteeuropas.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Tobias Jakobi</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Geschichte,Europa</itunes:keywords>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias Jakobi</itunes:name>
+      <itunes:email>podcast.geschichte@gmail.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>G-001: Der Weg in den ersten punischen Krieg (ca. 800 v. Chr. - 264 v. Chr), mit Dr. Christian Rollinger</title>
+      <itunes:title>G-001: Der Weg in den ersten punischen Krieg (ca. 800 v. Chr. - 264 v. Chr), mit Dr. Christian Rollinger</itunes:title>
+      <description/>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/309-309</link>
+      <guid isPermaLink="false">d7362dc6-869d-58cf-8443-8cd902484c00</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>309</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>1. Punischer Krieg,Antike,Karthago,Mittelmeer,Nordafrika,Römische Republik,Sizilien,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5803</itunes:duration>
+      <podcast:episode>309</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-001: Die Zwillinge und die Wölfin - der Mythos von der Gründung Roms, mit Florian Feil</title>
+      <itunes:title>G-001: Die Zwillinge und die Wölfin - der Mythos von der Gründung Roms, mit Florian Feil</itunes:title>
+      <description/>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/423-423</link>
+      <guid isPermaLink="false">34283b9e-9bfe-5f07-a4e1-5df6de52bb5a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>423</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Aeneas,Antike,Mythos,Remus,Rom,Romulus,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3592</itunes:duration>
+      <podcast:episode>423</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-002: Der erste punische Krieg (264-241 v. Chr.), mit Dr. Christian Rollinger</title>
+      <itunes:title>G-002: Der erste punische Krieg (264-241 v. Chr.), mit Dr. Christian Rollinger</itunes:title>
+      <description/>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/351-351</link>
+      <guid isPermaLink="false">4919d0a2-be01-5913-8f36-c4bd0b2ef6b6</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>351</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Italien,Karthago,Krieg,Mittelmeer,Nordafrika,Punischer Krieg,Seeschlacht,Sizilien,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>7868</itunes:duration>
+      <podcast:episode>351</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-003: Sklaverei im alten Rom, mit Prof. Dr. Andrea Binsfeld</title>
+      <itunes:title>G-003: Sklaverei im alten Rom, mit Prof. Dr. Andrea Binsfeld</itunes:title>
+      <description/>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/311-311</link>
+      <guid isPermaLink="false">7063b758-3733-5e80-845b-11f99bc0023b</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>311</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Christentum,Europa,Gladiatoren,Römische Republik,Römisches Imperium,Sklaverei,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4269</itunes:duration>
+      <podcast:episode>311</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-004: Die Romanisierung des Rheinischen Reviers, mit Dr. Marion Brüggler und Eva Cott [LVR geSCHICHTEN]</title>
+      <itunes:title>G-004: Die Romanisierung des Rheinischen Reviers, mit Dr. Marion Brüggler und Eva Cott [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/187-187</link>
+      <guid isPermaLink="false">0d0d31c0-5e89-5e21-a35c-e91943bca178</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>187</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>1. Jahrhundert,1. Jahrhundert v. Chr.,2. Jahrhundert,Antike,Deutschland,Eburonen,Gaius Iulius Caesar,Gallien,Germanen,Romanisierung</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5541</itunes:duration>
+      <podcast:episode>187</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-005: Die Zerstörung Pompejis (79), mit Dr. Yvonne Schmuhl [Staatl. Museum f. Archäologie Chemnitz]</title>
+      <itunes:title>G-005: Die Zerstörung Pompejis (79), mit Dr. Yvonne Schmuhl [Staatl. Museum f. Archäologie Chemnitz]</itunes:title>
+      <description/>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/136-136</link>
+      <guid isPermaLink="false">b5bb6415-c85c-5006-9eed-8cea95c88ebf</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>136</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>1. Jahrhundert,Antike,Herculaneum,Italien,Plinius der Jüngere,Plinius der Ältere,Pompeji,Südeuropa,Vesuv</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1544</itunes:duration>
+      <podcast:episode>136</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-006: Pompeji - Alltag im Schatten des Vulkans, mit Dr. Korana Deppmeyer [Staatl. Museum f. Archäologie Chemnitz]</title>
+      <itunes:title>G-006: Pompeji - Alltag im Schatten des Vulkans, mit Dr. Korana Deppmeyer [Staatl. Museum f. Archäologie Chemnitz]</itunes:title>
+      <description/>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/141-141</link>
+      <guid isPermaLink="false">3ccf0dff-68e1-5c4c-95d3-179abf22ec9c</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>141</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>1. Jahrhundert,Alltagsleben,Antike,Herculaneum,Italien,Pompeji,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2618</itunes:duration>
+      <podcast:episode>141</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-007: Graffiti und Wandmalereien in Pompeji, mit Dr. Polly Lohmann [Staatl. Museum f. Archäologie Chemnitz]</title>
+      <itunes:title>G-007: Graffiti und Wandmalereien in Pompeji, mit Dr. Polly Lohmann [Staatl. Museum f. Archäologie Chemnitz]</itunes:title>
+      <description/>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/145-145</link>
+      <guid isPermaLink="false">2201e33f-92dd-5879-8cd4-571c23bfa6b1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>145</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>1. Jahrhundert,Antike,Graffiti,Italien,Mosaik,Pompeji,Südeuropa,Wandmalereien</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2703</itunes:duration>
+      <podcast:episode>145</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-008: Ein römisches Mumienporträt, mit Dr. Julia Niewind und JProf. Dr. Patrick Reinhard [Stadtmuseum Trier]</title>
+      <itunes:title>G-008: Ein römisches Mumienporträt, mit Dr. Julia Niewind und JProf. Dr. Patrick Reinhard [Stadtmuseum Trier]</itunes:title>
+      <description/>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/240-240</link>
+      <guid isPermaLink="false">59e2f333-6b35-5d25-836b-6de73c4dc718</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>240</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Jahrhundert,Antike,Archäologie,Hawara,Kunst,Mumien,Porträts,Römisches Ägypten,Südeuropa,Ägypten</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3187</itunes:duration>
+      <podcast:episode>240</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-009: Diokletian und die Tetrarchie (284-305), mit Dr. Christian Rollinger</title>
+      <itunes:title>G-009: Diokletian und die Tetrarchie (284-305), mit Dr. Christian Rollinger</itunes:title>
+      <description/>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/101-101</link>
+      <guid isPermaLink="false">74c91786-27d1-5f60-bcb0-c85dee9e0a15</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>101</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>3. Jahrhundert,4. Jahrhundert,Antike,Constantius Chlorus,Diokletian,Europa,Maximian,Römisches Kaiserreich,Spätantike,Tetrarchie</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>7241</itunes:duration>
+      <podcast:episode>101</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-010: Konstantin und das Christentum (306-337), mit Prof. Dr. Andrea Binsfeld</title>
+      <itunes:title>G-010: Konstantin und das Christentum (306-337), mit Prof. Dr. Andrea Binsfeld</itunes:title>
+      <description/>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/144-144</link>
+      <guid isPermaLink="false">0994fd79-733b-59c7-8576-070eafe04af9</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>144</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>4. Jahrhundert,Antike,Christentum,Konstantin der Große,Konstantinopel,Rom,Spätantike,Südeuropa,Trier,York</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>6120</itunes:duration>
+      <podcast:episode>144</podcast:episode>
+    </item>
+    
+    <item>
+      <title>G-011: Asketische Praktiken in der Spätantike, mit Dr. Eike Faber [Univ. Potsdam]</title>
+      <itunes:title>G-011: Asketische Praktiken in der Spätantike, mit Dr. Eike Faber [Univ. Potsdam]</itunes:title>
+      <description/>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/328-328</link>
+      <guid isPermaLink="false">394ba712-b7d9-5d8f-b8fb-0ac5cd1bae09</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>328</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>G: Römische Antike</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Askese,Christentum,Kleinasien,Levante,Nordafrika,Spätantike,Südosteuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4413</itunes:duration>
+      <podcast:episode>328</podcast:episode>
+    </item>
+    
+
+
+  </channel>
+</rss>

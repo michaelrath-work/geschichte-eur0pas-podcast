@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+
+    <!-- TODO(micha): WTF? -->
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3?page=1" rel="last"/>
+
+    <title>Geschichte Europas N: Absolutismus und Aufklärung (1648-1789)</title>
+    <language>de</language>
+    <description>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </description>
+    <link>https://geschichteeuropas.podigee.io/</link>
+    <generator>Michael Rath (https://github.com/michaelrath-work/geschichte-eur0pas-podcast)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator, indicate changes to the original and refrain from adding further restrictions. PLEASE NOTE: Some episodes may have a different copyright notice. These will be clearly stated in the respective shownotes.</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg</url>
+      <title>Geschichte Europas N: Absolutismus und Aufklärung (1648-1789)</title>
+      <link>https://geschichteeuropas.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Tobias Jakobi</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Geschichte,Europa</itunes:keywords>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias Jakobi</itunes:name>
+      <itunes:email>podcast.geschichte@gmail.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>N-001: Zar Peter I. &quot;der Große&quot; von Russland (1672-1725), mit Prof. Dr. Martina Winkler</title>
+      <itunes:title>N-001: Zar Peter I. &quot;der Große&quot; von Russland (1672-1725), mit Prof. Dr. Martina Winkler</itunes:title>
+      <description/>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/168-168</link>
+      <guid isPermaLink="false">83f23cfe-b1eb-5641-8e08-faec4e4d0919</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>168</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>17. Jahrhundert,18. Jahrhundert,Frühe Neuzeit,Nordeuropa,Osteuropa,Peter der Große,Russland,St. Petersburg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3295</itunes:duration>
+      <podcast:episode>168</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-002: Transottomanica: Der venezianische Soldat Muazzo im Morea-Krieg (1685-99), mit Andreas Helmedach [Univ. Leipzig]</title>
+      <itunes:title>N-002: Transottomanica: Der venezianische Soldat Muazzo im Morea-Krieg (1685-99), mit Andreas Helmedach [Univ. Leipzig]</itunes:title>
+      <description/>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/266-266</link>
+      <guid isPermaLink="false">ff913d0f-0d17-55f9-8818-fef39467d577</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>266</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>17. Jahrhundert,Dalmatien,Francesco Muazzo,Frühe Neuzeit,Kreta,Krieg,Osmanisches Reich,Peleponnes,Südeuropa,Venedig</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4691</itunes:duration>
+      <podcast:episode>266</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-003: Der Beginn des Großen Nordischen Kriegs (1700), mit Dr. Dorothée Goetze</title>
+      <itunes:title>N-003: Der Beginn des Großen Nordischen Kriegs (1700), mit Dr. Dorothée Goetze</itunes:title>
+      <description/>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/44-44</link>
+      <guid isPermaLink="false">a3c09b21-7be4-57ea-947c-701daa833aea</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,Frühe Neuzeit,Großer Nordischer Krieg,Karl XII.,Nordeuropa,Osteuropa,Peter der Große,Polen-Litauen,Russland,Sachsen,Schweden</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3889</itunes:duration>
+      <podcast:episode>44</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-004: Der Entthronungsfeldzug gegen August den Starken (1701-1706), mit Dr. Dorothée Goetze</title>
+      <itunes:title>N-004: Der Entthronungsfeldzug gegen August den Starken (1701-1706), mit Dr. Dorothée Goetze</itunes:title>
+      <description/>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/50-50</link>
+      <guid isPermaLink="false">bc34d333-7bbd-5198-8b2a-536c79af8e90</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,August der Starke,Frühe Neuzeit,Großer Nordischer Krieg,Karl XII.,Nordeuropa,Osteuropa,Polen-Litauen,Sachsen,Schweden</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5769</itunes:duration>
+      <podcast:episode>50</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-005: Die Wende im Großen Nordischen Krieg (1707-1709), mit Dr. Dorothée Goetze</title>
+      <itunes:title>N-005: Die Wende im Großen Nordischen Krieg (1707-1709), mit Dr. Dorothée Goetze</itunes:title>
+      <description/>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/80-80</link>
+      <guid isPermaLink="false">6032fa28-de14-502e-9e92-e3faafdf2f8e</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,Frühe Neuzeit,Großer Nordischer Krieg,Karl XII.,Nordeuropa,Osteuropa,Peter der Große,Russland,Schlacht von Poltawa,Schweden</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5421</itunes:duration>
+      <podcast:episode>80</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-006: Karl XII. im osmanischen Exil (1710-1714), mit Dr. Dorothée Goetze</title>
+      <itunes:title>N-006: Karl XII. im osmanischen Exil (1710-1714), mit Dr. Dorothée Goetze</itunes:title>
+      <description/>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/97-97</link>
+      <guid isPermaLink="false">9de38d20-054a-57af-9a4b-c4f8daf54357</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>97</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,Frühe Neuzeit,Großer Nordischer Krieg,Karl XII.,Osmanisches Reich,Osteuropa,Peter der Große,Russland,Schweden,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5035</itunes:duration>
+      <podcast:episode>97</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-007: Der Große Nordische Krieg im Ostseeraum (1710-1715), mit Dr. Dorothée Goetze</title>
+      <itunes:title>N-007: Der Große Nordische Krieg im Ostseeraum (1710-1715), mit Dr. Dorothée Goetze</itunes:title>
+      <description/>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/157-157</link>
+      <guid isPermaLink="false">154e81e7-80b4-595e-9ddf-ab5ff0ae1490</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>157</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,Frühe Neuzeit,Großer Nordischer Krieg,Heiliges Römisches Reich,Nordeuropa,Osteuropa,Preußen,Russland,Schweden</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5202</itunes:duration>
+      <podcast:episode>157</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-008: Die Rückkehr des Königs in den Großen Nordischen Krieg (1715-1718), mit Dr. Dorothée Goetze</title>
+      <itunes:title>N-008: Die Rückkehr des Königs in den Großen Nordischen Krieg (1715-1718), mit Dr. Dorothée Goetze</itunes:title>
+      <description/>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/305-305</link>
+      <guid isPermaLink="false">e94929a1-0e9d-5c3a-895c-e01b06c527f0</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>305</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Dänemark,Finnland,Frühe Neuzeit,Großer Nordischer Krieg,Karl XII. (Schweden),Norddeutschland,Nordeuropa,Norwegen,Osteuropa,Ostsee</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5790</itunes:duration>
+      <podcast:episode>305</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-009: Das Ende des Großen Nordischen Kriegs und der Frieden von Nystadt (1718-1721), mit Dr. Dorothée Goetze</title>
+      <itunes:title>N-009: Das Ende des Großen Nordischen Kriegs und der Frieden von Nystadt (1718-1721), mit Dr. Dorothée Goetze</itunes:title>
+      <description/>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/359-359</link>
+      <guid isPermaLink="false">e9a6231b-b396-51f8-874d-364f88860b0d</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>359</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,Frieden,Frieden von Nystadt,Friedensverhandlungen,Frühe Neuzeit,Großer Nordischer Krieg,Karl XII,Nordeuropa,Norwegen,Schweden</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>6190</itunes:duration>
+      <podcast:episode>359</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-010: Die Malerin Anna Dorothea Therbusch (1721-82), mit N. Jetter, S. Salomon &amp; A. Wolf [Gemäldegalerie Berlin]</title>
+      <itunes:title>N-010: Die Malerin Anna Dorothea Therbusch (1721-82), mit N. Jetter, S. Salomon &amp; A. Wolf [Gemäldegalerie Berlin]</itunes:title>
+      <description/>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/374-374</link>
+      <guid isPermaLink="false">0d6540ca-0a7e-5643-8968-36df6bbff028</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>374</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Berlin,Deutschland,Frühe Neuzeit,Kunst,Kunstakademien,Kunstgeschichte,Paris,Preußen,Stuttgart</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5501</itunes:duration>
+      <podcast:episode>374</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-011: Preußen und der Siebenjährige Krieg (1756-1763) (Teil 1), mit Prof. Dr. Frank Göse</title>
+      <itunes:title>N-011: Preußen und der Siebenjährige Krieg (1756-1763) (Teil 1), mit Prof. Dr. Frank Göse</itunes:title>
+      <description/>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/372-372</link>
+      <guid isPermaLink="false">88cf22cc-a968-579b-9a1d-3e3267556c64</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>372</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Friedrich der Große,Frühe Neuzeit,Preußen,Sachsen,Schlesien,Siebenjähriger Krieg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>6178</itunes:duration>
+      <podcast:episode>372</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-012: Das Veterinärwesen im Habsburgerreich, mit Dr. Daniela Haarmann</title>
+      <itunes:title>N-012: Das Veterinärwesen im Habsburgerreich, mit Dr. Daniela Haarmann</itunes:title>
+      <description/>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/28-28</link>
+      <guid isPermaLink="false">c35b0d82-878c-595b-874e-9fbaf931243f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,Europa,Frühe Neuzeit,Habsburgerreich,Veterinärwesen,Österreich,Österreich-Ungarn</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4129</itunes:duration>
+      <podcast:episode>28</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-012: Preußen und der Siebenjährige Krieg (1756-1763) (Teil 2), mit Prof. Dr. Frank Göse</title>
+      <itunes:title>N-012: Preußen und der Siebenjährige Krieg (1756-1763) (Teil 2), mit Prof. Dr. Frank Göse</itunes:title>
+      <description/>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/408-408</link>
+      <guid isPermaLink="false">87164489-9735-5fde-b75d-78625d7024e9</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>408</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,Brandenburg,Deutschland,Friedrich der Große,Frühe Neuzeit,Preußen,Sachsen,Schlesien,Siebenjähriger Krieg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5914</itunes:duration>
+      <podcast:episode>408</podcast:episode>
+    </item>
+    
+    <item>
+      <title>N-013: Schatzsucherei und Archäologie im Habsburgerreich, mit Dr. Daniela Haarmann</title>
+      <itunes:title>N-013: Schatzsucherei und Archäologie im Habsburgerreich, mit Dr. Daniela Haarmann</itunes:title>
+      <description/>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/36-36</link>
+      <guid isPermaLink="false">4d8e2367-3256-575c-ae74-61423de73a53</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>N: Absolutismus und Aufklärung (1648-1789)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,19. Jahrhundert,Archäologie,Europa,Frühe Neuzeit,Habsburgerreich,Österreich-Ungarn</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2630</itunes:duration>
+      <podcast:episode>36</podcast:episode>
+    </item>
+    
+
+
+  </channel>
+</rss>
