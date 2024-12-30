@@ -10,14 +10,14 @@ Description and output can be found [here](https://michaelrath-work.github.io/ge
 
 ### How to use
 
-1. `python3 src/main_tng.py bootstrap`
-2. `python3 src/main_tng.py xlink`
-3. `python3 src/main_tng.py export`
-4. temporary: `dot -Tsvg explore/episodes.dot -o explore/episodes.svg` see [Readme](explore/Readme.md)
+1. `python3 src/main.py bootstrap`
+2. `python3 src/main.py xlink`
+3. `python3 src/main.py export`
+<!-- 4. temporary: `dot -Tsvg explore/episodes.dot -o explore/episodes.svg` see [Readme](explore/Readme.md) -->
 
 ### How to use (legacy)
 
-1. Execute `python3 src/main.py`
+1. `python3 src/main_legacy.py`
 
 ## TODO
 
