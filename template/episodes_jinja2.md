@@ -27,7 +27,7 @@
 ### {{ category.marker}}: {{ category.curated_name }}
 [top](#top)
 
-[![{{category.marker}}](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message={{category.curated_name.replace(' ', '%20')}}&color=orange&logo=podcast%20index)](rss/category_{{category.marker.lower()}}.xml)
+[![{{category.marker}}](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Geschichte%20Europas%20-%20{{ category.curated_name.replace(' ', '%20') }}&color=orange&logo=rss)](rss/category_{{ category.marker.lower() }}.xml)
 
 {% if category.organic_names|length > 0 %}
 
