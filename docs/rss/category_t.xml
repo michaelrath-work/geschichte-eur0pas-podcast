@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+
+    <!-- TODO(micha): WTF? -->
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3?page=1" rel="last"/>
+
+    <title>Geschichte Europas T: Kalter Krieg und Europäische Einigung (1945-1990)</title>
+    <language>de</language>
+    <description>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </description>
+    <link>https://geschichteeuropas.podigee.io/</link>
+    <generator>Michael Rath (https://github.com/michaelrath-work/geschichte-eur0pas-podcast)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator, indicate changes to the original and refrain from adding further restrictions. PLEASE NOTE: Some episodes may have a different copyright notice. These will be clearly stated in the respective shownotes.</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg</url>
+      <title>Geschichte Europas T: Kalter Krieg und Europäische Einigung (1945-1990)</title>
+      <link>https://geschichteeuropas.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Tobias Jakobi</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Geschichte,Europa</itunes:keywords>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias Jakobi</itunes:name>
+      <itunes:email>podcast.geschichte@gmail.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>T-001: Der Nürnberger Hauptkriegsverbrecherprozess (1945/46), mit Prof. Dr. Kim Christian Priemel</title>
+      <itunes:title>T-001: Der Nürnberger Hauptkriegsverbrecherprozess (1945/46), mit Prof. Dr. Kim Christian Priemel</itunes:title>
+      <description/>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/84-84</link>
+      <guid isPermaLink="false">8447e3b1-94c8-52a3-8498-fb4503e60165</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,20. Jahrhundert,Deutschland,Kriegsverbrechen,Nürnberg,Nürnberger Kriegsverbrecherprozess,Westeuropa,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3493</itunes:duration>
+      <podcast:episode>84</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-002: Ausrangiert: Alltag und Notlösungen nach Kriegsende (1945-1948), mit Markus Berberich [Stadtmuseum Trier]</title>
+      <itunes:title>T-002: Ausrangiert: Alltag und Notlösungen nach Kriegsende (1945-1948), mit Markus Berberich [Stadtmuseum Trier]</itunes:title>
+      <description/>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/390-390</link>
+      <guid isPermaLink="false">6de5dcae-9551-57ca-b275-431dc06635e4</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>390</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Alltag,Armut,Deutschland,Nachkriegszeit,Notlösungen,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1799</itunes:duration>
+      <podcast:episode>390</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-002: Die &quot;Entnazifizierung&quot; Deutschlands ab 1945, mit Dr. Sebastian Rojek</title>
+      <itunes:title>T-002: Die &quot;Entnazifizierung&quot; Deutschlands ab 1945, mit Dr. Sebastian Rojek</itunes:title>
+      <description/>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/429-429</link>
+      <guid isPermaLink="false">9cd5ea40-265a-5b69-9ece-38f6565ee547</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>429</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Bundesrepublik Deutschland,Demokratisierung,Deutschland,Entnazifizierung,Kalter Krieg,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4695</itunes:duration>
+      <podcast:episode>429</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-003: Kirche im Wandel - Integration von Flüchtlingen u. Vertriebenen (1945-63), mit Prof. Dr. R. Bendel [IKKDOS e.V.]</title>
+      <itunes:title>T-003: Kirche im Wandel - Integration von Flüchtlingen u. Vertriebenen (1945-63), mit Prof. Dr. R. Bendel [IKKDOS e.V.]</itunes:title>
+      <description/>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/339-339</link>
+      <guid isPermaLink="false">d7ad0458-c788-580d-a6d5-8facbcdd6d85</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>339</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Heimatvertriebene,Integration,Kirchengeschichte,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3342</itunes:duration>
+      <podcast:episode>339</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-004: Die katholischen Vertriebenen in der DDR, mit Dr. Torsten Müller [IKKDOS e.V.]</title>
+      <itunes:title>T-004: Die katholischen Vertriebenen in der DDR, mit Dr. Torsten Müller [IKKDOS e.V.]</itunes:title>
+      <description/>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/315-315</link>
+      <guid isPermaLink="false">5402a4c2-e959-569b-88fe-03b8cbce472a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>315</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Atheismus,DDR,Deutschland,Heimatvertriebene,Katholizismus,Papst Johannes Paul II.,Religion,Wiedervereinigung,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2688</itunes:duration>
+      <podcast:episode>315</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-004: Jahrestage der &quot;Befreiung&quot; Rigas in sowjetischen Wochenschauen, mit Paul Birkner</title>
+      <itunes:title>T-004: Jahrestage der &quot;Befreiung&quot; Rigas in sowjetischen Wochenschauen, mit Paul Birkner</itunes:title>
+      <description/>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/415-415</link>
+      <guid isPermaLink="false">2bcce8d0-ee5c-54d3-986d-e0ec3caa163f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>415</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Lettland,Mediengeschichte,Osteuropa,Propaganda,Riga,Sowjetunion,Wochenschau,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3221</itunes:duration>
+      <podcast:episode>415</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-005: Martin Schilling und die Notkirchen der frühen Nachkriegszeit, mit Thomas Oschmann [IKKDOS e.V.]</title>
+      <itunes:title>T-005: Martin Schilling und die Notkirchen der frühen Nachkriegszeit, mit Thomas Oschmann [IKKDOS e.V.]</itunes:title>
+      <description/>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/352-352</link>
+      <guid isPermaLink="false">b064378e-8e1a-5c2b-ac97-0a8bdfff0de6</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>352</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Deutschland,Martin Schilling,Notkirchen,Rottenburg,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2805</itunes:duration>
+      <podcast:episode>352</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-006: Neutraubling - wenn Heimatvertriebene neue (Kirchen)gemeinden bilden, mit Dr. Elisabeth Fendl [IKKDOS e.V.]</title>
+      <itunes:title>T-006: Neutraubling - wenn Heimatvertriebene neue (Kirchen)gemeinden bilden, mit Dr. Elisabeth Fendl [IKKDOS e.V.]</itunes:title>
+      <description/>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/323-323</link>
+      <guid isPermaLink="false">70ab1f45-8388-5f4b-ba15-310caaee6243</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>323</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Bayern,Deutschland,Heimatvertriebene,Kirchengemeinde,Neutraubling,Zeitgeschichte,evangelische Kirche,katholische Kirche</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2878</itunes:duration>
+      <podcast:episode>323</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-007: Der Parlamentarische Rat und das Grundgesetz (1948/49), mit Dr. Benedikt Wintgens</title>
+      <itunes:title>T-007: Der Parlamentarische Rat und das Grundgesetz (1948/49), mit Dr. Benedikt Wintgens</itunes:title>
+      <description/>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/381-381</link>
+      <guid isPermaLink="false">9533171d-7aea-54d7-a889-ce8c3dbc14e1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>381</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Besatzungszeit,Demokratie,Deutschland,Grundgesetz,Parlamentarischer Rat,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4150</itunes:duration>
+      <podcast:episode>381</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-008: Die Gründung der DDR (1949), mit Dr. Ilko-Sascha Kowalczuk</title>
+      <itunes:title>T-008: Die Gründung der DDR (1949), mit Dr. Ilko-Sascha Kowalczuk</itunes:title>
+      <description/>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/391-391</link>
+      <guid isPermaLink="false">ee960eda-db91-51ed-a2a2-c47b23ede72b</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>391</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>DDR,Deutsche Teilung,Deutschland,Gründung,Kalter Krieg,Walter Ulbricht,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3651</itunes:duration>
+      <podcast:episode>391</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-009: Die Europäische Gemeinschaft für Kohle und Stahl (1952), mit Prof. Dr. Michael Gehler</title>
+      <itunes:title>T-009: Die Europäische Gemeinschaft für Kohle und Stahl (1952), mit Prof. Dr. Michael Gehler</itunes:title>
+      <description/>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/93-93</link>
+      <guid isPermaLink="false">d901c2af-4079-55dd-b627-29faaaacca9b</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>93</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Bergbau,Europa,Europäische Einigung,Europäische Union,Konrad Adenauer,Robert Schumann,Westeuropa,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3306</itunes:duration>
+      <podcast:episode>93</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-010: Der Volksaufstand in der DDR am 17. Juni 1953, mit Dr. Ilko-Sascha Kowalczuk</title>
+      <itunes:title>T-010: Der Volksaufstand in der DDR am 17. Juni 1953, mit Dr. Ilko-Sascha Kowalczuk</itunes:title>
+      <description/>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/205-205</link>
+      <guid isPermaLink="false">fb0ae865-5f1e-55c3-9182-9e596c064323</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>205</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,BRD,Berlin,Deutschland,Erinnerungskultur,Ostberlin,SED,Volksaufstand in der DDR 1953,Walter Ulbricht,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5168</itunes:duration>
+      <podcast:episode>205</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-011: Der ungarische Volksaufstand (1956), mit Prof. Dr. Michael Gehler</title>
+      <itunes:title>T-011: Der ungarische Volksaufstand (1956), mit Prof. Dr. Michael Gehler</itunes:title>
+      <description/>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/52-52</link>
+      <guid isPermaLink="false">992c4904-916a-5020-bfd1-aa48d05e46a4</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Kalter Krieg,Osteuropa,Ungarischer Volksaufstand 1956,Ungarn,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3217</itunes:duration>
+      <podcast:episode>52</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-012: Der Bau der Berliner Mauer (1961), mit Dr. Gerhard Sälter</title>
+      <itunes:title>T-012: Der Bau der Berliner Mauer (1961), mit Dr. Gerhard Sälter</itunes:title>
+      <description/>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/40-40</link>
+      <guid isPermaLink="false">b3744e5a-d224-5f9d-bc1a-fd46e9152d7c</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Berlin,Berliner Mauer,Deutschland,Mauerbau,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3222</itunes:duration>
+      <podcast:episode>40</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-013: Die Herren-Fußball-WM 1966, mit Nicole Selmer</title>
+      <itunes:title>T-013: Die Herren-Fußball-WM 1966, mit Nicole Selmer</itunes:title>
+      <description/>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/38-38</link>
+      <guid isPermaLink="false">a168ad8d-a413-5f40-a6b8-4ec692b3dd44</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,England,Fußball,Fußballweltmeisterschaft 1966,Herrenfußball,Westeuropa,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3159</itunes:duration>
+      <podcast:episode>38</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-014: Sowjetische Gasexporte nach Europa, mit Prof. Dr. Susanne Schattenberg</title>
+      <itunes:title>T-014: Sowjetische Gasexporte nach Europa, mit Prof. Dr. Susanne Schattenberg</itunes:title>
+      <description/>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/127-127</link>
+      <guid isPermaLink="false">b565f63e-53b8-5a89-9c92-e561c573b2e8</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>127</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Deutschland,Energie,Erdgas,Europa,Kalter Krieg,Osteuropa,Russland,Westeuropa,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3009</itunes:duration>
+      <podcast:episode>127</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-015: Der Grundlagenvertrag zwischen BRD und DDR (1972), mit Jörn Petrick</title>
+      <itunes:title>T-015: Der Grundlagenvertrag zwischen BRD und DDR (1972), mit Jörn Petrick</itunes:title>
+      <description/>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/291-291</link>
+      <guid isPermaLink="false">7dca3ea4-b7db-5c3b-8ea0-815e463788b8</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>291</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Bundesrepublik Deutschland,DDR,Deutsche Teilung,Deutschland,Egon Bahr,Grundlagenvertrag,Neue Ostpolitik,Willy Brandt,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1885</itunes:duration>
+      <podcast:episode>291</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-016: Sowjetische Aufbruchvisionen zum Ende des Kalten Kriegs, mit Prof. Dr. Susanne Schattenberg</title>
+      <itunes:title>T-016: Sowjetische Aufbruchvisionen zum Ende des Kalten Kriegs, mit Prof. Dr. Susanne Schattenberg</itunes:title>
+      <description/>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/209-209</link>
+      <guid isPermaLink="false">f50545fc-220d-5c9b-81aa-529f6bbb520b</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>209</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Entspannungspolitik,Gasexporte,Kalter Krieg,Natalja Gorbanewskaja,Neue Ostpolitik,Nikita Chruschtschow,Osteuropa,Sowjetunion,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4238</itunes:duration>
+      <podcast:episode>209</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-017: Deutsch-deutsche Umweltpolitik im Kalten Krieg (1970-1989), mit Sophie Lange</title>
+      <itunes:title>T-017: Deutsch-deutsche Umweltpolitik im Kalten Krieg (1970-1989), mit Sophie Lange</itunes:title>
+      <description/>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/54-54</link>
+      <guid isPermaLink="false">358ab9f4-7e96-549e-ba48-03934afab2e5</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,DDR,Deutschland,Kalter Krieg,Umwelt,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3930</itunes:duration>
+      <podcast:episode>54</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-018: Das Münchener Olympia-Attentat (1972), mit Bernhard Purin</title>
+      <itunes:title>T-018: Das Münchener Olympia-Attentat (1972), mit Bernhard Purin</itunes:title>
+      <description/>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/109-109</link>
+      <guid isPermaLink="false">e0d2f1e6-f641-5445-9cde-118b724c7019</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>109</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Deutschland,München,Nahostkonflikt,Olympia-Attentat 1972,Olympische Spiele 1972,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1724</itunes:duration>
+      <podcast:episode>109</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-019: Die RAF und der &quot;Deutsche Herbst&quot; (1977), mit Kevin Lenk</title>
+      <itunes:title>T-019: Die RAF und der &quot;Deutsche Herbst&quot; (1977), mit Kevin Lenk</itunes:title>
+      <description/>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/123-123</link>
+      <guid isPermaLink="false">b0c3d348-1e18-5e08-9627-ecbe1b0f99ca</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>123</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Andreas Baader,Deutscher Herbst,Deutschland,Hanns Martin Schleyer,Helmut Schmidt,Rote Armee Fraktion,Stuttgart-Stammheim,Terrorismus,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4132</itunes:duration>
+      <podcast:episode>123</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-020: Flucht nach Österreich im Kalten Krieg, mit Sarah Knoll</title>
+      <itunes:title>T-020: Flucht nach Österreich im Kalten Krieg, mit Sarah Knoll</itunes:title>
+      <description/>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/67-67</link>
+      <guid isPermaLink="false">1f8764d0-dd39-536c-b4fc-ee42cb4df1e0</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,DDR,Europa,Flucht,Kalter Krieg,Osteuropa,Ungarischer Volksaufstand 1956,Ungarn,Wende,Zeitgeschichte,Österreich</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5218</itunes:duration>
+      <podcast:episode>67</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-021: Kirchenbau in der späten DDR-Zeit, mit Dr. Karin Berkemann [AG Kirche und Kulturerbe, Univ. Greifswald]</title>
+      <itunes:title>T-021: Kirchenbau in der späten DDR-Zeit, mit Dr. Karin Berkemann [AG Kirche und Kulturerbe, Univ. Greifswald]</itunes:title>
+      <description/>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/229-229</link>
+      <guid isPermaLink="false">7acadc90-616d-5507-9009-6943e940dd48</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>229</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,DDR,Deutschland,Erinnerungskultur,Kirchen,Kirchenbau,Ostdeutschland,Religion,Stadtplanung,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4183</itunes:duration>
+      <podcast:episode>229</podcast:episode>
+    </item>
+    
+    <item>
+      <title>T-022: Die Auflösung der Sowjetunion (1991), mit Prof. Dr. Susanne Schattenberg</title>
+      <itunes:title>T-022: Die Auflösung der Sowjetunion (1991), mit Prof. Dr. Susanne Schattenberg</itunes:title>
+      <description/>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/60-60</link>
+      <guid isPermaLink="false">a67524a2-62c9-526d-949e-611dbf53e309</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>T: Kalter Krieg und Europäische Einigung (1945-1990)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Europa,Kalter Krieg,Michail Gorbatschow,Osteuropa,Quelle,Russland,Sowjetunion,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4565</itunes:duration>
+      <podcast:episode>60</podcast:episode>
+    </item>
+    
+
+
+  </channel>
+</rss>

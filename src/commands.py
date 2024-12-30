@@ -1,10 +1,12 @@
 import dataclasses
 import datetime
+import html
 import jinja2
 import logging
 import pprint
 import pathlib
 import typing
+import uuid
 from sqlalchemy import create_engine, select
 from sqlalchemy.orm import sessionmaker
 
@@ -265,6 +267,22 @@ def _seconds_to_minutes_seconds(sec: int) -> typing.Tuple[int, int]:
     return divmod(sec, 60)
 
 
+@dataclasses.dataclass
+class RssEpisode:
+    category_marker: str
+    category_curated_name: str
+    title: str
+    number: int
+    link: str
+    duration_seconds: int
+    publication_date_str: str
+    keywords: typing.List[str] = dataclasses.field(default_factory=list)
+
+    @property
+    def guid(self):
+        return uuid.uuid5(uuid.NAMESPACE_DNS, self.link)
+
+
 def _render_episode_list(session, output_filepath: pathlib.Path):
     template_folder = (THIS_FILE_FOLDER / '..' / 'template').resolve().absolute()
     file_name = 'episodes_jinja2.md'
@@ -312,17 +330,40 @@ def _render_episode_list(session, output_filepath: pathlib.Path):
     with open(output_filepath, 'w') as f:
         f.write(output)
 
-    # rss
+    # RSS
+    # validate with: https://validator.w3.org/feed/
     rss_base_path = THIS_FILE_FOLDER / '..' / 'docs' / 'rss'
     rss_base_path.mkdir(parents=True, exist_ok=True)
 
     file_name = 'rss_category_jinja2.xml'
     template = environment.get_template(file_name)
 
+    def to_rss_episode(db_episode: Episode) -> RssEpisode:
+        publication_date = datetime.datetime.strptime(db_episode.publication_date, '%Y-%m-%d').date()
+        return RssEpisode(
+            category_marker=db_episode.category.marker,
+            category_curated_name=db_episode.category.curated_name,
+            title=html.escape(db_episode.title),
+            number=db_episode.number,
+            duration_seconds=db_episode.duration_seconds,
+            link=db_episode.link,
+            # TODO(micha): this is wierd. Why does jinja2 time formating not work
+            publication_date_str=publication_date.strftime('%a, %d %b %Y %H:%M:%S') + ' +0000',
+            keywords=','.join(sorted(k.name for k in db_episode.keywords))
+        )
+
     for r in session.execute(category_stmt):
-        output_filepath = rss_base_path / f'{r.Category.marker.lower()}.xml'
+        output_filepath = rss_base_path / f'category_{r.Category.marker.lower()}.xml'
         output = template.render(
             {
+                'category_marker': r.Category.marker,
+                'category_curated_name': r.Category.curated_name,
+                'episodes': list(
+                    sorted(
+                        map(to_rss_episode, r.Category.episodes),
+                     key=lambda e: e.title
+                    )
+                )
             }
         )
         with open(output_filepath, 'w') as f:

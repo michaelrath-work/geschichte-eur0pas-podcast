@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+
+    <!-- TODO(micha): WTF? -->
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3?page=1" rel="last"/>
+
+    <title>Geschichte Europas X: Geschichtswissenschaft und Erinnerungskultur</title>
+    <language>de</language>
+    <description>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </description>
+    <link>https://geschichteeuropas.podigee.io/</link>
+    <generator>Michael Rath (https://github.com/michaelrath-work/geschichte-eur0pas-podcast)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator, indicate changes to the original and refrain from adding further restrictions. PLEASE NOTE: Some episodes may have a different copyright notice. These will be clearly stated in the respective shownotes.</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg</url>
+      <title>Geschichte Europas X: Geschichtswissenschaft und Erinnerungskultur</title>
+      <link>https://geschichteeuropas.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Tobias Jakobi</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Geschichte,Europa</itunes:keywords>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias Jakobi</itunes:name>
+      <itunes:email>podcast.geschichte@gmail.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>X-001: Das Twitterprojekt &quot;@Krieg7071&quot;, mit Cathérine Pfauth</title>
+      <itunes:title>X-001: Das Twitterprojekt &quot;@Krieg7071&quot;, mit Cathérine Pfauth</itunes:title>
+      <description/>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/18-18</link>
+      <guid isPermaLink="false">3a8c2a9d-2245-5732-97aa-895d452e9bde</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Deutsch-Französischer Krieg,Deutschland,Erinnerungskultur,Frankreich,Neuere und neueste Geschichte,Social Media,Westeuropa,Wissenschaftskommunikation</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1557</itunes:duration>
+      <podcast:episode>18</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-002: Historische Fotografien digitalisieren, mit Dr. Michael Merkel (hadenradio)</title>
+      <itunes:title>X-002: Historische Fotografien digitalisieren, mit Dr. Michael Merkel (hadenradio)</itunes:title>
+      <description/>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/30-30</link>
+      <guid isPermaLink="false">ace4a87f-0223-5986-91ea-8b4cf627f8ed</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Bildquellen,Digitalisierung,Europa,Hamburg,Harburg,Neuere und Neueste Geschichte,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3686</itunes:duration>
+      <podcast:episode>30</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-003: Glory &amp; Defeat: Der dt.-frz. Krieg auf YouTube, mit Cathérine Pfauth und Florian Wittig</title>
+      <itunes:title>X-003: Glory &amp; Defeat: Der dt.-frz. Krieg auf YouTube, mit Cathérine Pfauth und Florian Wittig</itunes:title>
+      <description/>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/42-42</link>
+      <guid isPermaLink="false">b9d18729-7c24-5877-a2e3-1ebd3a4f012e</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Deutsch-Französischer Krieg,Deutschland,Frankreich,Neuere und neueste Geschichte,Westeuropa,YouTube</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2931</itunes:duration>
+      <podcast:episode>42</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-004: Arbeit im Stadtarchiv, mit Petra Tabarelli</title>
+      <itunes:title>X-004: Arbeit im Stadtarchiv, mit Petra Tabarelli</itunes:title>
+      <description/>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/71-71</link>
+      <guid isPermaLink="false">2b6f1966-6ea6-58df-b8a1-1f6d934cc848</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Neuere und neueste Geschichte,Stadtarchiv,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3172</itunes:duration>
+      <podcast:episode>71</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-005: Herausforderungen für Geschichte auf YouTube, mit Florian Wittig</title>
+      <itunes:title>X-005: Herausforderungen für Geschichte auf YouTube, mit Florian Wittig</itunes:title>
+      <description/>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/88-88</link>
+      <guid isPermaLink="false">1162e670-abef-54b8-9de6-7ed5cdf28432</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>YouTube</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2597</itunes:duration>
+      <podcast:episode>88</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-006: Europäische Regionalgeschichte, mit Prof. Dr. Martin Knoll und Dr. Katharina Scharf</title>
+      <itunes:title>X-006: Europäische Regionalgeschichte, mit Prof. Dr. Martin Knoll und Dr. Katharina Scharf</itunes:title>
+      <description/>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/117-117</link>
+      <guid isPermaLink="false">0be9789d-de90-5f04-bb53-46bfc110ddc2</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>117</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Europa,Europäische Regionalgeschichte,Geschichtstheorie,Geschichtswissenschaft</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3610</itunes:duration>
+      <podcast:episode>117</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-007: Luther war nicht Teufels Dudelsack, mit Thomas Lang</title>
+      <itunes:title>X-007: Luther war nicht Teufels Dudelsack, mit Thomas Lang</itunes:title>
+      <description/>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/148-148</link>
+      <guid isPermaLink="false">b612f30d-3f56-5ca5-a8a7-8ac56d87d5e2</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>148</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>16. Jahrhundert,Deutschland,Erhard Schön,Frühe Neuzeit,Geschichtsunterricht,Holzschnitt,Martin Luther,Reformation,Teufel</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4997</itunes:duration>
+      <podcast:episode>148</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-008: Die Rezeption d. untergegangenen Pompejis, mit JProf. Dr. Marian Nebelin [Staatl. Museum f. Archäologie Chemnitz]</title>
+      <itunes:title>X-008: Die Rezeption d. untergegangenen Pompejis, mit JProf. Dr. Marian Nebelin [Staatl. Museum f. Archäologie Chemnitz]</itunes:title>
+      <description/>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/149-149</link>
+      <guid isPermaLink="false">6a38d3cf-8a71-5fb4-869c-f906450359ea</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>149</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,19. Jahrhundert,20. Jahrhundert,Archäologie,Kultur,Neuere und neueste Geschichte,Pink Floyd,Pompeji,Südeuropa,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2848</itunes:duration>
+      <podcast:episode>149</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-009: Das LVR-Projekt &quot;geSCHICHTEN Rheinisches Revier&quot;, mit Alrun Berger [LVR geSCHICHTEN]</title>
+      <itunes:title>X-009: Das LVR-Projekt &quot;geSCHICHTEN Rheinisches Revier&quot;, mit Alrun Berger [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/167-167</link>
+      <guid isPermaLink="false">b27d2bfe-e9d8-5d9b-944a-671da8327b60</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>167</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>21. Jahrhundert,Deutschland,Erinnerungskultur,Multiperspektivität,Partizipation,Public History,Rheinisches Revier,Zeitgeschichte,geSCHICHTEN</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3304</itunes:duration>
+      <podcast:episode>167</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-010: #geschichte #wissenschaftskommunikation #instagram, mit Tabea Henn (klios_spiegel)</title>
+      <itunes:title>X-010: #geschichte #wissenschaftskommunikation #instagram, mit Tabea Henn (klios_spiegel)</itunes:title>
+      <description/>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/177-177</link>
+      <guid isPermaLink="false">16474fba-794d-5937-bcb2-7d207a60d800</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>177</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Europa,Geschichtsunterricht,Geschichtswissenschaft,Instagram,Public History,Social Media,Storytelling,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3623</itunes:duration>
+      <podcast:episode>177</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-011: Byzantinistik, mit Dr. Günter Fuchs (Anno Mundi)</title>
+      <itunes:title>X-011: Byzantinistik, mit Dr. Günter Fuchs (Anno Mundi)</itunes:title>
+      <description/>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/178-178</link>
+      <guid isPermaLink="false">2ed8ec8c-93dc-5ca7-b3ca-55e2ac4eab11</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>178</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,19. Jahrhundert,20. Jahrhundert,Byzantinistik,Europa,Frühe Neuzeit,Neuere und neueste Geschichte,Oströmisches Reich,Wissenschaftsgeschichte,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2125</itunes:duration>
+      <podcast:episode>178</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-012: Der &quot;Mythos Bismarck&quot;, mit Dr. Ulf Morgenstern [Otto-von-Bismarck-Stiftung]</title>
+      <itunes:title>X-012: Der &quot;Mythos Bismarck&quot;, mit Dr. Ulf Morgenstern [Otto-von-Bismarck-Stiftung]</itunes:title>
+      <description/>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/215-215</link>
+      <guid isPermaLink="false">1f8a4ee0-9f71-5352-aadb-91052076b817</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>215</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,21. Jahrhundert,Deutschland,Erinnerungskultur,Friedrichsruh,Geschichtsmythos,Hamburg,Neuere und neueste Geschichte,Otto von Bismarck,Postkolonialismus</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5139</itunes:duration>
+      <podcast:episode>215</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-013: &quot;Juni &#x27;53&quot; - vom historischen Stoff zum historischen Roman, mit Frank Goldammer [Konrad-Adenauer-Stiftung]</title>
+      <itunes:title>X-013: &quot;Juni &#x27;53&quot; - vom historischen Stoff zum historischen Roman, mit Frank Goldammer [Konrad-Adenauer-Stiftung]</itunes:title>
+      <description/>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/217-217</link>
+      <guid isPermaLink="false">4045d2f1-b95f-5d5c-ab6a-9d32674448d6</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>217</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,DDR,Deutschland,Dresden,Historischer Roman,Max Heller,Volksaufstand in der DDR,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3844</itunes:duration>
+      <podcast:episode>217</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-015: Die Diskussion um die DDR als #Unrechtsstaat auf Twitter, mit Robert Scholz</title>
+      <itunes:title>X-015: Die Diskussion um die DDR als #Unrechtsstaat auf Twitter, mit Robert Scholz</itunes:title>
+      <description/>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/251-251</link>
+      <guid isPermaLink="false">13665495-2f39-5be1-bebc-8e6aa8d9ac34</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>251</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,21. Jahrhundert,DDR,Deutschland,Diskurs,Twitter,Unrechtsstaat,Wende,Wiedervereinigung,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3305</itunes:duration>
+      <podcast:episode>251</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-016: Transottomanica: Osteuropäisch-nahöstliche Verflechtungen, mit Denise Klein u. Anna Vlachopoulou [Univ. Leipzig]</title>
+      <itunes:title>X-016: Transottomanica: Osteuropäisch-nahöstliche Verflechtungen, mit Denise Klein u. Anna Vlachopoulou [Univ. Leipzig]</itunes:title>
+      <description/>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/258-258</link>
+      <guid isPermaLink="false">0a7af73c-9779-5410-b392-c285ba25c16d</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>258</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Balkan,Migration,Mobilität,Naher Osten,Neuere und neueste Geschichte,Osmanisches Reich,Osteuropa,Südeuropa,Transottomanica,Verflechtungsgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3646</itunes:duration>
+      <podcast:episode>258</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-017: &quot;Wolken und Berge&quot; und veränderte Landschaften, mit Alexandra Orth und Dr. Manuel Seeger [Stadtmuseum Trier]</title>
+      <itunes:title>X-017: &quot;Wolken und Berge&quot; und veränderte Landschaften, mit Alexandra Orth und Dr. Manuel Seeger [Stadtmuseum Trier]</itunes:title>
+      <description/>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/263-263</link>
+      <guid isPermaLink="false">1045c816-1808-57b7-9c2d-5e40e8619e6f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>263</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Deutschland,Eifel,Fritz von Wille,Gemälde,Klimawandel,Landschaft,Neuere und neueste Geschichte,Sötenich,Umwelt</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3314</itunes:duration>
+      <podcast:episode>263</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-018: geSCHICHTEN von Umbrüchen erzählen, mit Giulia Fanton, Marian Fritz &amp; Dr. Kerstin Schierhold [LVR geSCHICHTEN]</title>
+      <itunes:title>X-018: geSCHICHTEN von Umbrüchen erzählen, mit Giulia Fanton, Marian Fritz &amp; Dr. Kerstin Schierhold [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/264-264</link>
+      <guid isPermaLink="false">b3e36f0a-9dfd-5ac0-a63c-1a8fde353e16</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>264</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Alltagsgeschichte,Deutschland,Erinnerungskultur,Geschichtsprojekt,Partizipation,Rheinisches Revier,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3307</itunes:duration>
+      <podcast:episode>264</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-019: Niedersächsische Archive im Nationalsozialismus, mit Sabine Graf &amp; Dietmar v. Reeken [Niedersächs. Landesarchiv]</title>
+      <itunes:title>X-019: Niedersächsische Archive im Nationalsozialismus, mit Sabine Graf &amp; Dietmar v. Reeken [Niedersächs. Landesarchiv]</itunes:title>
+      <description/>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/265-265</link>
+      <guid isPermaLink="false">fdc7ebe5-102a-53a1-921e-12a1b75d4ae8</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>265</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Archiv,Aufarbeitung,Deutschland,Nachkriegszeit,Nationalsozialismus,Neuere und neueste Geschichte,Niedersachsen,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3451</itunes:duration>
+      <podcast:episode>265</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-020: Archäologie im Braunkohletagebau, mit Robin Peters und Prof. Dr. Michael Schmauder [LVR geSCHICHTEN]</title>
+      <itunes:title>X-020: Archäologie im Braunkohletagebau, mit Robin Peters und Prof. Dr. Michael Schmauder [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/279-279</link>
+      <guid isPermaLink="false">56675e6f-039c-5077-a709-6b7e9470e474</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>279</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Archäologie,Braunkohletagebau,Deutschland,Mittelalter,Rheinisches Revier,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2979</itunes:duration>
+      <podcast:episode>279</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-021: Keyenberg: Leben mit dem Loch, mit Dr. des. Anja Schmid-Engbrodt und Dr. Judith Schmidt [LVR geSCHICHTEN]</title>
+      <itunes:title>X-021: Keyenberg: Leben mit dem Loch, mit Dr. des. Anja Schmid-Engbrodt und Dr. Judith Schmidt [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/287-287</link>
+      <guid isPermaLink="false">12e4c3ae-a2d3-572f-aef3-b6358683e17e</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>287</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>21. Jahrhundert,Braunkohle,Deutschland,Fridays for Future,Garzweiler,Keyenberg,Klimawandel,Rheinisches Revier,Tagebau,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3947</itunes:duration>
+      <podcast:episode>287</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-023: Das archäologische Projekt Manheim, mit Dr. Martin Heinen und Susanne Harke-Schmidt [LVR geSCHICHTEN]</title>
+      <itunes:title>X-023: Das archäologische Projekt Manheim, mit Dr. Martin Heinen und Susanne Harke-Schmidt [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/303-303</link>
+      <guid isPermaLink="false">0e2bb4ca-d867-5108-90be-9f9205e4ef09</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>303</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Archäologie,Braunkohle,Deutschland,Manheim,Rheinisches Revier,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2350</itunes:duration>
+      <podcast:episode>303</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-024: Immaterielles Kulturerbe zwischen Südosteuropa u. deutschsprachigem Raum, mit Y. Zivkovic [KFU Graz] &amp; M. Thaden</title>
+      <itunes:title>X-024: Immaterielles Kulturerbe zwischen Südosteuropa u. deutschsprachigem Raum, mit Y. Zivkovic [KFU Graz] &amp; M. Thaden</itunes:title>
+      <description/>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/322-322</link>
+      <guid isPermaLink="false">0cca7d5f-a158-564c-b14c-2c9d297688f6</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>322</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Balkan,Kulturaustausch,Kulturerbe,Mitteleuropa,Südosteuropa,UNESCO,Westeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4071</itunes:duration>
+      <podcast:episode>322</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-025: Die Vertriebenenwallfahrt &quot;Maria in der Ferne&quot; - Identität und Integration, mit Dr. Heinke Kalinke [IKKDOS e.V.]</title>
+      <itunes:title>X-025: Die Vertriebenenwallfahrt &quot;Maria in der Ferne&quot; - Identität und Integration, mit Dr. Heinke Kalinke [IKKDOS e.V.]</itunes:title>
+      <description/>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/331-331</link>
+      <guid isPermaLink="false">78e64783-8297-5a03-8f89-9e7ac0c0b0ae</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>331</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Heimatvertriebene,Hildesheim,Integration,Maria in der Ferne,Wallfahrt,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2811</itunes:duration>
+      <podcast:episode>331</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-026: Palimpeste und Palimpsest-Räume, mit Prof. Dr. Marian Nebelin und Prof. Dr. Cecile Sandten [TU Chemnitz]</title>
+      <itunes:title>X-026: Palimpeste und Palimpsest-Räume, mit Prof. Dr. Marian Nebelin und Prof. Dr. Cecile Sandten [TU Chemnitz]</itunes:title>
+      <description/>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/333-333</link>
+      <guid isPermaLink="false">16c913f0-832d-5549-997c-fb51f5cbe629</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>333</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Frühe Neuzeit,Geschichtswissenschaft,Kulturwissenschaft,Literaturwissenschaft,Mittelalter,Palimpsest,Stadt</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2256</itunes:duration>
+      <podcast:episode>333</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-027: Mythen um die deutsche Reichsgründung von 1871, mit Dr. Tobias Hirschmüller</title>
+      <itunes:title>X-027: Mythen um die deutsche Reichsgründung von 1871, mit Dr. Tobias Hirschmüller</itunes:title>
+      <description/>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/341-341</link>
+      <guid isPermaLink="false">a01858e2-4021-58ee-90a2-56166499ffef</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>341</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Bundesrepublik Deutschland,DDR,Deutsches Kaiserreich,Deutschland,Erinnerungskultur,Geschichtsmythos,Nationalsozialimsus,Neuere und Neueste Geschichte,Reichsgründung,Weimarer Republik</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3209</itunes:duration>
+      <podcast:episode>341</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-028: Die eigenen (Ur)großväter in der Wehrmacht finden, mit Dr. Johannes Spohr</title>
+      <itunes:title>X-028: Die eigenen (Ur)großväter in der Wehrmacht finden, mit Dr. Johannes Spohr</itunes:title>
+      <description/>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/358-358</link>
+      <guid isPermaLink="false">af118f3a-dec4-5c37-8315-cd84b4b5f3ee</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>358</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,Deutschland,Familienforschung,Kriegsverbrechen,Neuere und neueste Geschichte,Wehrmacht</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3572</itunes:duration>
+      <podcast:episode>358</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-029: Ausrangiert und aus der Mode: Vergangene Alltage im Museum darstellen, mit Dr. Viola Skiba [Stadtmuseum Trier]</title>
+      <itunes:title>X-029: Ausrangiert und aus der Mode: Vergangene Alltage im Museum darstellen, mit Dr. Viola Skiba [Stadtmuseum Trier]</itunes:title>
+      <description/>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/365-365</link>
+      <guid isPermaLink="false">c061eebe-e233-5eba-9f80-ef0acb2bbf66</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>365</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Alltag,Alltagskultur,Museum</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2738</itunes:duration>
+      <podcast:episode>365</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-030: Strukturwandel und neue Alltage im Rheinland filmisch dokumentieren, mit Dr. Lisa Maubach [LVR geSCHICHTEN]</title>
+      <itunes:title>X-030: Strukturwandel und neue Alltage im Rheinland filmisch dokumentieren, mit Dr. Lisa Maubach [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/368-368</link>
+      <guid isPermaLink="false">4df62e8c-f83e-5e7a-880b-a9880d2807c1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>368</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Dokumentation,Rheinisches Revier,Strukturwandel,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2586</itunes:duration>
+      <podcast:episode>368</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-031: Orte der deutschen Demokratiegeschichte, mit A. Braune, M. Lang &amp; K.-M. Sprenger [Weimarer Rendez-vous]</title>
+      <itunes:title>X-031: Orte der deutschen Demokratiegeschichte, mit A. Braune, M. Lang &amp; K.-M. Sprenger [Weimarer Rendez-vous]</itunes:title>
+      <description/>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/370-370</link>
+      <guid isPermaLink="false">8b8deddd-00be-50e7-92c1-f861b504cb32</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>370</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Demokratie,Deutschland,Erinnerungskultur,Neuere und Neueste Geschichte,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3849</itunes:duration>
+      <podcast:episode>370</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-032: Industriekultur im Rheinischen Revier erfassen, mit Dr. Ralf Liptau &amp; Dipl.-Ing. Rasmus Radach [LVR geSCHICHTEN]</title>
+      <itunes:title>X-032: Industriekultur im Rheinischen Revier erfassen, mit Dr. Ralf Liptau &amp; Dipl.-Ing. Rasmus Radach [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/385-385</link>
+      <guid isPermaLink="false">948396fc-944c-5cb8-86f7-129637bcc9ea</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>385</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Industriekultur,Rheinisches Revier,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3158</itunes:duration>
+      <podcast:episode>385</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-033: Stadt beziehungsweise Land, mit Prof. Dr. Susanne Rau [Weimarer Rendez-vous]</title>
+      <itunes:title>X-033: Stadt beziehungsweise Land, mit Prof. Dr. Susanne Rau [Weimarer Rendez-vous]</itunes:title>
+      <description/>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/387-387</link>
+      <guid isPermaLink="false">2c8a1a56-f8c9-5eb8-903c-efaa94e19ce1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>387</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Frühe Neuzeit,Land,Neuere und Neueste Geschichte,Stadt,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3607</itunes:duration>
+      <podcast:episode>387</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-034: Polen A und B in der postkolonialen Theorie und Popkultur, mit Jannick Piskorski</title>
+      <itunes:title>X-034: Polen A und B in der postkolonialen Theorie und Popkultur, mit Jannick Piskorski</itunes:title>
+      <description/>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/421-421</link>
+      <guid isPermaLink="false">2f8d32ea-c37b-5310-acb6-d74d15a618b1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>421</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Erinnerungskultur,Polen,Popkultur,Postkoloniale Theorie,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2622</itunes:duration>
+      <podcast:episode>421</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-035: Die Krakauer Krippentradition &quot;Szopka&quot; als immaterielles Kulturerbe, mit Annika Häberlein</title>
+      <itunes:title>X-035: Die Krakauer Krippentradition &quot;Szopka&quot; als immaterielles Kulturerbe, mit Annika Häberlein</itunes:title>
+      <description/>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/433-433</link>
+      <guid isPermaLink="false">b23e9f66-e568-5784-a546-78222f7cbaf8</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>433</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Advent,Erinnerungskultur,Krakau,Kulturerbe,Osteuropa,Polen,Tradition,Weihnachten,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3330</itunes:duration>
+      <podcast:episode>433</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-036: Erfahrungsberichte ehemalig kriegsgefangener Rotarmistinnen, mit Muriel Nägler</title>
+      <itunes:title>X-036: Erfahrungsberichte ehemalig kriegsgefangener Rotarmistinnen, mit Muriel Nägler</itunes:title>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/439-439</link>
+      <guid isPermaLink="false">d072c5ea-5035-59a1-83ca-8fe080353c81</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>439</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Erinnerungskultur,Kriegsgefangenschaft,Neuere und neueste Geschichte,Osteuropa,Russland,Sowjetunion,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2842</itunes:duration>
+      <podcast:episode>439</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-037: Rechts, -populistisch, -radikal, -extremistisch: eine Begriffsklärung, mit Prof. Dr. Armin Pfahl-Traughber</title>
+      <itunes:title>X-037: Rechts, -populistisch, -radikal, -extremistisch: eine Begriffsklärung, mit Prof. Dr. Armin Pfahl-Traughber</itunes:title>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/445-445</link>
+      <guid isPermaLink="false">e4080c7c-36d9-5fa7-adc5-99c0023fb3ac</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>445</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Begriffsgeschichte,Europa,Neuere und neueste Geschichte,Politik,Rechtsextremismus,Rechtspopulismus,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5174</itunes:duration>
+      <podcast:episode>445</podcast:episode>
+    </item>
+    
+
+
+  </channel>
+</rss>

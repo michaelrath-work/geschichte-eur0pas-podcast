@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+
+    <!-- TODO(micha): WTF? -->
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3?page=1" rel="last"/>
+
+    <title>Geschichte Europas Z: Meta/Podcast</title>
+    <language>de</language>
+    <description>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </description>
+    <link>https://geschichteeuropas.podigee.io/</link>
+    <generator>Michael Rath (https://github.com/michaelrath-work/geschichte-eur0pas-podcast)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator, indicate changes to the original and refrain from adding further restrictions. PLEASE NOTE: Some episodes may have a different copyright notice. These will be clearly stated in the respective shownotes.</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg</url>
+      <title>Geschichte Europas Z: Meta/Podcast</title>
+      <link>https://geschichteeuropas.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Tobias Jakobi</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Geschichte,Europa</itunes:keywords>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias Jakobi</itunes:name>
+      <itunes:email>podcast.geschichte@gmail.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>Z-001: Das Intro als Nullnummer</title>
+      <itunes:title>Z-001: Das Intro als Nullnummer</itunes:title>
+      <description/>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b1-1</link>
+      <guid isPermaLink="false">f4e916c3-d0f7-5b6d-af9d-6157039f45c1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Intro,Nullnummer</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>33</itunes:duration>
+      <podcast:episode>1</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-002: Jahresrückblick 2020</title>
+      <itunes:title>Z-002: Jahresrückblick 2020</itunes:title>
+      <description/>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b15-15</link>
+      <guid isPermaLink="false">8ea6bd4f-9486-5479-8bfe-c64c12b0daac</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Jahresrückblick</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>459</itunes:duration>
+      <podcast:episode>15</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-003: Deutschland und England bei der EM 2021</title>
+      <itunes:title>Z-003: Deutschland und England bei der EM 2021</itunes:title>
+      <description/>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b31-31</link>
+      <guid isPermaLink="false">850c4911-c83b-55e0-8810-c824348b9bd2</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,EM 2021,England,Europa,Herrenfußball,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>266</itunes:duration>
+      <podcast:episode>31</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-004: Wie heißen und zu welchem Ende produzieren wir Geschichtspodcasts?</title>
+      <itunes:title>Z-004: Wie heißen und zu welchem Ende produzieren wir Geschichtspodcasts?</itunes:title>
+      <description/>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b61-61</link>
+      <guid isPermaLink="false">7bc87ac3-4d74-589a-86d7-4e1a06b4022b</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Geschichtspodcasts</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3459</itunes:duration>
+      <podcast:episode>61</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-005: Jahresrückblick 2021</title>
+      <itunes:title>Z-005: Jahresrückblick 2021</itunes:title>
+      <description/>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b62-62</link>
+      <guid isPermaLink="false">bda3bedb-1879-5f22-b511-c1ce58364598</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Jahresrückblick</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>524</itunes:duration>
+      <podcast:episode>62</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-006: Bugfix #1</title>
+      <itunes:title>Z-006: Bugfix #1</itunes:title>
+      <description/>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b70-70</link>
+      <guid isPermaLink="false">e5e19152-71a2-52d9-87da-fd8f9922e1e5</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords><p style="background-color:Tomato; color:white;">MISSING</p></itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>124</itunes:duration>
+      <podcast:episode>70</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-007: Überraschung zum 2. Podcastgeburtstag!</title>
+      <itunes:title>Z-007: Überraschung zum 2. Podcastgeburtstag!</itunes:title>
+      <description/>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b95-95</link>
+      <guid isPermaLink="false">e4f537ca-d233-5783-9000-c9c2a44b3b94</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>95</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Meta</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>184</itunes:duration>
+      <podcast:episode>95</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-008: schwarze0fm entwickelt sich weiter</title>
+      <itunes:title>Z-008: schwarze0fm entwickelt sich weiter</itunes:title>
+      <description/>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b107-107</link>
+      <guid isPermaLink="false">9378e677-260a-5e08-b346-664fefe5a9fc</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>107</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Ankündigung,Auftragsproduktion</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>424</itunes:duration>
+      <podcast:episode>107</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-009: Sonderreihe zur Hanse mit dem EHM &amp; der FGHO!</title>
+      <itunes:title>Z-009: Sonderreihe zur Hanse mit dem EHM &amp; der FGHO!</itunes:title>
+      <description/>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b112-112</link>
+      <guid isPermaLink="false">45279534-626f-5e21-ba45-d796c05761bf</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>112</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Hanse,Sonderserie</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>184</itunes:duration>
+      <podcast:episode>112</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-010: Drei Monate Doppelprogramm!</title>
+      <itunes:title>Z-010: Drei Monate Doppelprogramm!</itunes:title>
+      <description/>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b132-132</link>
+      <guid isPermaLink="false">08f45316-3734-5e22-8ed2-5d8c8ea44898</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>132</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords><p style="background-color:Tomato; color:white;">MISSING</p></itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>123</itunes:duration>
+      <podcast:episode>132</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-011: Sondereihe zu Pompeji mit dem Staatlichen Museum für Archäologie in Chemnitz!</title>
+      <itunes:title>Z-011: Sondereihe zu Pompeji mit dem Staatlichen Museum für Archäologie in Chemnitz!</itunes:title>
+      <description/>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b133-133</link>
+      <guid isPermaLink="false">5150caa7-2fe9-5bc4-a6ca-600b2c7171eb</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>133</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Ankündigung,Pompeji,Sonderserie,smac</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>123</itunes:duration>
+      <podcast:episode>133</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-012: Zur Sonderausstellung &quot;Pompeji &amp; Herculaneum&quot; im Staatlichen Museum für Archäologie Chemnitz</title>
+      <itunes:title>Z-012: Zur Sonderausstellung &quot;Pompeji &amp; Herculaneum&quot; im Staatlichen Museum für Archäologie Chemnitz</itunes:title>
+      <description/>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b137-137</link>
+      <guid isPermaLink="false">18ed3f73-776a-535a-a55c-2137179ee38c</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>137</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>1. Jahrhundert,Antike,Ausstellung,Italien,Pompeji,Südeuropa,Vesuv</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>385</itunes:duration>
+      <podcast:episode>137</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-013: Get-Together 2 - Podcasting Booglaoo!</title>
+      <itunes:title>Z-013: Get-Together 2 - Podcasting Booglaoo!</itunes:title>
+      <description/>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b151-151</link>
+      <guid isPermaLink="false">e7072ff7-eb90-5753-9a39-15a572da83e0</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>151</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Geschichtspodcasts,Jahresende,Quiz</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3180</itunes:duration>
+      <podcast:episode>151</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-014: Jahresrückblick 2022</title>
+      <itunes:title>Z-014: Jahresrückblick 2022</itunes:title>
+      <description/>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b152-152</link>
+      <guid isPermaLink="false">966c2ea9-97f2-5e2f-bf3c-6b524e85ef0f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>152</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Jahresrückblick</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>635</itunes:duration>
+      <podcast:episode>152</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-015: Sonderreihe zum LVR-Projekt &quot;geSCHICHTEN Rheinisches Revier&quot;!</title>
+      <itunes:title>Z-015: Sonderreihe zum LVR-Projekt &quot;geSCHICHTEN Rheinisches Revier&quot;!</itunes:title>
+      <description/>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b162-162</link>
+      <guid isPermaLink="false">4098bee4-2e6f-5eb4-a20c-842a00e6d99f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>162</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Ankündigung,Rheinisches Revier,Sonderserie,geSCHICHTEN</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>86</itunes:duration>
+      <podcast:episode>162</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-016: Bugfix #2</title>
+      <itunes:title>Z-016: Bugfix #2</itunes:title>
+      <description/>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b170-170</link>
+      <guid isPermaLink="false">8af7f876-85df-58a1-96b5-86efe29efb02</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>170</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Bugfix</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>99</itunes:duration>
+      <podcast:episode>170</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-017: Eindrücke vom Workshop &quot;Auslandskorrespondent:innen &amp; Journalismus 2023&quot; [HSU d. Bundeswehr Hamburg]</title>
+      <itunes:title>Z-017: Eindrücke vom Workshop &quot;Auslandskorrespondent:innen &amp; Journalismus 2023&quot; [HSU d. Bundeswehr Hamburg]</itunes:title>
+      <description/>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b185-185</link>
+      <guid isPermaLink="false">a8871ab2-488d-575d-9d9b-f4381126e91b</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>185</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,21. Jahrhundert,Auslandsberichterstattung,Deutschland,Europa,Journalismus,Neuere und neueste Geschichte,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1333</itunes:duration>
+      <podcast:episode>185</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-018: Sonderfolgen zur Tagung &quot;Die Modernität von 1848/49&quot;!</title>
+      <itunes:title>Z-018: Sonderfolgen zur Tagung &quot;Die Modernität von 1848/49&quot;!</itunes:title>
+      <description/>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b186-186</link>
+      <guid isPermaLink="false">283017e3-e55f-5530-b184-506c9ffcfb01</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>186</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Neuere und Neueste Geschichte,Revolution 1848/49</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>130</itunes:duration>
+      <podcast:episode>186</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-019: Deine Stimme für Geschichte Europas beim Deutschen Podcast-Preis 2023!</title>
+      <itunes:title>Z-019: Deine Stimme für Geschichte Europas beim Deutschen Podcast-Preis 2023!</itunes:title>
+      <description/>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b189-189</link>
+      <guid isPermaLink="false">2a9d4f40-ecc6-5399-993b-83eb2ca0ef6e</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>189</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Abstimmung,Deutscher Podcastpreis</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>327</itunes:duration>
+      <podcast:episode>189</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-020: Sonderfolgen mit dem Otto-Lilienthal-Museum Anklam!</title>
+      <itunes:title>Z-020: Sonderfolgen mit dem Otto-Lilienthal-Museum Anklam!</itunes:title>
+      <description/>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/t193-193</link>
+      <guid isPermaLink="false">52257552-0cde-589a-89a0-17dfb8cafe4c</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>193</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Anklam,Ankündigung,Otto Lilienthal,Otto-Lilienthal-Museum Anklam</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>96</itunes:duration>
+      <podcast:episode>193</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-021: Der 3. Podcast-Geburtstag!</title>
+      <itunes:title>Z-021: Der 3. Podcast-Geburtstag!</itunes:title>
+      <description/>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b216-216</link>
+      <guid isPermaLink="false">13d9b4bc-c6e9-5fae-843e-9f9f93be72fd</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>216</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Meta</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>139</itunes:duration>
+      <podcast:episode>216</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-022: Sonderreihe zu &quot;Tell me more - Bilder erzählen Geschichten&quot; im Stadtmuseum Trier!</title>
+      <itunes:title>Z-022: Sonderreihe zu &quot;Tell me more - Bilder erzählen Geschichten&quot; im Stadtmuseum Trier!</itunes:title>
+      <description/>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/t233-233</link>
+      <guid isPermaLink="false">e3bd3f64-5c23-594b-a015-2b3c5fd30396</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>233</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Gemälde,Kunst,Kunstgschichte,Sonderausstellung,Stadtmuseum Trier,Tell me more</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>83</itunes:duration>
+      <podcast:episode>233</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-023: Sonderreihe zur (süd)osteuropäischen Geschichte mit der Universität Leipzig!</title>
+      <itunes:title>Z-023: Sonderreihe zur (süd)osteuropäischen Geschichte mit der Universität Leipzig!</itunes:title>
+      <description/>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b245-245</link>
+      <guid isPermaLink="false">a6bbfdf3-e0c2-5e97-b983-9e85a38ed278</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>245</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Ankündigung,Kolloquium,Osteuropa,Südeuropa,Süodosteuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>138</itunes:duration>
+      <podcast:episode>245</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-024: Get-together 3: Der Übungsplatz der reformierten Podcast-Druiden</title>
+      <itunes:title>Z-024: Get-together 3: Der Übungsplatz der reformierten Podcast-Druiden</itunes:title>
+      <description/>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b277-277</link>
+      <guid isPermaLink="false">59327177-3109-50c0-a34c-3166fda770d4</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>277</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords><p style="background-color:Tomato; color:white;">MISSING</p></itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5020</itunes:duration>
+      <podcast:episode>277</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-025: Jahresrückblick 2023</title>
+      <itunes:title>Z-025: Jahresrückblick 2023</itunes:title>
+      <description/>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b280-280</link>
+      <guid isPermaLink="false">9d9f24dd-6cd7-509c-a88f-b1ffbab58053</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>280</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords><p style="background-color:Tomato; color:white;">MISSING</p></itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>911</itunes:duration>
+      <podcast:episode>280</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-026: Goodbye, Auf den Tag genau!</title>
+      <itunes:title>Z-026: Goodbye, Auf den Tag genau!</itunes:title>
+      <description/>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b297-297</link>
+      <guid isPermaLink="false">553a6a45-3880-583c-b775-75a886bbf6b7</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>297</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Auf den Tag genau,Podcast</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>128</itunes:duration>
+      <podcast:episode>297</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-027: ACH! Schade, das war&#x27;s!</title>
+      <itunes:title>Z-027: ACH! Schade, das war&#x27;s!</itunes:title>
+      <description/>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b308-308</link>
+      <guid isPermaLink="false">ef99eac9-1ce1-557f-a4d5-29b182f69d1a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>308</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Das ACH!,Podcast</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>271</itunes:duration>
+      <podcast:episode>308</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-028: Ankündigung der Sonderreihe „Kirche in Wandel: Integration von Flüchtlingen und Vertriebenen (1945-1963)&quot;</title>
+      <itunes:title>Z-028: Ankündigung der Sonderreihe „Kirche in Wandel: Integration von Flüchtlingen und Vertriebenen (1945-1963)&quot;</itunes:title>
+      <description/>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b310-310</link>
+      <guid isPermaLink="false">3a7a5081-9ce3-5b1e-9183-1ad409339f84</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>310</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Ankündigung,Sonderreihe</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>95</itunes:duration>
+      <podcast:episode>310</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-029: Ankündigung der Sonderreihe &quot;Armut und Verzicht in der Vormoderne&quot; mit der Univ. Potsdam!</title>
+      <itunes:title>Z-029: Ankündigung der Sonderreihe &quot;Armut und Verzicht in der Vormoderne&quot; mit der Univ. Potsdam!</itunes:title>
+      <description/>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b313-313</link>
+      <guid isPermaLink="false">2325fc93-09b2-5a24-a565-5fbca4a3498a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>313</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Ankündigung,Armut,Podcast,Sonderreihe,Verzicht</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>90</itunes:duration>
+      <podcast:episode>313</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-030: Tag der Archäologie an der LVR-Außenstelle Titz am 08.06.2024</title>
+      <itunes:title>Z-030: Tag der Archäologie an der LVR-Außenstelle Titz am 08.06.2024</itunes:title>
+      <description/>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b324-324</link>
+      <guid isPermaLink="false">1fcbea64-c688-55f6-84bf-8aac49e4d217</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>324</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Archäologie,Public History,Rheinisches Revier</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>71</itunes:duration>
+      <podcast:episode>324</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-031: Der 4. Podcast-Geburtstag - mit neuem Veröffentlichungsrhythmus!</title>
+      <itunes:title>Z-031: Der 4. Podcast-Geburtstag - mit neuem Veröffentlichungsrhythmus!</itunes:title>
+      <description/>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b353-353</link>
+      <guid isPermaLink="false">c0e36df9-b796-5752-afaf-629d379748d9</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>353</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Podcast,Veröffentlichungsrhythmus</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>346</itunes:duration>
+      <podcast:episode>353</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-032: Spenden-Dank!</title>
+      <itunes:title>Z-032: Spenden-Dank!</itunes:title>
+      <description/>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b377-377</link>
+      <guid isPermaLink="false">11607f42-cd8b-5cc9-9616-a97a21218f5c</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>377</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Danke,Meta</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>86</itunes:duration>
+      <podcast:episode>377</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-033: Sonderserie &quot;Rechtsextremismus in Deutschland nach 1945&quot;</title>
+      <itunes:title>Z-033: Sonderserie &quot;Rechtsextremismus in Deutschland nach 1945&quot;</itunes:title>
+      <description/>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b402-402</link>
+      <guid isPermaLink="false">4fb2b9fd-4dad-5a95-8579-e92f964508ba</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>402</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Ankündigung,Deutschland,Rechtsextremismus,Sonderserie,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>351</itunes:duration>
+      <podcast:episode>402</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-034: Sonderreihe zur studentischen Tagung &quot;Was bleibt? Erinnerung in Ost- und Südosteuropa&quot; an der Univ. Mainz!</title>
+      <itunes:title>Z-034: Sonderreihe zur studentischen Tagung &quot;Was bleibt? Erinnerung in Ost- und Südosteuropa&quot; an der Univ. Mainz!</itunes:title>
+      <description/>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b413-413</link>
+      <guid isPermaLink="false">cf7dc928-36cc-59c8-95f3-a4b5247403df</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>413</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Ankündigung,Erinnerungskultur,Osteuropa,Sonderserie,Südosteuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>77</itunes:duration>
+      <podcast:episode>413</podcast:episode>
+    </item>
+    
+    <item>
+      <title>Z-035: Christian Lindner und mein Redaktionsplan fliegen im hohen Bogen aus dem Fenster</title>
+      <itunes:title>Z-035: Christian Lindner und mein Redaktionsplan fliegen im hohen Bogen aus dem Fenster</itunes:title>
+      <description/>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b424-424</link>
+      <guid isPermaLink="false">a113c1d4-5efa-5c33-8569-f3dfd8cf06a5</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>424</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Sonderfolge</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>189</itunes:duration>
+      <podcast:episode>424</podcast:episode>
+    </item>
+    
+
+
+  </channel>
+</rss>

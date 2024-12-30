@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+
+    <!-- TODO(micha): WTF? -->
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3?page=1" rel="last"/>
+
+    <title>Geschichte Europas S: 2. Weltkrieg (1939-1945)</title>
+    <language>de</language>
+    <description>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </description>
+    <link>https://geschichteeuropas.podigee.io/</link>
+    <generator>Michael Rath (https://github.com/michaelrath-work/geschichte-eur0pas-podcast)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator, indicate changes to the original and refrain from adding further restrictions. PLEASE NOTE: Some episodes may have a different copyright notice. These will be clearly stated in the respective shownotes.</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg</url>
+      <title>Geschichte Europas S: 2. Weltkrieg (1939-1945)</title>
+      <link>https://geschichteeuropas.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Tobias Jakobi</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Geschichte,Europa</itunes:keywords>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias Jakobi</itunes:name>
+      <itunes:email>podcast.geschichte@gmail.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>S-001: Der deutsche Überfall auf Polen (1939), mit Svea Hammerle</title>
+      <itunes:title>S-001: Der deutsche Überfall auf Polen (1939), mit Svea Hammerle</itunes:title>
+      <description/>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/105-105</link>
+      <guid isPermaLink="false">ef6ac8d3-830e-5f59-a177-7fbcc4a8c948</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,20. Jahrhundert,Deutschland,Neuere und neueste Geschichte,Osteuropa,Polen</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3441</itunes:duration>
+      <podcast:episode>105</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-002: Das Massaker von Katyn (1940), mit Prof. Dr. Claudia Weber</title>
+      <itunes:title>S-002: Das Massaker von Katyn (1940), mit Prof. Dr. Claudia Weber</itunes:title>
+      <description/>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/298-298</link>
+      <guid isPermaLink="false">e5645092-2ba5-58d5-8e31-b37bbd970b06</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>298</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Erinnerungskultur,Katyn,Kriegsverbrechen,NS-Deutschland,Neuere und neueste Geschichte,Osteuropa,Polen,Propaganda,Sowjetunion</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3488</itunes:duration>
+      <podcast:episode>298</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-003: Deportationen jüdischer Menschen nach Gurs (1940), mit Dr. Marco Brenneisen [MARCHIVUM]</title>
+      <itunes:title>S-003: Deportationen jüdischer Menschen nach Gurs (1940), mit Dr. Marco Brenneisen [MARCHIVUM]</itunes:title>
+      <description/>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/211-211</link>
+      <guid isPermaLink="false">b661f756-12e3-58b0-a9c2-edef4e395bab</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>211</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Adolf Eichmann,Antisemitismus,Deutschland,Frankreich,Gurs,Holocaust,Neuere und neueste Geschichte,Westeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2669</itunes:duration>
+      <podcast:episode>211</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-004: Die Besetzung der britischen Kanalinseln (1940-1945), mit Prof. Dr. Tobias Arand</title>
+      <itunes:title>S-004: Die Besetzung der britischen Kanalinseln (1940-1945), mit Prof. Dr. Tobias Arand</itunes:title>
+      <description/>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/300-300</link>
+      <guid isPermaLink="false">f78b7d71-8081-5186-a7cd-0d95633993f1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>300</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Besatzung,Frankreich,Großbritannien,Kanalinseln,Kriegsverbrechen,Neuere und neueste Geschichte,Westeuropa,Zweiter Weltkrieg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1920</itunes:duration>
+      <podcast:episode>300</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-005: Die Operation Barbarossa (1941), mit Dr. Dmitri Stratievski</title>
+      <itunes:title>S-005: Die Operation Barbarossa (1941), mit Dr. Dmitri Stratievski</itunes:title>
+      <description/>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/33-33</link>
+      <guid isPermaLink="false">b95b7106-7c25-528b-9710-7aab0af51c0a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,20. Jahrhundert,Deutsch-sowjetischer Krieg,Europa,NS-Deutschland,Neuere und neueste Geschichte,Operation Barbarossa,Osteuropa,Sowjetunion</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5543</itunes:duration>
+      <podcast:episode>33</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-006: Die Ukraine im 2. Weltkrieg (1941-1944), mit Dr. Johannes Spohr</title>
+      <itunes:title>S-006: Die Ukraine im 2. Weltkrieg (1941-1944), mit Dr. Johannes Spohr</itunes:title>
+      <description/>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/243-243</link>
+      <guid isPermaLink="false">539a8afd-5dbd-5509-8014-73208d7ee2b2</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>243</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,20. Jahrhundert,Holocaust,Krim,Nationalsozialismus,Neuere und neueste Geschichte,Osteuropa,Ukraine,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4426</itunes:duration>
+      <podcast:episode>243</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-007: Die Belagerung Leningrads (1941-1944), mit Dr. Olga Sturkin</title>
+      <itunes:title>S-007: Die Belagerung Leningrads (1941-1944), mit Dr. Olga Sturkin</itunes:title>
+      <description/>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/288-288</link>
+      <guid isPermaLink="false">78510a3f-adc1-5156-b183-df891b80f0f1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>288</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Belagerung,Deutschland,Leningrad,Neuere und neueste Geschichte,Osteuropa,Russland,Sowjetunion,St. Petersburg,Zweiter Weltkrieg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4228</itunes:duration>
+      <podcast:episode>288</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-007: Unter deutscher Besatzung: Europa 1939-1945, mit Prof. Dr. Tatjana Tönsmeyer [C.H. Beck]</title>
+      <itunes:title>S-007: Unter deutscher Besatzung: Europa 1939-1945, mit Prof. Dr. Tatjana Tönsmeyer [C.H. Beck]</itunes:title>
+      <description/>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/395-395</link>
+      <guid isPermaLink="false">de088ef9-3a40-57f7-94b4-cff257d68a04</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>395</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Besatzung,Deutschland,Europa,Frankreich,Holocaust,Neuere und Neueste Geschichte,Polen,Russland</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3781</itunes:duration>
+      <podcast:episode>395</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-008: Sowjetische Kriegsgefangene im 2. Weltkrieg, mit Dr. Dmitri Stratievski</title>
+      <itunes:title>S-008: Sowjetische Kriegsgefangene im 2. Weltkrieg, mit Dr. Dmitri Stratievski</itunes:title>
+      <description/>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/87-87</link>
+      <guid isPermaLink="false">28175f5f-2ca7-5356-9f24-fb1cab2cee10</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,20. Jahrhundert,Kriegsgefangenschaft,NS-Deutschland,Neuere und neueste Geschichte,Osteuropa,Sowjetunion</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3873</itunes:duration>
+      <podcast:episode>87</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-009: Der Massenmord von Babyn Jar (1941), mit Dr. Franziska Davies</title>
+      <itunes:title>S-009: Der Massenmord von Babyn Jar (1941), mit Dr. Franziska Davies</itunes:title>
+      <description/>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/150-150</link>
+      <guid isPermaLink="false">4061f3a7-56f8-59fe-ac63-2310fc307133</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>150</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Babyn Jar,Kyiv,Massenmord,NS-Deutschland,NS-Verbrechen,Neuere und neueste Geschichte,Osteuropa,Sowjetunion,Ukraine</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5062</itunes:duration>
+      <podcast:episode>150</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-010: Die Wannsee-Konferenz (1942), mit Eike Stegen</title>
+      <itunes:title>S-010: Die Wannsee-Konferenz (1942), mit Eike Stegen</itunes:title>
+      <description/>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/64-64</link>
+      <guid isPermaLink="false">50eb0ef5-9d05-5baa-8314-e59cc1f88f77</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Adolf Eichmann,Berlin,Deutschland,Holocaust,Neuere und neueste Geschichte,Wannsee-Konferenz</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4583</itunes:duration>
+      <podcast:episode>64</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-011: Fall Blau - der deutsch-sowjetische Krieg 1942, mit Prof. Dr. Dieter Pohl</title>
+      <itunes:title>S-011: Fall Blau - der deutsch-sowjetische Krieg 1942, mit Prof. Dr. Dieter Pohl</itunes:title>
+      <description/>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/90-90</link>
+      <guid isPermaLink="false">55c3ad67-1309-532f-b76e-5fcae61c2708</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,20. Jahrhundert,Deutsch-sowjetischer Krieg,Deutschland,Kaukasus,Neuere und neueste Geschichte,Osteuropa,Sowjetunion,Stalingrad</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2402</itunes:duration>
+      <podcast:episode>90</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-012: Die Schlacht um Stalingrad (1942/1943), mit Dr. Jens Ebert</title>
+      <itunes:title>S-012: Die Schlacht um Stalingrad (1942/1943), mit Dr. Jens Ebert</itunes:title>
+      <description/>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/282-282</link>
+      <guid isPermaLink="false">78d00500-6a7e-52e9-80f3-affbc3384ec3</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>282</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Neuere und neueste Geschichte,Osteuropa,Russland,Sowjetunion,Stalingrad</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2731</itunes:duration>
+      <podcast:episode>282</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-013: Die Weihnachtsansprache Papst Pius XII. (1942), mit Prof. Dr. Dr. Wolf Hubert</title>
+      <itunes:title>S-013: Die Weihnachtsansprache Papst Pius XII. (1942), mit Prof. Dr. Dr. Wolf Hubert</itunes:title>
+      <description/>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/275-275</link>
+      <guid isPermaLink="false">80fab6ac-590b-55ee-b7ac-4de880e36664</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>275</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Deutschland,Europa,Holocaust,Papst,Pius XII.,Vatikan</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4123</itunes:duration>
+      <podcast:episode>275</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-014: &quot;Totaler Krieg&quot; - Goebbels&#x27; Sportpalastrede (1943), mit Prof. Dr. Ute Daniel</title>
+      <itunes:title>S-014: &quot;Totaler Krieg&quot; - Goebbels&#x27; Sportpalastrede (1943), mit Prof. Dr. Ute Daniel</itunes:title>
+      <description/>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/163-163</link>
+      <guid isPermaLink="false">0e5e774b-2529-51b6-971a-4c1213b71624</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>163</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Berlin,Deutschland,Joseph Goebbels,Mediengeschichte,Neuere und Neueste Geschichte,Propaganda,Sportpalastrede</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3023</itunes:duration>
+      <podcast:episode>163</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-015: Die Panzerschlacht von Kursk und der dt.-sowj. Krieg 1943, mit Dr. Jens Wehner</title>
+      <itunes:title>S-015: Die Panzerschlacht von Kursk und der dt.-sowj. Krieg 1943, mit Dr. Jens Wehner</itunes:title>
+      <description/>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/363-363</link>
+      <guid isPermaLink="false">b8963f38-ba95-5061-802c-b9aedcca2640</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>363</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>NS-Deutschland,Neuere und neueste Geschichte,Osteuropa,Ostfront,Panzerschlacht,Sowjetunion,Zweiter Weltkrieg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>7385</itunes:duration>
+      <podcast:episode>363</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-016: D-Day: Die allierte Landung in der Normandie (1944), mit Dr. Peter Lieb</title>
+      <itunes:title>S-016: D-Day: Die allierte Landung in der Normandie (1944), mit Dr. Peter Lieb</itunes:title>
+      <description/>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/326-326</link>
+      <guid isPermaLink="false">583723e9-4639-5afd-85e9-e2214eb3e8aa</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>326</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>D-Day,Frankreich,Neuere und neueste Geschichte,Normandie,Operation Overlord,Westeuropa,Zweiter Weltkrieg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4971</itunes:duration>
+      <podcast:episode>326</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-017: Operation Walküre - Das Attentat auf Hitler am 20. Juli 1944, mit Dr. Christopher Dowe</title>
+      <itunes:title>S-017: Operation Walküre - Das Attentat auf Hitler am 20. Juli 1944, mit Dr. Christopher Dowe</itunes:title>
+      <description/>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/348-348</link>
+      <guid isPermaLink="false">c561ee29-ba8a-5e74-b1f5-bf451f83a501</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>348</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,20. Juli 1944,Adolf Hitler,Attentat,Deutschland,Neuere und neueste Geschichte,Operation Walküre,Stauffenberg,Wolfsschanze</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4735</itunes:duration>
+      <podcast:episode>348</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-018: Wehrmachtsdeserteure, mit Robert Parzer</title>
+      <itunes:title>S-018: Wehrmachtsdeserteure, mit Robert Parzer</itunes:title>
+      <description/>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/65-65</link>
+      <guid isPermaLink="false">334e359e-2ec5-557a-9644-510122a412d4</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,20. Jahrhundert,Desertion,Deutschland,Neuere und neueste Geschichte,Wehrmacht</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3935</itunes:duration>
+      <podcast:episode>65</podcast:episode>
+    </item>
+    
+    <item>
+      <title>S-020: Die Regierung Dönitz - NS-Deutschland nach Hitlers Suizid (1945), mit Dr. John Zimmermann</title>
+      <itunes:title>S-020: Die Regierung Dönitz - NS-Deutschland nach Hitlers Suizid (1945), mit Dr. John Zimmermann</itunes:title>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/435-435</link>
+      <guid isPermaLink="false">270c28c8-8a6d-5006-bf3b-cf824a0608b8</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>435</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>S: 2. Weltkrieg (1939-1945)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Adolf Hitler,Deutschland,Kapitulation,Karl Dönitz,Kriegsende,NS-Deutschland,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3146</itunes:duration>
+      <podcast:episode>435</podcast:episode>
+    </item>
+    
+
+
+  </channel>
+</rss>

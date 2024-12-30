@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+
+    <!-- TODO(micha): WTF? -->
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3?page=1" rel="last"/>
+
+    <title>Geschichte Europas A: Epochenübergreifende Themen</title>
+    <language>de</language>
+    <description>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </description>
+    <link>https://geschichteeuropas.podigee.io/</link>
+    <generator>Michael Rath (https://github.com/michaelrath-work/geschichte-eur0pas-podcast)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator, indicate changes to the original and refrain from adding further restrictions. PLEASE NOTE: Some episodes may have a different copyright notice. These will be clearly stated in the respective shownotes.</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg</url>
+      <title>Geschichte Europas A: Epochenübergreifende Themen</title>
+      <link>https://geschichteeuropas.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Tobias Jakobi</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Geschichte,Europa</itunes:keywords>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias Jakobi</itunes:name>
+      <itunes:email>podcast.geschichte@gmail.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>A-001: Ägyptische Obelisken in Europa, mit Dr. Arnulf Schlüter (SMÄK auf die Ohren)</title>
+      <itunes:title>A-001: Ägyptische Obelisken in Europa, mit Dr. Arnulf Schlüter (SMÄK auf die Ohren)</itunes:title>
+      <description/>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/35-35</link>
+      <guid isPermaLink="false">478028e0-7c5b-51ca-bee5-cbf612418f13</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>16. Jahrhundert,Antike,Europa,Frühe Neuzeit,München,Neuere und neueste Geschichte,Obelisk,Papst Sixtus V.,Rom,Vatikan,Ägypten</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3629</itunes:duration>
+      <podcast:episode>35</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-002: Byzanz: Ein erster Überblick (Teil 1), mit Günter L. Fuchs (Anno Mundi)</title>
+      <itunes:title>A-002: Byzanz: Ein erster Überblick (Teil 1), mit Günter L. Fuchs (Anno Mundi)</itunes:title>
+      <description/>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/4-4</link>
+      <guid isPermaLink="false">85294235-de8f-5cd5-8d39-7ef74c3333f1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Byzantinisches Reich,Mittelalter,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3913</itunes:duration>
+      <podcast:episode>4</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-003: Byzanz: Ein erster Überblick (Teil 2), mit Günter L. Fuchs (Anno Mundi)</title>
+      <itunes:title>A-003: Byzanz: Ein erster Überblick (Teil 2), mit Günter L. Fuchs (Anno Mundi)</itunes:title>
+      <description/>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/5-5</link>
+      <guid isPermaLink="false">aa26c184-0740-5316-b052-f9f8431914a4</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Byzantinisches Reich,Mittelalter,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3560</itunes:duration>
+      <podcast:episode>5</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-004: Spätantike und Frühmittelalter im Rhein. Revier, mit M. Brüggler, M. Grünewald u. U. Müssemeier [LVR geSCHICHTEN]</title>
+      <itunes:title>A-004: Spätantike und Frühmittelalter im Rhein. Revier, mit M. Brüggler, M. Grünewald u. U. Müssemeier [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/201-201</link>
+      <guid isPermaLink="false">ee26b314-ff3b-5075-8aed-9c36d0b6bfd8</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>201</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>5. Jahrhundert,Antike,Deutschland,Franken,Merowinger,Mittelalter,Rheinisches Revier,Spätantike,Untergang des Römischen Reichs,Völkerwanderung</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4863</itunes:duration>
+      <podcast:episode>201</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-005: Armut und Verzicht in der Vormoderne - ein Überblick, mit Prof. Dr. Christine Kleinjung [Univ. Potsdam]</title>
+      <itunes:title>A-005: Armut und Verzicht in der Vormoderne - ein Überblick, mit Prof. Dr. Christine Kleinjung [Univ. Potsdam]</itunes:title>
+      <description/>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/320-320</link>
+      <guid isPermaLink="false">5701e68d-9964-579d-91d7-e1bae51ca4eb</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>320</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Armut,Europa,Frühe Neuzeit,Mittelalter,Neuere und neueste Geschichte,Verzicht,Zeitgeschichte,Übersicht</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2764</itunes:duration>
+      <podcast:episode>320</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-006: Die Pest als pandemische Krankheit, mit Dr. Alexander Berner</title>
+      <itunes:title>A-006: Die Pest als pandemische Krankheit, mit Dr. Alexander Berner</itunes:title>
+      <description/>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/6-6</link>
+      <guid isPermaLink="false">5e9105b8-d6f0-54da-b2a6-45cf9dafbf05</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Die Pest,Europa,Mittelalter</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3105</itunes:duration>
+      <podcast:episode>6</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-007: Die Hanse - Konsens, Kontore und Konflikte, mit Dr. Angela L. Huang</title>
+      <itunes:title>A-007: Die Hanse - Konsens, Kontore und Konflikte, mit Dr. Angela L. Huang</itunes:title>
+      <description/>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/118-118</link>
+      <guid isPermaLink="false">26c7acba-1682-59a3-a88c-ac96de64872d</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>118</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Frühe Neuzeit,Hanse,Mittelalter,Nordeuropa,Nordsee,Ostsee</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4837</itunes:duration>
+      <podcast:episode>118</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-008: Der &quot;Schwarze Tod&quot; und die 2. Pestpandemie, mit Dr. Alexander Berner</title>
+      <itunes:title>A-008: Der &quot;Schwarze Tod&quot; und die 2. Pestpandemie, mit Dr. Alexander Berner</itunes:title>
+      <description/>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/12-12</link>
+      <guid isPermaLink="false">46bd90be-d2f1-544b-bda1-c3674d2d29f7</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Die Pest,Europa,Frühe Neuzeit,Mittelalter</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4230</itunes:duration>
+      <podcast:episode>12</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-009: Hansetage und Hansestädte, mit Dr. Angela L. Huang</title>
+      <itunes:title>A-009: Hansetage und Hansestädte, mit Dr. Angela L. Huang</itunes:title>
+      <description/>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/121-121</link>
+      <guid isPermaLink="false">e8e2c05a-d4e1-5df2-95a7-66b0acab5b22</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>121</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Frühe Neuzeit,Hanse,Hansestadt,Hansetag,Mittelalter,Nordeuropa,Nordsee,Ostsee</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4051</itunes:duration>
+      <podcast:episode>121</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-010: Guter Stoff - Textilhandel in der Hanse, mit Dr. Angela L. Huang</title>
+      <itunes:title>A-010: Guter Stoff - Textilhandel in der Hanse, mit Dr. Angela L. Huang</itunes:title>
+      <description/>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/124-124</link>
+      <guid isPermaLink="false">74cee17f-ce43-5c6b-86da-993734fd1589</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>124</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Frühe Neuzeit,Hanse,Mittelalter,Nordeuropa,Nordsee,Ostsee,Textilhandel</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3196</itunes:duration>
+      <podcast:episode>124</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-011: Kometenglaube und Kometenfurcht in der FNZ, mit Dr. Doris Gruber</title>
+      <itunes:title>A-011: Kometenglaube und Kometenfurcht in der FNZ, mit Dr. Doris Gruber</itunes:title>
+      <description/>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/24-24</link>
+      <guid isPermaLink="false">7d075b4b-e24f-555e-93de-6bcd723cd44f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>17. Jahrhundert,18. Jahrhundert,Astronomie,Europa,Frühe Neuzeit,Kometen,Wissen</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3029</itunes:duration>
+      <podcast:episode>24</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-012: Transottomanica: Sklaverei und Mobilität im frühneuzeitl. Istanbul, mit Dr. Veruschka Wagner [Univ. Leipzig]</title>
+      <itunes:title>A-012: Transottomanica: Sklaverei und Mobilität im frühneuzeitl. Istanbul, mit Dr. Veruschka Wagner [Univ. Leipzig]</itunes:title>
+      <description/>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/270-270</link>
+      <guid isPermaLink="false">75130b54-e1cb-527a-a220-cbf8e1a0cacb</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>270</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>16. Jahrhundert,17. Jahrhundert,Frühe Neuzeit,Geschlechterrollen,Istanbul,Sklaverei,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1967</itunes:duration>
+      <podcast:episode>270</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-013: Warschau und Migration, mit M. Nesselrodt &amp; F. Schuffert [Kommission für die Geschichte der Deutschen in Polen]</title>
+      <itunes:title>A-013: Warschau und Migration, mit M. Nesselrodt &amp; F. Schuffert [Kommission für die Geschichte der Deutschen in Polen]</itunes:title>
+      <description/>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/269-269</link>
+      <guid isPermaLink="false">c5a43e75-a742-56ee-931c-c8b1ec0e65a1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>269</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,19. Jahrhundert,Frühe Neuzeit,Migration,Napoleonische Kriege,Neuere und neueste Geschichte,Osteuropa,Polen,Siebenjähriger Krieg,Warschau</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4447</itunes:duration>
+      <podcast:episode>269</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-014: Alternative Gottesdienstorte im Bistum Hildesheim seit dem 19. Jhd., mit Dr. Thomas Scharf-Wrede [IKKDOS e.V.]</title>
+      <itunes:title>A-014: Alternative Gottesdienstorte im Bistum Hildesheim seit dem 19. Jhd., mit Dr. Thomas Scharf-Wrede [IKKDOS e.V.]</itunes:title>
+      <description/>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/346-346</link>
+      <guid isPermaLink="false">5ed38786-2615-5f86-9558-51c26b2c4f80</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>346</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,20. Jahrhundert,21. Jahrhundert,Deutschland,Gottesdienst,Hildesheim,Katholizismus,Kirche,Neuere und neueste Geschichte,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5032</itunes:duration>
+      <podcast:episode>346</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-015: Demokratische Traditionen in 1848er-Familien, mit Birgit Bublies-Godau [Tagung &quot;Die Modernität von 1848/49&quot;]</title>
+      <itunes:title>A-015: Demokratische Traditionen in 1848er-Familien, mit Birgit Bublies-Godau [Tagung &quot;Die Modernität von 1848/49&quot;]</itunes:title>
+      <description/>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/195-195</link>
+      <guid isPermaLink="false">5c9508f7-4d13-54ba-b3ac-1bddef3d326f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>195</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>18. Jahrhundert,19. Jahrhundert,20. Jahrhundert,Deutschland,Henriette Obermüller,Jacob Venedey,NS-Widerstand,Neuere und neueste Geschichte,Revolution von 1848/49,Theodor Heuss</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4760</itunes:duration>
+      <podcast:episode>195</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-016: &quot;Gräberfeld X&quot; in Tübingen - Geschichte und Erinnerung, mit Prof. Dr. Benigna Schönhagen und Stefan Wannenwetsch</title>
+      <itunes:title>A-016: &quot;Gräberfeld X&quot; in Tübingen - Geschichte und Erinnerung, mit Prof. Dr. Benigna Schönhagen und Stefan Wannenwetsch</itunes:title>
+      <description/>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/355-355</link>
+      <guid isPermaLink="false">80aec07e-500c-524a-bb8d-551dc6faa2f7</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>355</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Anatomie,Deutschland,Erinnerungskultur,NS-Ideologie,NS-Medizin,NS-Verbrechen,Neuere und Neueste Geschichte,Tübingen,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4961</itunes:duration>
+      <podcast:episode>355</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-017: Die Industrialisierung des Rheinischen Reviers, mit Prof. Dr. Boris Gehlen [LVR geSCHICHTEN]</title>
+      <itunes:title>A-017: Die Industrialisierung des Rheinischen Reviers, mit Prof. Dr. Boris Gehlen [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/224-224</link>
+      <guid isPermaLink="false">01a199a5-2586-556e-8d09-98ea49f7b298</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>224</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,20. Jahrhundert,Braunkohle,Deutschland,Elektrizität,Finanzwesen,Industrialisierung,Köln,Neuere und Neueste Geschichte,Rheinisches Revier</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3357</itunes:duration>
+      <podcast:episode>224</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-018: Die Erfindung des Pauperismus im 19. Jahrhundert, mit Prof. Dr. Monika Wienfort [Univ. Potsdam]</title>
+      <itunes:title>A-018: Die Erfindung des Pauperismus im 19. Jahrhundert, mit Prof. Dr. Monika Wienfort [Univ. Potsdam]</itunes:title>
+      <description/>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/350-350</link>
+      <guid isPermaLink="false">ec64e406-c824-51ed-bbea-5194526b4e4e</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>350</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Armut,Europa,Neuere und neueste Geschichte,Pauperismus</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4106</itunes:duration>
+      <podcast:episode>350</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-019: Die Geschichte des Braunkohlebergbaus im Rheinischen Revier, mit Dr. Guido Hitze [LVR geSCHICHTEN]</title>
+      <itunes:title>A-019: Die Geschichte des Braunkohlebergbaus im Rheinischen Revier, mit Dr. Guido Hitze [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/238-238</link>
+      <guid isPermaLink="false">5e33280e-5532-5202-818d-2fb6ab5bb054</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>238</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,20. Jahrhundert,21. Jahrhundert,Bergbau,Braunkohle,Deutschland,Elektrizität,Neuere und neueste Geschichte,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4288</itunes:duration>
+      <podcast:episode>238</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-020: Der Dillenburger Wilhelmsturm: Geschichte - Gegenwart - Zukunft, mit Simon Dietrich [Oranienstadt Dillenburg]</title>
+      <itunes:title>A-020: Der Dillenburger Wilhelmsturm: Geschichte - Gegenwart - Zukunft, mit Simon Dietrich [Oranienstadt Dillenburg]</itunes:title>
+      <description/>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/431-431</link>
+      <guid isPermaLink="false">8ee328dc-02ec-5c69-acce-150b43ebc235</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>431</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Dillenburg,Erinnerungskultur,Wilhelm von Oranje,Wilhelmsturm</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3817</itunes:duration>
+      <podcast:episode>431</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-020: Ein Steilpass durch die Fußballgeschichte, mit Petra Tabarelli (FRÜF)</title>
+      <itunes:title>A-020: Ein Steilpass durch die Fußballgeschichte, mit Petra Tabarelli (FRÜF)</itunes:title>
+      <description/>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/13-13</link>
+      <guid isPermaLink="false">f6c18c30-e7d7-5b6b-b102-e6281501ba6d</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,20. Jahrhundert,Deutschland,England,Europa,Fußball,Herrenfußball,Neuere und neueste Geschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4731</itunes:duration>
+      <podcast:episode>13</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-021: Die 3. Pestpandemie und die Entdeckung des Pesterregers, mit Dr. Alexander Berner</title>
+      <itunes:title>A-021: Die 3. Pestpandemie und die Entdeckung des Pesterregers, mit Dr. Alexander Berner</itunes:title>
+      <description/>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/14-14</link>
+      <guid isPermaLink="false">f98ad3cf-5113-5b5c-89a0-4ee21cb3284d</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,Alexandre Yersin,Die Pest,Europa,Neuere und neueste Geschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3124</itunes:duration>
+      <podcast:episode>14</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-022: Die Geschichte des Frauenfußballs, mit Petra Tabarelli (FRÜF)</title>
+      <itunes:title>A-022: Die Geschichte des Frauenfußballs, mit Petra Tabarelli (FRÜF)</itunes:title>
+      <description/>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/25-25</link>
+      <guid isPermaLink="false">ffc30c39-1493-5809-853a-38db168dc08a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,20. Jahrhundert,Deutschland,England,Europa,Frauenfußball,Fußball,Nettie Honeyball,Neuere und neueste Geschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5006</itunes:duration>
+      <podcast:episode>25</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-023: Druckerei Schaar &amp; Dathe (1895-1936) - Postkarten &amp; Propaganda, mit B. Röder &amp; W. Stenzhorn [Stadtmuseum Trier]</title>
+      <itunes:title>A-023: Druckerei Schaar &amp; Dathe (1895-1936) - Postkarten &amp; Propaganda, mit B. Röder &amp; W. Stenzhorn [Stadtmuseum Trier]</itunes:title>
+      <description/>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/286-286</link>
+      <guid isPermaLink="false">0ab99835-ff82-5fe4-a956-0aa5603fd4b6</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>286</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>1. Weltkrieg,20. Jahrhundert,Deutschland,Druckerei,Kolonialismus,Lichtdruck,Neuere und neueste Geschichte,Postkarten,Propaganda,Trier</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2585</itunes:duration>
+      <podcast:episode>286</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-024: Das deutsch-russische Jahrhundert, mit Prof. Dr. Stefan Creuzberger</title>
+      <itunes:title>A-024: Das deutsch-russische Jahrhundert, mit Prof. Dr. Stefan Creuzberger</itunes:title>
+      <description/>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/114-114</link>
+      <guid isPermaLink="false">97d0bc1c-c1a4-5355-877d-e1d7ac580164</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>114</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Deutschland,Europa,Neuere und neueste Geschichte,Osteuropa,Russland,Sowjetunion,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>9396</itunes:duration>
+      <podcast:episode>114</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-025: Ukrainischer Nationalismus als sowjetisches Feindbild, mit Dr. Kai Struve [Univ. Leipzig]</title>
+      <itunes:title>A-025: Ukrainischer Nationalismus als sowjetisches Feindbild, mit Dr. Kai Struve [Univ. Leipzig]</itunes:title>
+      <description/>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/252-252</link>
+      <guid isPermaLink="false">8de555db-4738-55d2-aad0-45a090d9d6bc</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>252</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>19. Jahrhundert,20. Jahrhundert,21. Jahrhundert,Nationalismus,Neuere und neueste Geschichte,Osteuropa,Russland,Sowjetunion,Ukraine,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3321</itunes:duration>
+      <podcast:episode>252</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-026: Zwangssterilisationen, &quot;Euthanasie&quot; und die Aktion T4, mit Robert Parzer</title>
+      <itunes:title>A-026: Zwangssterilisationen, &quot;Euthanasie&quot; und die Aktion T4, mit Robert Parzer</itunes:title>
+      <description/>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/20-20</link>
+      <guid isPermaLink="false">ffd70850-a1f3-5363-ab38-1590c0271f6f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Adolf Hitler,Aktion T4,Deutschland,Euthanasie,NS-Verbrechen,Neuere und neueste Geschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5274</itunes:duration>
+      <podcast:episode>20</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-027: Auslandskorrespondenten im 20. Jhd., mit K. Bönker, C. Breitfelder und N. Domeier [HSU d. Bundeswehr Hamburg]</title>
+      <itunes:title>A-027: Auslandskorrespondenten im 20. Jhd., mit K. Bönker, C. Breitfelder und N. Domeier [HSU d. Bundeswehr Hamburg]</itunes:title>
+      <description/>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/182-182</link>
+      <guid isPermaLink="false">4e37001f-914b-53bc-bd12-72239d9a8a19</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>182</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Auslandsberichterstattung,Deutschland,Europa,Journalismus,Neuere und Neueste Geschichte,Osteuropa,Paul Scheffer,Zeitgeschichte,Zeitungen</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5001</itunes:duration>
+      <podcast:episode>182</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-028: Die Hitlerjugend (1926-1945), mit Dr. André Postert</title>
+      <itunes:title>A-028: Die Hitlerjugend (1926-1945), mit Dr. André Postert</itunes:title>
+      <description/>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/184-184</link>
+      <guid isPermaLink="false">25efba93-5f8b-51c0-94ee-471a0d14e91a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>184</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Adolf Hitler,Baldur von Schirach,Deutschland,Hitlerjugend,Jugend,Nationalsozialismus,Neuere und neueste Geschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3841</itunes:duration>
+      <podcast:episode>184</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-029: Das KZ Dachau (1933-1945), mit Dr. Gabriele Hammermann, Albert Knoll und Dr. Christoph Thonfeld</title>
+      <itunes:title>A-029: Das KZ Dachau (1933-1945), mit Dr. Gabriele Hammermann, Albert Knoll und Dr. Christoph Thonfeld</itunes:title>
+      <description/>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/231-231</link>
+      <guid isPermaLink="false">a98110d6-72ee-57d9-9109-f23e714fdb94</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>231</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Deutschland,Konzentrationslager,München,Nationalsozialismus,Neuere und neueste Geschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3286</itunes:duration>
+      <podcast:episode>231</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-030: Das Konzentrationslager Buchenwald (1937-1945), mit Dr. Michael Löffelsender</title>
+      <itunes:title>A-030: Das Konzentrationslager Buchenwald (1937-1945), mit Dr. Michael Löffelsender</itunes:title>
+      <description/>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/304-304</link>
+      <guid isPermaLink="false">4271bf17-805f-5aed-9555-11e1e1aa8fa6</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>304</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Buchenwald,Deutschland,Konzentrationslager,Neuere und neueste Geschichte,Thüringen,Verbrechen,Weimar</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3909</itunes:duration>
+      <podcast:episode>304</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-030: NS-Medizin-Verbrechen im Rheinland (1933-1945) , mit Dr. Luisa Hulsrøj</title>
+      <itunes:title>A-030: NS-Medizin-Verbrechen im Rheinland (1933-1945) , mit Dr. Luisa Hulsrøj</itunes:title>
+      <description/>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/412-412</link>
+      <guid isPermaLink="false">2a91dfdc-f64b-5431-b1b5-7e3324641d17</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>412</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Euthanasie,NS-Medizin,NS-Verbrechen,Neuere und Neueste Geschichte,Rheinland</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2744</itunes:duration>
+      <podcast:episode>412</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-031: Neuengamme - KZ und Gedenkstätte, mit Ulrike Jensen</title>
+      <itunes:title>A-031: Neuengamme - KZ und Gedenkstätte, mit Ulrike Jensen</itunes:title>
+      <description/>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/103-103</link>
+      <guid isPermaLink="false">7e8a30e2-68eb-56e8-8aa6-cd744a6e39c7</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>103</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,20. Jahrhundert,Deutschland,Erinnerungskultur,Hamburg,Konzentrationslager,Neuengamme,Neuere und neueste Geschichte,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3759</itunes:duration>
+      <podcast:episode>103</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-032: Architektur der Kontrolle: Das Konzentrationslager Sachsenhausen (1936-1945), mit Dr. Astrid Ley</title>
+      <itunes:title>A-032: Architektur der Kontrolle: Das Konzentrationslager Sachsenhausen (1936-1945), mit Dr. Astrid Ley</itunes:title>
+      <description/>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/441-441</link>
+      <guid isPermaLink="false">3ef164ae-d89d-5537-8306-e011720cc5d1</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>441</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,Berlin,Brandenburg,Deutschland,Konzentrationslager,Sachsenhausen</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>6136</itunes:duration>
+      <podcast:episode>441</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-032: Das Konzentrationslager Flossenbürg (1938-1945), mit Lisa Herbst und Timo Saalmann</title>
+      <itunes:title>A-032: Das Konzentrationslager Flossenbürg (1938-1945), mit Lisa Herbst und Timo Saalmann</itunes:title>
+      <description/>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/407-407</link>
+      <guid isPermaLink="false">29949ac1-f2e0-5817-8c2f-d1713de5fa68</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>407</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Dietrich Bonhoeffer,Flossenbürg,KZ Flossenbürg,Konzentraionslager,Neuere und Neueste Geschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5242</itunes:duration>
+      <podcast:episode>407</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-032: Trümmerfrauen (?) in Kassel, 1943-1955, mit Helke Dreier und Dr. Kerstin Wolff [Archiv der dt. Frauenbewegung]</title>
+      <itunes:title>A-032: Trümmerfrauen (?) in Kassel, 1943-1955, mit Helke Dreier und Dr. Kerstin Wolff [Archiv der dt. Frauenbewegung]</itunes:title>
+      <description/>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/342-342</link>
+      <guid isPermaLink="false">a441603e-6589-5b4f-8515-0dfb2a23337a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>342</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Deutschland,Enttrümmerung,Geschichtsmythos,Kassel,Luftkrieg,Neuere und neueste Geschichte,Trümmerfrauen,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4282</itunes:duration>
+      <podcast:episode>342</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-033: Deals mit Diktaturen - eine andere Geschichte der Bundesrepublik, mit Prof. Dr. Frank Bösch [C. H. Beck]</title>
+      <itunes:title>A-033: Deals mit Diktaturen - eine andere Geschichte der Bundesrepublik, mit Prof. Dr. Frank Bösch [C. H. Beck]</itunes:title>
+      <description/>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/292-292</link>
+      <guid isPermaLink="false">ac98b5e5-acda-5f34-ad40-aa1e6174d34a</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>292</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Bundesrepublik Deutschland,Deutschland,Estado Novo,Franco-Spanien,Griechenland,Iran,Portugal,Spanien,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3394</itunes:duration>
+      <podcast:episode>292</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-034: Das industrialisierte Rheinische Revier, mit Dr. Walter Hauser [LVR geSCHICHTEN]</title>
+      <itunes:title>A-034: Das industrialisierte Rheinische Revier, mit Dr. Walter Hauser [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/250-250</link>
+      <guid isPermaLink="false">3addbb0b-ffc1-53fb-b421-a76c48d6e6f0</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>250</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,21. Jahrhundert,Braunkohle,Deindustrialisierung,Deutschland,Energiewende,Klimakrise,Nordrhein-Westfalen,Rheinisches Revier,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4113</itunes:duration>
+      <podcast:episode>250</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-035: Staubekämpfung und Mobilität in Europa, mit Dr. Veit Damm &amp; Dr. Christian Franke [Univ. Siegen]</title>
+      <itunes:title>A-035: Staubekämpfung und Mobilität in Europa, mit Dr. Veit Damm &amp; Dr. Christian Franke [Univ. Siegen]</itunes:title>
+      <description/>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/276-276</link>
+      <guid isPermaLink="false">c6f7b94f-02e6-549c-a5eb-bdb348a3b443</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>276</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,21. Jahrhundert,Deutschland,Europa,Mobilität,Stau,Verkehr,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4512</itunes:duration>
+      <podcast:episode>276</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-036: Protest und Protestkultur im Rheinischen Revier, mit Dirk Jansen [LVR geSCHICHTEN]</title>
+      <itunes:title>A-036: Protest und Protestkultur im Rheinischen Revier, mit Dirk Jansen [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/357-357</link>
+      <guid isPermaLink="false">2adf9fce-7e08-5676-99a9-12fb1dbafedc</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>357</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Braunkohletagebau,Deutschland,Garzweiler,Hambach,Hambacher Forst,Protest,Protestkultur,Rheinisches Revier,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3647</itunes:duration>
+      <podcast:episode>357</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-037: Strukturwandel und Naturschutz im Rheinischen Revier, mit Linus Platzer [LVR geSCHICHTEN]</title>
+      <itunes:title>A-037: Strukturwandel und Naturschutz im Rheinischen Revier, mit Linus Platzer [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/361-361</link>
+      <guid isPermaLink="false">c93637e2-3dc4-5960-b179-6dc4e8d28504</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>361</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Biodiversität,Braunkohletagebau,Deutschland,Naturschutz,Rheinisches Revier,Strukturwandel,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1897</itunes:duration>
+      <podcast:episode>361</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-038: Rekultivierung im Rheinischen Revier, mit Dr. Michael Farrenkopf [LVR geSCHICHTEN]</title>
+      <itunes:title>A-038: Rekultivierung im Rheinischen Revier, mit Dr. Michael Farrenkopf [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/379-379</link>
+      <guid isPermaLink="false">f81629be-eeb1-5cbc-a205-f795ecfbc7aa</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>379</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Braunkohletagebau,Deutschland,Naturschutz,Rekultivierung,Rheinisches Revier,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3980</itunes:duration>
+      <podcast:episode>379</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-039: Transformation der Industriekultur im Rheinischen Revier, mit Dr. W. Hauser &amp; Dr. A. Kierdorf [LVR geSCHICHTEN]</title>
+      <itunes:title>A-039: Transformation der Industriekultur im Rheinischen Revier, mit Dr. W. Hauser &amp; Dr. A. Kierdorf [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/393-393</link>
+      <guid isPermaLink="false">a98dda6b-b844-570a-90aa-c7a2f6e266ce</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>393</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Erinnerungskultur,Industriekultur,Public History,Rheinisches Revier,Transformation,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3773</itunes:duration>
+      <podcast:episode>393</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-040: Neuland?! Vom Land zur Stadt zurück zum Land, mit Prof. Dr. Gerd Zimmermann [Weimarer Rendez-vous]</title>
+      <itunes:title>A-040: Neuland?! Vom Land zur Stadt zurück zum Land, mit Prof. Dr. Gerd Zimmermann [Weimarer Rendez-vous]</itunes:title>
+      <description/>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/399-399</link>
+      <guid isPermaLink="false">b31c2a72-a8f0-5b7c-9ce0-f32ab0d8c3b6</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>399</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Digitalisierung,Landflucht,Stadtflucht,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4821</itunes:duration>
+      <podcast:episode>399</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-042: Das Hessische Braunkohlen-Revier, mit Ingo Sielaff [LVR geSCHICHTEN]</title>
+      <itunes:title>A-042: Das Hessische Braunkohlen-Revier, mit Ingo Sielaff [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/405-405</link>
+      <guid isPermaLink="false">8007a46a-9d5f-586c-99dd-38ee71cd1e81</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>405</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Borken,Braunkohle,Braunkohlenbergbau,Deutschland,Elektrizität,Grubenunglück,Hessen</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4699</itunes:duration>
+      <podcast:episode>405</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-043: Das Ruhrgebiet als Nachbarregion des Rheinischen Reviers, mit Prof. Dr. Stefan Berger [LVR geSCHICHTEN]</title>
+      <itunes:title>A-043: Das Ruhrgebiet als Nachbarregion des Rheinischen Reviers, mit Prof. Dr. Stefan Berger [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/410-410</link>
+      <guid isPermaLink="false">fde0bf0f-812c-518e-8ab0-d0baa25c977f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>410</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Gastarbeiter,Migration,Neuere und neueste Geschichte,Ruhrpolen,Strukturwandel,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4174</itunes:duration>
+      <podcast:episode>410</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-045: Das Mitteldeutsche Revier, mit Dr. Annette Schneider-Reinhardt [LVR geSCHICHTEN]</title>
+      <itunes:title>A-045: Das Mitteldeutsche Revier, mit Dr. Annette Schneider-Reinhardt [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/419-419</link>
+      <guid isPermaLink="false">2f464d89-a6f2-5a5c-86b3-036268fbde16</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>419</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Braunkohle,DDR,Deutschland,Industriekultur,Mitteldeutsches Revier,Rekultivierung,Strukturbruch,Wende,Wiedervereinigung,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4197</itunes:duration>
+      <podcast:episode>419</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-046: Das Lausitzer Revier, mit Heidi Pinkepank und Dr. Lars Scharnholz [LVR geSCHICHTEN]</title>
+      <itunes:title>A-046: Das Lausitzer Revier, mit Heidi Pinkepank und Dr. Lars Scharnholz [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/427-427</link>
+      <guid isPermaLink="false">12cd2124-5ccf-50e9-857c-5bf2665075bb</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>427</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Braunkohleabbau,Deutschland,Lausitz,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5731</itunes:duration>
+      <podcast:episode>427</podcast:episode>
+    </item>
+    
+    <item>
+      <title>A-048: Die Sorben und das Lausitzer Revier, mit Dr. Jenny Hagemann [LVR geSCHICHTEN]</title>
+      <itunes:title>A-048: Die Sorben und das Lausitzer Revier, mit Dr. Jenny Hagemann [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/437-437</link>
+      <guid isPermaLink="false">560531cb-51cd-599a-bfb6-a5c476448d7e</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>437</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Braunkohletagebau,Deutschland,Lausitz,Lausitzer Revier,Neuere und Neueste Geschichte,Sachsen,Sorben,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4054</itunes:duration>
+      <podcast:episode>437</podcast:episode>
+    </item>
+    
+
+
+  </channel>
+</rss>

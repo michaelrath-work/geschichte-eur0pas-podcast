@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+
+    <!-- TODO(micha): WTF? -->
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="self"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3" rel="first"/>
+    <atom:link href="https://geschichteeuropas.podigee.io/feed/mp3?page=1" rel="last"/>
+
+    <title>Geschichte Europas R: Zwischenkriegszeit (1918-1939)</title>
+    <language>de</language>
+    <description>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </description>
+    <link>https://geschichteeuropas.podigee.io/</link>
+    <generator>Michael Rath (https://github.com/michaelrath-work/geschichte-eur0pas-podcast)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator, indicate changes to the original and refrain from adding further restrictions. PLEASE NOTE: Some episodes may have a different copyright notice. These will be clearly stated in the respective shownotes.</copyright>
+    <image>
+      <url>https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg</url>
+      <title>Geschichte Europas R: Zwischenkriegszeit (1918-1939)</title>
+      <link>https://geschichteeuropas.podigee.io/</link>
+    </image>
+    <itunes:image href="https://images.podigee-cdn.net/0x,sciKFxfDuD5adpxcYgtaE2L3hIvukm9_IDxbyMU3Q7gs=/https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg"/>
+    <itunes:subtitle/>
+    <itunes:author>Tobias Jakobi</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Geschichte,Europa</itunes:keywords>
+    <itunes:category text="History"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Ein Podcast über die Geschichte Europas. Gespräche mit Expert:innen, angefangen beim geologischen Entstehen der europäischen Halbinsel bis hin zum heutigen Tag. Mitglied von geschichtspodcasts.de &amp; wissenschaftspodcasts.de
+
+    Direktlink zur Webseite des Podcasts: https://geschichteeuropas.podigee.io/
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tobias Jakobi</itunes:name>
+      <itunes:email>podcast.geschichte@gmail.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>R-001: Der Rapallo-Vertrag zwischen Deutschland und Sowjetrussland (1922), mit Prof. Dr. Jörn Happel</title>
+      <itunes:title>R-001: Der Rapallo-Vertrag zwischen Deutschland und Sowjetrussland (1922), mit Prof. Dr. Jörn Happel</itunes:title>
+      <description/>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/79-79</link>
+      <guid isPermaLink="false">3b0bf6b5-8364-59c7-8a6d-6cd51cf5a429</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Deutschland,Diplomatie,Neuere und Neueste Geschichte,Osteuropa,Rapallo,Rapallovertrag,Russland,Vertrag,Westeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2962</itunes:duration>
+      <podcast:episode>79</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-002: Der Aufstieg Mussolinis und der Marsch auf Rom (1922), mit Dr. René Möhrle</title>
+      <itunes:title>R-002: Der Aufstieg Mussolinis und der Marsch auf Rom (1922), mit Dr. René Möhrle</itunes:title>
+      <description/>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/131-131</link>
+      <guid isPermaLink="false">7edba8a2-e8fa-5a03-bf4e-b37556146e5e</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>131</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Benito Mussolini,Faschismus,Italien,Marsch auf Rom (1922),Neuere und neueste Geschichte,Südeuropa</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4270</itunes:duration>
+      <podcast:episode>131</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-003: Die Entdeckung des Grabes des Tutenchamuns (1922), mit Dr. Sylvia Schoske</title>
+      <itunes:title>R-003: Die Entdeckung des Grabes des Tutenchamuns (1922), mit Dr. Sylvia Schoske</itunes:title>
+      <description/>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/140-140</link>
+      <guid isPermaLink="false">fbf57f43-553e-5b26-8545-d780c9de5d33</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>140</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Archäologie,Entdeckung,Howard Carter,Lord Carnavon,Neuere und neueste Geschichte,Nordafrika,Tutenchamun,Ägypten,Ägyptologie</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3289</itunes:duration>
+      <podcast:episode>140</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-004: Die Etablierung der faschistischen Diktatur in Italien unter Mussolini (1922-1934), mit Dr. René Möhrle</title>
+      <itunes:title>R-004: Die Etablierung der faschistischen Diktatur in Italien unter Mussolini (1922-1934), mit Dr. René Möhrle</itunes:title>
+      <description/>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/317-317</link>
+      <guid isPermaLink="false">d1983ae3-506b-5a3c-8c03-dcc8ad80bc0f</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>317</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Faschismus,Italien,Mussolini,Neuere und neueste Geschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4251</itunes:duration>
+      <podcast:episode>317</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-005: Die Ruhrbesetzung (1923-1925), mit Prof. Dr. Stefan Goch</title>
+      <itunes:title>R-005: Die Ruhrbesetzung (1923-1925), mit Prof. Dr. Stefan Goch</itunes:title>
+      <description/>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/155-155</link>
+      <guid isPermaLink="false">2d1e47a2-3606-5109-b0be-e5b9c616e2e7</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>155</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>1. Weltkrieg,20. Jahrhundert,Belgien,Deutschland,Frankreich,Neuere und neueste Geschichte,Reparationen,Ruhrbesetzung,Ruhrgebiet</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4419</itunes:duration>
+      <podcast:episode>155</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-006: Der Holodomor (1931-1933), mit Dr. Franziska Davies</title>
+      <itunes:title>R-006: Der Holodomor (1931-1933), mit Dr. Franziska Davies</itunes:title>
+      <description/>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/314-314</link>
+      <guid isPermaLink="false">87be0ff6-2a8d-5a47-8824-3ebc919ffea6</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>314</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Erinnerungskultur,Holodomor,Josef Stalin,Neuere und neueste Geschichte,Osteuropa,Ukraine,Völkermord</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4489</itunes:duration>
+      <podcast:episode>314</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-007: Der Hitlerputsch (1923), mit Dr. Wolfgang Niess [C.H. Beck]</title>
+      <itunes:title>R-007: Der Hitlerputsch (1923), mit Dr. Wolfgang Niess [C.H. Beck]</itunes:title>
+      <description/>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/164-164</link>
+      <guid isPermaLink="false">a67b1628-7a84-5425-9713-c34d1f1df7ba</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>164</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Adolf Hitler,Deutschland,Erich Ludendorff,Gustav Ritter v. Kahr,Hans v. Seisser,Hitlerputsch,München,Nationalsozialismus,Neuere und neueste Geschichte,Otto v. Lossow</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>7055</itunes:duration>
+      <podcast:episode>164</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-008: Hitlers Machtübernahme (1933), mit Andreas Mix</title>
+      <itunes:title>R-008: Hitlers Machtübernahme (1933), mit Andreas Mix</itunes:title>
+      <description/>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/159-159</link>
+      <guid isPermaLink="false">d6040daf-cbba-53a2-ba62-501d9a8d143d</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>159</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Adolf Hitler,Deutschland,Heinrich Brüning,Kurt von Schleicher,Machtübernahme,Nationalsozialismus,Neuere und neueste Geschichte,Paul von Hindenburg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2407</itunes:duration>
+      <podcast:episode>159</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-009: Der Reichstagsbrand (1933) (Teil 1), mit Dr. Rainer Orth</title>
+      <itunes:title>R-009: Der Reichstagsbrand (1933) (Teil 1), mit Dr. Rainer Orth</itunes:title>
+      <description/>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/223-223</link>
+      <guid isPermaLink="false">7785fed9-0912-509d-823d-69154e6ba74d</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>223</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Adolf Hitler,Berlin,Deutschland,Marinus van der Lubbe,NS-Diktatur,Neuere und neueste Geschichte,Reichstag,Reichstagsbrand</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3512</itunes:duration>
+      <podcast:episode>223</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-010: Der Reichstagsbrand (1933) (Teil 2), mit Dr. Rainer Orth</title>
+      <itunes:title>R-010: Der Reichstagsbrand (1933) (Teil 2), mit Dr. Rainer Orth</itunes:title>
+      <description/>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/225-225</link>
+      <guid isPermaLink="false">ba8555c5-4111-5e49-8420-c1f772edd7e9</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>225</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Berlin,Deutschland,Forschungskontroverse,Marinus van der Lubbe,NS-Diktatur,Neuere und neueste Geschichte,Reichstag,Reichstagsbrand</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>8037</itunes:duration>
+      <podcast:episode>225</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-011: Das Ermächtigungsgesetz (1933), mit Prof. Dr. Philipp Austermann</title>
+      <itunes:title>R-011: Das Ermächtigungsgesetz (1933), mit Prof. Dr. Philipp Austermann</itunes:title>
+      <description/>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/334-334</link>
+      <guid isPermaLink="false">027b5c53-871c-52d7-9eb8-c685a076fd55</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>334</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Adolf Hitler,Deutschland,Ermächtigungsgesetz,NS-Diktatur,NSDAP,Neuere und neueste Geschichte,Reichstag,SPD,Zentrum (Partei)</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5093</itunes:duration>
+      <podcast:episode>334</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-012: Der Dillenburger Wilhelmsturm im Nationalsozialismus (1933), mit Dr. Katherine Lukat [Oranienstadt Dillenburg]</title>
+      <itunes:title>R-012: Der Dillenburger Wilhelmsturm im Nationalsozialismus (1933), mit Dr. Katherine Lukat [Oranienstadt Dillenburg]</itunes:title>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/443-443</link>
+      <guid isPermaLink="false">51edaf7d-0d6c-57ef-b7a4-85186cbc1d5c</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>443</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Dillenburg,Hessen,Machtübernahme,Nationalsozialismus,Wilhelm von Oranien,Wilhelmsturm</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3876</itunes:duration>
+      <podcast:episode>443</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-012: Die Anfänge der Gestapo (1933), mit Dr. Claudia Steur</title>
+      <itunes:title>R-012: Die Anfänge der Gestapo (1933), mit Dr. Claudia Steur</itunes:title>
+      <description/>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/257-257</link>
+      <guid isPermaLink="false">5cb113b9-3c66-5fb1-880e-667ff1cac763</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>257</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Berlin,Deutschland,Gestapo,NS-Diktatur,Neuere und neueste Geschichte,Polizei,Preußenschlag,Weimarer Republik</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3701</itunes:duration>
+      <podcast:episode>257</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-013: Die nationalsozialistischen Bücherverbrennungen (1933), mit Dr. Sophia Dafinger</title>
+      <itunes:title>R-013: Die nationalsozialistischen Bücherverbrennungen (1933), mit Dr. Sophia Dafinger</itunes:title>
+      <description/>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/192-192</link>
+      <guid isPermaLink="false">d60f6e6b-5ee7-5e4e-bcad-d65fce7fd806</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>192</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Berlin,Bücherverbrennung,Deutschland,Joseph Goebbels,Nationalsozialismus,Neuere und neueste Geschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3282</itunes:duration>
+      <podcast:episode>192</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-014: Das Reichskonkordat (1933), mit Dr. Jan Wille</title>
+      <itunes:title>R-014: Das Reichskonkordat (1933), mit Dr. Jan Wille</itunes:title>
+      <description/>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/417-417</link>
+      <guid isPermaLink="false">68a30f17-1427-5dbc-9cdd-42aa03c67a2b</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>417</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Eugenio Pacelli,Katholische Kirche,NS-Deutschland,Neuere und neueste Geschichte,Pius XI.,Pius XII.,Reichskonkordat,Vatikan</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4549</itunes:duration>
+      <podcast:episode>417</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-014: Der Hitler-Stalin-Pakt (1939), mit Prof. Dr. Claudia Weber</title>
+      <itunes:title>R-014: Der Hitler-Stalin-Pakt (1939), mit Prof. Dr. Claudia Weber</itunes:title>
+      <description/>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/96-96</link>
+      <guid isPermaLink="false">7c931f68-754d-5070-a597-714929f73edb</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>96</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>2. Weltkrieg,20. Jahrhundert,Adolf Hitler,Hitler-Stalin-Pakt,Josef Stalin,NS-Deutschland,Neuere und neueste Geschichte,Osteuropa,Polen,Sowjetunion</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5597</itunes:duration>
+      <podcast:episode>96</podcast:episode>
+    </item>
+    
+    <item>
+      <title>R-015: Die Übernahme des Gestapa durch Heinrich Himmler und Reinhard Heydrich (1934), mit Andreas Mix</title>
+      <itunes:title>R-015: Die Übernahme des Gestapa durch Heinrich Himmler und Reinhard Heydrich (1934), mit Andreas Mix</itunes:title>
+      <description/>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/425-425</link>
+      <guid isPermaLink="false">6a5147d7-75b9-5e3c-8e7e-1af949f46676</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>425</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>R: Zwischenkriegszeit (1918-1939)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Geheime Staatspolizei,Gestapa,Gestapo,Heinrich Himmler,NS-Deutschland,Neuere und Neueste Geschichte,Reinhard Heydrich</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1868</itunes:duration>
+      <podcast:episode>425</podcast:episode>
+    </item>
+    
+
+
+  </channel>
+</rss>
