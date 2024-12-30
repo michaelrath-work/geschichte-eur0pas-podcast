@@ -6,6 +6,7 @@ from commands import (
     step_bootstrap,
     step_export,
     step_xlink,
+    step_check_xlinks,
     step_testing
 )
 from sub_command_parser import (
@@ -25,6 +26,9 @@ def bind_export(args: argparse.ArgumentParser):
 def bind_xlink(args: argparse.ArgumentParser):
     return functools.partial(command_xlink)
 
+def bind_check_xlinks(args: argparse.ArgumentParser):
+    return functools.partial(command_check_xlinks)
+
 def bind_testing(args: argparse.ArgumentParser):
     return functools.partial(command_testing)
 
@@ -38,6 +42,9 @@ def command_export(args: argparse.ArgumentParser):
 def command_xlink(args: argparse.ArgumentParser):
     step_xlink()
 
+def command_check_xlinks(args: argparse.ArgumentParser):
+    step_check_xlinks()
+
 def command_testing(args: argparse.ArgumentParser):
     step_testing()
 
@@ -46,6 +53,8 @@ SUB_COMMAND_CONFIG = {
     'bootstrap': SubCommandConfiguration(no_arguments, bind_bootstrap),
     'export': SubCommandConfiguration(no_arguments, bind_export),
     'xlink': SubCommandConfiguration(no_arguments, bind_xlink),
+
+    'check-xlinks': SubCommandConfiguration(no_arguments, bind_check_xlinks),
 
     'testing': SubCommandConfiguration(no_arguments, bind_testing),
 }
