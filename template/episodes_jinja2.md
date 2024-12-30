@@ -27,7 +27,7 @@
 ### {{ category.marker}}: {{ category.curated_name }}
 [top](#top)
 
-{% if category.organic_names|length > 1 %}
+{% if category.organic_names|length >= 1 %}
 Organic category names
 {% for n in category.organic_names|sort() -%}
 - {{ n }}
