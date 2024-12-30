@@ -312,11 +312,28 @@ def _render_episode_list(session, output_filepath: pathlib.Path):
     with open(output_filepath, 'w') as f:
         f.write(output)
 
+    # rss
+    rss_base_path = THIS_FILE_FOLDER / '..' / 'docs' / 'rss'
+    rss_base_path.mkdir(parents=True, exist_ok=True)
+
+    file_name = 'rss_category_jinja2.xml'
+    template = environment.get_template(file_name)
+
+    for r in session.execute(category_stmt):
+        output_filepath = rss_base_path / f'{r.Category.marker.lower()}.xml'
+        output = template.render(
+            {
+            }
+        )
+        with open(output_filepath, 'w') as f:
+            f.write(output)
+
 
 @dataclasses.dataclass
 class MarkdownKeyword:
     name: str
     appearances: int
+
 
 def _render_keywords_list(session, output_filepath: pathlib.Path):
     template_folder = (THIS_FILE_FOLDER / '..' / 'template').resolve().absolute()
@@ -407,7 +424,7 @@ def step_check_xlinks():
 
     def check_backlinks(session, e: db_datamodel.Episode) -> typing.List[typing.Tuple[str, str]]:
         missing = []
-        for ref_linked_episode in e.linked_episodes:
+        for ref_linked_episode in sorted(e.linked_episodes, key=lambda e: e.title):
             stmt = select(Episode).filter(Episode.id == ref_linked_episode.id)
             db_linked_episode = session.execute(stmt).fetchone()
             found = False
@@ -432,6 +449,7 @@ def step_check_xlinks():
     for idx, e in enumerate(session.query(Episode).order_by(Episode.title)):
         LOGGER.info(f'Check {idx:04d} {e.title}')
         local_missing = check_backlinks(session, e)
+        # break
         if len(local_missing) > 0:
             missing.append(f'\n## {idx:04d} [{e.title}]({e.link})\n\n')
 

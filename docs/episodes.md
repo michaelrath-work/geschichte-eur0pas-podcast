@@ -2,7 +2,7 @@
 <img src="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" alt="https://main.podigee-cdn.net/uploads/u10696/804bb26c-c59e-496d-b961-c2531f60dd76.jpg" width="200">
 </a>
 
-[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=geschichteeuropas.podigee.io&color=orange&logo=podcast%20index)](https://geschichteeuropas.podigee.io/)
+[![Geschichte Eur0pas Podcast](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=geschichteeuropas.podigee.io&color=orange&logo=podcast%20index)](https://geschichteeuropas.podigee.io/
 
 <a id="top"></a>
 
@@ -50,6 +50,8 @@
 <a id="category-A"></a>
 ### A: Epochenübergreifende Themen
 [top](#top)
+
+[![A](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Epochenübergreifende%20Themen&color=orange&logo=podcast%20index)](rss/a.xml)
 
 
 Organic category names
@@ -121,6 +123,8 @@ Organic category names
 ### B: Geologische Geschichte
 [top](#top)
 
+[![B](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Geologische%20Geschichte&color=orange&logo=podcast%20index)](rss/b.xml)
+
 
 Organic category names
 - B: Geologische Geschichte
@@ -139,6 +143,8 @@ Organic category names
 <a id="category-C"></a>
 ### C: Vorgeschichte und Altsteinzeit
 [top](#top)
+
+[![C](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Vorgeschichte%20und%20Altsteinzeit&color=orange&logo=podcast%20index)](rss/c.xml)
 
 
 Organic category names
@@ -160,6 +166,8 @@ Organic category names
 ### D: Mittel- und Jungsteinzeit
 [top](#top)
 
+[![D](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Mittel-%20und%20Jungsteinzeit&color=orange&logo=podcast%20index)](rss/d.xml)
+
 
 Organic category names
 - D: Mittel- und Jungsteinzeit
@@ -180,6 +188,8 @@ Organic category names
 ### E: Die Metallzeiten
 [top](#top)
 
+[![E](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Die%20Metallzeiten&color=orange&logo=podcast%20index)](rss/e.xml)
+
 
 Organic category names
 - 
@@ -194,6 +204,8 @@ Organic category names
 ### F: Griechische Antike
 [top](#top)
 
+[![F](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Griechische%20Antike&color=orange&logo=podcast%20index)](rss/f.xml)
+
 
 Organic category names
 - 
@@ -207,6 +219,8 @@ Organic category names
 <a id="category-G"></a>
 ### G: Römische Antike
 [top](#top)
+
+[![G](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Römische%20Antike&color=orange&logo=podcast%20index)](rss/g.xml)
 
 
 Organic category names
@@ -238,6 +252,8 @@ Organic category names
 ### H: Das frühe Mittelalter (500-1000)
 [top](#top)
 
+[![H](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Das%20frühe%20Mittelalter%20(500-1000)&color=orange&logo=podcast%20index)](rss/h.xml)
+
 
 Organic category names
 - 
@@ -251,6 +267,8 @@ Organic category names
 <a id="category-I"></a>
 ### I: Das Hochmittelalter (1000-1250)
 [top](#top)
+
+[![I](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Das%20Hochmittelalter%20(1000-1250)&color=orange&logo=podcast%20index)](rss/i.xml)
 
 
 Organic category names
@@ -282,6 +300,8 @@ Organic category names
 ### J: Das späte Mittelalter (1250-1450)
 [top](#top)
 
+[![J](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Das%20späte%20Mittelalter%20(1250-1450)&color=orange&logo=podcast%20index)](rss/j.xml)
+
 
 Organic category names
 - J: Das Spätmittelalter
@@ -301,6 +321,8 @@ Organic category names
 ### K: Erste europäische Expansion
 [top](#top)
 
+[![K](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Erste%20europäische%20Expansion&color=orange&logo=podcast%20index)](rss/k.xml)
+
 
 Organic category names
 - Kalter Krieg und Europäische Einigung
@@ -315,6 +337,8 @@ Organic category names
 ### L: Der Weg in die Neuzeit
 [top](#top)
 
+[![L](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Der%20Weg%20in%20die%20Neuzeit&color=orange&logo=podcast%20index)](rss/l.xml)
+
 
 Organic category names
 - 
@@ -328,6 +352,8 @@ Organic category names
 <a id="category-M"></a>
 ### M: Reformation und Glaubenskriege (1517-1648)
 [top](#top)
+
+[![M](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Reformation%20und%20Glaubenskriege%20(1517-1648)&color=orange&logo=podcast%20index)](rss/m.xml)
 
 
 Organic category names
@@ -348,6 +374,8 @@ Organic category names
 <a id="category-N"></a>
 ### N: Absolutismus und Aufklärung (1648-1789)
 [top](#top)
+
+[![N](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Absolutismus%20und%20Aufklärung%20(1648-1789)&color=orange&logo=podcast%20index)](rss/n.xml)
 
 
 Organic category names
@@ -382,6 +410,8 @@ Organic category names
 ### O: Zeitalter der Revolutionen (1789-1848)
 [top](#top)
 
+[![O](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Zeitalter%20der%20Revolutionen%20(1789-1848)&color=orange&logo=podcast%20index)](rss/o.xml)
+
 
 Organic category names
 - O: Das Zeitalter der Revolutionen
@@ -408,6 +438,8 @@ Organic category names
 <a id="category-P"></a>
 ### P: Nationalismus und Imperialismus (1849-1914)
 [top](#top)
+
+[![P](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Nationalismus%20und%20Imperialismus%20(1849-1914)&color=orange&logo=podcast%20index)](rss/p.xml)
 
 
 Organic category names
@@ -436,6 +468,8 @@ Organic category names
 ### Q: 1. Weltkrieg (1914-1918)
 [top](#top)
 
+[![Q](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=1.%20Weltkrieg%20(1914-1918)&color=orange&logo=podcast%20index)](rss/q.xml)
+
 
 Organic category names
 - Q: Erster Weltkrieg
@@ -455,6 +489,8 @@ Organic category names
 <a id="category-R"></a>
 ### R: Zwischenkriegszeit (1918-1939)
 [top](#top)
+
+[![R](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Zwischenkriegszeit%20(1918-1939)&color=orange&logo=podcast%20index)](rss/r.xml)
 
 
 Organic category names
@@ -490,6 +526,8 @@ Organic category names
 <a id="category-S"></a>
 ### S: 2. Weltkrieg (1939-1945)
 [top](#top)
+
+[![S](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=2.%20Weltkrieg%20(1939-1945)&color=orange&logo=podcast%20index)](rss/s.xml)
 
 
 Organic category names
@@ -528,6 +566,8 @@ Organic category names
 <a id="category-T"></a>
 ### T: Kalter Krieg und Europäische Einigung (1945-1990)
 [top](#top)
+
+[![T](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Kalter%20Krieg%20und%20Europäische%20Einigung%20(1945-1990)&color=orange&logo=podcast%20index)](rss/t.xml)
 
 
 Organic category names
@@ -572,6 +612,8 @@ Organic category names
 ### U: Nach dem Kalten Krieg (1990-)
 [top](#top)
 
+[![U](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Nach%20dem%20Kalten%20Krieg%20(1990-)&color=orange&logo=podcast%20index)](rss/u.xml)
+
 
 Organic category names
 - U: Nach dem Kalten Krieg
@@ -593,6 +635,8 @@ Organic category names
 ### V: Europa aktuell
 [top](#top)
 
+[![V](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Europa%20aktuell&color=orange&logo=podcast%20index)](rss/v.xml)
+
 
 Organic category names
 - V: Europa aktuell
@@ -612,6 +656,8 @@ Organic category names
 <a id="category-W"></a>
 ### W: Epochenübergreifende Biographien
 [top](#top)
+
+[![W](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Epochenübergreifende%20Biographien&color=orange&logo=podcast%20index)](rss/w.xml)
 
 
 Organic category names
@@ -648,6 +694,8 @@ Organic category names
 <a id="category-X"></a>
 ### X: Geschichtswissenschaft und Erinnerungskultur
 [top](#top)
+
+[![X](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Geschichtswissenschaft%20und%20Erinnerungskultur&color=orange&logo=podcast%20index)](rss/x.xml)
 
 
 Organic category names
@@ -702,6 +750,8 @@ Organic category names
 <a id="category-Y"></a>
 ### Y: Quellen
 [top](#top)
+
+[![Y](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Quellen&color=orange&logo=podcast%20index)](rss/y.xml)
 
 
 Organic category names
@@ -901,6 +951,8 @@ Organic category names
 <a id="category-Z"></a>
 ### Z: Meta/Podcast
 [top](#top)
+
+[![Z](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Meta/Podcast&color=orange&logo=podcast%20index)](rss/z.xml)
 
 
 Organic category names
