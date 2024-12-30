@@ -92,6 +92,7 @@
 | Bayern | 1 | [top](#top) |
 | Beate Klarsfeld | 1 | [top](#top) |
 | Befreiung | 1 | [top](#top) |
+| Begriffsgeschichte | 1 | [top](#top) |
 | Belagerung | 2 | [top](#top) |
 | Belgien | 2 | [top](#top) |
 | Benito Mussolini | 2 | [top](#top) |
@@ -213,7 +214,7 @@
 | Estado Novo | 1 | [top](#top) |
 | Eugenio Pacelli | 2 | [top](#top) |
 | Euromaidan | 1 | [top](#top) |
-| Europa | 53 | [top](#top) |
+| Europa | 54 | [top](#top) |
 | Europäische Einigung | 1 | [top](#top) |
 | Europäische Regionalgeschichte | 1 | [top](#top) |
 | Europäische Union | 1 | [top](#top) |
@@ -561,7 +562,7 @@
 | Neue Ostpolitik | 2 | [top](#top) |
 | Neuengamme | 2 | [top](#top) |
 | Neuere und Neueste Geschichte | 28 | [top](#top) |
-| Neuere und neueste Geschichte | 166 | [top](#top) |
+| Neuere und neueste Geschichte | 167 | [top](#top) |
 | Neutraubling | 1 | [top](#top) |
 | Niederdeutsch | 1 | [top](#top) |
 | Niedersachsen | 1 | [top](#top) |
@@ -626,6 +627,7 @@
 | Podcast | 4 | [top](#top) |
 | Polen | 12 | [top](#top) |
 | Polen-Litauen | 2 | [top](#top) |
+| Politik | 1 | [top](#top) |
 | Polizei | 1 | [top](#top) |
 | Pompeji | 10 | [top](#top) |
 | Popkultur | 1 | [top](#top) |
@@ -652,7 +654,8 @@
 | Raiffeisen | 1 | [top](#top) |
 | Rapallo | 2 | [top](#top) |
 | Rapallovertrag | 1 | [top](#top) |
-| Rechtsextremismus | 1 | [top](#top) |
+| Rechtsextremismus | 2 | [top](#top) |
+| Rechtspopulismus | 1 | [top](#top) |
 | Rede | 2 | [top](#top) |
 | Reformation | 2 | [top](#top) |
 | Reichsgründung | 3 | [top](#top) |
@@ -879,7 +882,7 @@
 | Zar Nikolaus II. | 2 | [top](#top) |
 | Zeche Zollverein | 1 | [top](#top) |
 | Zeit | 2 | [top](#top) |
-| Zeitgeschichte | 135 | [top](#top) |
+| Zeitgeschichte | 136 | [top](#top) |
 | Zeitungen | 1 | [top](#top) |
 | Zeitzone | 1 | [top](#top) |
 | Zentrum (Partei) | 1 | [top](#top) |

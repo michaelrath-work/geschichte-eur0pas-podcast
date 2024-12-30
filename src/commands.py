@@ -73,7 +73,7 @@ def _get_or_add_keyword(session, name: str) -> db_datamodel.Keyword:
 def _add_or_update_keywords(session,
                             rss_episode: rss_datamodel.Episode,
                             db_episode: db_datamodel.Episode):
-    LOGGER.info(f'Update keywords for episode {rss_episode.title}')
+    LOGGER.debug(f'Update keywords for episode {rss_episode.title}')
     for idx, k in enumerate(rss_episode.keywords):
         db_keyword = _get_or_add_keyword(session, k)
         db_episode.keywords.append(db_keyword)
@@ -246,7 +246,7 @@ class MarkdownEpisode:
     def linked_episodes_html(self) -> str:
         s = ''
         for idx, l in enumerate(sorted(self.linked_episodes, key=lambda x: x[0])):
-            s += f'**{idx+1:02d}** [{l[0]}]({l[1]})<br/>'
+            s += f'**{idx+1:02d}** [{l[0]}]({l[1]})<br/></br>'
         return s
 
 
@@ -294,7 +294,11 @@ def _render_episode_list(session, output_filepath: pathlib.Path):
             marker=r.Category.marker,
             curated_name=r.Category.curated_name,
             organic_names=sorted(r.Category.organic_names.split(ORGANIC_NAME_SEPARATOR)),
-            episodes=list(map(to_markdown_episode, r.Category.episodes))
+            episodes=list(
+                sorted(
+                    map(to_markdown_episode, r.Category.episodes),
+                key=lambda e: e.title
+            ))
         ))
 
 
@@ -383,9 +387,8 @@ def step_xlink():
                 stmt = select(Episode).filter(Episode.link == link_str)
                 db_linked_episode = session.execute(stmt).fetchone()
                 if db_linked_episode:
-                    LOGGER.debug(f'   {db_episode.id} {db_episode.link} => {db_linked_episode.Episode.number} {db_linked_episode.Episode.title} link {db_linked_episode.Episode.id} {db_linked_episode.Episode.link}')
+                    LOGGER.debug(f'{db_episode.id} {db_episode.link} => {db_linked_episode.Episode.number} {db_linked_episode.Episode.title} link {db_linked_episode.Episode.id} {db_linked_episode.Episode.link}')
 
-                    # TODO(micha): brute force, maybe find appropriate SqlAlchemy solution
                     insert_stmt = Episode_2_episode.insert().values(
                         from_id=db_episode.id,
                         to_id=db_linked_episode.Episode.id)

@@ -21,8 +21,8 @@ Next to ordering, more insights are given such as episode cross links and keywor
 |key |value|
 |:---|----:|
 |Podcast first published|2020-07-28|
-|Podcast last build|2024-12-29|
-|This site update|2024-12-29|
+|Podcast last build|2024-12-30|
+|This site update|2024-12-30|
 
 <!-- END generated -->
 
