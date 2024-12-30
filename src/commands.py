@@ -246,7 +246,7 @@ class MarkdownEpisode:
     def linked_episodes_html(self) -> str:
         s = ''
         for idx, l in enumerate(sorted(self.linked_episodes, key=lambda x: x[0])):
-            s += f'**{idx+1:02d}** [{l[0]}]({l[1]})<br/></br>'
+            s += f'**{idx+1:02d}** [{l[0]}]({l[1]})<br/><br/>'
         return s
 
 
