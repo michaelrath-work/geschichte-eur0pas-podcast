@@ -29,11 +29,17 @@
 
 [![{{category.marker}}](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message={{category.curated_name.replace(' ', '%20')}}&color=orange&logo=podcast%20index)](rss/category_{{category.marker.lower()}}.xml)
 
-{% if category.organic_names|length >= 1 %}
+{% if category.organic_names|length > 0 %}
+
 Organic category names
+
 {% for n in category.organic_names|sort() -%}
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+{%if n != '' %}
 - {{ n }}
+{% endif %}
 {% endfor %}
+
 {% endif %}
 
 {% if category.episodes|length > 0 %}

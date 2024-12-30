@@ -54,11 +54,26 @@
 [![A](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Epochenübergreifende%20Themen&color=orange&logo=podcast%20index)](rss/category_a.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - A - Epochenübergreifende Themen
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - A: Epochenübergreifende Themen
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - A: Epochenübergreifende Überblicke
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - A; Epochenübergreifende Themen
+
+
 
 
 
@@ -126,8 +141,14 @@ Organic category names
 [![B](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Geologische%20Geschichte&color=orange&logo=podcast%20index)](rss/category_b.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - B: Geologische Geschichte
+
+
 
 
 
@@ -147,8 +168,14 @@ Organic category names
 [![C](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Vorgeschichte%20und%20Altsteinzeit&color=orange&logo=podcast%20index)](rss/category_c.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - C: Vorgeschichte und Altsteinzeit
+
+
 
 
 
@@ -169,8 +196,14 @@ Organic category names
 [![D](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Mittel-%20und%20Jungsteinzeit&color=orange&logo=podcast%20index)](rss/category_d.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - D: Mittel- und Jungsteinzeit
+
+
 
 
 
@@ -191,8 +224,12 @@ Organic category names
 [![E](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Die%20Metallzeiten&color=orange&logo=podcast%20index)](rss/category_e.xml)
 
 
+
 Organic category names
-- 
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
+
 
 
 
@@ -207,8 +244,12 @@ Organic category names
 [![F](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Griechische%20Antike&color=orange&logo=podcast%20index)](rss/category_f.xml)
 
 
+
 Organic category names
-- 
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
+
 
 
 
@@ -223,8 +264,14 @@ Organic category names
 [![G](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Römische%20Antike&color=orange&logo=podcast%20index)](rss/category_g.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - G: Römische Antike
+
+
 
 
 
@@ -255,8 +302,12 @@ Organic category names
 [![H](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Das%20frühe%20Mittelalter%20(500-1000)&color=orange&logo=podcast%20index)](rss/category_h.xml)
 
 
+
 Organic category names
-- 
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
+
 
 
 
@@ -271,8 +322,14 @@ Organic category names
 [![I](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Das%20Hochmittelalter%20(1000-1250)&color=orange&logo=podcast%20index)](rss/category_i.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - I: Das Hochmittelalter
+
+
 
 
 
@@ -303,8 +360,14 @@ Organic category names
 [![J](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Das%20späte%20Mittelalter%20(1250-1450)&color=orange&logo=podcast%20index)](rss/category_j.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - J: Das Spätmittelalter
+
+
 
 
 
@@ -324,8 +387,14 @@ Organic category names
 [![K](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Erste%20europäische%20Expansion&color=orange&logo=podcast%20index)](rss/category_k.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - Kalter Krieg und Europäische Einigung
+
+
 
 
 
@@ -340,8 +409,12 @@ Organic category names
 [![L](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Der%20Weg%20in%20die%20Neuzeit&color=orange&logo=podcast%20index)](rss/category_l.xml)
 
 
+
 Organic category names
-- 
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
+
 
 
 
@@ -356,8 +429,14 @@ Organic category names
 [![M](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Reformation%20und%20Glaubenskriege%20(1517-1648)&color=orange&logo=podcast%20index)](rss/category_m.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - M: Reformation und Glaubenskriege
+
+
 
 
 
@@ -378,9 +457,18 @@ Organic category names
 [![N](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Absolutismus%20und%20Aufklärung%20(1648-1789)&color=orange&logo=podcast%20index)](rss/category_n.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - N: Absolutimus und Aufklärung
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - N: Absolutismus und Aufklärung
+
+
 
 
 
@@ -413,9 +501,18 @@ Organic category names
 [![O](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Zeitalter%20der%20Revolutionen%20(1789-1848)&color=orange&logo=podcast%20index)](rss/category_o.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - O: Das Zeitalter der Revolutionen
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - O: Zeitalter der Revolutionen
+
+
 
 
 
@@ -442,8 +539,14 @@ Organic category names
 [![P](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Nationalismus%20und%20Imperialismus%20(1849-1914)&color=orange&logo=podcast%20index)](rss/category_p.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - P: Nationalismus und Imperialismus
+
+
 
 
 
@@ -471,8 +574,14 @@ Organic category names
 [![Q](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=1.%20Weltkrieg%20(1914-1918)&color=orange&logo=podcast%20index)](rss/category_q.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - Q: Erster Weltkrieg
+
+
 
 
 
@@ -493,8 +602,14 @@ Organic category names
 [![R](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Zwischenkriegszeit%20(1918-1939)&color=orange&logo=podcast%20index)](rss/category_r.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - R: Zwischenkriegszeit
+
+
 
 
 
@@ -530,8 +645,14 @@ Organic category names
 [![S](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=2.%20Weltkrieg%20(1939-1945)&color=orange&logo=podcast%20index)](rss/category_s.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - S: Zweiter Weltkrieg
+
+
 
 
 
@@ -570,9 +691,18 @@ Organic category names
 [![T](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Kalter%20Krieg%20und%20Europäische%20Einigung%20(1945-1990)&color=orange&logo=podcast%20index)](rss/category_t.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - T: Kalter Krieg und Europäische Einigung
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - T: Kalter Krieg und europäische Einigung
+
+
 
 
 
@@ -615,8 +745,14 @@ Organic category names
 [![U](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Nach%20dem%20Kalten%20Krieg%20(1990-)&color=orange&logo=podcast%20index)](rss/category_u.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - U: Nach dem Kalten Krieg
+
+
 
 
 
@@ -638,8 +774,14 @@ Organic category names
 [![V](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Europa%20aktuell&color=orange&logo=podcast%20index)](rss/category_v.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - V: Europa aktuell
+
+
 
 
 
@@ -660,9 +802,18 @@ Organic category names
 [![W](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Epochenübergreifende%20Biographien&color=orange&logo=podcast%20index)](rss/category_w.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - W: Epochenübergreifende Biographien
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - W: Geschichtswissenschaft und Erinnerungskultur
+
+
 
 
 
@@ -698,9 +849,18 @@ Organic category names
 [![X](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Geschichtswissenschaft%20und%20Erinnerungskultur&color=orange&logo=podcast%20index)](rss/category_x.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - X: Geschichtswissenschaft und Erinnerungkultur
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - X: Geschichtswissenschaft und Erinnerungskultur
+
+
 
 
 
@@ -754,11 +914,26 @@ Organic category names
 [![Y](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Quellen&color=orange&logo=podcast%20index)](rss/category_y.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - Y - Quellen
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - Y: Quelle
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - Y: Quellen
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - Y; Quellen
+
+
 
 
 
@@ -955,9 +1130,18 @@ Organic category names
 [![Z](https://img.shields.io/static/v1?label=Tobias%20Jakobi&message=Meta/Podcast&color=orange&logo=podcast%20index)](rss/category_z.xml)
 
 
+
 Organic category names
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - Z - Meta/ Podcast
+
+<!-- TODO(micha): Ladies and gentleman .. clusterf**k at its best -->
+
 - Z: Meta/ Podcast
+
+
 
 
 
