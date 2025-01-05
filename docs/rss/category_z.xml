@@ -880,6 +880,30 @@
       <podcast:episode>424</podcast:episode>
     </item>
     
+    <item>
+      <title>Z-036: Jahresrückblick 2024</title>
+      <itunes:title>Z-036: Jahresrückblick 2024</itunes:title>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/b446-446</link>
+      <guid isPermaLink="false">d90aff2c-a410-5549-8954-2e963d55a350</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>446</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Z: Meta/Podcast</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Jahresrückblick</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>318</itunes:duration>
+      <podcast:episode>446</podcast:episode>
+    </item>
+    
 
 
   </channel>

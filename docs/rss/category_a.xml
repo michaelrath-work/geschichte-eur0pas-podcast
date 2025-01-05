@@ -1216,6 +1216,30 @@
       <podcast:episode>437</podcast:episode>
     </item>
     
+    <item>
+      <title>A-050: Die Braunkohle und die Erft - Wasserwirtschaft im Rheinischen Revier, mit Dr. Victoria Huskzka [LVR geSCHICHTEN]</title>
+      <itunes:title>A-050: Die Braunkohle und die Erft - Wasserwirtschaft im Rheinischen Revier, mit Dr. Victoria Huskzka [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/448-448</link>
+      <guid isPermaLink="false">bd6565ca-e2ed-5f2c-a8a0-aab180038c7e</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>448</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>A: Epochenübergreifende Themen</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Braunkohletagebau,Deutschland,Erft,Nordrhein-Westfalen,Rheinisches Revier,Wasserwirtschaft,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2692</itunes:duration>
+      <podcast:episode>448</podcast:episode>
+    </item>
+    
 
 
   </channel>
