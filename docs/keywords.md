@@ -35,7 +35,7 @@
 | Aachen | 1 | [top](#top) |
 | Abstimmung | 1 | [top](#top) |
 | Adolf Eichmann | 2 | [top](#top) |
-| Adolf Hitler | 19 | [top](#top) |
+| Adolf Hitler | 20 | [top](#top) |
 | Advent | 1 | [top](#top) |
 | Aeneas | 1 | [top](#top) |
 | Aktion T4 | 2 | [top](#top) |
@@ -54,10 +54,10 @@
 | Anatomie | 1 | [top](#top) |
 | Andreas Baader | 1 | [top](#top) |
 | Anklam | 4 | [top](#top) |
-| Ankündigung | 9 | [top](#top) |
+| Ankündigung | 10 | [top](#top) |
 | Anna Dorothea Therbusch | 1 | [top](#top) |
 | Antifaschismus | 1 | [top](#top) |
-| Antike | 37 | [top](#top) |
+| Antike | 40 | [top](#top) |
 | Antisemitismus | 2 | [top](#top) |
 | Anton von Werner | 1 | [top](#top) |
 | Arbeiter | 1 | [top](#top) |
@@ -78,9 +78,10 @@
 | Auftragsproduktion | 1 | [top](#top) |
 | August Bebel | 2 | [top](#top) |
 | August der Starke | 1 | [top](#top) |
+| Augusta Treverorum | 1 | [top](#top) |
 | Augustinus von Hippo | 1 | [top](#top) |
 | Auslandsberichterstattung | 2 | [top](#top) |
-| Ausstellung | 2 | [top](#top) |
+| Ausstellung | 3 | [top](#top) |
 | Auszeichnung | 1 | [top](#top) |
 | Avery Brundage | 1 | [top](#top) |
 | BRD | 3 | [top](#top) |
@@ -172,7 +173,7 @@
 | Deutscher Herbst | 1 | [top](#top) |
 | Deutscher Podcastpreis | 1 | [top](#top) |
 | Deutsches Kaiserreich | 2 | [top](#top) |
-| Deutschland | 258 | [top](#top) |
+| Deutschland | 260 | [top](#top) |
 | Die Pest | 3 | [top](#top) |
 | Dietrich Bonhoeffer | 1 | [top](#top) |
 | Digitalisierung | 2 | [top](#top) |
@@ -333,7 +334,7 @@
 | Hambach | 1 | [top](#top) |
 | Hambacher Forst | 1 | [top](#top) |
 | Hamburg | 7 | [top](#top) |
-| Hannibal | 1 | [top](#top) |
+| Hannibal | 2 | [top](#top) |
 | Hanns Martin Schleyer | 1 | [top](#top) |
 | Hans Proppe | 2 | [top](#top) |
 | Hans v. Seisser | 1 | [top](#top) |
@@ -384,7 +385,7 @@
 | Irakkrieg | 2 | [top](#top) |
 | Iran | 1 | [top](#top) |
 | Istanbul | 2 | [top](#top) |
-| Italien | 14 | [top](#top) |
+| Italien | 15 | [top](#top) |
 | Jacob Venedey | 2 | [top](#top) |
 | Jahresende | 1 | [top](#top) |
 | Jahresrückblick | 4 | [top](#top) |
@@ -417,7 +418,7 @@
 | Karl XII. | 5 | [top](#top) |
 | Karl XII. (Schweden) | 1 | [top](#top) |
 | Karte | 1 | [top](#top) |
-| Karthago | 2 | [top](#top) |
+| Karthago | 3 | [top](#top) |
 | Kartharer | 1 | [top](#top) |
 | Kassel | 2 | [top](#top) |
 | Kathargo | 1 | [top](#top) |
@@ -440,7 +441,7 @@
 | Kolloquium | 1 | [top](#top) |
 | Kolonialismus | 1 | [top](#top) |
 | Kometen | 2 | [top](#top) |
-| Kommunismus | 4 | [top](#top) |
+| Kommunismus | 5 | [top](#top) |
 | Konrad Adenauer | 2 | [top](#top) |
 | Konstantin der Große | 3 | [top](#top) |
 | Konstantinopel | 2 | [top](#top) |
@@ -505,6 +506,7 @@
 | Lützerath | 1 | [top](#top) |
 | Machtübernahme | 3 | [top](#top) |
 | Mailand | 1 | [top](#top) |
+| Makedonien | 1 | [top](#top) |
 | Manheim | 2 | [top](#top) |
 | Manzikert | 2 | [top](#top) |
 | Marcus Tullius Cicero | 1 | [top](#top) |
@@ -532,7 +534,7 @@
 | Mittelalter | 33 | [top](#top) |
 | Mitteldeutsches Revier | 1 | [top](#top) |
 | Mitteleuropa | 1 | [top](#top) |
-| Mittelmeer | 2 | [top](#top) |
+| Mittelmeer | 3 | [top](#top) |
 | Mobilität | 3 | [top](#top) |
 | Mosaik | 2 | [top](#top) |
 | Moselland | 1 | [top](#top) |
@@ -563,7 +565,7 @@
 | Natalja Gorbanewskaja | 1 | [top](#top) |
 | Nationalismus | 3 | [top](#top) |
 | Nationalsozialimsus | 1 | [top](#top) |
-| Nationalsozialismus | 18 | [top](#top) |
+| Nationalsozialismus | 19 | [top](#top) |
 | Nationalversammlung | 2 | [top](#top) |
 | Naturschutz | 2 | [top](#top) |
 | Nazarener | 1 | [top](#top) |
@@ -574,13 +576,13 @@
 | Neue Burg | 2 | [top](#top) |
 | Neue Ostpolitik | 2 | [top](#top) |
 | Neuengamme | 2 | [top](#top) |
-| Neuere und Neueste Geschichte | 28 | [top](#top) |
+| Neuere und Neueste Geschichte | 29 | [top](#top) |
 | Neuere und neueste Geschichte | 167 | [top](#top) |
 | Neutraubling | 1 | [top](#top) |
 | Niederdeutsch | 1 | [top](#top) |
 | Niedersachsen | 1 | [top](#top) |
 | Nikita Chruschtschow | 1 | [top](#top) |
-| Nordafrika | 5 | [top](#top) |
+| Nordafrika | 6 | [top](#top) |
 | Norddeutschland | 1 | [top](#top) |
 | Nordeuropa | 15 | [top](#top) |
 | Nordrhein-Westfalen | 3 | [top](#top) |
@@ -660,7 +662,7 @@
 | Prozess | 1 | [top](#top) |
 | Public History | 4 | [top](#top) |
 | Punischer Krieg | 1 | [top](#top) |
-| Quelle | 175 | [top](#top) |
+| Quelle | 176 | [top](#top) |
 | Quellen | 1 | [top](#top) |
 | Quiz | 1 | [top](#top) |
 | Radio | 1 | [top](#top) |
@@ -698,7 +700,7 @@
 | Robert Schumann | 1 | [top](#top) |
 | Roerdeparment | 1 | [top](#top) |
 | Roerdepartment | 1 | [top](#top) |
-| Rom | 7 | [top](#top) |
+| Rom | 8 | [top](#top) |
 | Romanisierung | 1 | [top](#top) |
 | Romanos IV. | 2 | [top](#top) |
 | Romulus | 2 | [top](#top) |
@@ -758,7 +760,7 @@
 | Sozialbau | 1 | [top](#top) |
 | Sozialdemokratie | 2 | [top](#top) |
 | Sozialforschung | 2 | [top](#top) |
-| Sozialismus | 2 | [top](#top) |
+| Sozialismus | 3 | [top](#top) |
 | Sozialsystem | 1 | [top](#top) |
 | Soziologie | 1 | [top](#top) |
 | Spanien | 2 | [top](#top) |
@@ -773,6 +775,7 @@
 | Stadtarchiv | 1 | [top](#top) |
 | Stadtflucht | 1 | [top](#top) |
 | Stadtguerilla | 1 | [top](#top) |
+| Stadtmauer | 3 | [top](#top) |
 | Stadtmuseum Trier | 1 | [top](#top) |
 | Stadtplanung | 1 | [top](#top) |
 | Stalingrad | 2 | [top](#top) |
@@ -791,7 +794,7 @@
 | Stuttgart-Stammheim | 1 | [top](#top) |
 | Szlama Ber Winer | 1 | [top](#top) |
 | Sötenich | 1 | [top](#top) |
-| Südeuropa | 41 | [top](#top) |
+| Südeuropa | 42 | [top](#top) |
 | Südosteuropa | 7 | [top](#top) |
 | Süodosteuropa | 1 | [top](#top) |
 | Tag der deutschen Einheit | 1 | [top](#top) |
@@ -814,7 +817,7 @@
 | Tradition | 1 | [top](#top) |
 | Transformation | 1 | [top](#top) |
 | Transottomanica | 1 | [top](#top) |
-| Trier | 11 | [top](#top) |
+| Trier | 14 | [top](#top) |
 | Trümmerfrauen | 1 | [top](#top) |
 | Tutenchamun | 2 | [top](#top) |
 | Twitter | 2 | [top](#top) |
@@ -900,7 +903,7 @@
 | Zar Nikolaus II. | 2 | [top](#top) |
 | Zeche Zollverein | 1 | [top](#top) |
 | Zeit | 2 | [top](#top) |
-| Zeitgeschichte | 142 | [top](#top) |
+| Zeitgeschichte | 143 | [top](#top) |
 | Zeitungen | 1 | [top](#top) |
 | Zeitzone | 1 | [top](#top) |
 | Zentrum (Partei) | 1 | [top](#top) |
