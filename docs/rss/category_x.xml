@@ -833,8 +833,8 @@
     </item>
     
     <item>
-      <title>X-036: Erfahrungsberichte ehemalig kriegsgefangener Rotarmistinnen, mit Muriel Nägler</title>
-      <itunes:title>X-036: Erfahrungsberichte ehemalig kriegsgefangener Rotarmistinnen, mit Muriel Nägler</itunes:title>
+      <title>X-036: Erfahrungsberichte kriegsgefangener Rotarmistinnen, mit Muriel Nägler</title>
+      <itunes:title>X-036: Erfahrungsberichte kriegsgefangener Rotarmistinnen, mit Muriel Nägler</itunes:title>
       <description/>
       <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
       <link>https://geschichteeuropas.podigee.io/439-439</link>
@@ -950,6 +950,78 @@
       <itunes:author>Tobias Jakobi</itunes:author>
       <itunes:duration>559</itunes:duration>
       <podcast:episode>456</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-041: Die Frankfurter Paulskirche als &quot;Erinnerungsort&quot; in BRD und DDR, mit Tobias Hirschmüller</title>
+      <itunes:title>X-041: Die Frankfurter Paulskirche als &quot;Erinnerungsort&quot; in BRD und DDR, mit Tobias Hirschmüller</itunes:title>
+      <description/>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/485-485</link>
+      <guid isPermaLink="false">d9cc307e-20aa-5779-ac86-9059e10dce75</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>485</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>BRD,DDR,Deutschland,Erinnerungskultur,Frankfurt,Neuere und neueste Geschichte,Paulskirche,Revolution von 1848/49,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1978</itunes:duration>
+      <podcast:episode>485</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-042: 8. Mai 1945: Nachdenken über Krieg &amp; Frieden, mit C. Breitfelder, J. Happel &amp; M. Payk [HSU d. Bundeswehr Hamburg]</title>
+      <itunes:title>X-042: 8. Mai 1945: Nachdenken über Krieg &amp; Frieden, mit C. Breitfelder, J. Happel &amp; M. Payk [HSU d. Bundeswehr Hamburg]</itunes:title>
+      <description/>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/504-504</link>
+      <guid isPermaLink="false">c6438c36-ab1c-54fe-b0e9-dd08a27bbeff</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>504</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>8. Mai 1945,Deutschland,Diskussion,Kriegsende,Zeitgeschichte,Zweiter Weltkrieg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3343</itunes:duration>
+      <podcast:episode>504</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-043: Limes und Legion - die Entstehung eines Forschungsprojekts, mit Prof. Dr. J. Bemmann und Prof Dr. M. Schmauder</title>
+      <itunes:title>X-043: Limes und Legion - die Entstehung eines Forschungsprojekts, mit Prof. Dr. J. Bemmann und Prof Dr. M. Schmauder</itunes:title>
+      <description/>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/509-509</link>
+      <guid isPermaLink="false">297ef5a7-eaad-5915-80e0-afc06b56f497</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>509</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Antike,Archäologie,Bonn,Deutschland,Forschungsprojekt,Niedergermanischer Limes,Niederlande,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2780</itunes:duration>
+      <podcast:episode>509</podcast:episode>
     </item>
     
 

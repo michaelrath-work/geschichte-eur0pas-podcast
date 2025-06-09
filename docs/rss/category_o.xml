@@ -209,8 +209,32 @@
     </item>
     
     <item>
-      <title>O-008: Die Geschlechtergeschichte der Revolution v. 1848/49, mit Dr. Kerstin Wolff [Tagung &quot;Die Modernität von 1848/49&quot;]</title>
-      <itunes:title>O-008: Die Geschlechtergeschichte der Revolution v. 1848/49, mit Dr. Kerstin Wolff [Tagung &quot;Die Modernität von 1848/49&quot;]</itunes:title>
+      <title>O-008: Die 1848er Revolution in Sachsen, mit J. Matzerath &amp; S. Schötz [Institut f. Sächsische Geschichte und Volkskunde]</title>
+      <itunes:title>O-008: Die 1848er Revolution in Sachsen, mit J. Matzerath &amp; S. Schötz [Institut f. Sächsische Geschichte und Volkskunde]</itunes:title>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/472-472</link>
+      <guid isPermaLink="false">c5746bc7-e107-5723-9fa1-3127d2ce0d39</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>472</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>O: Zeitalter der Revolutionen (1789-1848)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Bürokratie,Deutschland,Dresden,Emanzipation,Frauenzeitung,Louise Otto,Neuere und neueste Geschichte,Revolution von 1848/49,Sachsen</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5157</itunes:duration>
+      <podcast:episode>472</podcast:episode>
+    </item>
+    
+    <item>
+      <title>O-009: Die Geschlechtergeschichte der Revolution v. 1848/49, mit Dr. Kerstin Wolff [Tagung &quot;Die Modernität von 1848/49&quot;]</title>
+      <itunes:title>O-009: Die Geschlechtergeschichte der Revolution v. 1848/49, mit Dr. Kerstin Wolff [Tagung &quot;Die Modernität von 1848/49&quot;]</itunes:title>
       <description/>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
       <link>https://geschichteeuropas.podigee.io/194-194</link>
@@ -230,6 +254,30 @@
       <itunes:author>Tobias Jakobi</itunes:author>
       <itunes:duration>3886</itunes:duration>
       <podcast:episode>194</podcast:episode>
+    </item>
+    
+    <item>
+      <title>O-011: Die Präraffaelitische Bruderschaft / The Preraffaelite Society (ab 1848), mit Esther Klatt</title>
+      <itunes:title>O-011: Die Präraffaelitische Bruderschaft / The Preraffaelite Society (ab 1848), mit Esther Klatt</itunes:title>
+      <description/>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/484-484</link>
+      <guid isPermaLink="false">da6cb33b-428e-5849-8184-6959f21a8ca6</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>484</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>O: Zeitalter der Revolutionen (1789-1848)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>England,Kunstgeschichte,Neuere und neueste Geschichte,Präraffaeliten</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3010</itunes:duration>
+      <podcast:episode>484</podcast:episode>
     </item>
     
 

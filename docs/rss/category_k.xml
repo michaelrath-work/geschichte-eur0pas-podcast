@@ -40,6 +40,30 @@
     </itunes:owner>
 
     
+    <item>
+      <title>T-022: Die RAF und der &quot;Deutsche Herbst&quot; (1977), mit Kevin Lenk</title>
+      <itunes:title>T-022: Die RAF und der &quot;Deutsche Herbst&quot; (1977), mit Kevin Lenk</itunes:title>
+      <description/>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/123-123</link>
+      <guid isPermaLink="false">b0c3d348-1e18-5e08-9627-ecbe1b0f99ca</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>123</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>K: Erste europäische Expansion</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Jahrhundert,Andreas Baader,Deutscher Herbst,Deutschland,Hanns Martin Schleyer,Helmut Schmidt,Rote Armee Fraktion,Stuttgart-Stammheim,Terrorismus,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4132</itunes:duration>
+      <podcast:episode>123</podcast:episode>
+    </item>
+    
 
 
   </channel>

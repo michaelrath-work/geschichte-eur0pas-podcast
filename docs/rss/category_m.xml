@@ -41,8 +41,32 @@
 
     
     <item>
-      <title>M-001: Königin Elizabeth I. von England und das &quot;Elizabethan Age&quot; (1558-1603), mit Dr. Lena Oetzel</title>
-      <itunes:title>M-001: Königin Elizabeth I. von England und das &quot;Elizabethan Age&quot; (1558-1603), mit Dr. Lena Oetzel</itunes:title>
+      <title>M-001: Die Reformation im Rheinland, mit Prof. Dr. Stephan Laux [LVR geSCHICHTEN]</title>
+      <itunes:title>M-001: Die Reformation im Rheinland, mit Prof. Dr. Stephan Laux [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/498-498</link>
+      <guid isPermaLink="false">a87f687f-03de-5645-9e6b-eb179c98b79c</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>498</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>M: Reformation und Glaubenskriege (1517-1648)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Erzbistum Köln,Frühe Neuzeit,Köln,Martin Luther,Mittelalter,Reformation,Reichstag in Worms,Rheinland,Worms</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3127</itunes:duration>
+      <podcast:episode>498</podcast:episode>
+    </item>
+    
+    <item>
+      <title>M-002: Königin Elizabeth I. von England und das &quot;Elizabethan Age&quot; (1558-1603), mit Dr. Lena Oetzel</title>
+      <itunes:title>M-002: Königin Elizabeth I. von England und das &quot;Elizabethan Age&quot; (1558-1603), mit Dr. Lena Oetzel</itunes:title>
       <description/>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <link>https://geschichteeuropas.podigee.io/388-388</link>
@@ -65,8 +89,8 @@
     </item>
     
     <item>
-      <title>M-002: Herrschaftskritik an Elizabeth I. von England (r. 1558-1603), mit Dr. Lena Oetzel</title>
-      <itunes:title>M-002: Herrschaftskritik an Elizabeth I. von England (r. 1558-1603), mit Dr. Lena Oetzel</itunes:title>
+      <title>M-003: Herrschaftskritik an Elizabeth I. von England (r. 1558-1603), mit Dr. Lena Oetzel</title>
+      <itunes:title>M-003: Herrschaftskritik an Elizabeth I. von England (r. 1558-1603), mit Dr. Lena Oetzel</itunes:title>
       <description/>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       <link>https://geschichteeuropas.podigee.io/69-69</link>
@@ -86,6 +110,30 @@
       <itunes:author>Tobias Jakobi</itunes:author>
       <itunes:duration>5554</itunes:duration>
       <podcast:episode>69</podcast:episode>
+    </item>
+    
+    <item>
+      <title>M-004: Der Dreißigjährige Krieg im Rheinland, mit Dr. Michael Kaiser [LVR geSCHICHTEN]</title>
+      <itunes:title>M-004: Der Dreißigjährige Krieg im Rheinland, mit Dr. Michael Kaiser [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/507-507</link>
+      <guid isPermaLink="false">4bdbb917-237a-5018-a7d7-8f9f0017e474</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>507</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>M: Reformation und Glaubenskriege (1517-1648)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Achtzigjähriger Krieg,Dreißigjähriger Krieg,Frühe Neuzeit,Jülisch-Klevischer Erbfolgestreit,Kurfürstentum Köln,Rheinland,Truchsessischer Krieg,Westfälischer Friede</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5100</itunes:duration>
+      <podcast:episode>507</podcast:episode>
     </item>
     
 

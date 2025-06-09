@@ -64,6 +64,30 @@
       <podcast:episode>58</podcast:episode>
     </item>
     
+    <item>
+      <title>B-002: Der Europasaurus, mit Dr. Kristina Eck</title>
+      <itunes:title>B-002: Der Europasaurus, mit Dr. Kristina Eck</itunes:title>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/505-505</link>
+      <guid isPermaLink="false">c2a4d018-ed78-5efd-804b-3324d43b5af0</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>505</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>B: Geologische Geschichte</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Biologie,Deutschland,Dinosaurier,Europa,Europasaurus,Inselverzwergung,Langhals,Urgeschichte,Vorgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>1712</itunes:duration>
+      <podcast:episode>505</podcast:episode>
+    </item>
+    
 
 
   </channel>
