@@ -136,6 +136,30 @@
       <podcast:episode>474</podcast:episode>
     </item>
     
+    <item>
+      <title>Q-005: Der Frieden von Brest-Litowsk und der Ausbruch des russischen Bürgerkriegs (1917/18), mit Prof. Dr. Jörn Happel</title>
+      <itunes:title>Q-005: Der Frieden von Brest-Litowsk und der Ausbruch des russischen Bürgerkriegs (1917/18), mit Prof. Dr. Jörn Happel</itunes:title>
+      <description/>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/513-513</link>
+      <guid isPermaLink="false">cb6a3787-1bd9-5031-8f15-dbc26265f70d</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>513</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Q: 1. Weltkrieg (1914-1918)</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Brest-Litowsk,Bürgerkrieg,Deutschland,Neuere und neueste Geschichte,Osteuropa,Russland,Sowjetunion,Ukraine</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>4212</itunes:duration>
+      <podcast:episode>513</podcast:episode>
+    </item>
+    
 
 
   </channel>

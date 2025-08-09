@@ -1024,6 +1024,78 @@
       <podcast:episode>509</podcast:episode>
     </item>
     
+    <item>
+      <title>X-044: Immaterielles Kulturerbe im Rheinland, mit Dr. Marie Enders [LVR geSCHICHTEN]</title>
+      <itunes:title>X-044: Immaterielles Kulturerbe im Rheinland, mit Dr. Marie Enders [LVR geSCHICHTEN]</itunes:title>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/515-515</link>
+      <guid isPermaLink="false">1b2f1752-ddb9-5882-bf55-187b40babce5</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>515</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutschland,Immaterielles Kulturerbe,Kulturerbe,Nordrhein-Westfalen,Zeitgeschichte</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>2040</itunes:duration>
+      <podcast:episode>515</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-045: Kontroversen und Wandel: der 20. Juli 1944 in der deutschen Erinnerung, mit Dr. Christopher Dowe</title>
+      <itunes:title>X-045: Kontroversen und Wandel: der 20. Juli 1944 in der deutschen Erinnerung, mit Dr. Christopher Dowe</itunes:title>
+      <description/>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/518-518</link>
+      <guid isPermaLink="false">184427ab-0248-5a64-8a61-5ea707d759ea</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>518</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>20. Juli 1944,Deutschland,Erinnerungskultur,Hitlerattentat,NS-Deutschland,Operation Walküre,Stauffenberg</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>3619</itunes:duration>
+      <podcast:episode>518</podcast:episode>
+    </item>
+    
+    <item>
+      <title>X-046: Ein Zeitzeugenbericht zu Aussiedlung &amp; neuer (katholischer) Identität, mit Dr. Evelyne A. Adenauer [IKKDOS e.V.]</title>
+      <itunes:title>X-046: Ein Zeitzeugenbericht zu Aussiedlung &amp; neuer (katholischer) Identität, mit Dr. Evelyne A. Adenauer [IKKDOS e.V.]</itunes:title>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <link>https://geschichteeuropas.podigee.io/527-527</link>
+      <guid isPermaLink="false">135c6e3a-e071-590c-849e-9a62dedf6d66</guid>
+      <content:encoded>
+         <![CDATA[
+         <p>CC-BY 4.0: You are free to share and adapt this work even for commercial use as long as you attribute the original creator and indicate changes to the original.
+         </p>
+        <p>Der Podcast ist Teil des <a href="https://geschichtspodcasts.de/">Netzwerks #historytelling</a> und von <a href="https://wissenschaftspodcasts.de/">Wissenschaftspodcasts.de</a>.</p>]]>
+      </content:encoded>
+      <itunes:episode>527</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>X: Geschichtswissenschaft und Erinnerungskultur</itunes:subtitle>
+      <itunes:summary/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Auswanderung,Deutschland,Osteuropa,Polen,Schlesien,Zeitgeschichte,Zeitzeugenbericht</itunes:keywords>
+      <itunes:author>Tobias Jakobi</itunes:author>
+      <itunes:duration>5096</itunes:duration>
+      <podcast:episode>527</podcast:episode>
+    </item>
+    
 
 
   </channel>
